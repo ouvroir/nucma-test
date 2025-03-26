@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/nucma_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>unknown title</title>
+                <author>unknown author</author>
+            </titleStmt>
+            <editionStmt>
+                <edition><date>unknown date</date></edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>unknown</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="docxtotei" ident="TEI_fromDOCX" version="7.58.0">
+                    <label>DOCX to TEI</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <revisionDesc>
+            <listChange>
+                <change><date>2025-03-19T17:08:12Z</date><name>unknown author</name></change>
+            </listChange>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p><hi style="font-size:12pt">Les potentiels de variation des
+                œuvres</hi> <hi style="font-size:12pt" xml:space="preserve">: </hi></p>
+            <div>
+                <head><anchor xml:id="d9751ekn8rc7"/><hi style="font-size:12pt">Les potentiels de
+                        variation des œuvres</hi></head>
+            </div>
+            <div>
+                <head><anchor xml:id="danjdibas207"/></head>
+                <p><hi style="font-size:12pt">Titre de
+                        l’encadré<!--#RC dois-je mettre quelque chose ici, ou c'est le rôle de la rédaction?--></hi> <hi style="font-size:12pt" xml:space="preserve">: </hi></p>
+                <div>
+                    <head><anchor xml:id="fdv9gpkir48p"
+                            /><hi style="font-size:12pt" xml:space="preserve">Les potentiels de variation des œuvres : </hi><hi
+                            rend="background(white)">études de cas</hi></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">Auteur·rices : </hi></p>
+                    <list rend="bulleted">
+                        <item><hi style="font-size:12pt" xml:space="preserve"><persName>Anne Bénichou</persName>, </hi><hi
+                                rend="background(white)" style="font-size:12pt">professeure,
+                                    <orgName>Université du Québec à Montréal</orgName></hi></item>
+                        <item><hi style="font-size:12pt" xml:space="preserve"><persName>Richard Gagnier</persName>, chef de la restauration, </hi><hi
+                                rend="background(white)" style="font-size:12pt"><orgName>Musée des
+                                    beaux-arts du Canada</orgName></hi></item>
+                        <item><hi style="font-size:12pt"><persName>Ann Marlène Gagnon</persName>,
+                                doctorante, <orgName>Université du Québec à
+                            Montréal</orgName></hi></item>
+                        <item><hi style="font-size:12pt"><persName>Mariah O’Brien</persName>,
+                                doctorante, <orgName>Université de Montréal</orgName></hi></item>
+                    </list>
+                </div>
+                <div>
+                    <head><anchor xml:id="eg56redo1uat"/><persName>Hannah Claus</persName>, <hi
+                            rend="italic"><title xml:lang="en">Invaders</title></hi> [<hi
+                            rend="italic"><title>Envahisseurs</title></hi>], 2019. Laine, placage
+                        d’argent. Coll. <orgName>MBAM</orgName>. <!--#RC est-ce qu'on doit mettre des balises persname, orgname, etc dans les anchor?-->
+                        <ref
+                            target="https://www.lapresse.ca/arts/arts-visuels/2021-09-10/musee-des-beaux-arts-de-montreal/un-programme-de-rentree-pour-apaiser.php"
+                            ><hi rend="underline" xml:space="preserve">Photo : François Roy, </hi></ref><ref
+                            target="https://www.lapresse.ca/arts/arts-visuels/2021-09-10/musee-des-beaux-arts-de-montreal/un-programme-de-rentree-pour-apaiser.php"
+                                ><hi rend="italic underline">La Presse</hi></ref></head>
+                    <p><hi style="font-size:12pt">Cette œuvre se compose de trois larges couvertures
+                            de laine rouge à bandes noires avec leurs points, montées au mur côte à
+                            côte à la verticale. Elles sont typiques des couvertures de traite que
+                            les blancs ont apportées durant la colonisation. La portion centrale de
+                            chacune d’elles est piquée d’un grand nombre d’aiguilles droites en
+                            acier, plaquées à l’argent. L’arrangement des groupes d’aiguilles convie
+                            un seul motif, un maillon refermé sur lui-même de la chaîne d’Alliance
+                            (série d’accords entre les Haudenosaune et les colonies
+                            anglo-américaines au 17</hi><hi rend="superscript"
+                            style="font-size:12pt">e</hi> <hi style="font-size:12pt">siècle). Or la
+                            composition chimique de la laine implique des atomes de soufre, ce
+                            dernier élément étant un facteur actif du ternissement de l’argent par
+                            oxydation. Les aiguilles, par contact de surface avec la laine, vont
+                            donc graduellement se noircir, parodiant le non-respect de ces accords
+                            au fil de l’histoire de la reconnaissance des droits fondamentaux des
+                            nations Autochtones avec les blancs colonisateurs du Canada. Cette mise
+                            en action assumée de la ternissure n’a pas empêché l’acquisition de
+                            l’œuvre étant donné que les aiguilles ne se détruiront pas. Cependant
+                            une approche de préservation devrait veiller à contrôler ce phénomène
+                            lorsque l’œuvre est en réserve, de façon que l’on puisse apprécier cette
+                            distinction visuelle d’une ternissure graduelle lors de présentations
+                            successives. Cette attitude ouvre la possibilité de discussion avec
+                            l’artiste quant au fait que les aiguilles puissent être remplacées
+                            lorsque complètement noircies afin d’induire à nouveau ce caractère
+                            essentiel à l’œuvre.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="42ceryqa0lgr"/><persName>Adrián Villar Rojas</persName>,
+                            <hi rend="italic"><title xml:lang="en">Where the Slaves
+                            Live</title></hi>, 2014. Matériaux de récupération, 240 x 550 x 240 cm.
+                        Coll. <orgName>Fondation LouiFondation Louis Vuittons Vuitton</orgName>.
+                            <ref
+                            target="https://www.fondationlouisvuitton.fr/fr/collection/oeuvres/where-the-slaves-live"
+                            ><hi rend="underline color(1155cc)" xml:space="preserve">Photo : Primae/David Bordes </hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">La sculpture vivante </hi><title
+                            xml:lang="en">Where the Slaves Live</title> (2014) de l’artiste argentin
+                            <persName>Adrián Villar Rojas</persName>, appartenant à la<orgName>
+                            Fondation Louis Vuitton</orgName> et
+                        destinée<hi style="font-size:12pt" xml:space="preserve"> à être exposée en terrasse, requiert des cycles complets et successifs de décomposition des végétaux qui la constituent. Le personnel du musée remplace au fur et à mesure les éléments organiques de l’œuvre ayant atteint le pourrissement. À l’acquisition, des protocoles sont mis en place pour contrôler le processus de dégradation et éviter qu’il ne menace les autres composantes de l’œuvre et l’environnement du musée, mais également l’intégrité de la sculpture, celle-ci devant évoquer les transformations continues de la matière, et non la putréfaction.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="v20ovauml625"/><persName>Jenny Holzer</persName>, <hi
+                            rend="italic"><title>Enseigne unex n° 2</title></hi> (sélections de la
+                        série <title>Survivance</title>), 1983-1984. Reconstruite en 2010. Panneau
+                        diodes électroluminescentes (DEL), 79 x 269.3 x 28 cm. Coll.
+                            <orgName>MBAC</orgName>, 28793. Achetée en 1985. Photo : DOCAM. </head>
+                    <p><title xml:lang="en">Unex Sign No. 2 (selections from The Survival
+                            Series)</title>(1983-1984) de <persName>Jenny Holzer</persName> que le
+                            <orgName>MBAC</orgName> a acquis en 1985 est une enseigne commerciale
+                        Unex sur laquelle défilent de courtes phrases. Celles-ci étaient lues
+                        séquentiellement à partir de petites disquettes magnétiques de
+                        1/8 <hi style="font-size:12pt" xml:space="preserve"><!--#RC doit-on garder tous ces space preserve?--> pouce. La technologie originale, basée sur un balayage de gauche à droite d’un bras électromécanique faisant apparaître les messages en quatre couleurs par le truchement de petites gélatines, s’est rapidement détériorée. Cette usure tient aux passages à peu près constants imposés par l’artiste sur l’appareil. Les phrases et leur graphisme devinrent plus ou moins lisibles, rendant la présentation de l’œuvre impossible. Le musée opta pour une stratégie d’émulation numérique (reproduction du comportement de l’œuvre basée sur des technologies différentes) par l’usage de diodes s’illuminant selon les mêmes principes de balayage de gauche à droite afin de constituer les messages. Ce choix permit de respecter les agencements de couleurs, les temps d’arrêt entre les messages, tout en maintenant le </hi>boîtier<hi style="font-size:12pt" xml:space="preserve"> physique d’origine et les dimensions de son écran.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="x8nkpixei1or"/></head>
+                </div>
+                <div>
+                    <head><anchor xml:id="lr6gzcmnhtcg"/><persName>John Massey</persName>,
+                        <hi rend="italic" xml:space="preserve"><title>Le coup de marteau</title> </hi>(une
+                        illustration partielle), 1982. Un film 16 mm en couleurs et deux films 16 mm
+                        n/b, 30 min chacun, avec trois projecteurs et un système de synchronisation.
+                        Coll. <orgName>MBAC</orgName> (28799). Achetée en 1985. <ref
+                            target="https://www.youtube.com/watch?v=HpHoZc9mtQk"
+                            ><hi rend="underline color(1155cc)" xml:space="preserve">Capture vidéo Youtube par </hi></ref><ref
+                            target="https://www.youtube.com/watch?v=HpHoZc9mtQk"><hi
+                                rend="underline color(1155cc)">artintelligence</hi></ref></head>
+                    <p><hi style="font-size:12pt">Conçue et présentée originalement lors de
+                            l’exposition <title>O’Kanada</title> à <placeName>Berlin</placeName>
+                            en</hi> <hi style="font-size:12pt">1982, l’œuvre consiste en la
+                            projection synchrone, sur un même mur, de trois séquences filmiques
+                            16</hi> <hi style="font-size:12pt">mm de 30</hi> <hi
+                            style="font-size:12pt">min. de mêmes dimensions, à distance rapprochée.
+                            La projection est couleur avec son pour l’image du centre, noir et blanc
+                            sans son pour les voisines. On assiste sur la séquence filmique couleur
+                            à un échange entre deux protagonistes, l’un conducteur d’un wagonnet et
+                            l’autre, auto-stoppeur qui monte à bord. La synchronicité est au cœur du
+                            fonctionnement de l’œuvre. Elle était établie entre les projecteurs par
+                            le relais de courroies d’entraînement fixées aux trois moteurs. Mais ce
+                            dispositif mécanique n’a jamais opéré correctement. En dépit de cette
+                            dysfonction, l’œuvre fut acquise par le <orgName>MBAC</orgName> quelques
+                            années plus tard, la conservatrice responsable de cet achat étant
+                            convaincue de l’importance conceptuelle de l’œuvre dans la pratique
+                            canadienne. Ce n’est que 25</hi> <hi style="font-size:12pt">ans plus
+                            tard (1992), suite au transfert vidéographique sur bande Betacam
+                            <!--#RC pas sûre si je dois mettre une balise iciet si oui quel type -->
+                            SP de chacun des films (émulation), que la synchronicité des projections
+                            a pu être assurée. Enfin ces bandes ont subi un dernier transfert
+                            technologique vers le numérique. La version correcte de l’œuvre était
+                            ainsi établie et les prescriptions de sa présentation furent précisées
+                            en collaboration avec l’artiste, incluant la distance entre les
+                            projections, de même que la dimension des images.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="ch4m5d6ekvjt"/><anchor type="commentRangeStart" n="0"
+                            /><persName>Joar Nango</persName>, <hi rend="italic"
+                                ><orgName>Bibliothèque architecturale samie</orgName></hi>, 2019.
+                        Bois, matériaux de construction récupérés, livres, peau d'animal, écorce,
+                        peau de poisson, roche, matériaux naturels et vidéo. Installation aux
+                        dimensions variables. Coll. <orgName>MBAC</orgName> (50247). Acheté en 2022.
+                            <ref
+                            target="https://www.beaux-arts.ca/a-laffiche/calendrier/la-grande-visite-du-samedi-bibliotheque-architecturale-samie-de-joar-nango"
+                                ><hi rend="underline color(0097a7) background(white)">Photo :
+                                MBAC</hi></ref><anchor type="commentRangeEnd" n="0"/><note
+                            place="comment" resp="#CIÉCO_CO" n="0"><date when="2023-12-02T15:58:47Z"
+                                /><hi rend="normalweight baseline" style="font-size:11pt">Présenter
+                                par Geneviève Saulnier dans le colloque Acquérir
+                            différemment</hi></note></head>
+                    <p><hi rend="italic" style="font-size:12pt">La <title>bibliothèque
+                                architecturale Samie</title></hi><hi style="font-size:12pt"> (2019)
+                            de <persName>Joar Nango</persName>, architecte et artiste visuel
+                            S</hi><hi rend="background(white)" style="font-size:12pt">á</hi><hi
+                            style="font-size:12pt">mi, a été acquise en</hi> <hi
+                            style="font-size:12pt">2022 par le <orgName>MBAC</orgName>. Elle
+                            constitue un exemple d’adaptation au contexte culturel de présentation
+                            de l’œuvre par ajouts et retranchements successifs d’éléments. Conçue
+                            comme une plateforme de réflexion et de socialisation, cette
+                            bibliothèque accueille des livres sur l’architecture nomade Samie et la
+                            théorie décoloniale. L’artiste déploie les modes de construction et
+                            d’invention qu’il a observés sur son territoire (surtout les cabines
+                            mobiles dites <foreign>gumpis</foreign>), et qui reposent sur le
+                            recyclage d’objets de la vie courante, le bricolage et le DIY. Au moment
+                            de l’acquisition, il fut décidé de créer deux versions de l’œuvre, l’une
+                            </hi> <hi style="font-size:12pt"><emph>fixe</emph></hi> <hi
+                            style="font-size:12pt"
+                            ><!--#RC ici j'ai mis un emph mais pas sûre que ce soit la bonne option-->
+                            destinée à être exposée au <orgName>MBAC</orgName></hi> <hi
+                            style="font-size:12pt">; l’autre variable et nomade qui verra son
+                            contenu et sa forme changer selon les contextes dans lesquels elle est
+                            exposée et les contributions de la communauté du territoire sur lequel
+                            elle est installée.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="buq4tevpdepy"/>Liz Magor, <hi rend="italic"
+                            >Production</hi>, 1980. Journaux, bois, acier, machine : 134.6 x 81.3 x
+                            61 cm<hi rend="normalweight"> </hi>; paper bricks : 5.1 x 10.2 x 20.3 cm
+                        chacune. Coll. MBAC (28453). Acheté en 1984. <ref
+                            target="https://www.beaux-arts.ca/collection/artwork/production?_gl=1*fqbgv4*_ga*MTk4NzY4NzYxNi4xNjk2MjY3NjQx*_ga_83BW334MD2*MTY5NjMzODI5MS4yLjAuMTY5NjMzODI5MS4wLjAuMA.."
+                                ><hi rend="underline color(0097a7) background(white)">Photo :
+                                MBAC</hi></ref></head>
+                    <p><hi style="font-size:12pt">Acquise par le <orgName>MBAC</orgName>
+                            en</hi> <hi style="font-size:12pt" xml:space="preserve">1984, </hi><hi
+                            rend="italic" style="font-size:12pt"
+                            ><title>Production</title></hi><hi style="font-size:12pt" xml:space="preserve"> est une œuvre dont le déploiement s’adapte à la configuration de l’architecture du lieu désigné pour sa présentation, en l’occurrence l’un des murs d’une salle. Elle se constitue de plus de</hi> <hi
+                            style="font-size:12pt">2</hi> <hi style="font-size:12pt">800 briques de
+                            papier journal saturées d’eau, compressées et séchées à l’air libre,
+                            produites quatre à la fois par une machine fabriquée par l’artiste.
+                            Celle-ci est toujours placée en présentation devant le mur de briques.
+                            L’installation inaugurale à la <orgName>galerie Ydessa
+                                Hendeles</orgName>, en
+                            février</hi> <hi style="font-size:12pt" xml:space="preserve">1981, présentait la machine enserrée par une enceinte rectangulaire fermée, faite de briques, légèrement plus haute que la machine elle-même. Au moment de son acquisition au <orgName>MBAC</orgName>, les briques parcouraient la pleine largeur et hauteur d’un mur de hauteur moyenne. La machine, placée à l’une des extrémités devant le mur, reposait sur une extension étroite de plancher formée de ces mêmes briques en motif de carrelage. À l’occasion du prêt de l’œuvre pour l’exposition </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"><title>Aurora Borealis</title> </hi><hi
+                            style="font-size:12pt">à <placeName>Montréal</placeName>
+                            en</hi> <hi style="font-size:12pt" xml:space="preserve">1985, l’artiste demanda au service de la conservation de pouvoir utiliser à nouveau la machine afin de produire de nouvelles briques. Fort de l’usage accepté, c’est tout un processus de fabrication qui s’est alors déployé, en plus de la construction du mur de fond à partir des briques originales : piles de papier journal, mise en eau dans une machine à laver, séchage au sol par </hi><hi
+                            style="font-family:Helvetica Neue;font-size:12pt"
+                            >empilageempilade<!--#RC il semble qu'un choix entre empilage et empilade doit être fait ici, par la rédac j'imagine--></hi><hi style="font-size:12pt" xml:space="preserve"> en quinconce des briques fraîches. Ces nouvelles briques, tout en étant différenciées en entreposage, furent intégrées au contenu de l’œuvre par le musée, sous l’entente de leur possible usage à l’élaboration du mur pour des présentations subséquentes. Ce fut le cas lors de l’ouverture du nouveau bâtiment du <orgName>MBAC</orgName> (1988) où l’artiste a choisi un mur qui se prolongeait en hauteur par la présence d’un puits de lumière. Ayant malgré tout un nombre limité d’unités, elle calcula la largeur maximale – un peu plus de la moitié en largeur du mur de présentation lui-même – pouvant accommoder la montée de l’empilement jusque dans l’extension du puits de lumière. </hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="5ky8yp8r198c"/>Serge
+                        Murphy,<hi rend="italic" xml:space="preserve"> La forme des jours</hi>,
+                        2011. 160 assemblages d'objets et matériaux hétéroclites : bois, papier,
+                        carton, plastique, métal, argile, plâtre, verre, miroir, porcelaine, fibres
+                        textiles, encre, peinture, ruban adhésif, etc. Dimensions variables. Coll.
+                        MBAM, (<hi rend="color(ff0000)">n</hi><hi rend="superscript color(ff0000)"
+                            >o</hi><hi rend="color(ff0000)" xml:space="preserve"> acquisition)</hi>.
+                        Don de Serge Murphy, <hi rend="color(ff0000)">date</hi>. <ref
+                            target="https://drive.google.com/drive/folders/1Id-X00JB-ZPCmmuvkmUVER8BZG3AdKdj?usp=drive_link"
+                                ><hi rend="underline color(0097a7)">Photo : MBAM, Denis
+                            Farley</hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">Cette installation </hi><hi
+                            rend="italic" style="font-size:12pt"><foreign xml:lang="lat">in
+                                situ</foreign></hi><hi style="font-size:12pt" xml:space="preserve"> de <persName>Serge Murphy</persName> est le résultat d’une invitation à investir la grande salle du <orgName>Carré d’art du MBAM</orgName><!--#RC ici c'est flou parce que c'est un lieu spécifique au sein du musée, donc orgname ou placename?-->. Elle consiste en</hi> <hi style="font-size:12pt" xml:space="preserve">160 stèles murales présentées à distance plus ou moins </hi>serrées
+                            <hi style="font-size:12pt" xml:space="preserve">entre-elles, à hauteur du regard. Elles occupent l’entièreté des surfaces des quatre murs de la salle, incluant certains éléments ou matériaux se déployant sur le sol tout en étant rattachés aux stèles. Elles furent acquises par le musée, suivant cette présentation inaugurale. Leur construction est typique de la pratique sculpturale de l’artiste qui joue de la précarité et de la vulnérabilité des assemblages. La plupart des matériaux sont de nature éphémère : papiers et cartons de toutes sortes, films et sacs en plastique de commerce de toutes origines, objets trouvés à la brocante, fils, broches, cordes de coton, pelotes de laine, plâtre, plasticine, mousse de polystyrène, mais aussi de polyuréthane, cure-pipe, paille, etc. Leurs modes d’assemblage sont tout aussi fragiles : colle chaude, punaises, rubans-cache et adhésifs, ancrage précaire entre les planches formant les petites tablettes comme support principal. Certains éléments sont autographiques telles les feuilles dessinées avec des médiums souvent fugitifs (crayon de couleur, feutre, encre). À l’acquisition, hormis les protocoles de préservation, il fallut établir avec l’artiste les modalités itératives de l’installation, par le biais d’un questionnaire. Étant donné les possibilités très limitées d’une reprise au <placeName>Carré d’art</placeName> ou dans une salle aussi vaste, la question était de savoir si une présentation partielle des stèles serait considérée comme une itération de </hi><hi
+                            rend="italic" style="font-size:12pt"><title>La forme des
+                            jours</title></hi><hi style="font-size:12pt">, autrement dit une
+                            adaptation à un nouveau contexte de présentation. Quel serait le nombre
+                            minimal de stèles à considérer</hi>  <hi style="font-size:12pt">? Selon
+                            quelles séquences</hi> <hi style="font-size:12pt">? Faudrait-il
+                            absolument deux portions de murs perpendiculaires comme dans l’itération
+                            originale</hi> <hi style="font-size:12pt">? L’itération peut-elle
+                            admettre d’autres œuvres à proximité</hi> <hi style="font-size:12pt">?
+                            Peut-on inclure la possibilité de la présentation d’une seule stèle, et
+                            sous quelle dénomination</hi> <hi style="font-size:12pt">? Etc.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="lwe1g8hatkxd"/>Joseph Kosuth, <hi rend="italic">Une et
+                            trois tables</hi>, 1965. Table en bois et agrandissements obtenus par
+                        photostat, table : 74.9 x 60.3 x 61 cm<hi rend="normalweight">  </hi>;
+                        photostat of table : 117.8 x 91.8 cm<hi rend="normalweight"> </hi>;
+                        photostat of definition : 61 x 61 cm. Coll. MBAC (17259.1-3). Achetée
+                        en 1973. <ref
+                            target="https://www.mutualart.com/Artwork/One-and-Three-Tables/ED40372DCD261431"
+                                ><hi rend="underline color(0097a7)">Photo : Mutual
+                        Art</hi></ref></head>
+                    <p><hi rend="italic" style="font-size:12pt"><title>One and Three
+                            Tables</title></hi><hi style="font-size:12pt" xml:space="preserve"> (1965) de <persName>Joseph Kosuth</persName>, acquise en</hi> <hi
+                            style="font-size:12pt">1973 par le <orgName>MBAC</orgName>, se compose
+                            d’une table en bois et de deux photostats, l’un représentant la
+                            définition agrandie du mot table dans le dictionnaire, l’autre, la table
+                            photographiée dans son contexte d’exposition. Aussi, chaque fois que
+                            l’œuvre est présentée dans un nouveau lieu, il convient de refaire le
+                            deuxième photostat.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="gzb8k69e111"/>Nicole Jolicœur, <hi rend="italic">La voie
+                            parfaite</hi> (1994). Épreuves à la gélatine argentique, soie, tablettes
+                        de métal, texte en peinture acrylique. Espace pour l'installation : 20 x
+                        20 m (400 sq. m approx.). Coll. MBAC (38290.1-5). Achetée en 1997. <ref
+                            target="http://www.nicolejolicoeur.com/"><hi
+                                rend="underline color(0097a7)">Photo : site de
+                        l’artiste</hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">L’installation de <persName>Nicole Jolicœur</persName>, </hi><hi
+                            rend="italic" style="font-size:12pt"><title>La Voie
+                            parfaite</title></hi><hi style="font-size:12pt" xml:space="preserve"> (1994), acquise par le <orgName>MBAC</orgName> en</hi> <hi style="font-size:12pt" xml:space="preserve">1997, est composée de cinq épreuves argentiques encadrées qui doivent être exposées recouvertes d’un pongé de soie drapé et noué. La procédure itérative ne concerne que le recouvrement des images avec les tissus. Mais l’effet recherché est très difficile à obtenir. L’artiste a transmis ce savoir-faire aux professionnel.le.s du musée lors d’un atelier qui a été filmé, afin de conserver cette compétence au sein de l’institution. </hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="m32dubudn7et"/>Jana Sterbak, <hi rend="italic">Vanitas :
+                            robe de chair pour albinos anorexique</hi>, 1987. Viande de bœuf crue
+                        cousue sur mannequin en métal, photographie couleur. Dimensions de la
+                        photo : 23,5 x 18,4 cm, dimension du mannequin : (ht) 155 cm. Coll. MNAM –
+                        Centre Georges Pompidou (AM 1996-524). Achat, 1996. <ref
+                            target="https://www.centrepompidou.fr/en/ressources/oeuvre/cjyy4gX"><hi
+                                rend="underline color(0097a7)">Photo : Philippe Migeat - Centre
+                                Pompidou, MNAM-CCI /Dist. RMN-GP Réf. image :
+                        4N01190</hi></ref></head>
+                    <p><hi rend="italic" style="font-size:12pt"><title>Vanitas, robe de chair pour
+                                albinos
+                            anorexique</title></hi><hi style="font-size:12pt" xml:space="preserve"> est une œuvre dont les modalités itératives relèvent de l’actualisation puisqu’elle doit être entièrement refabriquée à chacune de ses présentations, sa matière principale subissant de plus une transformation durant la période d’itération. Environ </hi>20 <hi
+                            style="font-size:12pt">kilogrammes de steaks de flanchet cousus au fil
+                            de polyester noir et assemblés sur un mannequin composent la forme d’une
+                            robe. Ils se dessècheront suite à leur préparation par salage (principe
+                            du boeuf <foreign xml:lang="en">jerky</foreign>). Le séchage et son
+                            durcissement résultant sont assurés par la ventilation régulière de la
+                            salle de présentation et par le fait que le mannequin supportant la robe
+                            est constitué d’une coque de fibre de verre perforée. La
+                                <soCalled>couture</soCalled> de la robe doit se faire à peine
+                            quelques heures avant le vernissage, de façon à garantir l’expérience
+                            première de sa facture fraîche. L’objet ainsi façonné est toujours
+                            accompagné d’une photographie couleur à développement chromogène, de
+                            dimensions restreintes, accrochée au mur à proximité. Elle révèle une
+                            jeune femme portant la version inaugurale de la robe, assise au sol, les
+                            jambes repliées l’une contre l’autre, selon l’une des poses typiques du
+                            monde de la mode féminine. Au fil des présentations, deux éditions de
+                            l’œuvre ont été produites, leur distinction étant liée au modèle de
+                            mannequin utilisé, soit un mannequin de vitrine au pied circulaire
+                            d’acier chromé (<orgName>Centre Georges Pompidou</orgName>), ou un
+                            mannequin de couture d’atelier à triples pattes de bois (<orgName>Walker
+                                Art Center</orgName>). Le temps de réalisation est d’environ six
+                            heures, incluant le salage et le dégorgement, avec l’aide de quatre
+                            personnes volontaires, instruites de la manière d’accomplir
+                            l’assemblage. À la fin de chacune des itérations, on dispose de la
+                            viande de façon sécuritaire, le mannequin est nettoyé et mis en réserve
+                            avec sa photographie couleur. Le maintien de ce savoir-faire est
+                            primordial à l’intégrité de l’œuvre. Il relève de la responsabilité
+                            auctoriale déléguée par l’artiste aux responsables (restaurateur,
+                            technicien en conservation préventive, gestionnaire de collection) de
+                            l’institution d’assurer cette transmission.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="oiscrqxg25dv"/>Yvonne Rainer,
+                        <hi rend="italic" xml:space="preserve">Trio A, chorégraphie, </hi>1966.
+                        Performance </head>
+                </div>
+                <div>
+                    <head><anchor xml:id="oi9jeendmdm9"/>Yvonne Rainer, <hi rend="italic">Trio
+                            A</hi>, 1978. Vidéo en noir et blanc, muet. Productrice : Sally Banes.
+                        Coll. MoMA (625.2012). Committee on Media and Performance Art Funds. <ref
+                            target="https://www.moma.org/collection/works/119867"><hi
+                                rend="underline color(0097a7)">Photo : MOMA</hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">L’acquisition de la courte pièce chorégraphique </hi><hi
+                            rend="italic" style="font-size:12pt"><title>Trio
+                            A</title></hi><hi style="font-size:12pt" xml:space="preserve"> (1966) d’<persName>Yvonne Rainer</persName> par le <orgName>MoMA</orgName> implique une transmission de corps à corps assurée par la répétitrice désignée par <persName>Rainer</persName>, <persName>Patt Caterson</persName>, qui elle-même transmettra son savoir à d’autres. Le film réalisé en</hi> <hi
+                            style="font-size:12pt">1978 par <persName>Sally Banes</persName>
+                            montrant <persName>Rainer</persName> exécutant sa pièce et que
+                                <persName>Caterson</persName> juge être le meilleur outil de
+                            transmission de la pièce a également été acquis par le
+                                <orgName>MoMA</orgName></hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">. </hi><hi style="font-size:12pt" xml:space="preserve">Les actualisations de </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"><title>Trio A</title> </hi><hi
+                            style="font-size:12pt">au <orgName>MoMA</orgName> s’élaborent comme dans
+                            le domaine de la danse, entre les savoirs transmis oralement et la
+                            captation.</hi>
+                    </p>
+                </div>
+                <div>
+                    <head><anchor xml:id="g9keg4bclinj"/>Tania Bruguera, <hi rend="italic">El
+                            susurro de Tatlin #5</hi>, 2008. Performance, 2 personnes et 2 chevaux.
+                        Coll. Tate Modern (T12989). Achat grâce aux fonds fournis par Alin Ryan von
+                        Buch, 2009. <ref
+                            target="https://www.tate-images.com/preview.asp?image=T12989"><hi
+                                rend="underline color(0097a7)">Photo Sheila Burnett/Tate
+                            Images</hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">La performance déléguée </hi><hi
+                            rend="italic" style="font-size:12pt"><title>Tatlin’s Whisper
+                            #5</title></hi><hi style="font-size:12pt" xml:space="preserve"> (2008) de l’artiste cubaine <persName>Tania Bruguera</persName>, acquise par la <orgName>Tate Modern</orgName> en</hi> <hi style="font-size:12pt" xml:space="preserve">2009, exige que deux policiers à cheval soumettent le public aux techniques de contrôle des foules utilisées lors de manifestations, durant </hi>20 <hi
+                            style="font-size:12pt">minutes, dans l’espace d’exposition. Trois
+                            documents établis lors de l’acquisition encadrent les futures
+                            actualisations : les instructions précises de l’artiste permettant de
+                            recréer la performance, un certificat d’authenticité et de propriété
+                            donnant l’autorisation au musée de procéder à une nouvelle itération,
+                            ainsi que les conditions d’exposition précisant dans quels contextes ces
+                            itérations peuvent avoir lieu. Les savoir-faire corporels impliqués dans
+                            cette œuvre sont ceux de la police montée, et il n’incombe pas à
+                            l’institution muséale d’en assurer la transmission, mais plutôt de
+                            veiller à la bonne compréhension du fonctionnement de la performance et
+                            des effets qu’elle doit produire sur les visiteurs.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="9z7xq1tt57z"/>Edgar Calel, <hi rend="italic">Ru k’ ox
+                            k’ob’el jun ojer etemab’el</hi> (<hi rend="italic">The Echo of an
+                            Ancient Form of Knowledge</hi>), 2021. <hi rend="color(ff0000)"
+                            >Matériaux. Dimensions</hi>. Coll. Tate Modern (<hi rend="color(ff0000)"
+                            >no. acquisition)</hi>. Achat, <hi rend="color(ff0000)">date</hi>. <ref
+                            target="https://www.biennial.com/project/ru-kox-kobel-jun-ojer-etemabel-the-echo-of-an-ancient-form-of-knowledge/"
+                                ><hi rend="underline color(0097a7)">Photo : James
+                        Retief</hi></ref>.</head>
+                    <p><hi style="font-size:12pt" xml:space="preserve"><orgName>La Tate Modern</orgName> a récemment acquis une œuvre de l’artiste guatémaltèque d’origine Maya <foreign>Kaqchikel</foreign>, <persName>Edgar Calel</persName>. Intitulée </hi><hi
+                            rend="italic" style="font-size:12pt"><title><foreign>Ru k’ ox k’ob’el
+                                    jun ojer
+                            etemab’el</foreign></title><!--#RC ici j'ai mis 2 balises car je ne sais pas quelle langue mettre dans la balise title--></hi><hi style="font-size:12pt" xml:space="preserve"> (</hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"><title xml:lang="en">The Echo of an Ancient Form of Knowledge</title>) </hi><hi style="font-size:12pt" xml:space="preserve">(2021), elle se présente sous la forme d’une installation composée de roches naturelles sur lesquelles sont déposés des offrandes de fruits et de légumes. Son actualisation prévoit la tenue d’un rituel préparatoire au sein de la communauté <foreign>Kaqchikel</foreign>, qui n’est pas destiné à être vu par le public. La <orgName>Tate Modern</orgName> s’est constituée gardienne temporaire et non pas propriétaire de l’œuvre de <persName>Calel</persName> pour une durée de </hi>13 <hi
+                            style="font-size:12pt">ans, au terme de laquelle une nouvelle entente
+                            devra être prise entre l’institution, l’artiste et sa communauté. On
+                            pourra renouveler la garde à la <orgName>Tate</orgName>, la transmettre
+                            à un autre musée ou mettre fin à l’œuvre.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="cqyjlpuu25cg"/><anchor type="commentRangeStart" n="1"
+                            /><anchor type="commentRangeStart" n="2"/>Massimo Guerrera,
+                        <hi rend="italic" xml:space="preserve">Darboral, </hi>2000-2005. Tapis,
+                        ruban adhésif, acrylique, cire, gomme à mâcher et traces diverses. 140 x 311
+                        cm. Coll. MNBAQ (2005.61.01). Achat grâce à l'appui du Conseil des arts du
+                        Canada dans le cadre de son programme d'aide aux acquisitions. <ref
+                            target="https://collections.mnbaq.org/fr/oeuvre/600029581"><hi
+                                rend="underline color(0097a7)">Photo : MNBAQ</hi></ref><anchor
+                            type="commentRangeEnd" n="1"/><note place="comment" resp="#CIÉCO_CO"
+                            n="1"><date when="2023-12-02T16:43:52Z"/><hi
+                                rend="normalweight baseline" style="font-size:11pt">Dans la
+                                présentation de Mélanie lors du colloque « Acquérir Différemment
+                                »</hi></note><anchor type="commentRangeEnd" n="2"/><note
+                            place="comment" resp="#CIÉCO_CO" n="2"><date when="2023-12-02T18:54:48Z"
+                                /><hi rend="normalweight baseline" style="font-size:11pt">Mentionné
+                                également par Bernard Lamarche lors du colloque « Acquérir
+                                DIfféremment »</hi></note></head>
+                    <p><hi style="font-size:12pt">Le <orgName>MNBAQ</orgName> a acquis
+                            en</hi> <hi style="font-size:12pt" xml:space="preserve">2005 l’installation </hi><hi
+                            rend="italic" style="font-size:12pt"
+                            ><title>Darboral</title></hi><hi style="font-size:12pt" xml:space="preserve"> (2000-2005) de <persName>Massimo Guerrera</persName>. <title>Darboral</title> est une plateforme de convivialité que l’artiste a menée de</hi> <hi
+                            style="font-size:12pt">2000 à</hi> <hi style="font-size:12pt">2009. Elle
+                            prit des formats très variés, dont une série d’installations de grande
+                            envergure, présentées dans diverses institutions, notamment en</hi> <hi
+                            style="font-size:12pt">2002 au <orgName>MNBAQ</orgName>, édition qui
+                            donna lieu à l’acquisition
+                            de</hi> <hi style="font-size:12pt" xml:space="preserve">2005. Dans un environnement composé de tapis, de sculptures, de mobilier sommaire, de plantes et de nourriture se tiennent des expérimentations qui mettent en relation les corps de l’artiste et des visiteurs, les aliments (des fruits et des graines) et les formes sculpturales, afin de favoriser les échanges transformateurs. Les consignes élaborées lors de l’acquisition prévoient des moments d’activation. Un banquet inaugural convie </hi>10 <hi style="font-size:12pt" xml:space="preserve">à </hi>20 <hi
+                            style="font-size:12pt">personnes à partager
+                            <!-- convie 10 à 20 personnes à partager, pas très beau, plutôt "entre 10 et 20 personnes à partager" à mon avis? mais je pense que ce n'est pas mon rôle-->
+                            des victuailles et à laisser leurs restes sur place. Tandis qu’ils
+                            dépérissent, des aliments frais sont ajoutés régulièrement. Une autre
+                            forme d’activation prévoit des périodes de manipulation des objets par
+                            les visiteurs, pilotées par l’artiste, s’il est disponible, ou par les
+                            membres de l’équipe de médiation. Les traces de ces interactions sur les
+                            artefacts et les altérations qu’elles provoquent ne doivent ni être
+                            effacées ni réparées.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="eh623aox8ipv"/>Jana Sterbak, <hi rend="italic">Divan de
+                            séduction</hi>, 1986-1987. Acier perforé, accélérateur Van de Graaff,
+                        charge électrostatique, bois teint, projecteur. Canapé : 124 x 74 x 232 cm
+                        (installation aux dimensions variables). Coll. MBAC (37581.1-3). Don de
+                        Ydessa Hendeles, Toronto, 1993. <ref
+                            target="https://archive.newmuseum.org/images/3684"><hi
+                                rend="underline color(0097a7)">Photo : Fred
+                        Scruton</hi></ref></head>
+                    <p><hi rend="italic" style="font-size:12pt"><title>Divan de
+                            séduction</title></hi><hi style="font-size:12pt" xml:space="preserve"> est constitué d’une forme rigide en acier perforé suggérant un divan de style récamier, déposé sur un cadre de bois blanchi, en biais et à proximité d’une surface de mur. La portion du cadre de bois située à la partie allongée de cette forme permet l’ancrage, à l’aide d’une pince rudimentaire, d’une lampe de type </hi><hi
+                            rend="italic" style="font-size:12pt"><foreign xml:lang="en"
+                                >flood</foreign></hi><hi style="font-size:12pt" xml:space="preserve"> qui projette et déploie de façon fantasmatique cette forme perforée. Cette portion de la salle de présentation, qui peut être aussi une alcôve, doit ainsi être maintenue dans la pénombre. On retrouve en partie basse de la forme du fauteuil, un petit générateur de <persName>Van de Graaff</persName> à usage pédagogique, avec son dôme métallique supérieur placé à peine à deux centimètres du coin avant du contour d’acier.  En actionnant le moteur rotatif du générateur, la bande isolante de latex, qui tourne de bas en haut sur des cylindres, entraîne et fait s’accumuler dans le dôme, entre les deux électrodes munies de peigne, une charge statique. L’accumulation dans le dôme se poursuit jusqu’à créer une tension suffisante de faible courant pouvant générer par conductivité électrique un petit arc bleu entre la surface externe du dôme et ce coin du divan, chargeant ainsi l’acier. Le dôme peut à nouveau se recharger par le mouvement ascendant de la bande de caoutchouc entre les électrodes. L’œuvre actionne donc par ses capacités matérielles disposées un comportement induit dont on peut percevoir le petit arc de décharge électrique dans l’air, quitte à en éprouver ses effets par notre enhardissement à toucher la surface d’acier et en recevoir la décharge.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="k0bsoyhkiam8"
+                        /><hi rend="italic" xml:space="preserve">Le plafond suspendu (B-F-G) </hi>(2019).
+                        Coll. MACLAU. <ref
+                            target="https://www.maclau.ca/fr/programmation/les-evenements/quand-la-collection-predit-l-avenir-volet-plafond/"
+                                ><hi rend="underline color(0097a7)">Photo : MACLAU</hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">Sous l’intitulé </hi><hi
+                            rend="italic" style="font-size:12pt"><title>Le plafond suspendu
+                                (B-F-G)</title></hi><hi style="font-size:12pt">, le
+                                <orgName>MACLAU</orgName> a acquis un corpus important d’œuvres
+                            bidimensionnelles que des artistes, à l’invitation du musée
+                            en</hi> <hi style="font-size:12pt" xml:space="preserve">2019, ont réalisées à la peinture fluorescente, visible uniquement à la lumière noire. Créées sur les tuiles des plafonds suspendus des deux salles d’exposition du <orgName>MACLAU</orgName>, ces œuvres sont exposées en permanence, mais restent invisibles jusqu’à ce qu’on les éclaire à la lumière noire. Acquisition stratégique qui vise à consolider les liens de l’institution avec les artistes qui la soutiennent et à répondre aux conditions des programmes gouvernementaux de subvention des institutions muséales exigeant qu’une partie de la collection soit mise en exposition de manière permanente, </hi><hi
+                            rend="italic" style="font-size:12pt"><title>Le plafond suspendu
+                                (B-F-G)</title></hi><hi style="font-size:12pt" xml:space="preserve"> donne l’occasion au <orgName>MACLAU</orgName> de dévoiler une partie de sa collection sous la forme d’une activation ludique et festive.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="hj56h9cda3fo"/>Mark Clintberg, <hi rend="italic">L’Empire
+                            de l’amour,</hi> 2005. Scène fabriquée de contre-plaqué, sac de
+                        couchage, 2 oreillers, photocopies sur papier bond de couleur, amplificateur
+                        de haut-parleur et microphone. Installation : 366 x 366 x 305 cm. Coll. MBAC
+                        (42005). Acheté en 2007. <ref
+                            target="http://cjournal.concordia.ca/journalarchives/2006-07/feb_22/008735.shtml"
+                                ><hi rend="underline color(0097a7)">Photo : Concordia
+                            Journal</hi></ref></head>
+                    <p><hi style="font-size:12pt">Une installation conçue à l'origine pour la
+                                <orgName>Biennale d'art contemporain de
+                            l'Alberta</orgName>, </hi><hi rend="italic" style="font-size:12pt"
+                                ><title xml:lang="en">Love Empire</title></hi><hi
+                            style="font-size:12pt"> invite le public à monter sur une modeste scène
+                            de bois contreplaqué et à faire des déclarations d'amour à l'aide d'un
+                            microphone et d'un système de sonorisation. Explorant la relation entre
+                            les sphères publiques et privées, l'installation comprend également un
+                            petit espace relativement discret situé sous les escaliers menant à la
+                            plateforme, dans lequel les visiteurs peuvent se reposer, se toucher et
+                            écouter les interventions des autres participants. Il fonctionne comme
+                            une sorte d'inversion du </hi><hi rend="italic" style="font-size:12pt"
+                            >Seedbed</hi><hi style="font-size:12pt"> de <persName>Vito
+                                Acconci</persName>, dans lequel le public pouvait entendre mais pas
+                            voir l'artiste, et exige que les orateurs fassent leurs déclarations
+                            pleinement exposées au regard des autres visiteurs. La variabilité de
+                            l'œuvre découle principalement de la nature spontanée de l'engagement du
+                            public avec l'œuvre.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="ti6myc47k02m"/>Massimo Guerrera,
+                        <hi rend="italic" xml:space="preserve">Darboral, </hi>2000-2005. Tapis,
+                        ruban adhésif, acrylique, cire, gomme à mâcher et traces diverses. 140 x
+                        311 cm. Coll. MNBAQ (2005.61.01). Achat grâce à l'appui du Conseil des arts
+                        du Canada dans le cadre de son programme d'aide aux acquisitions. <ref
+                            target="https://collections.mnbaq.org/fr/oeuvre/600029581"><hi
+                                rend="underline color(0097a7)">Photo : MNBAQ</hi></ref></head>
+                    <p><hi rend="italic" style="font-size:12pt"
+                            ><title>Darbora</title>l</hi><hi style="font-size:12pt" xml:space="preserve"> de <persName>Massimo Guerrera</persName> (2002-2008) constitue un bon exemple d’œuvre dont l’acquisition ne met pas un terme au processus de création engagé. Parce qu’au moment de l’acquisition en</hi> <hi style="font-size:12pt" xml:space="preserve">2005 par le <orgName>MNBAQ</orgName>, l’artiste continuait à opérer sa plateforme, il fut décidé que des artefacts issus des expérimentations postérieures à l’acquisition pourraient compléter les 68 éléments acquis. Le terme de ce processus coïnciderait avec la fin de la plateforme </hi><hi
+                            rend="italic" style="font-size:12pt"><title>Darboral</title></hi><hi
+                            style="font-size:12pt">. Le <orgName>MNBAQ</orgName> élabora un système
+                            complexe de datation et de numéros d’acquisition pour rendre
+                            intelligible ce processus à même l’inventaire de sa collection.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="gk5mzbm8wyrf"/>Claude Rutault, <hi rend="italic"
+                            >dé-finition/méthode trois cent sept [inventaire 2]</hi>, 1989. 657
+                        toiles (stock de toiles égal au nombre de définitions/méthodes écrites au
+                        jour de l'installation et présentées dans un lieu aménagé pour la d/m 307 :
+                        un espace fermé, un côté vitré avec des étagères sur lesquelles sont
+                        présentées verticalement les 658 toiles). Coll. MAMCO (1994-1012). <ref
+                            target="https://mamco.ch/fr/1017/Catalogue/2853/Claude-Rutault-de-finition/methode-trois-cent-sept-inventaire-2-1989"
+                                ><hi rend="underline color(0097a7)">Photo : MAMCO</hi></ref></head>
+                    <p><hi style="font-size:12pt">Le <orgName>MAMCO</orgName> a privilégié
+                            l’acquisition et le dépôt à long terme d’œuvres en cours de création.
+                                <persName>Claude Rutault</persName> compte parmi les artistes qui
+                            ont poursuivi la création de leur œuvre, lors de séjours au
+                                <orgName>MAMCO</orgName> et à distance. Dans la lignée de l’art
+                            conceptuel, son œuvre peinte repose sur l’élaboration de
+                            définitions/méthodes à activer par des tiers appelés <soCalled>preneurs
+                                en charge</soCalled>. Après le décès de l’artiste en 2022, le
+                                <orgName>MAMCO</orgName> continuera à faire vivre son inventaire
+                            complet des définitions/méthodes (</hi><hi rend="italic"
+                            style="font-size:12pt"><title>définition/méthode trois cent sept
+                                [inventaire
+                            2]</title></hi><hi style="font-size:12pt" xml:space="preserve">, 1989), même si aucune ne s’y ajoutera. Rien ne viendra mettre un terme à cette prise en charge de l’œuvre de <persName>Rutault</persName> par le musée genevois, un engagement pris au moment de l’acquisition. Cette délégation de la poursuite posthume d’œuvres en cours de création avait déjà été mise en place au <orgName>MAMCO</orgName>, mais de manière temporaire, pour </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"><title>Les Ready-Made appartiennent à tout le monde® </title></hi><hi style="font-size:12pt" xml:space="preserve">de <persName>Philippe Thomas</persName> et </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"><title>Büro Kippenberger</title> </hi><hi
+                            style="font-size:12pt"><persName>de Martin
+                            Kippenberger</persName></hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">. </hi><hi
+                            style="font-size:12pt">Juste avant leur décès prématuré, les artistes
+                            donnèrent au <orgName>MAMCO</orgName> les indications nécessaires à la
+                            poursuite de l’œuvre pour un temps.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="tz94wl06kdx"/>Nam June Paik, <hi rend="italic">La lune est
+                            la plus ancienne télévision</hi>, <hi rend="color(ff0000)"
+                            >1965-1992</hi>. 11 à 17 téléviseurs noir et blanc, silencieux, 11 à 17
+                        aimants, 11 socles noirs de 150 cm, allée noire de 10 x 7 m. Coll. MNAM –
+                        Centre Georges Pompidou (AM 1985-142). Achat, 1985. <ref
+                            target="https://njp.ggcf.kr/collections/215"><hi
+                                rend="underline color(ff0000)">Photo : Nam June Paik Art
+                            Center</hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">L’œuvre de <persName>Nam June Paik</persName>, </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"><title xml:lang="en">Moon Is the Oldest TV</title> </hi><hi
+                            style="font-size:12pt">(1965-1976-1985) a rejoint les collections du
+                                <orgName>Musée National d’Art Moderne – Centre Georges
+                                Pompidou</orgName> en</hi> <hi style="font-size:12pt">1985. Elle est
+                            un exemple paradigmatique que le droit moral d’un artiste à réintervenir
+                            sur son œuvre puisse porter atteinte au statut de l’œuvre d’art unique
+                            au sein d’une collection muséale. Conçue en</hi> <hi
+                            style="font-size:12pt">1965, cette sculpture vidéo était initialement
+                            formée de douze téléviseurs noir et blanc où sont évoquées les phases de
+                            la lune grâce à un signal électronique. Dès sa conception l’artiste a
+                            souhaité cette œuvre évolutive et variable. D’ailleurs, en</hi> <hi
+                            style="font-size:12pt">1976, <persName>Paik</persName> remplace les
+                            téléviseurs par de nouveaux moniteurs couleur. Cette nouvelle version
+                            est datée de</hi> <hi style="font-size:12pt">1965-1976. À celle-ci,
+                            en</hi> <hi style="font-size:12pt">1985, l’artiste ajouta quatre
+                            moniteurs. <persName>Nathalie Leleu</persName> rapporte que l’œuvre
+                            variable est inscrite dans les inventaires à titre «  d’exemplaire
+                            unique  ». Le fait qui nous intéresse prend naissance en</hi>
+                             <hi style="font-size:12pt" xml:space="preserve">1999, moment où le <orgName>MNAM</orgName> accepte qu’une copie intégrale d’exposition soit réalisée par le <orgName>Guggenheim Museum</orgName>, adaptée à leur espace d’exposition. Le tout réalisé en collaboration avec l’artiste. L’exemplaire produit différera radicalement de celle de l’institution prêteuse. L’on notait entre autres des ajouts technologiques, des images de synthèse colorisées, des moniteurs aux dimensions différentes, une nouvelle mise en espace. Ces constats inciteront le <orgName>MBAM</orgName> à entamer des démarches juridiques où fut confirmé qu’avait été créée un nouvel exemplaire de l’œuvre. Intitulée </hi><hi
+                            rend="italic" style="font-size:12pt"><title xml:lang="en">Moon Is the
+                                Oldest
+                        TV</title></hi><hi style="font-size:12pt" xml:space="preserve"> (2000) elle est conservée au <orgName>Nam June Paik Art Center</orgName> de <placeName>Séoul</placeName>. Conséquemment le <orgName>MBAM</orgName> décida de limiter le droit moral des artistes lors de ses prochaines acquisitions afin de protéger le statut d’unicité de ses œuvres collectionnées.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="m31i0wvkkl1k"/>Jana Sterback, <hi rend="italic">Je veux
+                            que tu éprouves ce que je ressens (la robe)</hi>, 1985. Fil de nichrome
+                        sous tension et non isolé monté sur grillage métallique, câble électrique et
+                        électricité, avec texte projeté d'une diapositive, 144,8 x 121,9 x 45,7 cm
+                        (installation aux dimensions variables). Coll. MBAC (29543). Acheté en 1986.
+                            <ref
+                            target="https://www.artforum.com/features/flesh-and-bones-jana-sterback-203615/"
+                                ><hi rend="underline color(0097a7)">Photo : ArtForum</hi></ref>
+                    </head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">Cette œuvre sculpturale installative est composée d’une structure de grillage fin en acier épousant la forme d’une robe schématique de taille humaine déposée au sol, à proximité d’un mur. Elle est munie de deux manches longues suggérant des bras repliés invitant à s’approcher. L’objet est complété par la projection fixe sur le mur arrière, juste au-dessus du cou ouvert sans tête, d’un texte diapositive en anglais, de bonnes dimensions, qui débute par cette phrase : </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"><q xml:lang="en">I want you to feel the way I do</q>. </hi><hi
+                            style="font-size:12pt">Quatre résistances chauffantes de nickel-chrome
+                            sont déployées en spirale sur la robe, à hauteur de ce qui serait la
+                            taille, détorsadées et montées en série. L’œuvre est maintenue dans la
+                            pénombre dans une salle de type alcôve. Avec le passage à l’entrée d’un
+                            visiteur, un détecteur lumineux établit le courant sur les composantes
+                            de l’œuvre : la projection du texte débute simultanément avec le
+                            rougissement à vif des résistances chauffantes, pour quelques minutes.
+                            Acquise en</hi>  <hi style="font-size:12pt">1986 par le
+                                <orgName>MBAC</orgName>, l’œuvre a maintenu cette itération pour
+                            nombre d’années et de présentations successives. À la fin des
+                            années</hi> <hi style="font-size:12pt" xml:space="preserve">1990, l’artiste a souvent diminué la taille de la prescription originale du texte ou tout simplement retiré la projection de diapositive dans le contexte d’expositions monographiques. Un dialogue s’est engagé entre elle et la conservatrice du musée sur cette question du maintien/retrait du texte projeté. L’itération maintenant autorisée par l’artiste élimine la projection au-dessus de la forme de la robe et le texte se retrouve encastré dans un petit </hi>boîtier<hi style="font-size:12pt" xml:space="preserve"> lumineux sur l’un des murs adjacents de l’alcôve, à proximité du cartel de l’œuvre.</hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="5qzqihwjpj00"/>Jeff Wall, <hi rend="italic">Stéréo</hi>,
+                        1980. Photographie, diachromie Cibachrome, sérigraphie sur plexiglas, deux
+                        caissons à lampes fluorescentes, caisson à lampes : 245.7 x 245.6 x 27.2 cm
+                        ; image : 220.7 x 220.9 cm chaque, coll. MBAC 28013.1-2, Acheté en 1982.
+                            <ref
+                            target="https://gagosian.com/quarterly/2019/04/10/jeff-wall-world-it-appears-interview/"
+                                ><hi rend="underline color(0097a7)">Photo :
+                        Gagosian</hi></ref></head>
+                    <p><hi style="font-size:12pt" xml:space="preserve">Les premières itérations de </hi><hi
+                            rend="italic" style="font-size:12pt"
+                            ><title>Stéréo</title></hi><hi style="font-size:12pt" xml:space="preserve"> de <persName>Jeff Wall</persName> comportent deux caissons lumineux autonomes en aluminium de mêmes dimensions (un peu plus de 2,50 X 2,50</hi> <hi
+                            style="font-size:12pt">m), placés côte à côte sur la même cimaise, à une
+                            distance d’environ un mètre. La face du caisson de gauche est constituée
+                            d’un plexiglas translucide blanc sur lequel le mot <emph>STÉRÉO</emph>
+                            <!-- #RC balise q ou emph?-->, sérigraphié en noir opaque, occupe toute
+                            la largeur de la surface lumineuse et environ le tiers bas de la surface
+                            en hauteur. Le caisson de droite présente une diachromie cibachrome en
+                            pleine surface d’un jeune adulte nu, étendu en relaxation sur un sofa
+                            orangé, absorbé par le son émanant de sa paire d’écouteurs. À partir de
+                            la fin des
+                            années</hi> <hi style="font-size:12pt" xml:space="preserve">1990, l’artiste a formellement demandé par écrit au service de la conservation du <orgName>MBAC</orgName> que le caisson de gauche ne soit plus présenté, et que désormais </hi><hi
+                            rend="italic" style="font-size:12pt"
+                            ><title>Stéréo</title></hi><hi style="font-size:12pt" xml:space="preserve"> soit uniquement constitué du caisson rétroéclairé de la photographie du jeune homme étendu. L’une des premières présentations de cette itération amputée d’un élément constitutif a eu lieu au cours de l’exposition </hi><hi
+                            rend="italic" style="font-size:12pt"><title>Image -
+                            vision</title></hi><hi style="font-size:12pt" xml:space="preserve"> organisée au <orgName>Musée des beaux-arts de Montréal</orgName> en</hi> <hi
+                            style="font-size:12pt">2006. Le catalogue raisonné de l’œuvre de
+                            l’artiste (2005), couvrant la
+                            période</hi> <hi style="font-size:12pt" xml:space="preserve">1978-2004, présente l’image du caisson lumineux unique du jeune homme comme étant l’œuvre </hi><hi
+                            rend="italic" style="font-size:12pt"
+                        ><title>Stéréo</title></hi><hi style="font-size:12pt" xml:space="preserve">. </hi></p>
+                </div>
+                <div>
+                    <head><anchor xml:id="ao0svj801wle"/>Michael Snow, <hi rend="italic"
+                            >Tapotement</hi>, 1969-1972. Photographies en noir et blanc encadrées,
+                        textes dactylographiés sur papier encadrés, magnétophone, haut-parleur, fil
+                        et bande audio, photographie encadrée : 106,8 x 156,3 cm ; texte encadré :
+                        65,1 x 40 cm; haut-parleur : 48,3 x 38,1 x 25,4 cm. Coll. MBAC (15923).
+                        Acheté en 1970. <ref
+                            target="https://www.beaux-arts.ca/magazine/sous-les-projecteurs/lexperimentalisme-de-michael-snow"
+                                ><hi rend="underline color(0097a7)">Photo : MBAC</hi></ref><graphic
+                            n="1001" width="0.051152777777777776cm" height="0.051152777777777776cm"
+                            url="media/image2.png" rend="block"/></head>
+                    <p><hi style="font-size:12pt">Acquise au début des années</hi> <hi
+                            style="font-size:12pt">1970 par le <orgName>MBAC</orgName></hi><hi
+                            rend="italic" style="font-size:12pt">,
+                            <title>Tapotement</title></hi><hi style="font-size:12pt" xml:space="preserve"> est une installation sonore dont les éléments doivent être dispersés dans différents endroits/salles du bâtiment qui l’expose. Elle se compose d’une bande sonore résultant de la captation de l’artiste tapotant un micro de ses doigts en proximité d’une enregistreuse à ruban produisant des effets de </hi><hi
+                            rend="italic" style="font-size:12pt"><foreign xml:lang="en"
+                                >feedback</foreign></hi><hi style="font-size:12pt" xml:space="preserve">. Le son est perçu dans l’espace à partir d’un haut-parleur, un boîtier de bois avec poignée peint en brun déposé au sol, son fil d’alimentation se déroulant vers le mur le plus rapproché. Les autres composantes de l’œuvre sont encadrées de </hi>moulures<hi style="font-size:12pt" xml:space="preserve"> de bois peintes de la même couleur que le haut-parleur, accrochées sur les murs de salles adjacentes. Démontrant le processus de fabrication de l’œuvre, elles comprennent une photographie aux sels argentiques de bonnes dimensions montrant en gros plan les mains de l’artiste tapotant le micro au-dessus de l’enregistreuse, ainsi qu’un texte dactylographié sur papier signé de l’artiste, explicitant la production de l’œuvre ainsi que les prescriptions de sa présentation. Le lecteur du support sonore, originalement une bande magnétique de 1/8</hi> <hi style="font-size:12pt" xml:space="preserve">pouce, est dissimulé à la vue du spectateur. </hi></p>
+                    <p><hi style="font-size:12pt">Quelques années après l’acquisition de l’œuvre,
+                            alors que le <orgName>MBAC</orgName> souhaitait la présenter, on se
+                            rendit compte de la disparition du haut-parleur. Le conservateur
+                            responsable de la collection écrivit alors à l’artiste, afin de lui
+                            demander de fournir l’information permettant son remplacement par un
+                            même modèle. En réponse, <persName>Snow</persName> proposa plutôt que
+                            les techniciens à l’installation du musée reconstruisissent le boîtier à
+                            partir d’un dessin technique et des spécifications de l’équipement
+                            fournis par l’artiste. En outre, il demanda qu’un nouvel élément
+                            encadré, muni d’une moulure peinte de la même couleur que les autres
+                            cadres, soit ajouté à l’œuvre. Celui-ci inclut la lettre officielle du
+                            musée relatant la perte de l’objet, le dessin technique soumis par
+                            l’artiste, une photographie aux sels argentiques documentant un moment
+                            de la fabrication en présence des techniciens, de même que la lettre
+                            explicative de l’artiste, signée, où il fait part de cet ajout à
+                            l’œuvre. Ce remaniement fait maintenant partie intégrale de
+                            l’œuvre.</hi></p>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
