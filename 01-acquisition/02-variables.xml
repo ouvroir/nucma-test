@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../schema/nucma_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Acquisition d’œuvres variables</title>
+                <author>
+                    <persName>
+                        <!-- ref="#AB" -->
+                        <forename>Anne</forename>
+                        <surname>Bénichou</surname>
+                    </persName>
+                    <affiliation>Université du Québec à Montréal </affiliation>
+                    <idno type="ORCID">0000-0003-3761-608X</idno>
+                </author>
+                <author>
+                    <persName>
+                        <!-- ref="#RG" -->
+                        <forename>Richard</forename>
+                        <surname>Gagnier</surname>
+                    </persName>
+                    <affiliation>Musée des beaux-arts de Montréal</affiliation>
+                </author>
+                <author>
+                    <persName>
+                        <!-- ref="#AMG" -->
+                        <forename>Ann Marlène</forename>
+                        <surname>Gagnon</surname>
+                    </persName>
+                    <affiliation>Université du Québec à Montréal</affiliation>
+                </author>
+                <author>
+                    <persName>
+                        <!-- ref="#MO" -->
+                        <forename>Mariah</forename>
+                        <surname>O’Brien</surname>
+                    </persName>
+                    <affiliation>Université de Montréal</affiliation>
+                </author>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher/>
+                <!-- <date when=""></date> -->
+                <idno type="DOI"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>Ce contenu est mis à disposition sous licence Creative Commons
+                            Attribution 4.0.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+
+            <seriesStmt>
+                <title xml:lang="fr" type="main">Acquisition</title>
+                <title xml:lang="fr" type="sub">Encyclopédie des nouveaux usages des collections
+                    dans les musées d’art</title>
+                <title xml:lang="en" type="main">Acquisition</title>
+                <title xml:lang="en" type="sub">Encyclopedia of New Uses of Collections</title>
+                <idno type="URI">http://www.nucma.ca</idno>
+            </seriesStmt>
+
+            <sourceDesc xml:id="02-variables">
+                <p>Fichier nativement numérique</p>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="fr"/>
+            </langUsage>
+            <textClass>
+                <keywords xml:lang="fr">
+                    <term>Art conceptuel</term>
+                    <term>Installations</term>
+                    <term>Arts médiatiques</term>
+                    <term>Dématérialisation</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2025-03-31" type="v1">Premier brouillon</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="fr">
+        <front>
+            <head>Acquisition par protocole</head>
+            <div type="abstract">
+                <p>Dans sa définition reportée du dictionnaire, le terme
+                        <soCalled>protocole</soCalled> désigne une <q>instruction précise et
+                        détaillée mentionnant toutes les opérations à effectuer dans un certain
+                        ordre ainsi que les principes fondamentaux à respecter pour exécuter une
+                        opération, réaliser une expérience</q>(TLF). Ce mot, dont l’usage est
+                    répandu dans le champ des sciences exactes, mais aussi dans le domaine
+                    juridique, diplomatique et même psychologique, a été investi dans (et par) le
+                    monde de l’art et des institutions muséales à compter des années 1960, sans pour
+                    autant faire l’objet d’une définition propre.</p>
+            </div>
+            <div type="acknowledgements">
+                <p>L’auteur tient à remercier...</p>
+            </div>
+        </front>
+    </text>
+    <text>
+        <body>
+            <div type="introduction">
+                <p>L’expression <soCalled>œuvre d’art variable</soCalled><ref target="ftn0"/>désigne
+                    un large éventail de stratégies artistiques, y compris, mais sans s’y limiter,
+                    l’art conceptuel, les pratiques performatives corporelles, les installations et
+                    les arts médiatiques. À partir de la fin des années 1960, les musées ont
+                    progressivement intégré l’ensemble de ces pratiques à leurs collections, selon
+                    des modalités atypiques d’acquisition : d’abord l’art conceptuel ainsi que les
+                    premières installations, au début des années 1970 ; puis, avec la décennie 1980,
+                    l’acquisition d’installations se généralise en réponse à la place prépondérante
+                    qu’elles occupent dans les biennales ; les œuvres multimédias utilisant les
+                    nouvelles technologies suivent avec les années 1990. Malgré sa popularité dans
+                    le cadre d’expositions temporaires et de programmation événementielle, la
+                    performance n’entre dans les collections qu’aux alentours de 2010. L’acquisition
+                    de ces œuvres a généré des transformations importantes des approches, des
+                    méthodes et de certains principes déontologiques de la conservation et de la
+                    restauration. La dématérialisation des œuvres, leur adaptation aux espaces
+                    d’exposition, leur interactivité avec les spectateurs et les spectatrices, le
+                    caractère éphémère de plusieurs d’entre elles, l’obsolescence rapide de certains
+                    matériaux comptent parmi les défis importants.</p>
+                <p>Afin de développer de nouvelles approches à l’échelle internationale, une série
+                    de conférences et de réseaux sur la conservation ont été créés dans les années
+                    1990 (voir la <title>Chronologie des initiatives en conservation-restauration
+                        des œuvres variables</title>). En 1997, le symposium <title>Modern Art: Who
+                        Cares? </title> (Hummelen, Sillé 2005) a notamment reconnu le besoin de
+                    préserver des données d’ordre immatériel, dans le prolongement de la Conférence
+                    de Nara (1994) au cours de laquelle la notion d’authenticité reposant
+                    entièrement sur la matérialité d’origine des artefacts fut vivement critiquée et
+                    jugée européocentrique. En 2001, <title>L’Approche de médias
+                    variables</title>(Depocas et al. 2003) a cherché pour sa part à dissocier la
+                    définition de l’œuvre d’art de ses composantes matérielles originales, afin de
+                    permettre les migrations d’œuvres sur de nouveaux supports technologiques plus
+                    récents. On identifia notamment un glissement du régime autographique
+                    traditionnel des œuvres d’art (une œuvre faite des mains de l’artiste) à un
+                    régime allographique (une œuvre qui existe sous la forme de notations et
+                    d’exécutions successives prises en charge par des interprètes) (Goodman 2022;
+                    Laurenson 2006 et 2009). Ces initiatives ont déclenché de nombreux projets de
+                    recherche autour des questions de l’authenticité, de la variabilité et de
+                    l’autorité auctoriale. Ainsi, les <orgName>Tate Papers</orgName>, magazine en
+                    ligne publié par la Tate, les groupes de recherche, que ce soit
+                        <orgName>DOCAM</orgName> mené par la <orgName>Fondation Daniel
+                        Langlois</orgName> pour l’art, la science et la technologie ou
+                        <orgName>Variations et Pérennité</orgName> dirigé à
+                        l’<affiliation>Université du Québec à Montréal</affiliation> (UQAM) par
+                    Francine Couture, ont contribué à produire des modèles de documentation, des
+                    glossaires, des guides de conservation encore utilisés aujourd’hui. Les années
+                    2010 sont marquées par d’autres initiatives basées sur des études de cas,
+                    notamment <title>Inside Installations</title>, <title>VoCA</title>,
+                        <title>INCCA</title> et <title>Matters in Media Art</title>. Alors que la
+                    théorie traditionnelle de la conservation muséale met l’accent sur la fixité des
+                    œuvres dans le temps et se caractérise par l’adhésion aux principes
+                    d’intervention minimale, de réversibilité, d’universalité et d’objectivité, ces
+                    initiatives ont fait émerger au cours des 30 dernières années de nouvelles
+                    approches qui misent sur l’identification des propriétés conceptuelles des
+                    œuvres et la gestion de leur changement.</p>
+                <p>La notion de variabilité des œuvres est-elle une spécificité de l’art
+                    contemporain  ? Peut-on en repérer des manifestations dans les périodes
+                    prémodernes et modernes  ? Quelles formes prennent ces variations  ? Comment la
+                    notion de variabilité s’articule-t-elle aux valeurs d’authenticité et
+                    d’intégrité  ? De quelle manière les musées conçoivent-ils la variation des
+                    œuvres pendant et après leur acquisition  ? </p>
+
+                <div>
+                    <head>La variabilité des œuvres est-elle un phénomène contemporain  ?</head>
+                    <p>Il serait erroné de n’attribuer ces changements qu’à la période
+                        contemporaine. Les œuvres d’art ont toujours été des objets d’usages et de
+                        fonctions. Les laboratoires d’analyses scientifiques attestent de lointaines
+                        mutations matérielles subies par les artefacts à travers les siècles.
+                        Plusieurs Vierges noires médiévales témoignent de fréquents changements
+                        d’apparence au cours des siècles pour accompagner l’histoire religieuse
+                        (Cassagnes-Brouquet 2000). Les histoires de l’art rapportent de multiples
+                        cas de transformation d’œuvres soumises au goût du jour et aux visées de
+                        leurs propriétaires. En 1559, les nus du <title>Jugement dernier</title> de
+                            <persName>Michel-Ange</persName> furent
+                        <soCalled>habillés</soCalled>  par décret de Paul IV. Dans l’Europe du
+                        XVIII <hi rend="sup">e</hi> siècle, on dépose les peintures murales et les
+                        fresques incluant celles de la Couronne, on disloque les ensembles (Étienne
+                        2012). On prélève des parties de tableau, on en modifie les dimensions
+                        initiales afin de les adapter à de nouveaux espaces. <title>La Ronde de
+                            nuit</title> fut retaillée en 1715 lors de son transfert à
+                            l’<placeName>Hôtel de Ville d’Amsterdam</placeName>(Rijksmuseum).</p>
+                    <p>Le respect de l’intégrité matérielle des œuvres ne devient impératif qu’avec
+                        le siècle des Lumières, alors qu’une conscience nouvelle accorde une place
+                        prépondérante au concept d’authenticité et que la conservation prime
+                        dorénavant sur la restauration (Étiennecv2012). Avec la modernité émerge le
+                        nouveau paradigme de la conservation-restauration officiellement adopté en
+                        1932, sur les résolutions des experts de l’<orgName>Office international des
+                            musées</orgName> (renommé ICOM en 1948).</p>
+                    <p>Cependant, les avant-gardes opposent une résistance à cette valorisation de
+                        l’œuvre unique et pérenne. Les nouveaux matériaux issus de
+                        l’industrialisation naissante apportent aux artistes des possibilités
+                        inédites d’exploration. Les travaux des constructivistes russes, des
+                        dadaïstes, des représentants et représentantes du
+                            <affiliation>Bauhaus</affiliation> en témoignent. Les matériaux
+                        industriels qui permettent d’engendrer de nouvelles formes peuvent accuser
+                        une nature instable qui implique parfois des restaurations invasives ou le
+                        remplacement intégral des œuvres avec des matières plus stables (Lodder
+                        2007). L’industrialisation amène également quelques artistes à explorer des
+                        modes de production standardisés et sériels, telle la reproduction mécanisée
+                        déléguée à autrui (Marck 2014). Ces explorations contredisent la notion
+                        d’œuvre autographe, un objet unique, fabriqué des mains de l’artiste, à
+                        conserver en l’état, sur laquelle s’est élaborée la déontologie de la
+                        conservation-restauration des musées.</p>
+                    <p>On remarque également au cours de la modernité des pratiques sculpturales aux
+                        configurations variables qui annoncent les environnements ou les
+                        installations contemporaines. <persName>Constantin Brancusi</persName>
+                        envisageait ses sculptures comme des <soCalled>groupes mobiles</soCalled>
+                        (Penders 1995). Dans son atelier, il les mettait en relation les unes avec
+                        les autres, selon des arrangements régulièrement reconfigurés, prenant
+                        valeur d’œuvre en cours. Vers 1923, <persName>Kurt Schwitters</persName>
+                        entreprit son <title>Merzbau</title>, une sculpture faite d’assemblage de
+                        matériaux trouvés, envahissant les pièces et les étages de son atelier et de
+                        sa maison à Hanovre, et jamais achevée. Obligé de s’exiler en 1937,
+                        l’artiste en reprit la construction dans différents lieux, selon des
+                        configurations différentes (Orchard 2007). En 1932, <persName>Alexander
+                            Calder</persName> expose ses premiers mobiles mis en mouvement par les
+                        turbulences de l’espace environnant. Ces expérimentations introduisent les
+                        questions de l’activation des œuvres, de leur adaptation et de leur
+                        comportement (Depocas et al. 2003).</p>
+                    <p>En dépit de ces multiples formes de variation des œuvres prémodernes et
+                        modernes, c’est avec l’entrée de l’art conceptuel, des installations et des
+                        œuvres médiatiques dans les collections muséales, au début des années 1970,
+                        que les musées prennent en considération la notion de variabilité dans leurs
+                        méthodes et leurs pratiques de conservation-restauration. Celle-ci influence
+                        désormais la manière de concevoir l’authenticité et l’intégrité des œuvres,
+                        et joue un rôle important au moment de l’acquisition. Les œuvres modernes
+                        fabriquées avec des matériaux industrialisés et instables, ou selon des
+                        procédés mécanisés, sériels ou processuels intègrent plus aisément les
+                        collections muséales, même lorsque les originaux ont été détruits, et
+                        participent pleinement aux débats sur les nouvelles valeurs déontologiques
+                        de la collection muséale (Rubio 2020).</p>
+                </div>
+                <div>
+                    <head>La dialectique authenticité-intégrité-variabilité</head>
+                    <p>L’acquisition d’œuvres variables peut désormais être envisagée comme le
+                        moment où les artistes, les professionnel·les de musées et les communautés
+                        éventuellement impliquées déterminent de manière collaborative la
+                        variabilité des œuvres, c’est-à-dire les transformations qu’il sera
+                        acceptable d’apporter lors de leurs futures itérations. Elle est établie en
+                        fonction de deux valeurs : l’authenticité et l’intégrité (Cometti 2016)
+                        (fig. 1).</p>
+                    <figure>
+                        <graphic url="media/image1.png"/>
+                        <graphic url="media/image2.png"/>
+                    </figure>
+                    <p>Fig. 1 : La dialectique authenticité-intégrité-variabilité. Version modifiée
+                        et augmentée en 2023 du diagramme proposé par <persName>Richard
+                            Gagnier</persName> en 2009, dans le cadre de
+                        <orgName>DOCAM</orgName>.</p>
+                    <p>La première privilégie la matérialité d’origine et l’ancrage historique des
+                        œuvres collectionnées, selon l’idée qu’une œuvre témoigne d’une période
+                        historique et qu’il faut la conserver dans son état matériel d’origine. La
+                        deuxième, l’intégrité, est élaborée à partir d’une pluralité d’informations
+                        et de caractéristiques permettant de comprendre le fonctionnement d’une
+                        œuvre et les effets qu’elle doit produire. Ainsi le concept et les
+                        intentions de l’artiste, les savoir-faire impliqués et la valeur symbolique
+                        des matériaux, ou encore le comportement de l’œuvre et l’expérience des
+                        spectateurs et des spectatrices sont à considérer (Saaze 2013). Du point de
+                        vue de l’intégrité, la valeur historique d’une œuvre prend en considération
+                        la généalogie de ses différentes itérations et les manières dont elle s’est
+                        transformée selon les usages qui en ont été faits. Les univers culturels de
+                        création et de réception jouent également un rôle important. Il s’agit de
+                        comprendre le contexte culturel, technologique, politique, social dans
+                        lequel l’œuvre a été créée et dont elle est porteuse, tout en considérant le
+                        contexte de réception, c’est-à-dire le regard que l’on pose aujourd’hui sur
+                        l’univers culturel de référence, ainsi que les conceptions actuelles de
+                        l’expérience des œuvres au musée.</p>
+                    <p>Parmi les traits qui permettent de circonscrire l’intégrité d’une œuvre,
+                        certains sont constitutifs (ils fondent l’intégrité de l’œuvre) et d’autres
+                        sont contingents (ils sont sujets à des variations, sans pour autant altérer
+                        l’intégrité) (Goodman, 2022). L’opérationnalité, le fonctionnement, le
+                        comportement de l’œuvre, les effets qu’elle doit produire, ainsi que
+                        l’expérience des spectateurs et des spectatrices ou de tiers avec l’œuvre
+                        sont susceptibles de varier lors des différentes itérations. Ce sont ces
+                        éléments qui permettent de circonscrire la variabilité d’une œuvre et de
+                        déterminer le type de variation dont elle pourra faire l’objet. </p>
+                    <p>Dans le diagramme illustrant la dialectique
+                        authenticité-intégrité-variabilité (fig. 1), inspiré de la théorie des
+                        ensembles, les deux valeurs d’authenticité et d’intégrité sont imbriquées
+                        l’une dans l’autre, indiquant que la notion d’authenticité est désormais
+                        appréhendée dans une perspective plus large et complexe, à la fois
+                        matérielle et conceptuelle. Cette authenticité élargie intègre l’intégrité
+                        dont est tributaire la variabilité. Non seulement l’authenticité se fonde
+                        sur des traits matériels et intangibles, elle prend aussi en considération
+                        les effets et l’expérience. Elle est de ce fait modulable.</p>
+                    <p>Au moment de l’acquisition, les intervenants et intervenantes identifient,
+                        négocient et consignent, selon une pluralité de méthodes et d’outils peu
+                        codifiés, largement dictés par les singularités des pratiques artistiques,
+                        les traits constitutifs et les traits contingents de l’œuvre. Ainsi
+                        envisagée, l’acquisition ne vise ni à fixer les œuvres ni à limiter leurs
+                        variations, mais bien à circonscrire leur variabilité. Il est également
+                        possible qu’une acquisition accroisse les possibilités de variation d’une
+                        œuvre.</p>
+                </div>
+                <div>
+                    <head>Les différentes modalités de variation des œuvres</head>
+                    <p>Circonscrire la variabilité des œuvres au moment de leur acquisition procède
+                        de connaissances informelles et tacites. Il n’existe pas de vocabulaire
+                        contrôlé, mais une terminologie usuelle qui diffère selon les contextes
+                        institutionnels, professionnels et linguistiques. L’instabilité,
+                        l’adaptation, l’activation, l’actualisation, l’œuvre en cours (<foreign
+                            xml:lang="eng">work in progress</foreign>) comptent parmi les
+                        principales modalités de variation, la plupart des œuvres en combinant
+                        plusieurs. Plus radical et plus rare, le remaniement sera abordé en fin
+                        d’article. Une telle typologie ne fait toutefois pas partie des outils
+                        formels utilisés par les professionnels et professionnelles de musées qui
+                        préfèrent décrire les changements pouvant être apportés aux œuvres. Dans le
+                        cadre de cet article, cette terminologie vise à faciliter l’identification
+                        et l’explication de phénomènes complexes.</p>
+                    <p><emph>L’instabilité</emph> est la forme de variation la plus courante.
+                        L’altération des matériaux ou l’obsolescence de certaines composantes
+                        technologiques entraînent une transformation matérielle de l’œuvre qui peut
+                        être freinée ou non. Il arrive qu’elle soit désirée par l’artiste, le
+                        vieillissement et la perte participant dès lors de l’intégrité de l’œuvre.
+                        Ce type de variation pose la question du seuil d’altération acceptable. À
+                        quel moment l’œuvre ne fonctionne plus et que faut-il faire alors    ?
+                        Convient-il d’en produire une copie d’exposition  ? Doit-on se résoudre à ne
+                        plus l’exposer, et dans ce cas devient-elle un document  ? Recourt-on à des
+                        gestes de restauration qui n’en préservent pas la matérialité d’origine,
+                        telles l’émulation, la migration, la réinterprétation (Depocas et al. 2003).
+                        Au moment de l’acquisition, le musée en collaboration avec les artistes
+                        anticipent ces questions et éventuellement les réponses qu’ils et qu’elles
+                        pourront y apporter. Ce fut le cas de l'acquisition de l'œuvre
+                            <title>Envahisseurs</title> (2019) de Hannah Claus qui se trouve dans la
+                        collection du <orgName>Musée des beaux-arts de Montréal</orgName> (MBAM). </p>
+                    <p><emph>L’adaptation</emph> consiste à apporter des modifications à une œuvre
+                        lors de sa mise en vue pour l'adapter à de nouveaux milieux, contextes et
+                        situations. Par exemple, la réduction de sa taille pour la présenter dans un
+                        espace plus petit, l’ajout ou le remplacement d’éléments plus appropriés au
+                        nouveau contexte de monstration ou à l’actualité. Même si elle concerne
+                        avant tout la matérialité de l’œuvre, ce type de variation, très courant
+                        pour les installations de grand format, exige de bien saisir le
+                        fonctionnement de l’œuvre, les effets qu’elle doit produire et les qualités
+                        de l’expérience souhaitée. Jusqu’où diminuer le nombre d’éléments d’une
+                        installation sans oblitérer sa signification    ? Quels effets les ajouts
+                        d’éléments contextuels doivent-ils produire    ? Ces questions refont
+                        surface à chaque exposition d’une œuvre comme <title>La forme des
+                            jours</title> (2011) de <persName>Serge Murphy</persName> qui se trouve
+                        également dans la collection du <orgName>MBAM</orgName>.</p>
+                    <p><emph>L’activation</emph> consiste à mettre en action certains éléments d’une
+                        œuvre ou de les impliquer dans des actions ou des événements définis et
+                        organisés au préalable. Ces actions peuvent être le fait des artistes, du
+                        public, d’autres personnes ou encore procéder de l’opérationnalité même de
+                        l’œuvre. Il arrive que la matérialité de l’œuvre en soit impactée et que les
+                        gestes posés laissent des traces que l’œuvre conserve et cumule au fil de
+                        ses présentations. Lors de l’acquisition, le défi est de comprendre et de
+                        consigner les processus et les effets souhaités de l’activation, la qualité
+                        des expériences qu’elle permet, mais aussi d’acquérir les savoir-faire pour
+                        activer l’œuvre, prévoir les impacts sur ses composantes matérielles et
+                        établir leurs limites afin de ne pas altérer l’authenticité de l’œuvre
+                        comprise dans son sens élargi. À titre d’exemple, l’activation est une
+                        modalité indissociable de l’œuvre de <persName>Massimo Guerrera</persName>,
+                            <title>Darboral</title> (2000-2005), qui fait partie de la collection du
+                            <orgName>Musée national des beaux-arts du Québec</orgName> (MNBAQ). </p>
+                    <p>Parce qu’aujourd’hui les publics s’attendent à <soCalled>vivre une
+                            expérience</soCalled> au musée, l’activation des œuvres, y compris au
+                        sein des collections, est une modalité de variation de plus en plus
+                        valorisée et privilégiée. On y voit la possibilité de programmer des
+                        activités participatives, ludiques ou festives au sein des collections. Dans
+                        certains cas, l’activation peut remettre en question les modalités
+                        traditionnelles de collectionnement (notamment avec le <title>Plafond
+                            suspendu</title> (B-F-G) (2019), une œuvre collective du <orgName>Musée
+                            d'art contemporain des Laurentides</orgName>). </p>
+                    <p><emph>L’actualisation</emph><ref target="#ftn1"/> implique qu’une partie ou que la totalité de l’œuvre soit
+                        rematérialisée à chacune de ses présentations, ce qui nécessite la 
+                        consignation de procédures, l’acquisition de savoir-faire par le personnel
+                        du musée, la désignation de personnes qui prendront en charge les futures
+                        itérations. Les œuvres conceptuelles qui entrent dans les collections
+                        muséales sous la forme de protocoles depuis les années 1970 en sont
+                        paradigmatiques. L’actualisation d’œuvres exigeant l’acquisition de
+                        savoir-faire manuels singuliers peut s’avérer beaucoup plus complexe. Les
+                        musées doivent s’assurer que les artistes les transmettent à leurs équipes
+                        techniques et de restauration, puis se dotent des moyens de consigner ces
+                        apprentissages pour les léguer aux générations successives de personnel.
+                        Pensons, par exemple, à l’activation de l’œuvre <persName>Jana
+                            Sterbak</persName>, <title>Vanitas : robe de chair pour albinos
+                            anorexique</title> (1987) qui se trouvent dans les collections du
+                            <orgName>Walker Art Center</orgName>, Minneapolis et du
+                            <orgName>MNAM</orgName> – <placeName>Centre Georges
+                        Pompidou</placeName>.</p>
+                    <p>Les œuvres performatives que les musées ont commencé à acquérir au milieu des
+                        années 2000 sous des formes vivantes introduisent d’autres complexités   la
+                        délégation de l’exécution de l’œuvre à de nouveaux performeurs ; le recours
+                        à des modes de transmission oraux et corporels complétant les protocoles
+                        écrits et les autres formes de fixation. Alors que ces procédures itératives
+                        sont courantes dans les arts vivants, notamment en danse, elles restent
+                        encore étrangères à la culture muséale. Les musées d’art recourent à des
+                        spécialistes issus d’autres disciplines artistiques, notamment de la danse
+                        et du théâtre (par exemple, le recours au film de <persName>Sally
+                            Banes</persName>
+                        <title>Yvonne Rainer. Trio A,</title> 1978, de la collection du
+                            <orgName>Museum of Modern Art</orgName> pour présenter <title>la
+                            chorégraphie</title> d’<persName>Yvonne Rainer</persName> réalisée en
+                        1966). Au moment de l’acquisition, il convient d’établir les modalités de
+                        ces collaborations à long terme et le partage des responsabilités. L’entrée
+                        des œuvres performatives dans les collections muséales favorise également
+                        l’émergence de formes inédites de fixation des œuvres et de nouveaux types
+                        de documents contractuels (McClean 2014; Finbow 2021).</p>
+                    <p>La décolonisation et l’autochtonisation des musées ont introduit dans les
+                        collections des œuvres dont l’actualisation implique des rituels qui sont
+                        accomplis par et/ou dans les communautés et qui ne sont pas forcément
+                        destinés à être vus par un public. Au lieu de se constituer propriétaires de
+                        telles œuvres, certains musées optent pour un rôle de gardien temporaire
+                        dont le mandat est de prendre soin et de faciliter.</p>
+                    <p>Enfin, l’<emph>œuvre en cours</emph> (<foreign xml:lang="eng">work in
+                            progress</foreign> ) est liée au fait paradoxal que l’entrée de l’œuvre
+                        dans une collection muséale n’interrompt pas son processus de création.
+                        L’artiste ou un tiers qu’il ou qu’elle a désigné poursuit le développement
+                        de l’œuvre. Le processus prend fin à une date déterminée par l’artiste et le
+                        musée, à la mort du créateur, ou plus rarement, il se poursuit de manière
+                        posthume. Ce mode de variation exige des collaborations étroites et
+                        privilégiées entre les artistes et les institutions. L’entrée de ces œuvres
+                        dans les collections s’accompagne parfois de nouvelles modalités de travail
+                        des artistes au sein du musée (l’aménagement d’ateliers ou d’espaces de
+                        création) et de l’adaptation de certains outils et méthodes de gestion des
+                        collections (la complexification des systèmes de datation et des numéros
+                        d’acquisition. L'œuvre <title>Darboral</title> de <persName>Massimo
+                            Guerrera</persName> fait, encore ici, figure d’exemple.</p>
+                </div>
+                <div>
+                    <head>Méthodes et outils permettant d’établir la variabilité des œuvres au
+                        moment de l’acquisition</head>
+                    <p>Les musées ont développé des méthodes et des outils pour établir la
+                        variabilité des œuvres au moment de l’acquisition : la documentation élargie
+                        et collaborative qui est traitée dans l’entrée <title>Acquisition de
+                            protocoles</title> de cette encyclopédie; l’itération de référence; le
+                        questionnaire d’artiste.</p>
+                    <p><soCalled>L’itération de référence</soCalled> désigne une manifestation
+                        particulière de l’œuvre que le musée choisit, qu’il documente et qui lui
+                        sert de modèle pour définir les usages futurs de la nouvelle acquisition. Il
+                        peut s’agir de l’itération de l’œuvre lors du comité d’acquisition, ou dans
+                        le cadre d’une exposition passée ou en cours. Bien qu’elle serve de
+                        référence, cette itération n’empêche pas les variations futures, mais permet
+                        au contraire de mieux les penser et les accompagner.</p>
+                    <p>Le moment de l’acquisition représente une occasion particulière pour
+                        l’institution acquéreuse de définir et de formaliser l’œuvre qu’elle entend
+                        conserver, exposer et faire circuler. Défendues devant des comités composés
+                        de membres représentant divers intérêts institutionnels, les œuvres en
+                        considération sont évaluées en fonction de leur valeur singulière,
+                        symbolique, esthétique et historique, en plus de leur stabilité matérielle.
+                        L’établissement d’une itération de référence permet d’anticiper les
+                        ressources nécessaires pour assurer la pérennité de l’œuvre et offre au
+                        musée la possibilité de développer une connaissance de ses propriétés
+                        matérielles et conceptuelles. L’élaboration d’un script (Semin 2001) pour la
+                        réactualisation comprend un transfert de connaissances, de savoir-faire et
+                        de responsabilité de l’artiste à l’institution. Non seulement les
+                        difficultés et les risques sont-ils identifiés, mais une planification et un
+                        partage des responsabilités relatives aux prises de décision futures sont
+                        également élaborés. À travers ce processus, qui privilégie l’expérimentation
+                        et la collaboration, le musée délimite la variabilité et adapte ses propres
+                        normes et pratiques en fonction de celle-ci. Cette période d’étude permet
+                        également d’établir la biographie de l’œuvre, de tracer ses diverses
+                        manifestations antérieures et de l’inscrire dans une généalogie. Par
+                        l’établissement d’une itération de référence, le musée enrichit sa
+                        connaissance des itérations passées et élargit sa compréhension des devenirs
+                        possibles de l’œuvre.</p>
+                    <p><emph>Le questionnaire d’artiste</emph> est un autre outil important dont les
+                        musées se sont dotés pour établir la variabilité des œuvres au moment de
+                        l’acquisition. L’émergence des questionnaires d’artiste apparaît avec les
+                        certificats d’authenticité dans les années 1960 par souci de ne pas trahir
+                        le concept original et/ou l’esthétique recherchée par un auteur, face à la
+                        réitération de l’exposition des œuvres dont la fragilité ou l’obsolescence
+                        des composants oblige une reconstitution partielle, voire complète.</p>
+                    <p>Ces questionnaires visaient d’abord à collecter des informations précises en
+                        regard de la matérialité de ces œuvres afin d’établir des protocoles de
+                        conservation-restauration en accord avec la déontologie du praticien, dont
+                        le concept de réversibilité des interventions. De même, leur évolution a
+                        permis de consigner de mieux en mieux les conditions spécifiques nécessaires
+                        à leur présentation. Cette documentation s’étant malgré tout révélée
+                        insuffisante, l’artiste ne pouvant pas toujours expliciter sa démarche par
+                        le biais d’un formulaire, elle a dû s’enrichir d’entretiens et de captations
+                        vidéo. La question des conditions de l’expérience sensible et de la
+                        réception de l’œuvre ont pris de l’importance. L’ensemble fournit ainsi au
+                        chercheur et à la chercheuse de même qu’au praticien et à la praticienne, de
+                        précieuses données qui permettent notamment de constituer un script précis
+                        d’itération, essentiel à la recréation ou la mise en exposition des
+                        œuvres.</p>
+                    <p>Le questionnaire d’artiste complété au moment de l’acquisition détermine donc
+                        l’identité singulière et originelle de l’œuvre à pérenniser, mais il permet
+                        également de négocier les responsabilités et les usages en regard des
+                        possibles variations de celle-ci lors de ses présentations ultérieures.</p>
+                </div>
+                <div>
+                    <head>Les limites de la variabilité</head>
+                    <p>Circonscrire la variabilité d’une œuvre au moment de l’acquisition, selon la
+                        dialectique authenticité-intégrité-variabilité, est un processus complexe
+                        qui n’est ni définitif ni infaillible. Il reste ouvert, fluide, et on doit
+                        toujours être en mesure de réévaluer ou de renégocier la variabilité d’une
+                        œuvre, après son entrée dans la collection. On pourra, par exemple, limiter
+                        les activations d’une œuvre en raison des altérations plus importantes que
+                        prévu qu’elles provoquent, interrompre une œuvre en cours avant la date
+                        initialement prévue parce que l’artiste n’est plus suffisamment motivé à la
+                        poursuivre, etc. Ces ajustements de la variabilité des œuvres de la
+                        collection en fonction de leurs usages sont fréquents et doivent être
+                        documentés. Ils visent à bonifier un ou plusieurs des traits contingents
+                        (fig. 1) : l’opérationnalité, le fonctionnement, le comportement de l’œuvre,
+                        les effets qu’elle doit produire, l’expérience qu’elle propose au
+                        public.</p>
+                    <p>Pour diverses raisons souvent liées à un désir de réinscrire une œuvre du
+                        passé dans l’actualité artistique à l’occasion d’une exposition, il arrive
+                        qu’un ou qu’une artiste décide d’apporter une modification très importante à
+                        l’une de ses œuvres qui outrepasse les possibilités de variation qui avait
+                        été établies lors de l’acquisition, par exemple la suppression d’un élément
+                        central de l’œuvre (Couture et Gagnier 2010). De telles modifications qui
+                        donnent l’impression qu’il ne s’agit plus de la même œuvre entraînent
+                        parfois des tensions entre les artistes et les conservatrices et
+                        conservateurs du musée. En effet, ces changements qui sont davantage de
+                        l’ordre du <soCalled>remaniement</soCalled> que de la variation portent
+                        atteinte à l’intégrité des œuvres. Il ne s’agit pas d’intervenir uniquement
+                        sur les traits contingents, mais sur les propriétés constitutives (fig. 1).
+                        Le concept, les intentions, l’esthétique sont repensés à l’occasion de ces
+                        remaniements qui donnent alors lieu à de nouvelles versions de l’œuvre,
+                        voire, plus rarement, à la création de nouvelles œuvres.</p>
+                    <p>Certains artistes exigent même que le musée renonce à présenter l’œuvre dans
+                        sa configuration initiale et cherchent à limiter la diffusion des
+                        photographies de son état antérieur. L’établissement de la généalogie des
+                        manifestations à partir de laquelle se construit l’intégrité de l’œuvre s’en
+                        trouve partiellement empêché. C’est le cas de l'œuvre de <persName>Jeff
+                            Wall</persName>, <title>Stéréo</title> (1980), qui se trouve dans les
+                        collections du <orgName>Musée des beaux-arts du Canada</orgName>. </p>
+                    <p>Un remaniement effectué par un ou une artiste sur son œuvre après son
+                        acquisition peut constituer une réponse heureuse à l’impossibilité du musée
+                        de continuer à l’exposer en raison de l’obsolescence, du bris ou de la perte
+                        d’une de ses composantes, par exemple. Dans de tels cas, les changements
+                        apportés par l’artiste et entérinés par l’institution contribuent à créer
+                        une nouvelle version de l’œuvre qui aura sa vie propre.</p>
+                    <p>Ces cas d’ajustements de la variabilité et de remaniements démontrent que
+                        l’acquisition ne fixe pas la variabilité des œuvres et que cette dernière
+                        reste toujours sujette à une renégociation au cours de laquelle les
+                        prérogatives respectives des acteurs impliqués peuvent entrer en conflit ou
+                        engendrer des phénomènes collaboratifs de cocréation.</p>
+                </div>
+
+                <div type="notes">
+                    <note place="foot" xml:id="ftn0" n="1">
+                        <p> Il n’existe pas de consensus sur la terminologie à adopter :
+                                <soCalled>œuvres variables</soCalled>/ <foreign xml:lang="eng"
+                                >variable artworks</foreign>, <soCalled>œuvres
+                                changeantes</soCalled>/<foreign xml:lang="eng">changing
+                                artworks</foreign> et <soCalled>œuvres évolutives</soCalled>/
+                                <foreign>evolving artworks</foreign> sont utilisées. Voir la
+                                <title>Chronologie des initiatives en conservation-restauration des
+                                œuvres variables</title>.</p>
+                    </note>
+                    
+                    <note place="foot" xml:id="ftn1" n="2">
+                        <p> Le terme <soCalled>activation</soCalled> est parfois préféré à celui
+                            d’<soCalled>actualisation</soCalled>, par exemple dans les
+                            expressions <soCalled>activation d’une œuvre à protocole</soCalled> 
+                            ou <soCalled>activer un protocole</soCalled>. Nous privilégions deux
+                            termes différents, activation et actualisation, pour décrire deux
+                            modalités de variation qui gagnent à être distinguées. Dans le
+                            langage courant, <soCalled>activer</soCalled> signifie <q>faire
+                                fonctionner quelque chose, le mettre en marche</q>, tandis
+                            qu’<soCalled>actualiser</soCalled>veut dire <q>faire passer de
+                                l’état virtuel à l’état réel</q> (Dictionnaire Antidote 11
+                            2024).</p>
+                    </note>
+                </div>
+
+                <head>Bibliographie</head>
+                <p><hi style="font-size:12pt">ACCR/ACRP (3</hi><hi rend="superscript"
+                        style="font-size:12pt"
+                        >e</hi><hi style="font-size:12pt" xml:space="preserve"> éd., 2000). </hi><hi
+                        rend="italic" style="font-size:12pt">Code de déontologie et guide du
+                        patricien</hi><hi style="font-size:12pt">. Ottawa : Association Canadienne
+                        pour la Conservation et la Restauration des biens culturels et de
+                        l’Association Canadienne des Restaurateurs Professionnels.</hi>
+                </p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Bénichou, A. (dir.) (2015). </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">Recréer/Scripter : mémoires et transmissions des œuvres performatives et chorégraphiques contemporaines. </hi><hi
+                        style="font-size:12pt">Dijon : Les presses du réel.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Bénichou, A. (dir.). (2010). </hi><hi
+                        rend="italic" style="font-size:12pt">Ouvrir le document: enjeux et pratiques
+                        de la documentation dans les arts visuels contemporains</hi><hi
+                        style="font-size:12pt">. Dijon : Les presses du réel.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Bernard, E. et al. (2003). </hi><hi
+                        rend="italic" style="font-size:12pt">Histoire de l’art: du Moyen Âge à nos
+                        jours</hi><hi style="font-size:12pt">. Paris : Larousse.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Brandi, C. ([1963], 2007). </hi><hi
+                        rend="italic" style="font-size:12pt">Théorie de la
+                    Restauration</hi><hi style="font-size:12pt" xml:space="preserve">. Paris : Éditions du Patrimoine, Centre des Monuments Nationaux. </hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Calonje, T. (dir). (2014). </hi><hi
+                        rend="italic" style="font-size:12pt">Live Forever. Collecting Live
+                        Art</hi><hi style="font-size:12pt">. Londres : Koenig Books.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Cassages-Brouquet, S. (2000). </hi><hi
+                        rend="italic" style="font-size:12pt">Vierges noires</hi><hi
+                        style="font-size:12pt">. Rodez : Éditions du Rouergue.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Clavir, Miriam (1998). The Social and Historic Construction of Professional Values in Conservation. </hi><hi
+                        rend="italic" style="font-size:12pt">Studies in
+                        Conservation,</hi><hi style="font-size:12pt" xml:space="preserve"> 43(1), 1–8. </hi><ref
+                        target="https://doi.org/10.2307/1506631"><hi rend="underline color(0000ff)"
+                            style="font-family:Helvetica Neue;font-size:12pt"
+                            >https://doi.org/10.2307/1506631</hi></ref><hi style="font-size:12pt"
+                        >.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">———. (2011). Preserving Conceptual Integrity: Ethics and Theory in Preventive Conservation. Dans Chris Caple (dir.).  </hi><hi
+                        rend="italic" style="font-size:12pt">Preventive Conservation in
+                        Museums</hi><hi style="font-size:12pt">, (p. 435-44). Leicester Readers in
+                        Museum Studies. Abingdon, Oxon : Routledge.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Cometti, J.-P. (2016). </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">Conserver / </hi><hi
+                        style="font-size:12pt">Restaurer</hi><hi rend="italic"
+                        style="font-size:12pt">. L'œuvre d'art à l'époque de sa préservation
+                        technique</hi><hi style="font-size:12pt">, Paris : Gallimard.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Conti, Alessandro. (2007). </hi><hi
+                        rend="italic" style="font-size:12pt">A History of the Restoration and
+                        Conservation of Works of Art</hi><hi style="font-size:12pt">. Translated by
+                        Helen Glanville. Oxford : Butterworth-Heinemann.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Couture, F. (2012). La restauration, un acte de collaboration entre l’artiste et le restaurateur in </hi><hi
+                        rend="italic" style="font-size:12pt">Espace
+                    culture</hi><hi style="font-size:12pt" xml:space="preserve"> (102), 17-20.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Couture, F. (2010). Réexposition et pérennité de l’art contemporain, Dans  </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">Culture &amp; Musées, La Révolution des musées d’art </hi><hi
+                        style="font-size:12pt">(sous la dir. De Gob.A., et R.,Montpetit) n°16,
+                        p.137-156.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Couture, F. et Gagnier, R. (2010). Les valeurs de la documentation muséologique : entre l’intégrité et les usages de l’œuvre d’art. </hi><hi
+                        rend="italic" style="font-size:12pt">Ouvrir le document. Enjeux et pratiques
+                        de la documentation dans les arts visuels
+                    contemporains</hi><hi style="font-size:12pt" xml:space="preserve"> (dir. A. Bénichou), 323-348. Dijon : Les presses du réel.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Dazord, C. (2008). L’art Contemporain Confronté Aux Phénomènes d’obsolescence Technologique – Ou l’impact Des Évolutions Technologiques Sur La Préservation Des Œuvres d’art Contemporain. Dans </hi><hi
+                        rend="italic" style="font-size:12pt">Restauration et Non-Restauration En Art
+                        Contemporain. Actes de Journées d’études Des 14 Février et 6 Avril
+                        2007</hi><hi style="font-size:12pt">, edited by Marie-Hélène Breuil, 51–63.
+                        Tours: École des Beaux-Arts de Tours.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Depocas, A. Ippolito, J., Jones, C. et Daniel Langlois Foundation for Art, Science and Technology (dir.). (2003). </hi><hi
+                        rend="italic" style="font-size:12pt">Permanence Through Change: the Variable
+                        Media Approach/La permanence par le changement : l’approche des médias
+                        variables</hi><hi style="font-size:12pt">. Montréal : Fondation Daniel
+                        Langlois pour l’art, la Science et la technologie. New York : Guggenheim
+                        Museum Publications.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Déotte, J.L. (2012), </hi><hi
+                        rend="italic" style="font-size:12pt">L’Appareil artistique de
+                        Schwitters</hi><hi style="font-size:12pt" xml:space="preserve">, </hi><ref
+                        target="http://journals.openedition.org/appareil/961"><hi
+                            rend="underline color(0000ff)"
+                            style="font-family:Helvetica Neue;font-size:12pt"
+                            >http://journals.openedition.org/appareil/961</hi></ref></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Derrida, J. (1988). Limited Inc a b c… Dans </hi><hi
+                        rend="italic" style="font-size:12pt">Limited Inc</hi><hi
+                        style="font-size:12pt">, (29-110). Evanston : Northwestern University
+                        Press.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Documentation et conservation du patrimoine des arts médiatiques (DOCAM, n.d.). Questionnaire pour les œuvres nouveaux médias. Montréal : Fondation Daniel Langlois pour l’art, la science et la technologie. </hi><ref
+                        target="https://www.docam.ca/fr/outils/questionnaire-de-conservation.html"
+                            ><hi rend="underline color(1155cc)"
+                            style="font-family:Helvetica Neue;font-size:12pt"
+                            >https://www.docam.ca/fr/outils/questionnaire-de-conservation.html</hi></ref></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Rubio, D. F. (2020). </hi><hi
+                        rend="italic" style="font-size:12pt">Still Life. Ecologies of the Modern
+                        Imagination at the Art Museum</hi><hi style="font-size:12pt">. Chicago,
+                        Londres : The University of Chicago Press.</hi></p>
+                <p><hi style="font-size:12pt">Emile-Mâle, G.
+                        (2008).</hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"> Pour une histoire de la restauration des peintures en France. </hi><hi
+                        style="font-size:12pt">Paris : Somogy éditions d’art.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Étienne, N. (2012). </hi><hi
+                        rend="italic" style="font-size:12pt">La restauration des peintures à Paris
+                        (1750-1815). Pratiques et discours sur la matérialité des œuvres
+                        d’art.</hi><hi style="font-size:12pt" xml:space="preserve"> Rennes : Presses Universitaires. </hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Étienne, N. et Hénaut, L. (2012). </hi><hi
+                        rend="italic" style="font-size:12pt">L’histoire à l’atelier : Restaurer les
+                        œuvres d’art, XVIIIe-XXIe siècles</hi><hi style="font-size:12pt">. Lyon :
+                        Presses Universitaires.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Finbow, A. (2021). New Approaches to Documenting Performance in the Museum: Value, History, and Strategy. </hi><hi
+                        rend="italic" style="font-size:12pt">Moving Spaces. Enacting Dance,
+                        Performance, and the Digital in the
+                    Museum</hi><hi style="font-size:12pt" xml:space="preserve"> (dir. S. Franco, G. Giannachi), 139-152. Venise : Ca’Foscari.</hi></p>
+                <p><hi style="font-size:12pt">Fraser, M. (2015), L’exposition</hi><hi
+                        rend="superscript" style="font-size:12pt"
+                        >2</hi><hi style="font-size:12pt" xml:space="preserve"> : Qu’est-ce qui fait exposition dans l’exposition ? </hi><hi
+                        rend="italic" style="font-size:12pt">Esse art +
+                    opinions</hi><hi style="font-size:12pt" xml:space="preserve"> (84), 4-13.</hi></p>
+                <p><hi style="font-size:12pt">Gagnier, R. (2004). L’œuvre à refaire : existence de
+                        l’oeuvre en tant qu’exposée et attitude de l’artiste face à sa
+                        reconstruction/Re-Making Artwork: Its existence as an exhibition and the
+                        artist's attitude concerning its<lb/>reconstruction. </hi><hi rend="italic"
+                        style="font-size:12pt">Espace
+                    Sculpture</hi><hi style="font-size:12pt" xml:space="preserve"> (69), 10–17.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Genette, G. ([1994 et 1997], 2010). </hi><hi
+                        rend="italic" style="font-size:12pt">L’œuvre de l’art</hi><hi
+                        style="font-size:12pt">. Paris : Seuil.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Glendinning, Simon. (2011). ‘Iterability’. Dans </hi><hi
+                        rend="italic" style="font-size:12pt">Derrida: A Very Short
+                        Introduction</hi><hi style="font-size:12pt" xml:space="preserve"> (p. 68–77). Oxford : Oxford University Press. </hi><ref
+                        target="https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803450.001.0001/actrade-9780192803450-chapter-6"
+                            ><hi rend="underline color(0000ff)"
+                            style="font-family:Helvetica Neue;font-size:12pt"
+                            >https://www.veryshortintroductions.com/view/10.1093/actrade/9780192803450.001.0001/actrade-9780192803450-chapter-6</hi></ref><hi style="font-size:12pt" xml:space="preserve">. </hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Goodman, N. et Morizot, J. ([1990],2022). </hi><hi
+                        rend="italic" style="font-size:12pt">Langages de l’art: une approche de la
+                        théorie des symboles</hi><hi style="font-size:12pt">. Fayard-Pluriel.
+                        Nîmes : Éditions Jacqueline Chambon.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Gimpel, J. (1968). </hi><hi
+                        rend="italic" style="font-size:12pt">Contre l’art et les artistes ou la
+                        naissance d’une religion</hi><hi style="font-size:12pt">. Paris :
+                        Seuil.</hi></p>
+                <p><hi style="font-size:12pt">Guillerme, J.
+                        (1964).</hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"> L’Atelier du Temps ; essai sur l’altération des peintures</hi><hi
+                        style="font-size:12pt">. Paris : Hermann.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Hölling, H. B., F. G. Bewer et K. Ammann (dir.) (2019). </hi><hi
+                        rend="italic" style="font-size:12pt">The Explicit Material: Inquiries on the
+                        Intersection of Curatorial and Conservation
+                        Cultures</hi><hi style="font-size:12pt" xml:space="preserve">, 1. Studies in Art &amp; Materiality. Leiden et Boston : Brill. </hi><ref
+                        target="https://ebookcentral.proquest.com/lib/umontreal-ebooks/detail.action?docID=5842466"
+                            ><hi rend="underline color(0000ff)"
+                            style="font-family:Helvetica Neue;font-size:12pt"
+                            >https://ebookcentral.proquest.com/lib/umontreal-ebooks/detail.action?docID=5842466</hi></ref><hi
+                        style="font-size:12pt">.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Hölling, H.B., Feldman, J.P., Magnin, E. (dir.) (2023). </hi><hi
+                        rend="italic" style="font-size:12pt">Performance. The Ethics and the
+                        Politics of Conservation and Care</hi><hi style="font-size:12pt">. Londres :
+                        Routledge.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Hummelen, IJsbrand M. C, and Dionne Sillé (dir.) (2005). </hi><hi
+                        rend="italic" style="font-size:12pt">Modern Art, Who Cares?: An
+                        Interdisciplinary Research Project and an International Symposium on the
+                        Conservation of Modern and Contemporary Art</hi><hi style="font-size:12pt">.
+                        London : Archetype Publications.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Lebeau.J (automne 2010). De l’intégrité de l’œuvre d’Art afin d’assurer sa juste pérennité : un entretien mené par Justine Lebeau avec Richard Gagnier, restaurateur en art contemporain, </hi><hi
+                        rend="italic" style="font-size:12pt">Muséologies les cahiers d’études
+                        supérieures</hi><hi style="font-size:12pt">, 5(1), 180-209.</hi></p>
+                <p><hi style="font-size:12pt">Laurenson, P. (automne 2006). Authenticity, Change and
+                        Loss in the Conservation of Time-Based Media
+                    Installations</hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">. Tate Papers, </hi><hi style="font-size:12pt" xml:space="preserve">6, pages ? </hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Laurenson, P. (2011). Vulnerabilities and Contingencies in the Conservation of Time-based Media Works of Art in Inside Installations.Theory and Practice. Dans </hi><hi
+                        rend="italic" style="font-size:12pt">The Care of Complex Artworks</hi>
+                    <hi style="font-size:12pt">(p. ?). Amsterdam : Amsterdam University Press.</hi>
+                </p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Lodder, C. (automne 2007). Naum Gabo and the Quandaries of the Replica in </hi><hi
+                        rend="italic" style="font-size:12pt">Tate Papers</hi><hi
+                        style="font-size:12pt">, 8. En ligne :
+                        https://www.tate.org.uk/research/tate-papers/08/naum-gabo-and-the-quandaries-of-the-replica</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Marck van der, J. (2014). László Moholy-Nagy. Konstruktion in Emaille 1. </hi><hi
+                        rend="italic" style="font-size:12pt">Art by Telephone
+                    Recalled</hi><hi style="font-size:12pt" xml:space="preserve"> (dir. S. Pluot, F. Vallos), 225-237. Paris : Éditions Mix.</hi>
+                </p>
+                <p><hi style="font-size:12pt" xml:space="preserve">McClean, D. (2014). Collecting Live Art: Performance and the Law. </hi><hi
+                        rend="italic" style="font-size:12pt">Live Forever. Collecting Live
+                    Art</hi><hi style="font-size:12pt" xml:space="preserve"> (dir. T. Calonje), 85-112. Londres : Koenig Books.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Mohen, J.-P. ([1999] 2005). </hi><hi
+                        rend="italic" style="font-size:12pt">Les sciences du patrimoine: identifier,
+                        conserver, restaurer</hi><hi style="font-size:12pt">. Paris : Editions Odile
+                        Jacob.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Mundici, M. C., et A. Rava (dir.) (2013). </hi><hi
+                        rend="italic" style="font-size:12pt">What’s Changing: Theories and Practices
+                        in the Restoration of Contemporary Art</hi><hi style="font-size:12pt">.
+                        Milan : Skira.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Muñoz Viñas, S. (2004). </hi><hi
+                        rend="italic" style="font-size:12pt">Contemporary Theory of
+                        Conservation</hi><hi style="font-size:12pt">. Oxford : Elsevier
+                        Butterworth-Heinemann.</hi></p>
+            </div>
+            <div>
+                <head><hi style="font-size:12pt" xml:space="preserve">Orchard, K. (2007). Kurt Schwitters: Reconstructions of the </hi><hi
+                        rend="italic" style="font-size:12pt">Merzbau. Tate Papers, 8.
+                        https://www.tate.org.uk/research/tate-papers/08/kurt-schwitters-reconstructions-of-the-merzbau</hi></head>
+                <p><hi style="font-size:12pt" xml:space="preserve">Penders, A.-F. (1995). </hi><hi
+                        rend="italic" style="font-size:12pt">Brancusi, la photographie ou l'atelier
+                        comme groupe mobile</hi><hi style="font-size:12pt">. Bruxelles : La lettre
+                        volée.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Poinsot, J.M. ([1999], 2008). </hi><hi
+                        rend="italic" style="font-size:12pt">Quand l’œuvre a lieu : l’art exposé et
+                        ses récits
+                    autorisés,</hi><hi style="font-size:12pt" xml:space="preserve"> Dijon : Les Presses du Réel.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Reiss, J. H. (1999). Spaces. Dans </hi><hi
+                        rend="italic" style="font-size:12pt">From Margin to Center: The Spaces of
+                        Installation
+                    Art</hi><hi style="font-size:12pt" xml:space="preserve"> (p. 69–106). Cambridge, Mass. : MIT Press.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Scholte, T., et G. Wharton. (2011). </hi><hi
+                        rend="italic" style="font-size:12pt">Inside Installations: Theory and
+                        Practice in the Care of Complex Artworks</hi><hi style="font-size:12pt">.
+                        Amsterdam: Amsterdam University Press.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Saaze van, V. (2013). </hi><hi
+                        rend="italic" style="font-size:12pt">Installation Art and the Museum.
+                        Presentation and Conservation of Changing Artworks</hi><hi
+                        style="font-size:12pt">. Amsterdam : Amsterdam University Press.</hi></p>
+                <p><hi style="font-size:12pt" xml:space="preserve">Semin, D. (2001). </hi><hi
+                        rend="italic" style="font-size:12pt">Le peintre et le modèle déposé</hi><hi
+                        style="font-size:12pt">, Genève : Mamco.</hi></p>
+            </div>
+            <div>
+                <head><hi rend="bold" style="font-size:12pt">Encadrés</hi></head>
+                <list rend="bulleted">
+                    <item><hi style="font-size:12pt">Chronologie des initiatives en
+                            conservation-restauration des œuvres variables</hi></item>
+                    <item><hi style="font-size:12pt">Acquisition d’œuvres variables : études de cas
+                            (à choisir).</hi></item>
+                </list>
+            </div>
+            <div>
+                <head><hi rend="bold" style="font-size:12pt">Références à d’autres entrées de
+                        l’</hi><hi rend="italic bold" style="font-size:12pt"
+                    >Encyclopédie</hi></head>
+            </div>
+            <div>
+                <head><hi style="font-size:12pt">« Acquisition de protocoles »</hi></head>
+                <list rend="bulleted">
+                    <item><hi style="font-size:12pt">À voir : « Garde partagée »</hi></item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI>
