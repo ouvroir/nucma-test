@@ -5,14 +5,14 @@
         <fileDesc>
             <titleStmt>
                 <title type="main">Acquisition d’œuvres variables</title>
-                <author>
-                    <persName>
-                        <!-- ref="#AB" -->
+                <author ref="#benichouAnne">Bénichou, Anne
+                    <!-- A supprimer si notice créée ? Faut-il noter le nom standardisé dans author ?<persName>
+                        ref="#AB" 
                         <forename>Anne</forename>
                         <surname>Bénichou</surname>
                     </persName>
-                    <affiliation>Université du Québec à Montréal </affiliation>
-                    <idno type="ORCID">0000-0003-3761-608X</idno>
+                    <affiliation>Université du Québec à Montréal</affiliation>
+                    <idno type="ORCID">0000-0003-3761-608X</idno> -->
                 </author>
                 <author>
                     <persName>
@@ -83,81 +83,65 @@
             <change when="2025-03-31" type="v1">Premier brouillon</change>
         </revisionDesc>
     </teiHeader>
+
     <text xml:lang="fr">
-        <front>
-            <head>Acquisition par protocole</head>
-            <div type="abstract">
-                <p>Dans sa définition reportée du dictionnaire, le terme
-                        <soCalled>protocole</soCalled> désigne une <q>instruction précise et
-                        détaillée mentionnant toutes les opérations à effectuer dans un certain
-                        ordre ainsi que les principes fondamentaux à respecter pour exécuter une
-                        opération, réaliser une expérience</q>(TLF). Ce mot, dont l’usage est
-                    répandu dans le champ des sciences exactes, mais aussi dans le domaine
-                    juridique, diplomatique et même psychologique, a été investi dans (et par) le
-                    monde de l’art et des institutions muséales à compter des années 1960, sans pour
-                    autant faire l’objet d’une définition propre.</p>
-            </div>
-            <div type="acknowledgements">
-                <p>L’auteur tient à remercier...</p>
-            </div>
-        </front>
-    </text>
-    <text>
+
         <body>
             <div type="introduction">
-                <p>L’expression <soCalled>œuvre d’art variable</soCalled><ref target="ftn0"/>désigne
-                    un large éventail de stratégies artistiques, y compris, mais sans s’y limiter,
-                    l’art conceptuel, les pratiques performatives corporelles, les installations et
-                    les arts médiatiques. À partir de la fin des années 1960, les musées ont
-                    progressivement intégré l’ensemble de ces pratiques à leurs collections, selon
-                    des modalités atypiques d’acquisition : d’abord l’art conceptuel ainsi que les
-                    premières installations, au début des années 1970 ; puis, avec la décennie 1980,
-                    l’acquisition d’installations se généralise en réponse à la place prépondérante
-                    qu’elles occupent dans les biennales ; les œuvres multimédias utilisant les
-                    nouvelles technologies suivent avec les années 1990. Malgré sa popularité dans
-                    le cadre d’expositions temporaires et de programmation événementielle, la
-                    performance n’entre dans les collections qu’aux alentours de 2010. L’acquisition
-                    de ces œuvres a généré des transformations importantes des approches, des
-                    méthodes et de certains principes déontologiques de la conservation et de la
-                    restauration. La dématérialisation des œuvres, leur adaptation aux espaces
-                    d’exposition, leur interactivité avec les spectateurs et les spectatrices, le
-                    caractère éphémère de plusieurs d’entre elles, l’obsolescence rapide de certains
-                    matériaux comptent parmi les défis importants.</p>
+                <p>L’expression <soCalled>œuvre d’art variable</soCalled><ref target="#ftn0"
+                    />désigne un large éventail de stratégies artistiques, y compris, mais sans s’y
+                    limiter, l’art conceptuel, les pratiques performatives corporelles, les
+                    installations et les arts médiatiques. À partir de la fin des années 1960, les
+                    musées ont progressivement intégré l’ensemble de ces pratiques à leurs
+                    collections, selon des modalités atypiques d’acquisition : d’abord l’art
+                    conceptuel ainsi que les premières installations, au début des années 1970 ;
+                    puis, avec la décennie 1980, l’acquisition d’installations se généralise en
+                    réponse à la place prépondérante qu’elles occupent dans les biennales ; les
+                    œuvres multimédias utilisant les nouvelles technologies suivent avec les années
+                    1990. Malgré sa popularité dans le cadre d’expositions temporaires et de
+                    programmation événementielle, la performance n’entre dans les collections qu’aux
+                    alentours de 2010. L’acquisition de ces œuvres a généré des transformations
+                    importantes des approches, des méthodes et de certains principes déontologiques
+                    de la conservation et de la restauration. La dématérialisation des œuvres, leur
+                    adaptation aux espaces d’exposition, leur interactivité avec les spectateurs et
+                    les spectatrices, le caractère éphémère de plusieurs d’entre elles,
+                    l’obsolescence rapide de certains matériaux comptent parmi les défis
+                    importants.</p>
                 <p>Afin de développer de nouvelles approches à l’échelle internationale, une série
                     de conférences et de réseaux sur la conservation ont été créés dans les années
-                    1990 (voir la <title>Chronologie des initiatives en conservation-restauration
-                        des œuvres variables</title>). En 1997, le symposium <title>Modern Art: Who
-                        Cares? </title> (Hummelen, Sillé 2005) a notamment reconnu le besoin de
-                    préserver des données d’ordre immatériel, dans le prolongement de la Conférence
-                    de Nara (1994) au cours de laquelle la notion d’authenticité reposant
-                    entièrement sur la matérialité d’origine des artefacts fut vivement critiquée et
-                    jugée européocentrique. En 2001, <title>L’Approche de médias
-                    variables</title>(Depocas et al. 2003) a cherché pour sa part à dissocier la
-                    définition de l’œuvre d’art de ses composantes matérielles originales, afin de
-                    permettre les migrations d’œuvres sur de nouveaux supports technologiques plus
-                    récents. On identifia notamment un glissement du régime autographique
-                    traditionnel des œuvres d’art (une œuvre faite des mains de l’artiste) à un
-                    régime allographique (une œuvre qui existe sous la forme de notations et
-                    d’exécutions successives prises en charge par des interprètes) (Goodman 2022;
-                    Laurenson 2006 et 2009). Ces initiatives ont déclenché de nombreux projets de
-                    recherche autour des questions de l’authenticité, de la variabilité et de
-                    l’autorité auctoriale. Ainsi, les <orgName>Tate Papers</orgName>, magazine en
-                    ligne publié par la Tate, les groupes de recherche, que ce soit
-                        <orgName>DOCAM</orgName> mené par la <orgName>Fondation Daniel
-                        Langlois</orgName> pour l’art, la science et la technologie ou
-                        <orgName>Variations et Pérennité</orgName> dirigé à
-                        l’<affiliation>Université du Québec à Montréal</affiliation> (UQAM) par
-                    Francine Couture, ont contribué à produire des modèles de documentation, des
-                    glossaires, des guides de conservation encore utilisés aujourd’hui. Les années
-                    2010 sont marquées par d’autres initiatives basées sur des études de cas,
-                    notamment <title>Inside Installations</title>, <title>VoCA</title>,
-                        <title>INCCA</title> et <title>Matters in Media Art</title>. Alors que la
-                    théorie traditionnelle de la conservation muséale met l’accent sur la fixité des
-                    œuvres dans le temps et se caractérise par l’adhésion aux principes
-                    d’intervention minimale, de réversibilité, d’universalité et d’objectivité, ces
-                    initiatives ont fait émerger au cours des 30 dernières années de nouvelles
-                    approches qui misent sur l’identification des propriétés conceptuelles des
-                    œuvres et la gestion de leur changement.</p>
+                    1990 (voir la <!-- title -->Chronologie des initiatives en
+                    conservation-restauration des œuvres variables). En 1997, le symposium
+                    <!-- title ? --> Modern Art: Who Cares?  (Hummelen, Sillé 2005) a notamment
+                    reconnu le besoin de préserver des données d’ordre immatériel, dans le
+                    prolongement de la Conférence de Nara (1994) au cours de laquelle la notion
+                    d’authenticité reposant entièrement sur la matérialité d’origine des artefacts
+                    fut vivement critiquée et jugée européocentrique. En 2001,
+                    <!-- title ? -->L’Approche de médias variables(Depocas et al. 2003) a cherché
+                    pour sa part à dissocier la définition de l’œuvre d’art de ses composantes
+                    matérielles originales, afin de permettre les migrations d’œuvres sur de
+                    nouveaux supports technologiques plus récents. On identifia notamment un
+                    glissement du régime autographique traditionnel des œuvres d’art (une œuvre
+                    faite des mains de l’artiste) à un régime allographique (une œuvre qui existe
+                    sous la forme de notations et d’exécutions successives prises en charge par des
+                    interprètes) (Goodman 2022; Laurenson 2006 et 2009). Ces initiatives ont
+                    déclenché de nombreux projets de recherche autour des questions de
+                    l’authenticité, de la variabilité et de l’autorité auctoriale. Ainsi, les
+                        <orgName>Tate Papers</orgName>, magazine en ligne publié par la Tate, les
+                    groupes de recherche, que ce soit <orgName>DOCAM</orgName> mené par la
+                        <orgName>Fondation Daniel Langlois</orgName> pour l’art, la science et la
+                    technologie ou <orgName>Variations et Pérennité</orgName> dirigé à
+                        l’<orgName>Université du Québec à Montréal</orgName> (UQAM) par Francine
+                    Couture, ont contribué à produire des modèles de documentation, des glossaires,
+                    des guides de conservation encore utilisés aujourd’hui. Les années 2010 sont
+                    marquées par d’autres initiatives basées sur des études de cas, notamment <!-- Comment baliser les projets ? Title ? -->
+                    <title>Inside Installations</title>, <title>VoCA</title>, <title>INCCA</title>
+                    et <title>Matters in Media Art</title>. Alors que la théorie traditionnelle de
+                    la conservation muséale met l’accent sur la fixité des œuvres dans le temps et
+                    se caractérise par l’adhésion aux principes d’intervention minimale, de
+                    réversibilité, d’universalité et d’objectivité, ces initiatives ont fait émerger
+                    au cours des 30 dernières années de nouvelles approches qui misent sur
+                    l’identification des propriétés conceptuelles des œuvres et la gestion de leur
+                    changement.</p>
                 <p>La notion de variabilité des œuvres est-elle une spécificité de l’art
                     contemporain  ? Peut-on en repérer des manifestations dans les périodes
                     prémodernes et modernes  ? Quelles formes prennent ces variations  ? Comment la
@@ -175,14 +159,14 @@
                         d’apparence au cours des siècles pour accompagner l’histoire religieuse
                         (Cassagnes-Brouquet 2000). Les histoires de l’art rapportent de multiples
                         cas de transformation d’œuvres soumises au goût du jour et aux visées de
-                        leurs propriétaires. En 1559, les nus du <title>Jugement dernier</title> de
-                            <persName>Michel-Ange</persName> furent
-                        <soCalled>habillés</soCalled>  par décret de Paul IV. Dans l’Europe du
+                        leurs propriétaires. En 1559, les nus du <objectName>Jugement
+                            dernier</objectName> de <persName>Michel-Ange</persName> furent
+                            <soCalled>habillés</soCalled>  par décret de Paul IV. Dans l’Europe du
                         XVIII <hi rend="sup">e</hi> siècle, on dépose les peintures murales et les
                         fresques incluant celles de la Couronne, on disloque les ensembles (Étienne
                         2012). On prélève des parties de tableau, on en modifie les dimensions
-                        initiales afin de les adapter à de nouveaux espaces. <title>La Ronde de
-                            nuit</title> fut retaillée en 1715 lors de son transfert à
+                        initiales afin de les adapter à de nouveaux espaces. <objectName>La Ronde
+                            de nuit</objectName> fut retaillée en 1715 lors de son transfert à
                             l’<placeName>Hôtel de Ville d’Amsterdam</placeName>(Rijksmuseum).</p>
                     <p>Le respect de l’intégrité matérielle des œuvres ne devient impératif qu’avec
                         le siècle des Lumières, alors qu’une conscience nouvelle accorde une place
@@ -195,17 +179,17 @@
                         l’œuvre unique et pérenne. Les nouveaux matériaux issus de
                         l’industrialisation naissante apportent aux artistes des possibilités
                         inédites d’exploration. Les travaux des constructivistes russes, des
-                        dadaïstes, des représentants et représentantes du
-                            <affiliation>Bauhaus</affiliation> en témoignent. Les matériaux
-                        industriels qui permettent d’engendrer de nouvelles formes peuvent accuser
-                        une nature instable qui implique parfois des restaurations invasives ou le
-                        remplacement intégral des œuvres avec des matières plus stables (Lodder
-                        2007). L’industrialisation amène également quelques artistes à explorer des
-                        modes de production standardisés et sériels, telle la reproduction mécanisée
-                        déléguée à autrui (Marck 2014). Ces explorations contredisent la notion
-                        d’œuvre autographe, un objet unique, fabriqué des mains de l’artiste, à
-                        conserver en l’état, sur laquelle s’est élaborée la déontologie de la
-                        conservation-restauration des musées.</p>
+                        dadaïstes, des représentants et représentantes du Bauhaus
+                        <!-- Mets-on des balises "term" pour "constructivistes" "dadaïstes" et "Bauhaus" ? -->
+                        en témoignent. Les matériaux industriels qui permettent d’engendrer de
+                        nouvelles formes peuvent accuser une nature instable qui implique parfois
+                        des restaurations invasives ou le remplacement intégral des œuvres avec des
+                        matières plus stables (Lodder 2007). L’industrialisation amène également
+                        quelques artistes à explorer des modes de production standardisés et
+                        sériels, telle la reproduction mécanisée déléguée à autrui (Marck 2014). Ces
+                        explorations contredisent la notion d’œuvre autographe, un objet unique,
+                        fabriqué des mains de l’artiste, à conserver en l’état, sur laquelle s’est
+                        élaborée la déontologie de la conservation-restauration des musées.</p>
                     <p>On remarque également au cours de la modernité des pratiques sculpturales aux
                         configurations variables qui annoncent les environnements ou les
                         installations contemporaines. <persName>Constantin Brancusi</persName>
@@ -213,11 +197,11 @@
                         (Penders 1995). Dans son atelier, il les mettait en relation les unes avec
                         les autres, selon des arrangements régulièrement reconfigurés, prenant
                         valeur d’œuvre en cours. Vers 1923, <persName>Kurt Schwitters</persName>
-                        entreprit son <title>Merzbau</title>, une sculpture faite d’assemblage de
-                        matériaux trouvés, envahissant les pièces et les étages de son atelier et de
-                        sa maison à Hanovre, et jamais achevée. Obligé de s’exiler en 1937,
-                        l’artiste en reprit la construction dans différents lieux, selon des
-                        configurations différentes (Orchard 2007). En 1932, <persName>Alexander
+                        entreprit son <objectName>Merzbau</objectName>, une sculpture faite
+                        d’assemblage de matériaux trouvés, envahissant les pièces et les étages de
+                        son atelier et de sa maison à Hanovre, et jamais achevée. Obligé de s’exiler
+                        en 1937, l’artiste en reprit la construction dans différents lieux, selon
+                        des configurations différentes (Orchard 2007). En 1932, <persName>Alexander
                             Calder</persName> expose ses premiers mobiles mis en mouvement par les
                         turbulences de l’espace environnant. Ces expérimentations introduisent les
                         questions de l’activation des œuvres, de leur adaptation et de leur
@@ -326,8 +310,9 @@
                         Au moment de l’acquisition, le musée en collaboration avec les artistes
                         anticipent ces questions et éventuellement les réponses qu’ils et qu’elles
                         pourront y apporter. Ce fut le cas de l'acquisition de l'œuvre
-                            <title>Envahisseurs</title> (2019) de Hannah Claus qui se trouve dans la
-                        collection du <orgName>Musée des beaux-arts de Montréal</orgName> (MBAM). </p>
+                            <objectName>Envahisseurs</objectName> (2019) de Hannah Claus qui se
+                        trouve dans la collection du <orgName>Musée des beaux-arts de
+                            Montréal</orgName> (MBAM). </p>
                     <p><emph>L’adaptation</emph> consiste à apporter des modifications à une œuvre
                         lors de sa mise en vue pour l'adapter à de nouveaux milieux, contextes et
                         situations. Par exemple, la réduction de sa taille pour la présenter dans un
@@ -339,9 +324,9 @@
                         de l’expérience souhaitée. Jusqu’où diminuer le nombre d’éléments d’une
                         installation sans oblitérer sa signification    ? Quels effets les ajouts
                         d’éléments contextuels doivent-ils produire    ? Ces questions refont
-                        surface à chaque exposition d’une œuvre comme <title>La forme des
-                            jours</title> (2011) de <persName>Serge Murphy</persName> qui se trouve
-                        également dans la collection du <orgName>MBAM</orgName>.</p>
+                        surface à chaque exposition d’une œuvre comme <objectName>La forme des
+                            jours</objectName> (2011) de <persName>Serge Murphy</persName> qui se
+                        trouve également dans la collection du <orgName>MBAM</orgName>.</p>
                     <p><emph>L’activation</emph> consiste à mettre en action certains éléments d’une
                         œuvre ou de les impliquer dans des actions ou des événements définis et
                         organisés au préalable. Ces actions peuvent être le fait des artistes, du
@@ -355,32 +340,35 @@
                         établir leurs limites afin de ne pas altérer l’authenticité de l’œuvre
                         comprise dans son sens élargi. À titre d’exemple, l’activation est une
                         modalité indissociable de l’œuvre de <persName>Massimo Guerrera</persName>,
-                            <title>Darboral</title> (2000-2005), qui fait partie de la collection du
-                            <orgName>Musée national des beaux-arts du Québec</orgName> (MNBAQ). </p>
+                            <objectName>Darboral</objectName> (2000-2005), qui fait partie de la
+                        collection du <orgName>Musée national des beaux-arts du Québec</orgName>
+                        (MNBAQ). </p>
                     <p>Parce qu’aujourd’hui les publics s’attendent à <soCalled>vivre une
                             expérience</soCalled> au musée, l’activation des œuvres, y compris au
                         sein des collections, est une modalité de variation de plus en plus
                         valorisée et privilégiée. On y voit la possibilité de programmer des
                         activités participatives, ludiques ou festives au sein des collections. Dans
                         certains cas, l’activation peut remettre en question les modalités
-                        traditionnelles de collectionnement (notamment avec le <title>Plafond
-                            suspendu</title> (B-F-G) (2019), une œuvre collective du <orgName>Musée
+                        traditionnelles de collectionnement (notamment avec le <objectName>Plafond
+                            suspendu</objectName>
+                        <persName>(B-F-G)</persName> (2019), une œuvre collective du <orgName>Musée
                             d'art contemporain des Laurentides</orgName>). </p>
-                    <p><emph>L’actualisation</emph><ref target="#ftn1"/> implique qu’une partie ou que la totalité de l’œuvre soit
-                        rematérialisée à chacune de ses présentations, ce qui nécessite la 
-                        consignation de procédures, l’acquisition de savoir-faire par le personnel
-                        du musée, la désignation de personnes qui prendront en charge les futures
-                        itérations. Les œuvres conceptuelles qui entrent dans les collections
-                        muséales sous la forme de protocoles depuis les années 1970 en sont
-                        paradigmatiques. L’actualisation d’œuvres exigeant l’acquisition de
-                        savoir-faire manuels singuliers peut s’avérer beaucoup plus complexe. Les
-                        musées doivent s’assurer que les artistes les transmettent à leurs équipes
-                        techniques et de restauration, puis se dotent des moyens de consigner ces
-                        apprentissages pour les léguer aux générations successives de personnel.
-                        Pensons, par exemple, à l’activation de l’œuvre <persName>Jana
-                            Sterbak</persName>, <title>Vanitas : robe de chair pour albinos
-                            anorexique</title> (1987) qui se trouvent dans les collections du
-                            <orgName>Walker Art Center</orgName>, Minneapolis et du
+                    <p><emph>L’actualisation</emph><ref target="#ftn1"/> implique qu’une partie ou
+                        que la totalité de l’œuvre soit rematérialisée à chacune de ses
+                        présentations, ce qui nécessite la consignation de procédures, l’acquisition
+                        de savoir-faire par le personnel du musée, la désignation de personnes qui
+                        prendront en charge les futures itérations. Les œuvres conceptuelles qui
+                        entrent dans les collections muséales sous la forme de protocoles depuis les
+                        années 1970 en sont paradigmatiques. L’actualisation d’œuvres exigeant
+                        l’acquisition de savoir-faire manuels singuliers peut s’avérer beaucoup plus
+                        complexe. Les musées doivent s’assurer que les artistes les transmettent à
+                        leurs équipes techniques et de restauration, puis se dotent des moyens de
+                        consigner ces apprentissages pour les léguer aux générations successives de
+                        personnel. Pensons, par exemple, à l’activation de l’œuvre <!-- 'activation de l'oeuvre "de" Jana Sterbak"' ou 'activation de l'oeuvre 'Vanitas : robe de chair pour albinos
+                            anorexique' 'de Jana Sterbak'  -->
+                        <persName>Jana Sterbak</persName>, <objectName>Vanitas : robe de chair pour
+                            albinos anorexique</objectName> (1987) qui se trouvent dans les
+                        collections du <orgName>Walker Art Center</orgName>, Minneapolis et du
                             <orgName>MNAM</orgName> – <placeName>Centre Georges
                         Pompidou</placeName>.</p>
                     <p>Les œuvres performatives que les musées ont commencé à acquérir au milieu des
@@ -539,25 +527,26 @@
                 <div type="notes">
                     <note place="foot" xml:id="ftn0" n="1">
                         <p> Il n’existe pas de consensus sur la terminologie à adopter :
-                                <soCalled>œuvres variables</soCalled>/ <foreign xml:lang="eng"
-                                >variable artworks</foreign>, <soCalled>œuvres
-                                changeantes</soCalled>/<foreign xml:lang="eng">changing
-                                artworks</foreign> et <soCalled>œuvres évolutives</soCalled>/
-                                <foreign>evolving artworks</foreign> sont utilisées. Voir la
-                                <title>Chronologie des initiatives en conservation-restauration des
+                                <soCalled>œuvres variables/ <foreign xml:lang="eng">variable
+                                    artworks</foreign></soCalled>, <soCalled>œuvres
+                                    changeantes/<foreign xml:lang="eng">changing
+                                artworks</foreign></soCalled> et <soCalled>œuvres évolutives/
+                                    <foreign>evolving artworks</foreign></soCalled> sont utilisées.
+                            Voir la <!-- Référence à un article de l'encyclopédie ? balise title ? -->
+                            <title>Chronologie des initiatives en conservation-restauration des
                                 œuvres variables</title>.</p>
                     </note>
-                    
+
                     <note place="foot" xml:id="ftn1" n="2">
                         <p> Le terme <soCalled>activation</soCalled> est parfois préféré à celui
-                            d’<soCalled>actualisation</soCalled>, par exemple dans les
-                            expressions <soCalled>activation d’une œuvre à protocole</soCalled> 
-                            ou <soCalled>activer un protocole</soCalled>. Nous privilégions deux
+                                d’<soCalled>actualisation</soCalled>, par exemple dans les
+                            expressions <soCalled>activation d’une œuvre à protocole</soCalled>  ou
+                                <soCalled>activer un protocole</soCalled>. Nous privilégions deux
                             termes différents, activation et actualisation, pour décrire deux
-                            modalités de variation qui gagnent à être distinguées. Dans le
-                            langage courant, <soCalled>activer</soCalled> signifie <q>faire
-                                fonctionner quelque chose, le mettre en marche</q>, tandis
-                            qu’<soCalled>actualiser</soCalled>veut dire <q>faire passer de
+                            modalités de variation qui gagnent à être distinguées. Dans le langage
+                                courant, <soCalled>activer</soCalled> signifie <q>faire fonctionner
+                                quelque chose, le mettre en marche</q>, tandis
+                                qu’<soCalled>actualiser</soCalled>veut dire <q>faire passer de
                                 l’état virtuel à l’état réel</q> (Dictionnaire Antidote 11
                             2024).</p>
                     </note>
