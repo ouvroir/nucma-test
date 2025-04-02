@@ -17,11 +17,14 @@
                     </persName>
                 </author>
             </titleStmt>
-            <editionStmt>
-                <edition><date>unknown date</date></edition>
-            </editionStmt>
             <publicationStmt>
-                <p>unknown</p>
+                <publisher/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>Ce contenu est mis à disposition sous licence Creative Commons
+                            Attribution 4.0.</p>
+                    </licence>
+                </availability>
             </publicationStmt>
             <sourceDesc>
                 <p>Converted from a Word document</p>
@@ -48,19 +51,7 @@
     </teiHeader>
     <text>
         <body>
-            <p><title>Les collections en copropriété</title></p>
-            <div>
-                <head>Les collections en copropriété</head>
-                <p>Autrices : </p>
-                <list rend="bulleted">
-                    <item><persName>Josée Drouin-Brisebois</persName>, réalisatrice et gérante
-                        principale du rayonnement national, <orgName>Musée des beaux-arts du
-                            Canada</orgName></item>
-                    <item><persName>Jessica Minier</persName>, doctorante, <orgName>Université du
-                            Québec en Outaouais</orgName></item>
-                </list>
-                <p>3 861/3 800 mots</p>
-                <!--#RC a enlever ou non-->
+            <div type="introduction">
                 <p>À l’heure actuelle, les musées doivent faire preuve d’ingéniosité pour développer
                     leurs collections d’autant plus qu’ils composent avec des ressources et un
                     pouvoir d’achat limités. Si le marché de l’art se caractérise par une offre
@@ -74,474 +65,453 @@
                     muséalisation à proprement parler comme ses débuts remontent aux années 1970. Le
                     tout premier cas identifié date de 1973 : <orgName>le Metropolitan Museum of
                         Art</orgName> et le <orgName>Louvre</orgName> procèdent à la coacquisition
-                    d’un peigne en ivoire représentant l’Arbre de
-                    Jessé<!--Une balise ici pour un motif iconographique?#RC --> , datant du début
-                    du 13<hi rend="superscript" style="font-size:12pt">e</hi> siècle <bibl>(Shirey,
-                        1973)</bibl>. Or, dans la dernière décennie, on peut observer une
-                    accélération importante de l’acquisition conjointe. Depuis 2010, on remarque
-                    qu’il y a autant de cas d’acquisitions conjointes sinon plus que sur les presque
-                    40 ans que représente la période allant de 1973 à 2010. Malgré cet intérêt
-                    grandissant pour la pratique dans le milieu professionnel, l’acquisition
-                    conjointe demeure un sujet assez peu exploré dans la littérature académique. La
-                    propriété partagée entre musées est effleurée dans certains ouvrages de
-                    référence <bibl>(<persName>Matassa</persName>, 2010, 2011 ;
+                    d’un <objectName>peigne en ivoire représentant l’Arbre de
+                    Jessé</objectName><!--Une balise <term> ici pour un motif iconographique? ou alors juste objectname, ou aucune balise ?#RC -->
+                    , datant du début du 13<hi rend="sup">e</hi> siècle <bibl>(Shirey, 1973)</bibl>.
+                    Or, dans la dernière décennie, on peut observer une accélération importante de
+                    l’acquisition conjointe. Depuis 2010, on remarque qu’il y a autant de cas
+                    d’acquisitions conjointes sinon plus que sur les presque 40 ans que représente
+                    la période allant de 1973 à 2010. Malgré cet intérêt grandissant pour la
+                    pratique dans le milieu professionnel, l’acquisition conjointe demeure un sujet
+                    assez peu exploré dans la littérature académique. La propriété partagée entre
+                    musées est effleurée dans certains ouvrages de référence
+                            <bibl>(<persName>Matassa</persName>, 2010, 2011 ;
                             <persName>Tobelem</persName>,
                     2010)</bibl><!-- 2 ref = 1 ou 2 balises bibl--> et a fait l’objet d’un mémoire
                     de maîtrise en muséologie de l’<orgName>Université d’Amsterdam</orgName>
                     <bibl>(<persName>van Ravenzwaay</persName>, 2015)</bibl>. Puisque l’acquisition
                     conjointe n’a pas fait l’objet de recherches approfondies dans le milieu muséal
                     francophone, cette entrée en pose les balises théoriques.</p>
+            </div>
+            <div>
+                <head>Inventaire terminologique</head>
+                <p> Pour référer à cette pratique de copropriété des œuvres, les musées utilisent
+                    des termes comme <soCalled>acquisition conjointe</soCalled>
+                    <bibl>(<orgName>Centre Pompidou</orgName>, 1995)</bibl>, <soCalled xml:lang="en"
+                        >joint purchase</soCalled>
+                    <bibl>(<orgName>MET Museum</orgName>, 1974)</bibl>,
+                        <soCalled>copropriété</soCalled>
+                    <bibl>(<orgName>Musée des beaux-arts du Canada</orgName>, 2018)</bibl> et
+                        <soCalled>co-acquisition</soCalled>
+                    <bibl>(<orgName>National Museum of African American History and
+                            Culture</orgName>, 2018)</bibl>. Dans <orgName>la presse</orgName>, on
+                    retrouve <soCalled>acquisition conjointe</soCalled>
+                    <bibl>(<persName>Lalonde</persName>, 2018)</bibl>, de même que sa version
+                    anglophone <soCalled xml:lang="en">joint acquisition</soCalled>
+                    <bibl>(<persName>Finkel</persName>, 2011)</bibl>, et <soCalled>achat
+                        conjoint</soCalled>
+                    <bibl>(<persName>Demarle</persName>, 2019)</bibl>. À cela s’ajoute le terme
+                        <soCalled xml:lang="en">joint ownership</soCalled>
+                    <bibl>(<persName>Shirey</persName>, 1973)</bibl> qui est aussi privilégié par le
+                    milieu universitaire <bibl>(<persName>van Ravenzwaay</persName>, 2015)</bibl> au
+                    même titre que <soCalled xml:lang="en">shared ownership</soCalled>
+                    <bibl>(<persName>Matassa</persName>, 2011)</bibl>. Selon <persName>Jules van
+                        Ravenzwaay</persName>, le terme <soCalled xml:lang="en">joint
+                        ownership</soCalled> : <q xml:lang="en">[…] is a construction in which
+                        museums are acquiring artworks in shared ownership agreements with peer
+                        institutions instead of aiming at private ownership.</q>
+                    <persName>Freda Matassa</persName> abonde dans le même sens avec la <soCalled
+                        xml:lang="en">shared ownership</soCalled> qui se produit lorsque deux
+                    parties ou plus s’associent pour acquérir un objet
+                            <bibl>(<persName>Matassa</persName>, 2011)</bibl>. Dans la littérature
+                    académique francophone, le terme <soCalled>garde négociée</soCalled> est proposé
+                    dans le <bibl>Dictionnaire de muséologie
+                        <!--balise orgname ici, ou title? #RC--> (2022)</bibl>. L’entrée indique que
+                    certains musées se regroupent pour faire des acquisitions si l’importance d’une
+                    œuvre ou d’un objet le justifie <bibl>(Bergeron, 2022)</bibl>.</p>
+            </div>
+            <div>
+                <head><title>Terminologie et définition de concept</title></head>
+                <p>Le concept de <soCalled>garde négociée</soCalled> n’est pas sans évoquer celui
+                        <soCalled>d’acquisition conjointe</soCalled>, qui est la terminologie
+                    francophone proposée de pair avec son
+                        synonyme <soCalled>coacquisition</soCalled>. D’une part, l’acquisition est
+                    la première d’une série d’étapes qui constituent la vie d’un objet de musée.
+                    Elle consiste à la réception ou l’accueil d’un ou de plusieurs objets dans les
+                    collections. Selon la <orgName>Société des musées du Québec</orgName>,
+                        <q> l’acquisition est l’activité par laquelle un objet ou un groupe d’objets
+                        devient légalement la propriété de [l’] institution muséale et est intégré
+                        dans [ses collections].</q> <bibl>(Société des musées du Québec,
+                        2016)</bibl>. En ajoutant le qualificatif <soCalled>conjointe</soCalled> à
+                    l’acquisition vient cette idée d’union entre plusieurs parties qui
+                        s’accompagne <q>[de] droits et [d’] obligations communs</q>
+                    <bibl>(<orgName>CNRTL – Centre national de ressources textuelles et
+                            lexicales</orgName>, 2012)</bibl>. En se basant sur ces deux
+                    définitions, l’acquisition conjointe pourrait tout naturellement être définie
+                    comme étant un processus collaboratif par lequel une œuvre devient la propriété
+                    de deux ou de plusieurs parties, muséales ou non, et est intégrée simultanément
+                    dans leurs collections. Contrairement au terme <soCalled>garde</soCalled>,
+                        celui <soCalled>d’acquisition</soCalled> a pour effet d’ancrer la
+                    terminologie dans l’univers muséal en plus d’intégrer l’idée du transfert de
+                    propriété. L’adjectif <soCalled>conjoint</soCalled> vient par la suite
+                    introduire l’idée du commun, du partage et de la collaboration contrairement à
+                        l’adjectif <soCalled>négociée</soCalled>.</p>
+                <p>En plus de diminuer les frais d’acquisition pour tous les partenaires dans le cas
+                    d’un achat conjoint, la coacquisition augmente l’accès à l’œuvre : d’une part,
+                    pour les publics qui peuvent la voir présentée dans différents endroits et,
+                    d’autre part, pour les copropriétaires qui peuvent chacun la présenter, la
+                    documenter et l’étudier <bibl>(<persName>Matassa</persName>, 2011)</bibl>.
+                    Considérant qu’elles s’inscrivent dans plus d’une collection à la fois, les
+                    œuvres ont un numéro d’acquisition dans chacune des institutions (<orgName>ARCS
+                        – Association of Registrars and Collections Specialists</orgName>, s.d.).
+                    Ces dernières, qui se partagent déjà la propriété, se partagent aussi l’autorité
+                    dans les décisions concernant l’œuvre coacquise. Toute acquisition conjointe
+                    s’accompagne d’un <soCalled>protocole</soCalled>
+                    <bibl>(<persName>Bergeron</persName>, 2022)</bibl> qui détaille les droits et
+                    obligations des copropriétaires. Cette entente spécifie le nombre d’œuvres
+                    concernées de même que les modalités d’achat (si applicable), de propriété et de
+                    possession, de conservation, de prêt à de tierces parties, de reproduction, de
+                    vente, d’assurance et d’indemnisation, de documentation et de recherche,
+                    d’entreposage, d’accès et de transport <bibl>(<orgName>ARCS – Association of
+                            Registrars and Collections Specialists</orgName>, s.d.; <orgName>Musée
+                            des beaux-arts du Canada</orgName>, 2018)</bibl>. Si l’œuvre partagée
+                    est matérielle, il faut départager le temps d’usage, mais aussi les frais de
+                    transport et d’encaissement. À cela s’ajoutent des considérations pour
+                    l’entreposage, la conservation et la restauration de l’œuvre. De façon générale,
+                    les œuvres numériques, qui peuvent exister en plusieurs copies sur supports
+                    variés, favorisent le partage puisque des assurances pour le transport ne sont
+                    pas toujours nécessaires et les risques sont moindres pour l’œuvre
+                            <bibl>(<persName>Kaufman</persName>, 2004)</bibl>.</p>
+            </div>
+            <div>
+                <head>Formes de l’acquisition conjointe</head>
+                <p>L’acquisition conjointe est protéiforme : les types de partenaires, les modes
+                    d’acquisition conjointe et les modèles de partage sont multiples. Si elle peut
+                    faire de plusieurs institutions muséales des copropriétaires, la coacquisition
+                    peut aussi favoriser d’autres types de partenariat. Des ententes d’acquisition
+                    conjointe ont été conclues entre départements d’un même musée, entre musée et
+                    centre d’archives, de documentation et de recherche ; entre musée et fondation ;
+                    entre musée et collection privée ; entre musée et donateurs ; entre musée et
+                    particuliers ; entre musée et université ; entre musée et conseil municipal ou
+                    une ville. </p>
+                <p>Pour les institutions avec une collection, l’acquisition conjointe permet l’ajout
+                    d’une ou de plusieurs œuvres dans les collections institutionnelles par
+                    différents moyens, comme l’achat et le don. D’une part, l’achat conjoint
+                    sous-entend que le prix d’acquisition est partagé, à parts égales ou non, entre
+                    les parties impliquées. Dans certains cas, une exposition développée en
+                    collaboration par plusieurs institutions peut conduire à un achat conjoint,
+                    alors que dans d’autres, les galeristes peuvent promouvoir cette approche.
+                    D’autre part, il y a coacquisition quand le donateur décide de faire un don à
+                    plusieurs institutions. Si le don est entendu comme <q>l’acte juridique par
+                        lequel un donateur transfère la propriété d’un bien à titre gratuit au
+                        musée</q>
+                    <bibl>(<persName>Mairesse</persName>, 2022)</bibl>, le don à plus d’une
+                    institution implique qu’il y a transfert, puis partage de la propriété. À ce
+                    jour, ce type de don a été fait dans les musées d’art par des collectionneurs
+                    privés ou collectionneuses privées et par un ou une artiste. Le <soCalled
+                        xml:lang="en">fractional gift</soCalled>, une pratique en vogue aux
+                        <placeName>États-Unis</placeName> au début du siècle en raison d’une faille
+                    légale, est une autre forme de don menant au partage de la propriété d’une œuvre
+                    entre un donateur ou une donatrice et un musée. Il permettait à un
+                    collectionneur ou une collectionneuse de faire don progressivement d’une œuvre à
+                    un musée, stratégie qui se concluait par un legs
+                            <bibl>(<persName>Follas</persName>, 2008)</bibl>. Autrement, la
+                    coacquisition peut être le point culminant de programmes mis en place pour la
+                    commande d’œuvres contemporaines qui s’accompagnent d’une promesse d’acquisition
+                    dans plusieurs collections.</p>
+                <p>Enfin, les modalités de partage de la propriété varient également d’une
+                    acquisition conjointe à l’autre ; trois modèles ont été repérés jusqu’à présent.
+                    Le modèle le plus répandu est un partage égal à la fois des frais d’acquisition,
+                    dans le cas d’un achat conjoint, et, ultimement, de l’œuvre. Les copropriétaires
+                    ont donc des parts égales de l’œuvre, qui leur assure le même accès et le même
+                    temps d’utilisation. Non seulement les droits de chacun sont symétriques, il en
+                    va de même de leurs obligations envers l’œuvre – notamment en ce qui concerne sa
+                    conservation, sa restauration, etc. Dans certains cas, le partage se fait plutôt
+                    selon un ratio qui reflète l’apport financier des parties impliquées dans un
+                    achat conjoint. Ainsi, un musée de plus grande envergure peut payer un montant
+                    plus conséquent que son partenaire, ce qui peut l’amener à négocier un accès
+                    augmenté à l’œuvre. Dans ce cas précis, les droits et obligations des
+                    copropriétaires sont asymétriques. Enfin, on peut envisager une alternative à la
+                    croisée de ces deux modèles : un musée de plus grande envergure peut assumer une
+                    plus grande part des frais d’acquisition et, par la suite, partager l’œuvre à
+                    parts égales avec le ou les autres copropriétaires.</p>
+            </div>
+            <div>
+                <head>Motivations à l’acquisition conjointe</head>
                 <div>
-                    <head><title>Inventaire terminologique</title></head>
-                    <p> Pour référer à cette pratique de copropriété des œuvres, les musées
-                        utilisent des termes comme <soCalled>acquisition conjointe</soCalled>
-                        <bibl>(<orgName>Centre Pompidou</orgName>, 1995)</bibl>, <soCalled
-                            xml:lang="en">joint purchase</soCalled>
-                        <bibl>(<orgName>MET Museum</orgName>, 1974)</bibl>,
-                            <soCalled>copropriété</soCalled>
-                        <bibl>(<orgName>Musée des beaux-arts du Canada</orgName>, 2018)</bibl> et
-                            <soCalled>co-acquisition</soCalled>
-                        <bibl>(<orgName>National Museum of African American History and
-                                Culture</orgName>, 2018)</bibl>. Dans <orgName>la presse</orgName>,
-                        on retrouve <soCalled>acquisition conjointe</soCalled>
-                        <bibl>(<persName>Lalonde</persName>, 2018)</bibl>, de même que sa version
-                        anglophone <soCalled xml:lang="en">joint acquisition</soCalled>
-                        <bibl>(<persName>Finkel</persName>, 2011)</bibl>, et <soCalled>achat
-                            conjoint</soCalled>
-                        <bibl>(<persName>Demarle</persName>, 2019)</bibl>. À cela s’ajoute le terme
-                            <soCalled xml:lang="en">joint ownership</soCalled>
-                        <bibl>(<persName>Shirey</persName>, 1973)</bibl> qui est aussi privilégié
-                        par le milieu universitaire <bibl>(<persName>van Ravenzwaay</persName>,
-                            2015)</bibl> au même titre que <soCalled xml:lang="en">shared
-                            ownership</soCalled>
-                        <bibl>(<persName>Matassa</persName>, 2011)</bibl>. Selon <persName>Jules van
-                            Ravenzwaay</persName>, le terme <soCalled xml:lang="en">joint
-                            ownership</soCalled> : <q xml:lang="en">[…] is a construction in which
-                            museums are acquiring artworks in shared ownership agreements with peer
-                            institutions instead of aiming at private ownership.</q>
-                        <persName>Freda Matassa</persName> abonde dans le même sens avec la
-                            <soCalled xml:lang="en">shared ownership</soCalled> qui se produit
-                        lorsque deux parties ou plus s’associent pour acquérir un objet
-                                <bibl>(<persName>Matassa</persName>, 2011)</bibl>. Dans la
-                        littérature académique francophone, le terme <soCalled>garde
-                            négociée</soCalled> est proposé dans le <bibl>Dictionnaire de muséologie
-                            <!--balise orgname ici, ou title? #RC--> (2022)</bibl>. L’entrée indique
-                        que certains musées se regroupent pour faire des acquisitions si
-                        l’importance d’une œuvre ou d’un objet le justifie <bibl>(Bergeron,
-                            2022)</bibl>.</p>
+                    <head>Augmenter le <soCalled>capital culturel(<foreign xml:lang="en">cultural
+                                capital</foreign>)</soCalled><!--à valider pour le choix des balises -->
+                        d’une plus petite institution</head>
+                    <p>Même s’il n’est généralement pas perçu de la sorte dans l’imaginaire
+                        collectif, le musée peut s’avérer un véritable
+                            <q>prédateur</q> dans l’acquisition de collections
+                                <bibl>(<persName>Maranda</persName> et <persName>Soares</persName>,
+                            2017)</bibl>. Il est prédateur lorsqu’il entre en concurrence avec
+                        d’autres musées pour acquérir des œuvres ou encore lorsqu’il cherche à
+                        conserver la propriété exclusive d’un objet
+                            <bibl>(<persName>Park</persName>, 2017)</bibl>. Par contre, dans le cas
+                        d’acquisitions conjointes, on remarque que les musées fonctionnent davantage
+                        comme des partenaires que comme des rivaux <bibl>(<persName>Park</persName>,
+                            2017)</bibl>. Dans certains cas même, on observe des institutions d’une
+                        certaine envergure qui aident leurs consœurs ayant une portée plus modique.
+                        C’est notamment le cas du <orgName>Musée des beaux-arts du Canada</orgName>
+                        qui considère l’acquisition conjointe si elle permet <q>d’étendre son
+                            influence et d’aider d’autres établissements</q>
+                        <bibl>(<orgName>Musée des beaux-arts du Canada</orgName>, 2018)</bibl>. Il
+                        fait d’ailleurs partie du mandat du <orgName>Musée des beaux-arts du
+                            Canada</orgName> de non seulement rendre accessible l’art à tous les
+                        Canadiens et toutes les Canadiennes, ce qu’il peut faire grâce à des
+                        partenariats stratégiques avec d’autres institutions sur le territoire. Ces
+                        ententes d’acquisition conjointe permettent du même coup à de plus petites
+                        institutions d’inscrire dans leur collection des œuvres auxquelles elles
+                        n’auraient jamais eu accès, n’eût été la collaboration d’une grande
+                        institution. </p>
                 </div>
                 <div>
-                    <head><title>Terminologie et définition de concept</title></head>
-                    <p>Le concept de <soCalled>garde négociée</soCalled> n’est pas sans évoquer
-                        celui <soCalled>d’acquisition conjointe</soCalled>, qui est la terminologie
-                        francophone proposée de pair avec son
-                            synonyme <soCalled>coacquisition</soCalled>. D’une part, l’acquisition
-                        est la première d’une série d’étapes qui constituent la vie d’un objet de
-                        musée. Elle consiste à la réception ou l’accueil d’un ou de plusieurs objets
-                        dans les collections. Selon la <orgName>Société des musées du
-                            Québec</orgName>, <q> l’acquisition est l’activité par laquelle un objet
-                            ou un groupe d’objets devient légalement la propriété de [l’]
-                            institution muséale et est intégré dans [ses
-                            collections].</q> <bibl>(Société des musées du Québec, 2016)</bibl>. En
-                        ajoutant le qualificatif <soCalled>conjointe</soCalled> à l’acquisition
-                        vient cette idée d’union entre plusieurs parties qui s’accompagne <q>[de]
-                            droits et [d’] obligations communs</q>
-                        <bibl>(<orgName>CNRTL – Centre national de ressources textuelles et
-                                lexicales</orgName>, 2012)</bibl>. En se basant sur ces deux
-                        définitions, l’acquisition conjointe pourrait tout naturellement être
-                        définie comme étant un processus collaboratif par lequel une œuvre devient
-                        la propriété de deux ou de plusieurs parties, muséales ou non, et est
-                        intégrée simultanément dans leurs collections. Contrairement au terme
-                            <soCalled>garde</soCalled>, celui <soCalled>d’acquisition</soCalled> a
-                        pour effet d’ancrer la terminologie dans l’univers muséal en plus d’intégrer
-                        l’idée du transfert de propriété. L’adjectif <soCalled>conjoint</soCalled>
-                        vient par la suite introduire l’idée du commun, du partage et de la
-                        collaboration contrairement à l’adjectif <soCalled>négociée</soCalled>.</p>
-                    <p>En plus de diminuer les frais d’acquisition pour tous les partenaires dans le
-                        cas d’un achat conjoint, la coacquisition augmente l’accès à l’œuvre : d’une
-                        part, pour les publics qui peuvent la voir présentée dans différents
-                        endroits et, d’autre part, pour les copropriétaires qui peuvent chacun la
-                        présenter, la documenter et l’étudier <bibl>(<persName>Matassa</persName>,
-                            2011)</bibl>. Considérant qu’elles s’inscrivent dans plus d’une
-                        collection à la fois, les œuvres ont un numéro d’acquisition dans chacune
-                        des institutions (<orgName>ARCS – Association of Registrars and Collections
-                            Specialists</orgName>, s.d.). Ces dernières, qui se partagent déjà la
-                        propriété, se partagent aussi l’autorité dans les décisions concernant
-                        l’œuvre coacquise. Toute acquisition conjointe s’accompagne
-                            d’un <soCalled>protocole</soCalled>
-                        <bibl>(<persName>Bergeron</persName>, 2022)</bibl> qui détaille les droits
-                        et obligations des copropriétaires. Cette entente spécifie le nombre
-                        d’œuvres concernées de même que les modalités d’achat (si applicable), de
-                        propriété et de possession, de conservation, de prêt à de tierces parties,
-                        de reproduction, de vente, d’assurance et d’indemnisation, de documentation
-                        et de recherche, d’entreposage, d’accès et de transport <bibl>(<orgName>ARCS
-                                – Association of Registrars and Collections Specialists</orgName>,
-                            s.d.; <orgName>Musée des beaux-arts du Canada</orgName>, 2018)</bibl>.
-                        Si l’œuvre partagée est matérielle, il faut départager le temps d’usage,
-                        mais aussi les frais de transport et d’encaissement. À cela s’ajoutent des
-                        considérations pour l’entreposage, la conservation et la restauration de
-                        l’œuvre. De façon générale, les œuvres numériques, qui peuvent exister en
-                        plusieurs copies sur supports variés, favorisent le partage puisque des
-                        assurances pour le transport ne sont pas toujours nécessaires et les risques
-                        sont moindres pour l’œuvre <bibl>(<persName>Kaufman</persName>,
-                        2004)</bibl>.</p>
-                </div>
-                <div>
-                    <head><title>Formes de l’acquisition conjointe</title></head>
-                    <p>L’acquisition conjointe est protéiforme : les types de partenaires, les modes
-                        d’acquisition conjointe et les modèles de partage sont multiples. Si elle
-                        peut faire de plusieurs institutions muséales des copropriétaires, la
-                        coacquisition peut aussi favoriser d’autres types de partenariat. Des
-                        ententes d’acquisition conjointe ont été conclues entre départements d’un
-                        même musée, entre musée et centre d’archives, de documentation et de
-                        recherche ; entre musée et fondation ; entre musée et collection privée ;
-                        entre musée et donateurs ; entre musée et particuliers ; entre musée et
-                        université ; entre musée et conseil municipal ou une ville. </p>
-                    <p>Pour les institutions avec une collection, l’acquisition conjointe permet
-                        l’ajout d’une ou de plusieurs œuvres dans les collections institutionnelles
-                        par différents moyens, comme l’achat et le don. D’une part, l’achat conjoint
-                        sous-entend que le prix d’acquisition est partagé, à parts égales ou non,
-                        entre les parties impliquées. Dans certains cas, une exposition développée
-                        en collaboration par plusieurs institutions peut conduire à un achat
-                        conjoint, alors que dans d’autres, les galeristes peuvent promouvoir cette
-                        approche. D’autre part, il y a coacquisition quand le donateur décide de
-                        faire un don à plusieurs institutions. Si le don est entendu comme <q>l’acte
-                            juridique par lequel un donateur transfère la propriété d’un bien à
-                            titre gratuit au musée</q>
-                        <bibl>(<persName>Mairesse</persName>, 2022)</bibl>, le don à plus d’une
-                        institution implique qu’il y a transfert, puis partage de la propriété. À ce
-                        jour, ce type de don a été fait dans les musées d’art par des
-                        collectionneurs privés ou collectionneuses privées et par un ou une artiste.
-                        Le <soCalled xml:lang="en">fractional gift</soCalled>, une pratique en vogue
-                        aux <placeName>États-Unis</placeName> au début du siècle en raison d’une
-                        faille légale, est une autre forme de don menant au partage de la propriété
-                        d’une œuvre entre un donateur ou une donatrice et un musée. Il permettait à
-                        un collectionneur ou une collectionneuse de faire don progressivement d’une
-                        œuvre à un musée, stratégie qui se concluait par un legs
-                                <bibl>(<persName>Follas</persName>, 2008)</bibl>. Autrement, la
-                        coacquisition peut être le point culminant de programmes mis en place pour
-                        la commande d’œuvres contemporaines qui s’accompagnent d’une promesse
-                        d’acquisition dans plusieurs collections.</p>
-                    <p>Enfin, les modalités de partage de la propriété varient également d’une
-                        acquisition conjointe à l’autre ; trois modèles ont été repérés jusqu’à
-                        présent. Le modèle le plus répandu est un partage égal à la fois des frais
-                        d’acquisition, dans le cas d’un achat conjoint, et, ultimement, de l’œuvre.
-                        Les copropriétaires ont donc des parts égales de l’œuvre, qui leur assure le
-                        même accès et le même temps d’utilisation. Non seulement les droits de
-                        chacun sont symétriques, il en va de même de leurs obligations envers
-                        l’œuvre – notamment en ce qui concerne sa conservation, sa restauration,
-                        etc. Dans certains cas, le partage se fait plutôt selon un ratio qui reflète
-                        l’apport financier des parties impliquées dans un achat conjoint. Ainsi, un
-                        musée de plus grande envergure peut payer un montant plus conséquent que son
-                        partenaire, ce qui peut l’amener à négocier un accès augmenté à l’œuvre.
-                        Dans ce cas précis, les droits et obligations des copropriétaires sont
-                        asymétriques. Enfin, on peut envisager une alternative à la croisée de ces
-                        deux modèles : un musée de plus grande envergure peut assumer une plus
-                        grande part des frais d’acquisition et, par la suite, partager l’œuvre à
-                        parts égales avec le ou les autres copropriétaires.</p>
-                </div>
-                <div>
-                    <head><title>Motivations à l’acquisition conjointe</title></head>
-                    <div>
-                        <head><title>Augmenter le <soCalled>capital culturel</soCalled> (<soCalled
-                                    xml:lang="en">cultural capital</soCalled>) d’une plus petite
-                                institution</title></head>
-                        <p>Même s’il n’est généralement pas perçu de la sorte dans l’imaginaire
-                            collectif, le musée peut s’avérer un véritable
-                                <soCalled>prédateur</soCalled> dans l’acquisition de collections
-                                    <bibl>(<persName>Maranda</persName> et
-                                    <persName>Soares</persName>, 2017)</bibl>. Il est prédateur
-                            lorsqu’il entre en concurrence avec d’autres musées pour acquérir des
-                            œuvres ou encore lorsqu’il cherche à conserver la propriété exclusive
-                            d’un objet <bibl>(<persName>Park</persName>, 2017)</bibl>. Par contre,
-                            dans le cas d’acquisitions conjointes, on remarque que les musées
-                            fonctionnent davantage comme des partenaires que comme des rivaux
-                                    <bibl>(<persName>Park</persName>, 2017)</bibl>. Dans certains
-                            cas même, on observe des institutions d’une certaine envergure qui
-                            aident leurs consœurs ayant une portée plus modique. C’est notamment le
-                            cas du <orgName>Musée des beaux-arts du Canada</orgName> qui considère
-                            l’acquisition conjointe si elle permet <q>d’étendre son influence et
-                                d’aider d’autres établissements</q>
-                            <bibl>(<orgName>Musée des beaux-arts du Canada</orgName>, 2018)</bibl>.
-                            Il fait d’ailleurs partie du mandat du <orgName>Musée des beaux-arts du
-                                Canada</orgName> de non seulement rendre accessible l’art à tous les
-                            Canadiens et toutes les Canadiennes, ce qu’il peut faire grâce à des
-                            partenariats stratégiques avec d’autres institutions sur le territoire.
-                            Ces ententes d’acquisition conjointe permettent du même coup à de plus
-                            petites institutions d’inscrire dans leur collection des œuvres
-                            auxquelles elles n’auraient jamais eu accès, n’eût été la collaboration
-                            d’une grande institution. </p>
-                    </div>
-                    <div>
-                        <head>Partager la responsabilité des soins</head>
-                        <p>Sur le plan de la durabilité, l’acquisition conjointe permet de partager
-                            la responsabilité des soins à prodiguer aux œuvres en termes
-                            d’entreposage et de conservation. Jusqu’à récemment, les musées étaient
-                            peu préoccupés par l’ampleur de leurs collections et par les aspects
-                            pratiques de leur conservation <bibl>(<orgName>Office of Policy and
-                                    Analysis</orgName>, 2003)</bibl>. Tout au long du 20<hi
-                                rend="superscript" style="font-size:12pt">e</hi>siècle, de nombreux
-                            musées ont acquis autant que possible dans leur champ de
-                            collectionnement. Les collections, souvent volumineuses, manquaient de
-                            cohésion, et contenaient parfois des objets qui n’étaient pas de qualité
-                            muséale <bibl>(<orgName>Office of Policy and Analysis</orgName>,
-                                2003)</bibl>. À partir du dernier quart du 20<hi rend="superscript"
-                                style="font-size:12pt">e</hi>siècle, on se soucie davantage des
-                            conséquences des pratiques de collecte, un souci qui prend de
-                            l’importance depuis les années 1990. Ce changement a été motivé
-                            notamment par la diminution de l’appui gouvernemental et philanthropique
-                            couplée aux ralentissements économiques, par le manque d’espace dans les
-                            réserves pleines à craquer à point tel que certaines acquisitions sont
-                            refusées, par l’incapacité des musées à combler les retards dans le
-                            traitement des collections et par le déplacement général des priorités
-                            de la collection vers les expositions et la programmation publique
-                                    <bibl>(<orgName>Office of Policy and Analysis</orgName>,
-                                2003)</bibl>. En conséquence, les musées ont commencé à explorer de
-                            nouvelles approches relativement aux acquisitions <bibl>(<orgName>Office
-                                    of Policy and Analysis</orgName>, 2003)</bibl>. Le désir de
-                            développer les collections de façon plus durable et le besoin de réduire
-                            les coûts doivent amener les professionnels des musées à voir le partage
-                            des ressources comme une opportunité de contribuer à la vie culturelle
-                            de ses citoyens <bibl>(<persName>Matassa</persName>, 2010)</bibl>. En ce
-                            sens, l’acquisition conjointe représente une avenue durable au
-                            développement des collections en plus d’assurer un partage des frais et
-                            de la responsabilité quant aux soins de conservation
-                                    <bibl>(<persName>Matassa</persName>, 2011)</bibl>.
-                            Effectivement, lorsque deux ou plusieurs musées ont co-acquis une œuvre
-                            matérielle, un seul à la fois doit mettre en réserve et conserver
-                            l’objet, ce qui donne à l’autre musée un espace dans son dépôt. Il
-                            s’agit d’un grand avantage : de nombreux dépôts sont surchargés, car les
-                            musées continuent de collectionner toujours plus sans pour autant
-                            aliéner certaines oeuvres de leur collection <bibl>(<persName>van
-                                    Ravenzwaay</persName>, 2015)</bibl>.</p>
-                    </div>
-                    <div>
-                        <head><title>Pallier la rareté des œuvres sur le marché de
-                            l’art</title></head>
-                        <p>L’acquisition conjointe permet de pallier la rareté des œuvres sur un
-                            marché de l’art ultra-compétitif, un argument qui doit être considéré à
-                            la fois dans la perspective du marché de l’art classé et celle du marché
-                            de l’art contemporain. Premièrement, le marché de l’art classé, qui
-                            concerne les œuvres anciennes ou modernes déjà entrées dans le
-                            patrimoine historique, a deux caractéristiques importantes : d’un côté,
-                            l’offre est théoriquement finie et la rareté des œuvres est
-                            continuellement croissante ; d’un autre côté, les valeurs artistiques
-                            sont objectivées par le temps, par l’histoire et par le consensus social
-                                    <bibl>(<persName>Moulin</persName>, 2009)</bibl>. Sur ce marché
-                            de la rareté, les musées n’ont pas nécessairement les ressources
-                            financières pour procéder à l’acquisition d’œuvres rares par des
-                            artistes recherchés. Les directions de musée se retrouvent contraintes
-                            de faire des montages financiers impliquant le recours au mécénat afin
-                            de conserver un pouvoir d’achat <bibl>(<persName>Moulin</persName>,
-                                2009)</bibl> ou encore de procéder à des acquisitions à plusieurs.
-                            Dans un deuxième temps, la rareté opère différemment sur le marché de
-                            l’art contemporain. Comme les artistes contemporains sont généralement
-                            vivants, l’offre est toujours en cours. À cela s’ajoute la réalité des
-                            nouvelles technologies qui, puisqu’elles permettent la démultiplication
-                            des œuvres et qu’elles contredisent les fondements mêmes du marché,
-                            stimulent la mise en place de mécanismes pour recréer la rareté et la
-                            valoriser économiquement <bibl>(<persName>Moulin</persName>,
-                                2009)</bibl>. Par ailleurs, les œuvres nouveaux médias favorisent
-                            l’esprit de partage dans leur conservation plutôt que la possession
-                            exclusive <bibl>(<persName>Park</persName>, 2017)</bibl>. Considérant la
-                            rareté réelle ou simulée des œuvres qui influe sur leur valeur,
-                            l’acquisition conjointe permet aux musées qui unissent leurs ressources
-                            d’avoir un impact sur les ventes dans les galeries, faisant en sorte que
-                            l’art reste à leur portée <bibl>(<persName>van Ravenzwaay</persName>,
-                                2015)</bibl>. Dans une logique de globalisation du marché de l’art,
-                            l’acquisition conjointe permet aux galeristes d’inscrire stratégiquement
-                            les éditions d’une œuvre dans différentes collections à travers le monde
-                            dans le but que leurs artistes soient représentés à l’international.
-                            Grâce à l’acquisition conjointe, les musées conservent leur place sur le
-                            marché de l’art, ce qui évite que les œuvres se retrouvent uniquement
-                            dans la sphère privée <bibl>(<persName>van Ravenzwaay</persName>,
-                                2015)</bibl>.</p>
-                    </div>
-                    <div>
-                        <head><title>Augmenter la capacité de collecte de fonds du
-                            musée</title></head>
-                        <p>Si les musées se font compétition sur le marché de l’art, ils peuvent
-                            aussi se faire compétition pour obtenir du financement. Leur
-                            multiplication dans le monde ces dernières décennies les met en
-                            concurrence pour obtenir des subventions, des dons privés et des publics
-                            payants entre autres <!--#RC Manque une  virgule ou alors mettre "entre autre avant l'énumération-->
-                            <bibl>(<persName>Nicolas</persName> et <persName>Ginsburgh</persName>,
-                                2022)</bibl>. Encore une fois, les institutions muséales gagnent à
-                            collaborer dans l’acquisition d’œuvres d’art pour se partager le
-                            financement plutôt que se le disputer. C’est-à-dire que l’acquisition
-                            conjointe, qui promeut un usage sain des ressources, un partage des
-                            coûts et le maintien des œuvres d’art dans le secteur public, peut
-                            accroître la capacité de collecte de fonds des musées
-                                    <bibl>(<persName>Matassa</persName>, 2011 ; <persName>van
-                                    Ravenzwaay</persName>, 2015)</bibl>. D’un côté, les musées
-                            peuvent se partager leurs donateurs et donatrices : chacun peut faire
-                            appel à son réseau respectif, puis l’argent amassé de part et d’autre
-                            est utilisé pour l’achat de l’œuvre convoitée. D’un autre côté, les
-                            musées qui procèdent à des acquisitions conjointes peuvent avoir accès à
-                            des subventions spécifiques. Par exemple, au
-                                <placeName>Royaume-Uni</placeName>, le <orgName>Heritage Lottery
-                                Fund</orgName> et le <orgName>Art Fund</orgName>, deux organismes
-                            engagés dans l’amélioration de l’accès aux œuvres d’art, encouragent la
-                            copropriété puisqu’elle permet d’assurer la rétention d’œuvres
-                            importantes sur le territoire <bibl>(<persName>van
+                    <head>Partager la responsabilité des soins</head>
+                    <p>Sur le plan de la durabilité, l’acquisition conjointe permet de partager la
+                        responsabilité des soins à prodiguer aux œuvres en termes d’entreposage et
+                        de conservation. Jusqu’à récemment, les musées étaient peu préoccupés par
+                        l’ampleur de leurs collections et par les aspects pratiques de leur
+                        conservation <bibl>(<orgName>Office of Policy and Analysis</orgName>,
+                            2003)</bibl>. Tout au long du 20<hi rend="sup">e</hi>siècle, de nombreux
+                        musées ont acquis autant que possible dans leur champ de collectionnement.
+                        Les collections, souvent volumineuses, manquaient de cohésion, et
+                        contenaient parfois des objets qui n’étaient pas de qualité muséale
+                                <bibl>(<orgName>Office of Policy and Analysis</orgName>,
+                            2003)</bibl>. À partir du dernier quart du 20<hi rend="sup"
+                        >e</hi>siècle, on se soucie davantage des conséquences des pratiques de
+                        collecte, un souci qui prend de l’importance depuis les années 1990. Ce
+                        changement a été motivé notamment par la diminution de l’appui
+                        gouvernemental et philanthropique couplée aux ralentissements économiques,
+                        par le manque d’espace dans les réserves pleines à craquer à point tel que
+                        certaines acquisitions sont refusées, par l’incapacité des musées à combler
+                        les retards dans le traitement des collections et par le déplacement général
+                        des priorités de la collection vers les expositions et la programmation
+                        publique <bibl>(<orgName>Office of Policy and Analysis</orgName>,
+                            2003)</bibl>. En conséquence, les musées ont commencé à explorer de
+                        nouvelles approches relativement aux acquisitions <bibl>(<orgName>Office of
+                                Policy and Analysis</orgName>, 2003)</bibl>. Le désir de développer
+                        les collections de façon plus durable et le besoin de réduire les coûts
+                        doivent amener les professionnels des musées à voir le partage des
+                        ressources comme une opportunité de contribuer à la vie culturelle de ses
+                        citoyens <bibl>(<persName>Matassa</persName>, 2010)</bibl>. En ce sens,
+                        l’acquisition conjointe représente une avenue durable au développement des
+                        collections en plus d’assurer un partage des frais et de la responsabilité
+                        quant aux soins de conservation <bibl>(<persName>Matassa</persName>,
+                            2011)</bibl>. Effectivement, lorsque deux ou plusieurs musées ont
+                        co-acquis une œuvre matérielle, un seul à la fois doit mettre en réserve et
+                        conserver l’objet, ce qui donne à l’autre musée un espace dans son dépôt. Il
+                        s’agit d’un grand avantage : de nombreux dépôts sont surchargés, car les
+                        musées continuent de collectionner toujours plus sans pour autant aliéner
+                        certaines oeuvres de leur collection <bibl>(<persName>van
                                 Ravenzwaay</persName>, 2015)</bibl>.</p>
-                    </div>
-                    <div>
-                        <head><title>Rétention patrimoniale sur le territoire</title></head>
-                        <p>Bien souvent, la menace de vente d’un objet à un propriétaire privé —
-                            surtout à l’étranger — incite un groupe de musées à l’acheter <q>pour la
-                                nation</q> <bibl>(<persName>Matassa</persName>, 2011)</bibl>. La
-                            fuite d’objets culturels par le passé a motivé plusieurs pays à protéger
-                            le patrimoine, notamment artistique, en mettant en place un système de
-                            contrôle des exportations pour retenir certains biens culturels
-                                    <bibl>(<bibl>Palanco</bibl>, 2018)</bibl>. Les critères d’octroi
-                            d’une licence d’exportation sont, de manière générale, au nombre de
-                            trois : (1) le lien à l’histoire ou à la vie nationale ; (2)
-                            l’importance esthétique ; et (3) l’importance pour l’étude d’une branche
-                            particulière de l’art, de la science ou de l’histoire<!-- balise nécessaire pour ce type d énumération?-->
-                            <bibl>(<persName>Serota</persName>, 2005)</bibl>. Le premier critère,
-                            qui concerne essentiellement le patrimoine, couvre les œuvres qui ont
-                            été réalisées au sein même de la nation ou qui constituent un témoignage
-                            significatif de l’histoire sociale, politique, économique ou culturelle.
-                            Il prend origine dans le fondement que les objets ont le plus de sens et
-                            de valeur s’ils sont vus dans le contexte dans lequel ils ont été créés
-                                    <bibl>(<persName>Serota</persName>, 2005)</bibl>. Bien qu’il ne
-                            soit pas souhaitable qu’aucune œuvre de grands maîtres français,
-                            italiens ou britanniques, par exemple, ne puisse partir pour des
-                            collections étrangères, on remarque que l’instinct de conservation
-                            s’affirme tout naturellement lorsque l’œuvre en question provient d’une
-                            collection historique, ou lorsqu’elle a un lien historique avec la
-                            nation. Même lorsqu’une œuvre a été cachée dans une maison privée et
-                            qu’elle était inconnue ou méconnue pendant des générations, il y a une
-                            impulsion pour utiliser son apparition sur le marché afin d’enrichir une
-                            collection régionale ou nationale <bibl>(<persName>Serota</persName>,
-                                2005)</bibl>. Lorsqu’il y a possibilité qu’une œuvre, liée d’une
-                            façon ou d’une autre à une nation, quitte le territoire, l’acquisition
-                            conjointe peut devenir une stratégie de rétention pour les musées, qui
-                            trop souvent doivent agir dans l’urgence. L’acquisition collaborative
-                            permet alors de rapidement mettre en commun les ressources et d’ainsi
-                            éviter l’exportation.</p>
-                    </div>
-                    <div>
-                        <head><title>Contrer des difficultés d’exportation</title></head>
-                        <p>Si les collections nationales publiques reflètent l’identité d’une
-                            communauté, qu’elle soit locale, régionale, nationale ou internationale
-                            (dans le cas des musées dits <soCalled>universels</soCalled>)
-                                    <bibl>(<persName>Serota</persName>, 2005)</bibl>, il peut être à
-                            l’avantage d’une nation d’inscrire son patrimoine artistique dans des
-                            collections publiques à l’étranger pour le faire connaître sur la scène
-                            internationale. Or, il peut être complexe sur le plan logistique de
-                            faire en sorte que les œuvres quittent le pays considérant l’instinct de
-                            rétention. À la base, le contrôle des exportations prend sa source dans
-                            la volonté de protéger le patrimoine culturel en prévenant
-                            l’importation, l’exportation et le transfert de propriété illicites des
-                            biens culturels. En ce sens, les États souscrivant à la
-                                <title>Convention concernant les mesures à prendre pour interdire et
-                                empêcher l’importation, l’exportation et le transfert de propriété
-                                illicites des biens culturels</title>
-                            <!-- Pas sûre si c'est une balise title ici #RC--> (1970) doivent
-                            adopter des mesures de protection sur leur territoire et contrôler la
-                            circulation des biens culturels <bibl>(<orgName>UNESCO</orgName>,
-                                2022)</bibl>. Parmi ces mesures, on compte la mise en place d’un
-                            certificat d’exportation qu’il est nécessaire d’obtenir pour toute
-                            sortie, temporaire ou définitive, hors du territoire. Dans le cas d’un
-                            trésor national, soit une œuvre qui appartient aux collections
-                            publiques, qui est classée ou qui présente un intérêt majeur pour le
-                            patrimoine national, les sorties ne peuvent être que temporaires
-                                    <bibl>(<orgName>gouvernement de la République
-                                    française</orgName>, 2022)</bibl>. Ces sorties temporaires sont
-                            autorisées pour restauration, expertise, participation à une
-                            manifestation culturelle, exposition ou dépôt dans une collection
-                            publique seulement <bibl>(<orgName>gouvernement de la République
-                                    française</orgName>, 2022)</bibl>. Dans le cas où une œuvre est
-                            mise en vente dans une vente aux enchères publiques, mais que
-                            l’obtention d’un certificat d’exportation n’est pas envisageable,
-                            l’acquisition conjointe peut représenter une voie de contournement. De
-                            la sorte, l’œuvre peut garder un lien avec sa nation si l’un des musées
-                            copropriétaire est situé sur son territoire, puis des navettes entre les
-                            pays peuvent être mises en place, ne présupposant que des sorties
-                            temporaires.</p>
-                    </div>
-                    <div>
-                        <head><title>Faire circuler les collections</title></head>
-                        <p>L’acquisition conjointe participe d’une circulation des collections qui
-                            n’est pas sans évoquer la notion de réseau. Dans les années 1960, le
-                            monde de l’art et le musée d’art transitent d’une idéologie du
-                                <soCalled>système</soCalled> à celle du <soCalled>réseau</soCalled>
-                            qui se caractérise entre autres par la circulation et la mobilité
-                                    <bibl>(<persName>Relya</persName>, 2013)</bibl>. En ce sens,
-                            l’acquisition conjointe induit une circulation des collections entre les
-                            institutions, qui favorise un meilleur accès, mais aussi un partage des
-                            connaissances et des expertises. Comme l’acquisition conjointe implique
-                            un temps de présentation augmenté de par les expositions dans les
-                            différents musées partenaires <bibl>(<persName>van
-                                Ravenzwaay</persName>, 2015)</bibl>, les œuvres se retrouvent moins
-                            souvent dans les réserves, loin des regards. L’accès à l’œuvre est
-                            décuplé à la fois par un temps d’exposition plus grand, mais aussi par
-                            les multiples lieux de présentation. Le public peut donc être accommodé
-                            par l’acquisition conjointe d’autant plus qu’elle permet de répondre à
-                            son besoin de renouvellement constant <bibl>(<persName>van
-                                    Ravenzwaay</persName>, 2015)</bibl>. Par contre, selon le
-                            support de l’œuvre, elle devra être transportée plus régulièrement avec
-                            tous les risques sous-jacents <bibl>(<persName>van
-                                Ravenzwaay</persName>, 2015)</bibl>. En outre, les musées sont
-                            encouragés à s’investir dans la recherche pour comprendre l’origine et
-                            le caractère des collections, mais aussi pour leur permettre de mieux
-                            les utiliser <bibl>(<persName>Petterson</persName>, 2010)</bibl>.
-                            Certains soutiennent que les musées devraient encourager leur personnel
-                            à se déplacer, à étudier davantage, à échanger des expériences avec
-                            d’autres spécialistes et à renforcer les liens avec les universités
-                                    <bibl>(<persName>Petterson</persName>, 2010)</bibl>. En ce sens,
-                            l’acquisition conjointe implique non pas une, mais plusieurs équipes qui
-                            ont toutes accès à l’œuvre. Non seulement davantage de recherches sur
-                            les collections sont entreprises, l’acquisition conjointe propose une
-                            coopération entre les chercheurs et chercheuses, ce qui peut se traduire
-                            par un échange de connaissances <bibl>(<persName>van
-                                    Ravenzwaay</persName>, 2015)</bibl>. </p>
-                    </div>
-                    <div>
-                        <head><title>Diversifier les collections</title></head>
-                        <p>Au fil du temps, la notion d’équité s’immisce dans la tradition
-                            artistique de sorte que l’éthique de l’exclusion a commencé à céder la
-                            place à une éthique de l’inclusion <bibl>(<persName>Fred</persName> et
-                                    <persName>Farrell</persName>, 2008)</bibl>. Alors que les musées
-                            d’art s’engagent dans un processus de décolonisation, les pratiques de
-                            collectionnisme sont amenées à être révisées sous le jour de l’égalité,
-                            de la diversité et de l’autochtonie. Cette ouverture se veut participer
-                            d’un élargissement du canon artistique traditionnel
-                                    <bibl>(<persName>Fred</persName> et
-                                <persName>Farrell</persName>, 2008)</bibl>, qui favorisait jusqu’ici
-                            l’identité masculine blanche <bibl>(<persName>Pollock</persName>,
-                                2007)</bibl>, et d’une meilleure représentativité dans les
-                            collections. Dans cette optique, l’acquisition conjointe peut devenir
-                            une stratégie pour acquérir des œuvres à coûts moindres de sorte à
-                            élargir le champ de collectionnement du musée et à diversifier ses
-                            collections plus rapidement. L’acquisition conjointe permet donc aux
-                            musées de s’ouvrir à la diversité culturelle
-                                    <bibl>(<persName>Grams</persName> et
-                                    <persName>Farrell</persName>, 2008)</bibl>, de pallier les
-                            lacunes des acquisitions passées et d’augmenter la représentativité de
-                            leurs collections. Bien que ces retombées semblent louables, il faut
-                            rappeler que les musées s’arrachent au même moment les œuvres d’artistes
-                            hommes blancs à des prix fort élevés sur le marché de l’art. On pourrait
-                            être portés à croire que les musées profitent d’une aubaine en procédant
-                            à l’acquisition conjointe d’œuvres d’artistes de la diversité. Or, en
-                            prenant conscience des lacunes dans leurs collections et en cherchant à
-                            les combler, les musées comme <soCalled>prescripteurs</soCalled>
-                            <bibl>(<persName>Moulin</persName>, 2009)</bibl> créent une forte
-                            demande pour les œuvres d’artistes autochtones ou issus de la diversité,
-                            à la fois historiques et contemporaines. Considérant l’offre limitée
-                            d’œuvres historiques, et la forte demande pour les œuvres
-                            contemporaines, l’acquisition conjointe est une stratégie utilisée par
-                            les musées pour avoir le pouvoir de diversifier leurs collections compte
-                            tenu des budgets d’acquisition et des opportunités de subvention
-                            limités. </p>
-                    </div>
                 </div>
                 <div>
-                    <head><title>Bibliographie</title></head>
-                    <listBibl>
-                        <p>ARCS – Association of Registrars and Collections Specialists (s.d.). Co-Ownership Agreement. <hi rend="italic" style="font-size:12pt" xml:space="preserve">ARCS—Association of Registrars and Collections Specialists. </hi><ref
+                    <head><title>Pallier la rareté des œuvres sur le marché de l’art</title></head>
+                    <p>L’acquisition conjointe permet de pallier la rareté des œuvres sur un marché
+                        de l’art ultra-compétitif, un argument qui doit être considéré à la fois
+                        dans la perspective du marché de l’art classé et celle du marché de l’art
+                        contemporain. Premièrement, le marché de l’art classé, qui concerne les
+                        œuvres anciennes ou modernes déjà entrées dans le patrimoine historique, a
+                        deux caractéristiques importantes : d’un côté, l’offre est théoriquement
+                        finie et la rareté des œuvres est continuellement croissante ; d’un autre
+                        côté, les valeurs artistiques sont objectivées par le temps, par l’histoire
+                        et par le consensus social <bibl>(<persName>Moulin</persName>, 2009)</bibl>.
+                        Sur ce marché de la rareté, les musées n’ont pas nécessairement les
+                        ressources financières pour procéder à l’acquisition d’œuvres rares par des
+                        artistes recherchés. Les directions de musée se retrouvent contraintes de
+                        faire des montages financiers impliquant le recours au mécénat afin de
+                        conserver un pouvoir d’achat <bibl>(<persName>Moulin</persName>,
+                            2009)</bibl> ou encore de procéder à des acquisitions à plusieurs. Dans
+                        un deuxième temps, la rareté opère différemment sur le marché de l’art
+                        contemporain. Comme les artistes contemporains sont généralement vivants,
+                        l’offre est toujours en cours. À cela s’ajoute la réalité des nouvelles
+                        technologies qui, puisqu’elles permettent la démultiplication des œuvres et
+                        qu’elles contredisent les fondements mêmes du marché, stimulent la mise en
+                        place de mécanismes pour recréer la rareté et la valoriser économiquement
+                                <bibl>(<persName>Moulin</persName>, 2009)</bibl>. Par ailleurs, les
+                        œuvres nouveaux médias favorisent l’esprit de partage dans leur conservation
+                        plutôt que la possession exclusive <bibl>(<persName>Park</persName>,
+                            2017)</bibl>. Considérant la rareté réelle ou simulée des œuvres qui
+                        influe sur leur valeur, l’acquisition conjointe permet aux musées qui
+                        unissent leurs ressources d’avoir un impact sur les ventes dans les
+                        galeries, faisant en sorte que l’art reste à leur portée
+                                <bibl>(<persName>van Ravenzwaay</persName>, 2015)</bibl>. Dans une
+                        logique de globalisation du marché de l’art, l’acquisition conjointe permet
+                        aux galeristes d’inscrire stratégiquement les éditions d’une œuvre dans
+                        différentes collections à travers le monde dans le but que leurs artistes
+                        soient représentés à l’international. Grâce à l’acquisition conjointe, les
+                        musées conservent leur place sur le marché de l’art, ce qui évite que les
+                        œuvres se retrouvent uniquement dans la sphère privée <bibl>(<persName>van
+                                Ravenzwaay</persName>, 2015)</bibl>.</p>
+                </div>
+                <div>
+                    <head><title>Augmenter la capacité de collecte de fonds du musée</title></head>
+                    <p>Si les musées se font compétition sur le marché de l’art, ils peuvent aussi
+                        se faire compétition pour obtenir du financement. Leur multiplication dans
+                        le monde ces dernières décennies les met en concurrence pour obtenir des
+                        subventions, des dons privés et des publics payants entre autres <!--#RC Manque une  virgule ou alors mettre "entre autre avant l'énumération-->
+                        <bibl>(<persName>Nicolas</persName> et <persName>Ginsburgh</persName>,
+                            2022)</bibl>. Encore une fois, les institutions muséales gagnent à
+                        collaborer dans l’acquisition d’œuvres d’art pour se partager le financement
+                        plutôt que se le disputer. C’est-à-dire que l’acquisition conjointe, qui
+                        promeut un usage sain des ressources, un partage des coûts et le maintien
+                        des œuvres d’art dans le secteur public, peut accroître la capacité de
+                        collecte de fonds des musées <bibl>(<persName>Matassa</persName>, 2011 ;
+                                <persName>van Ravenzwaay</persName>, 2015)</bibl>. D’un côté, les
+                        musées peuvent se partager leurs donateurs et donatrices : chacun peut faire
+                        appel à son réseau respectif, puis l’argent amassé de part et d’autre est
+                        utilisé pour l’achat de l’œuvre convoitée. D’un autre côté, les musées qui
+                        procèdent à des acquisitions conjointes peuvent avoir accès à des
+                        subventions spécifiques. Par exemple, au <placeName>Royaume-Uni</placeName>,
+                        le <orgName>Heritage Lottery Fund</orgName> et le <orgName>Art
+                            Fund</orgName>, deux organismes engagés dans l’amélioration de l’accès
+                        aux œuvres d’art, encouragent la copropriété puisqu’elle permet d’assurer la
+                        rétention d’œuvres importantes sur le territoire <bibl>(<persName>van
+                                Ravenzwaay</persName>, 2015)</bibl>.</p>
+                </div>
+                <div>
+                    <head><title>Rétention patrimoniale sur le territoire</title></head>
+                    <p>Bien souvent, la menace de vente d’un objet à un propriétaire privé — surtout
+                        à l’étranger — incite un groupe de musées à l’acheter <q>pour la
+                                nation</q> <bibl>(<persName>Matassa</persName>, 2011)</bibl>. La
+                        fuite d’objets culturels par le passé a motivé plusieurs pays à protéger le
+                        patrimoine, notamment artistique, en mettant en place un système de contrôle
+                        des exportations pour retenir certains biens culturels
+                                <bibl>(<bibl>Palanco</bibl>, 2018)</bibl>. Les critères d’octroi
+                        d’une licence d’exportation sont, de manière générale, au nombre de trois :
+                        (1) le lien à l’histoire ou à la vie nationale ; (2) l’importance
+                        esthétique ; et (3) l’importance pour l’étude d’une branche particulière de
+                        l’art, de la science ou de l’histoire<!-- balise nécessaire pour ce type d énumération?-->
+                        <bibl>(<persName>Serota</persName>, 2005)</bibl>. Le premier critère, qui
+                        concerne essentiellement le patrimoine, couvre les œuvres qui ont été
+                        réalisées au sein même de la nation ou qui constituent un témoignage
+                        significatif de l’histoire sociale, politique, économique ou culturelle. Il
+                        prend origine dans le fondement que les objets ont le plus de sens et de
+                        valeur s’ils sont vus dans le contexte dans lequel ils ont été créés
+                                <bibl>(<persName>Serota</persName>, 2005)</bibl>. Bien qu’il ne soit
+                        pas souhaitable qu’aucune œuvre de grands maîtres français, italiens ou
+                        britanniques, par exemple, ne puisse partir pour des collections étrangères,
+                        on remarque que l’instinct de conservation s’affirme tout naturellement
+                        lorsque l’œuvre en question provient d’une collection historique, ou
+                        lorsqu’elle a un lien historique avec la nation. Même lorsqu’une œuvre a été
+                        cachée dans une maison privée et qu’elle était inconnue ou méconnue pendant
+                        des générations, il y a une impulsion pour utiliser son apparition sur le
+                        marché afin d’enrichir une collection régionale ou nationale
+                                <bibl>(<persName>Serota</persName>, 2005)</bibl>. Lorsqu’il y a
+                        possibilité qu’une œuvre, liée d’une façon ou d’une autre à une nation,
+                        quitte le territoire, l’acquisition conjointe peut devenir une stratégie de
+                        rétention pour les musées, qui trop souvent doivent agir dans l’urgence.
+                        L’acquisition collaborative permet alors de rapidement mettre en commun les
+                        ressources et d’ainsi éviter l’exportation.</p>
+                </div>
+                <div>
+                    <head><title>Contrer des difficultés d’exportation</title></head>
+                    <p>Si les collections nationales publiques reflètent l’identité d’une
+                        communauté, qu’elle soit locale, régionale, nationale ou internationale
+                        (dans le cas des musées dits <soCalled>universels</soCalled>)
+                                <bibl>(<persName>Serota</persName>, 2005)</bibl>, il peut être à
+                        l’avantage d’une nation d’inscrire son patrimoine artistique dans des
+                        collections publiques à l’étranger pour le faire connaître sur la scène
+                        internationale. Or, il peut être complexe sur le plan logistique de faire en
+                        sorte que les œuvres quittent le pays considérant l’instinct de rétention. À
+                        la base, le contrôle des exportations prend sa source dans la volonté de
+                        protéger le patrimoine culturel en prévenant l’importation, l’exportation et
+                        le transfert de propriété illicites des biens culturels. En ce sens, les
+                        États souscrivant à la <title>Convention concernant les mesures à prendre
+                            pour interdire et empêcher l’importation, l’exportation et le transfert
+                            de propriété illicites des biens culturels</title>
+                        <!-- Pas sûre si c'est une balise title ici #RC--> (1970) doivent adopter
+                        des mesures de protection sur leur territoire et contrôler la circulation
+                        des biens culturels <bibl>(<orgName>UNESCO</orgName>, 2022)</bibl>. Parmi
+                        ces mesures, on compte la mise en place d’un certificat d’exportation qu’il
+                        est nécessaire d’obtenir pour toute sortie, temporaire ou définitive, hors
+                        du territoire. Dans le cas d’un trésor national, soit une œuvre qui
+                        appartient aux collections publiques, qui est classée ou qui présente un
+                        intérêt majeur pour le patrimoine national, les sorties ne peuvent être que
+                        temporaires <bibl>(<orgName>gouvernement de la République
+                                française</orgName>, 2022)</bibl>. Ces sorties temporaires sont
+                        autorisées pour restauration, expertise, participation à une manifestation
+                        culturelle, exposition ou dépôt dans une collection publique seulement
+                                <bibl>(<orgName>gouvernement de la République française</orgName>,
+                            2022)</bibl>. Dans le cas où une œuvre est mise en vente dans une vente
+                        aux enchères publiques, mais que l’obtention d’un certificat d’exportation
+                        n’est pas envisageable, l’acquisition conjointe peut représenter une voie de
+                        contournement. De la sorte, l’œuvre peut garder un lien avec sa nation si
+                        l’un des musées copropriétaire est situé sur son territoire, puis des
+                        navettes entre les pays peuvent être mises en place, ne présupposant que des
+                        sorties temporaires.</p>
+                </div>
+                <div>
+                    <head><title>Faire circuler les collections</title></head>
+                    <p>L’acquisition conjointe participe d’une circulation des collections qui n’est
+                        pas sans évoquer la notion de réseau. Dans les années 1960, le monde de
+                        l’art et le musée d’art transitent d’une idéologie du
+                            <soCalled>système</soCalled> à celle du <soCalled>réseau</soCalled> qui
+                        se caractérise entre autres par la circulation et la mobilité
+                                <bibl>(<persName>Relya</persName>, 2013)</bibl>. En ce sens,
+                        l’acquisition conjointe induit une circulation des collections entre les
+                        institutions, qui favorise un meilleur accès, mais aussi un partage des
+                        connaissances et des expertises. Comme l’acquisition conjointe implique un
+                        temps de présentation augmenté de par les expositions dans les différents
+                        musées partenaires <bibl>(<persName>van Ravenzwaay</persName>, 2015)</bibl>,
+                        les œuvres se retrouvent moins souvent dans les réserves, loin des regards.
+                        L’accès à l’œuvre est décuplé à la fois par un temps d’exposition plus
+                        grand, mais aussi par les multiples lieux de présentation. Le public peut
+                        donc être accommodé par l’acquisition conjointe d’autant plus qu’elle permet
+                        de répondre à son besoin de renouvellement constant <bibl>(<persName>van
+                                Ravenzwaay</persName>, 2015)</bibl>. Par contre, selon le support de
+                        l’œuvre, elle devra être transportée plus régulièrement avec tous les
+                        risques sous-jacents <bibl>(<persName>van Ravenzwaay</persName>,
+                            2015)</bibl>. En outre, les musées sont encouragés à s’investir dans la
+                        recherche pour comprendre l’origine et le caractère des collections, mais
+                        aussi pour leur permettre de mieux les utiliser
+                                <bibl>(<persName>Petterson</persName>, 2010)</bibl>. Certains
+                        soutiennent que les musées devraient encourager leur personnel à se
+                        déplacer, à étudier davantage, à échanger des expériences avec d’autres
+                        spécialistes et à renforcer les liens avec les universités
+                                <bibl>(<persName>Petterson</persName>, 2010)</bibl>. En ce sens,
+                        l’acquisition conjointe implique non pas une, mais plusieurs équipes qui ont
+                        toutes accès à l’œuvre. Non seulement davantage de recherches sur les
+                        collections sont entreprises, l’acquisition conjointe propose une
+                        coopération entre les chercheurs et chercheuses, ce qui peut se traduire par
+                        un échange de connaissances <bibl>(<persName>van Ravenzwaay</persName>,
+                            2015)</bibl>. </p>
+                </div>
+                <div>
+                    <head><title>Diversifier les collections</title></head>
+                    <p>Au fil du temps, la notion d’équité s’immisce dans la tradition artistique de
+                        sorte que l’éthique de l’exclusion a commencé à céder la place à une éthique
+                        de l’inclusion <bibl>(<persName>Fred</persName> et
+                                <persName>Farrell</persName>, 2008)</bibl>. Alors que les musées
+                        d’art s’engagent dans un processus de décolonisation, les pratiques de
+                        collectionnisme sont amenées à être révisées sous le jour de l’égalité, de
+                        la diversité et de l’autochtonie. Cette ouverture se veut participer d’un
+                        élargissement du canon artistique traditionnel
+                                <bibl>(<persName>Fred</persName> et <persName>Farrell</persName>,
+                            2008)</bibl>, qui favorisait jusqu’ici l’identité masculine blanche
+                                <bibl>(<persName>Pollock</persName>, 2007)</bibl>, et d’une
+                        meilleure représentativité dans les collections. Dans cette optique,
+                        l’acquisition conjointe peut devenir une stratégie pour acquérir des œuvres
+                        à coûts moindres de sorte à élargir le champ de collectionnement du musée et
+                        à diversifier ses collections plus rapidement. L’acquisition conjointe
+                        permet donc aux musées de s’ouvrir à la diversité culturelle
+                                <bibl>(<persName>Grams</persName> et <persName>Farrell</persName>,
+                            2008)</bibl>, de pallier les lacunes des acquisitions passées et
+                        d’augmenter la représentativité de leurs collections. Bien que ces retombées
+                        semblent louables, il faut rappeler que les musées s’arrachent au même
+                        moment les œuvres d’artistes hommes blancs à des prix fort élevés sur le
+                        marché de l’art. On pourrait être portés à croire que les musées profitent
+                        d’une aubaine en procédant à l’acquisition conjointe d’œuvres d’artistes de
+                        la diversité. Or, en prenant conscience des lacunes dans leurs collections
+                        et en cherchant à les combler, les musées
+                            comme <soCalled>prescripteurs</soCalled>
+                        <bibl>(<persName>Moulin</persName>, 2009)</bibl> créent une forte demande
+                        pour les œuvres d’artistes autochtones ou issus de la diversité, à la fois
+                        historiques et contemporaines. Considérant l’offre limitée d’œuvres
+                        historiques, et la forte demande pour les œuvres contemporaines,
+                        l’acquisition conjointe est une stratégie utilisée par les musées pour avoir
+                        le pouvoir de diversifier leurs collections compte tenu des budgets
+                        d’acquisition et des opportunités de subvention limités. </p>
+                </div>
+            </div>
+            <div>
+                <head><title>Bibliographie</title></head>
+                <listBibl>
+                    <p>ARCS – Association of Registrars and Collections Specialists (s.d.).
+                        Co-Ownership Agreement.
+                            <hi rend="italic" style="font-size:12pt" xml:space="preserve">ARCS—Association of Registrars and Collections Specialists. </hi><ref
                             target="https://www.arcsinfo.org/content/documents/12-co-ownerships-template-co-ownership-agreement.pdf"
                                 ><hi rend="underline color(1155cc)"
                                 style="font-family:Helvetica Neue;font-size:12pt"
@@ -736,8 +706,7 @@
                             rend="italic" style="font-family:Helvetica Neue;font-size:12pt"
                             >Rethinking the Institution: Museums and Joint
                         Ownership</hi><hi style="font-family:Helvetica Neue;font-size:12pt" xml:space="preserve"> [Mémoire de maîtrise]. Amsterdam : Université d’Amsterdam.</hi></p>
-                    </listBibl>
-                </div>
+                </listBibl>
             </div>
             <div>
                 <head><title>Encadrés et compléments numériques :</title></head>
