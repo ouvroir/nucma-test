@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="fr" type="main">Index des expositions</title>
+            <title xml:lang="en" type="main">Exhibitions index</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>CIÉCO</publisher>
+            <date when="2024">2025</date>
+            <idno type="doi"><!-- @todo 10.400/nucma/names --></idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution 4.0.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title xml:lang="fr" type="main"
+               >Encyclopédie des nouveaux usages des collections dans les musées d’art</title>
+            <title xml:lang="en" type="main">Encyclopedia of New Uses of Collections</title>
+            <idno type="URI">http://www.nucma.ca</idno>
+         </seriesStmt>
+         <sourceDesc xml:id="nucma-authors">
+            <p>Fichier nativement numérique</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr"/>
+         </langUsage>
+         <textClass>
+            <!--may not be necessary here, only in chapters and articles-->
+            <keywords xml:lang="fr">
+               <term><!-- @todo --></term>
+               <term><!-- @todo --></term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- 
+            ** Instructions **
+            
+            Toutes les mentions d’expositions doivent être indexées 
+            
+         -->
+         <listEvent>
+            <head xml:lang="fr">Index des expositions</head>
+            <head xml:lang="en">Exhibitions index</head>
+            <event>
+               <eventName>L’art et la matière</eventName>
+               <place>
+                  <orgName>Musée... </orgName>
+                  <placeName>Paris</placeName>
+                  <country>France</country>
+               </place>
+               <date from="2019-02" to="2023">De février 2019 à 2023</date>
+               <idno type="uri">https://lien-page-web-si-a-trouvé</idno>
+               <!-- ne pas hésiter à mettre des commentaires avec des sources pour qu’on puisse retravailler la liste -->
+            </event>
+         </listEvent>
+         
+      </body>
+   </text>
+</TEI>

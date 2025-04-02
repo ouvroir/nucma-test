@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title xml:lang="fr" type="main">Index des noms</title>
+            <title xml:lang="en" type="main">Name index</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>CIÉCO</publisher>
+            <date when="2024">2025</date>
+            <idno type="doi"><!-- @todo 10.400/nucma/names --></idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution 4.0.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title xml:lang="fr" type="main"
+               >Encyclopédie des nouveaux usages des collections dans les musées d’art</title>
+            <title xml:lang="en" type="main">Encyclopedia of New Uses of Collections</title>
+            <idno type="URI">http://www.nucma.ca</idno>
+         </seriesStmt>
+         <sourceDesc xml:id="nucma-authors">
+            <p>Fichier nativement numérique</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fr"/>
+         </langUsage>
+         <textClass>
+            <!--may not be necessary here, only in chapters and articles-->
+            <keywords xml:lang="fr">
+               <term><!-- @todo --></term>
+               <term><!-- @todo --></term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <!-- 
+            ** Instructions **
+            
+            Toutes les personnes et les organisations mentionnées dans l’Encyclopédie doivent faire l’objet d’une indexation.
+            Rmq : il n’est pas nécessaire d’indexer les auteurs faisant l’objet d’une citation bibliographique à moins qu’ils soient le sujet de l’article.
+            Rmq : afin d’alléger le balisage, on marque seulement la première occurence d’un nom au sein d’un paragraphe
+            
+            Les noms de personne sont balisés dans le texte avec <persName>
+            Les noms d’organisation avec <orgName>
+            
+            Lorsqu’il est question d’une exposition qui a lieu dans une institution muséale, c’est l’exposition qui sera documentée avec son lieu, il n’est pas nécessaire de baliser l’institution ou le lieu.
+            De même, lorsqu’il est question d’une œuvre.
+            
+            Pour les noms de personne et d’organisation, utiliser la forme internationale du nom en recherchant l’entité dans un catalogue d’autorité :
+            - https://catalogue.bnf.fr/recherche-autorite.do/
+            - https://www.wikidata.org
+            - https://www.loc.gov/aba/cataloging/authority/
+            
+            Pour les artistes, fournir systématiquement l’identifiant ULAN
+            https://www.getty.edu/research/tools/vocabularies/ulan/
+            
+            Créer une notice avec un identifiant xml:id en suivant le modèle ci-dessous
+            Pour faciliter le référencement dans les textes, on suggère d’utiliser le nom, prénom avec la notation lowerCamelCase pour les identifiants. 
+            Insérer dans le texte une balise <ref> avec l’atribut @target et la cible (utiliser un dièse).
+            
+            Exemple : Avec l’xml:id xml:id="duchampMarcel"
+            avec son œuvre <title>Fontaine</title>, <ref target="#duchampMarcel">Marcel Duchamp</ref> révolutionne...
+         -->
+         <listPerson>
+            <head xml:lang="fr">Index des noms</head>
+            <head xml:lang="en">Names index</head>
+            <person xml:id="duchampMarcel">
+               <persName>Duchamp, Marcel (1887-1968)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121280214</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11900872x</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5912</idno>
+            </person>
+         </listPerson>
+         
+         <listOrg>
+            <head xml:lang="fr">Index des organisations</head>
+            <head xml:lang="en">Organisations index</head>
+            <org>
+               <orgName xml:id="fr">Musée des beaux-arts de Montréal</orgName>
+               <orgName xml:id="en">Montreal Museum of Fine Arts</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q860812</idno>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>
