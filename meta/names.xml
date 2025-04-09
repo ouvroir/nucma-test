@@ -12,13 +12,14 @@
             <idno type="doi"><!-- @todo 10.400/nucma/names --></idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution 4.0.</p>
+                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution
+                     4.0.</p>
                </licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title xml:lang="fr" type="main"
-               >Encyclopédie des nouveaux usages des collections dans les musées d’art</title>
+            <title xml:lang="fr" type="main">Encyclopédie des nouveaux usages des collections dans
+               les musées d’art</title>
             <title xml:lang="en" type="main">Encyclopedia of New Uses of Collections</title>
             <idno type="URI">http://www.nucma.ca</idno>
          </seriesStmt>
@@ -78,15 +79,147 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11900872x</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5912</idno>
             </person>
+            <person xml:id="bonarotiMichelAnge">
+               <persName>Bonaroti, Michel-Ange (1475-1564)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121243640</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11885845q</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5592</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500010654</idno>
+            </person>
+            <person xml:id="brancusiConstantin">
+               <persName>Brancusi, Constantin (1876-1957)</persName>
+               <idno type="isni">https://isni.org/isni/0000000107834751</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11893776f</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q153048</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500016157</idno>
+            </person>
+            <person xml:id="schwittersKurt">
+               <persName>Schwitters, Kurt (1887-1948)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121251499</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11924203t</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q155158</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500026542</idno>
+            </person>
+            <person xml:id="calderAlexander">
+               <persName>Calder, Alexander (1898-1976)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121173240</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12402694f</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q151580</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500007824</idno>
+            </person>
+            <person xml:id="gagnierRichard">
+               <persName>Gagnier, Richard (1955-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000 0000 7646 4240</idno>
+               <idno type="bnf"></idno>
+               <idno type="wikidata"></idno>
+               <idno type="ulan"></idno>
+            </person>
+            <person xml:id="murphySerge">
+               <persName>Murphy, Serge (1953-....)</persName>
+               <idno type="isni">https://isni.org/isni/000000007885500X</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb16762556x</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q65088563</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500061162</idno>
+            </person>
+            <person xml:id="guerreraMassimo">
+               <persName>Guerrera, Massimo (1967-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000122760527</idno>
+               <idno type="bnf"></idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3297754</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500193645</idno>
+            </person>
+            <person xml:id="sterbakJana">
+               <persName>Sterbak, Jana (1955_....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000078337392</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12467398f</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3161825</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500068086</idno>
+            </person>
+            <person xml:id="banesSally">
+               <persName>Banes, Sally (1950-2020)</persName>
+               <idno type="isni">https://isni.org/isni/0000000080844828</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb128066645</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q7405063</idno>
+               <idno type="ulan"></idno>
+            </person>
+            <person xml:id="rainerYvonne">
+               <persName>Rainer, Yvonne (1934-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000083856533</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb13534050k</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q452238</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500104494</idno>
+            </person>
+            <person xml:id="wallJeff">
+               <persName>Wall, Jeff (1946-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000109383931</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12014743t</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q550428</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500101667</idno>
+            </person>
+            <!-- pas sure de comment noter "B-F-G", le collectif -->
          </listPerson>
-         
+
          <listOrg>
             <head xml:lang="fr">Index des organisations</head>
             <head xml:lang="en">Organisations index</head>
             <org>
-               <orgName xml:id="fr">Musée des beaux-arts de Montréal</orgName>
-               <orgName xml:id="en">Montreal Museum of Fine Arts</orgName>
+               <orgName xml:lang="fr">Musée des beaux-arts de Montréal</orgName>
+               <orgName xml:lang="en">Montreal Museum of Fine Arts</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q860812</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Tate Papers</orgName>
+               <orgName xml:lang="en">Tate Papers</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q15817876</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">DOCAM</orgName>
+               <!--Faut-il mettre le nom complet ou juste l'acronymne ?-->
+               <orgName xml:lang="en">DOCAM</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5205840</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Fondation Daniel Langlois</orgName>
+               <orgName xml:lang="en">Daniel Langlois Foundation</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3075427</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Université du Québec à Montréal</orgName>
+               <orgName xml:lang="en">University of Quebec in Montreal</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1634522</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Office international des musées</orgName>
+               <!-- renomé "Conseil international des musées" -->
+               <orgName xml:lang="en">International Museums Office</orgName>
+               <!-- renomé "International Council of Museums" -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q653054</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Musée national des beaux-arts du Québec</orgName>
+               <orgName xml:lang="en">Musée national des beaux-arts du Québec</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2338135</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Musée d'art contemporain des Laurentides</orgName>
+               <orgName xml:lang="en">Laurentides Museum of Contemporary Art</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3329585</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Walker Art Center</orgName>
+               <orgName xml:lang="en">Walker Art Center</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1851516</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Musée national d’Art moderne</orgName>
+               <!-- MNAM -->
+               <orgName xml:lang="en">National Museum of Modern Art</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1895953</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Musée des beaux-arts du Canada</orgName>
+               <orgName xml:lang="en">National Gallery of Canada</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1068063</idno>
             </org>
          </listOrg>
       </body>
