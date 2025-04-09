@@ -181,7 +181,7 @@
                <note xml:lang="fr"><p></p> </note>
                <affiliation>Université de Montréal</affiliation>
             </person>
-            <person xml:id="drouinBriseboisJosee">
+            <person xml:id="drouinBriseboisJosee"><!-- a clarifier - on met xml id ou ref ? -->
                <persName>
                   <forename>Josée</forename>
                   <surname>Drouin-Brisebois</surname>

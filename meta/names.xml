@@ -221,6 +221,44 @@
                <orgName xml:lang="en">National Gallery of Canada</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1068063</idno>
             </org>
+            <org>
+               <orgName xml:lang="en">Metropolitan Museum of Art</orgName><!-- même appellation en français -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q160236</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Musée du Louvre</orgName>
+               <orgName xml:lang="fr">Louvre</orgName> <!-- est ce que je peux mettre deux versions du nom pour une seule langue -->
+               <orgName xml:lang="en">The Louvre</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q19675</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Université d’Amsterdam</orgName>
+               <orgName xml:lang="en">University of Amsterdam</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q214341</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">La Presse</orgName>
+               <orgName xml:lang="en">La Presse</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3083289</idno>
+            </org>
+            <org>
+               <orgName xml:lang="fr">Société des musées du Québec</orgName>
+               <!-- aussi appelée société des musées quebecois - SMQ -->
+               <orgName xml:lang="en">Société des musées du Québec</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q87727913</idno>
+               <org>
+                  <orgName xml:lang="fr">Heritage Lottery Fund</orgName>
+                  <orgName xml:lang="en">Heritage Lottery Fund</orgName>
+                  <!-- aussi Heritage Fund --> 
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q5742662</idno>              
+               </org>
+               <org>
+                  <orgName xml:lang="fr">Art Fund</orgName>
+                  <orgName xml:lang="en">Art Fund</orgName>
+                  <!-- aussi le National Art Collections Fund-->
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
+               </org>
+            </org>
          </listOrg>
       </body>
    </text>
