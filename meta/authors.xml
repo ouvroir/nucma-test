@@ -153,9 +153,33 @@
                   <forename>Anne</forename>
                   <surname>Bénichou</surname>
                </persName>
-               <note xml:lang="fr"> </note>
+               <note xml:lang="fr"><p></p></note>
                <affiliation>Université du Québec à Montréal</affiliation>
                <idno type="ORCID">0000-0003-3761-608X</idno>
+            </person>
+            <person>
+               <persName ref="#gagnierRichard">
+                  <forename>Richard</forename>
+                  <surname>Gagnier</surname>
+               </persName>
+               <note xml:lang="fr"><p></p></note>
+               <affiliation>Musée des beaux-arts de Montréal</affiliation>
+            </person>
+            <person>
+               <persName ref="gagnonAnnMarlene">
+                  <forename>Ann Marlène</forename>
+                  <surname>Gagnon</surname>
+               </persName>
+               <note xml:lang="fr"><p></p></note>
+               <affiliation>Université du Québec à Montréal</affiliation>
+            </person>
+            <person>
+               <persName>
+                  <forename>Mariah</forename>
+                  <surname>O’Brien</surname>
+               </persName>
+               <note xml:lang="fr"><p></p> </note>
+               <affiliation>Université de Montréal</affiliation>
             </person>
          </listPerson>
       </body>
