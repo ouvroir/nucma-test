@@ -181,6 +181,24 @@
                <note xml:lang="fr"><p></p> </note>
                <affiliation>Université de Montréal</affiliation>
             </person>
+            <person xml:id="drouinBriseboisJosee">
+               <persName>
+                  <forename>Josée</forename>
+                  <surname>Drouin-Brisebois</surname>
+               </persName>
+               <note xml:lang="fr"><p></p></note>
+               <affiliation>Musée des beaux-arts du Canada</affiliation>
+               <idno type="isni">ttps://isni.org/isni/0000000073687692</idno>
+            </person>
+            <person xml:id="minierJessica">
+               <persName>
+                  <forename>Jessica</forename>
+                  <surname>Minier</surname>
+               </persName>
+               <note xml:lang="fr"><p></p></note>
+               <affiliation>Université du Québec en Outaouais</affiliation>
+               <idno><!-- aucun idno trouvé--></idno>
+            </person>
          </listPerson>
       </body>
    </text>
