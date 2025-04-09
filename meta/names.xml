@@ -18,7 +18,8 @@
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title xml:lang="fr" type="main">Encyclopédie des nouveaux usages des collections dans
+            <title xml:lang="fr" type="main"
+               >Encyclopédie des nouveaux usages des collections dans
                les musées d’art</title>
             <title xml:lang="en" type="main">Encyclopedia of New Uses of Collections</title>
             <idno type="URI">http://www.nucma.ca</idno>
@@ -65,10 +66,10 @@
             
             Créer une notice avec un identifiant xml:id en suivant le modèle ci-dessous
             Pour faciliter le référencement dans les textes, on suggère d’utiliser le nom, prénom avec la notation lowerCamelCase pour les identifiants. 
-            Insérer dans le texte une balise <ref> avec l’atribut @target et la cible (utiliser un dièse).
+            Insérer dans le texte une balise <persName> avec l’atribut @ref et la cible (utiliser un dièse).
             
-            Exemple : Avec l’xml:id xml:id="duchampMarcel"
-            avec son œuvre <title>Fontaine</title>, <ref target="#duchampMarcel">Marcel Duchamp</ref> révolutionne...
+            Exemple : Avec l’@xml:id @xml:id="duchampMarcel"
+            avec son œuvre <title>Fontaine</title>, <persName ref="#duchampMarcel">Marcel Duchamp</persName> révolutionne...
          -->
          <listPerson>
             <head xml:lang="fr">Index des noms</head>
@@ -110,9 +111,9 @@
             <person xml:id="gagnierRichard">
                <persName>Gagnier, Richard (1955-....)</persName>
                <idno type="isni">https://isni.org/isni/0000 0000 7646 4240</idno>
-               <idno type="bnf"></idno>
-               <idno type="wikidata"></idno>
-               <idno type="ulan"></idno>
+               <idno type="bnf"/>
+               <idno type="wikidata"/>
+               <idno type="ulan"/>
             </person>
             <person xml:id="murphySerge">
                <persName>Murphy, Serge (1953-....)</persName>
@@ -124,7 +125,7 @@
             <person xml:id="guerreraMassimo">
                <persName>Guerrera, Massimo (1967-....)</persName>
                <idno type="isni">https://isni.org/isni/0000000122760527</idno>
-               <idno type="bnf"></idno>
+               <idno type="bnf"/>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3297754</idno>
                <idno type="ulan">http://vocab.getty.edu/page/ulan/500193645</idno>
             </person>
@@ -140,7 +141,7 @@
                <idno type="isni">https://isni.org/isni/0000000080844828</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb128066645</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q7405063</idno>
-               <idno type="ulan"></idno>
+               <idno type="ulan"/>
             </person>
             <person xml:id="rainerYvonne">
                <persName>Rainer, Yvonne (1934-....)</persName>
@@ -162,102 +163,101 @@
          <listOrg>
             <head xml:lang="fr">Index des organisations</head>
             <head xml:lang="en">Organisations index</head>
-            <org>
+            <org xml:id="mbam">
                <orgName xml:lang="fr">Musée des beaux-arts de Montréal</orgName>
                <orgName xml:lang="en">Montreal Museum of Fine Arts</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q860812</idno>
             </org>
-            <org>
+            <org xml:id="tatePapers">
                <orgName xml:lang="fr">Tate Papers</orgName>
                <orgName xml:lang="en">Tate Papers</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q15817876</idno>
             </org>
-            <org>
+            <org xml:id="docam">
                <orgName xml:lang="fr">DOCAM</orgName>
                <!--Faut-il mettre le nom complet ou juste l'acronymne ?-->
                <orgName xml:lang="en">DOCAM</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5205840</idno>
             </org>
-            <org>
+            <org xml:id="fondationDanielLanglois">
                <orgName xml:lang="fr">Fondation Daniel Langlois</orgName>
                <orgName xml:lang="en">Daniel Langlois Foundation</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3075427</idno>
             </org>
-            <org>
+            <org xml:id="uqam">
                <orgName xml:lang="fr">Université du Québec à Montréal</orgName>
                <orgName xml:lang="en">University of Quebec in Montreal</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1634522</idno>
             </org>
-            <org>
+            <org xml:id="officeInternationalDesMusées">
                <orgName xml:lang="fr">Office international des musées</orgName>
                <!-- renomé "Conseil international des musées" -->
                <orgName xml:lang="en">International Museums Office</orgName>
                <!-- renomé "International Council of Museums" -->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q653054</idno>
             </org>
-            <org>
+            <org xml:id="mnbaq">
                <orgName xml:lang="fr">Musée national des beaux-arts du Québec</orgName>
                <orgName xml:lang="en">Musée national des beaux-arts du Québec</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q2338135</idno>
             </org>
-            <org>
+            <org xml:id="macl">
                <orgName xml:lang="fr">Musée d'art contemporain des Laurentides</orgName>
                <orgName xml:lang="en">Laurentides Museum of Contemporary Art</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3329585</idno>
             </org>
-            <org>
+            <org xml:id="walkerArtCenter">
                <orgName xml:lang="fr">Walker Art Center</orgName>
                <orgName xml:lang="en">Walker Art Center</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1851516</idno>
             </org>
-            <org>
+            <org xml:id="mnam">
                <orgName xml:lang="fr">Musée national d’Art moderne</orgName>
                <!-- MNAM -->
                <orgName xml:lang="en">National Museum of Modern Art</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1895953</idno>
             </org>
-            <org>
+            <org xml:id="mbac">
                <orgName xml:lang="fr">Musée des beaux-arts du Canada</orgName>
                <orgName xml:lang="en">National Gallery of Canada</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1068063</idno>
             </org>
-            <org>
-               <orgName xml:lang="en">Metropolitan Museum of Art</orgName><!-- même appellation en français -->
+            <org xml:id="met">
+               <orgName xml:lang="en">Metropolitan Museum of Art</orgName>
+               <!-- même appellation en français -->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q160236</idno>
             </org>
-            <org>
+            <org xml:id="louvre">
                <orgName xml:lang="fr">Musée du Louvre</orgName>
-               <orgName xml:lang="fr">Louvre</orgName> <!-- est ce que je peux mettre deux versions du nom pour une seule langue -->
+               <orgName xml:lang="fr">Louvre</orgName>
+               <!-- est ce que je peux mettre deux versions du nom pour une seule langue -->
                <orgName xml:lang="en">The Louvre</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q19675</idno>
             </org>
-            <org>
+            <org xml:id="universiteDAmsterdam">
                <orgName xml:lang="fr">Université d’Amsterdam</orgName>
                <orgName xml:lang="en">University of Amsterdam</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q214341</idno>
             </org>
-            <org>
+            <org xml:id="laPresse">
                <orgName xml:lang="fr">La Presse</orgName>
-               <orgName xml:lang="en">La Presse</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3083289</idno>
             </org>
-            <org>
+            <org xml:id="smq">
                <orgName xml:lang="fr">Société des musées du Québec</orgName>
                <!-- aussi appelée société des musées quebecois - SMQ -->
                <orgName xml:lang="en">Société des musées du Québec</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q87727913</idno>
-               <org>
-                  <orgName xml:lang="fr">Heritage Lottery Fund</orgName>
-                  <orgName xml:lang="en">Heritage Lottery Fund</orgName>
-                  <!-- aussi Heritage Fund --> 
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q5742662</idno>              
-               </org>
-               <org>
-                  <orgName xml:lang="fr">Art Fund</orgName>
-                  <orgName xml:lang="en">Art Fund</orgName>
-                  <!-- aussi le National Art Collections Fund-->
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
-               </org>
+            </org>
+            <org xml:id="heritageLotteryFund">
+               <orgName xml:lang="en">Heritage Lottery Fund</orgName>
+               <!-- aussi Heritage Fund -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5742662</idno>
+            </org>
+            <org>
+               <orgName xml:lang="en">Art Fund</orgName>
+               <!-- aussi le National Art Collections Fund-->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
             </org>
          </listOrg>
       </body>

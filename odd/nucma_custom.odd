@@ -139,6 +139,16 @@
               </sequence>
             </content>
           </elementSpec>
+          
+          <elementSpec ident="persName" mode="change" module="namesdates">
+            <attList>
+              <attDef ident="ref" mode="replace" usage="opt">
+                <datatype>
+                  <dataRef key="teidata.pointer"/>
+                </datatype>
+              </attDef>
+            </attList>
+          </elementSpec>
         </schemaSpec>
       </div1>
     </body>
