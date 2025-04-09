@@ -18,8 +18,7 @@
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title xml:lang="fr" type="main"
-               >Encyclopédie des nouveaux usages des collections dans
+            <title xml:lang="fr" type="main">Encyclopédie des nouveaux usages des collections dans
                les musées d’art</title>
             <title xml:lang="en" type="main">Encyclopedia of New Uses of Collections</title>
             <idno type="URI">http://www.nucma.ca</idno>
@@ -72,6 +71,7 @@
             avec son œuvre <title>Fontaine</title>, <persName ref="#duchampMarcel">Marcel Duchamp</persName> révolutionne...
          -->
          <listPerson>
+            <!-- Julie -->
             <head xml:lang="fr">Index des noms</head>
             <head xml:lang="en">Names index</head>
             <person xml:id="duchampMarcel">
@@ -160,7 +160,21 @@
             <!-- pas sure de comment noter "B-F-G", le collectif -->
          </listPerson>
 
+         <listPerson>
+            <!-- Rosalie -->
+            <head xml:lang="fr">Index des noms</head>
+            <head xml:lang="en">Names index</head>
+            <person>
+               <persName/>
+               <idno type="isni">https://isni.org/isni/</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/</idno>
+            </person>
+         </listPerson>
+
          <listOrg>
+            <!-- Julie -->
             <head xml:lang="fr">Index des organisations</head>
             <head xml:lang="en">Organisations index</head>
             <org xml:id="mbam">
@@ -258,6 +272,17 @@
                <orgName xml:lang="en">Art Fund</orgName>
                <!-- aussi le National Art Collections Fund-->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
+            </org>
+         </listOrg>
+         
+         <listOrg>
+            <!-- Rosalie -->
+            <head xml:lang="fr">Index des organisations</head>
+            <head xml:lang="en">Organisations index</head>
+            <org>
+               <orgName xml:lang="fr"/>
+               <orgName xml:lang="en"/>
+               <idno type="wikidata"/>
             </org>
          </listOrg>
       </body>
