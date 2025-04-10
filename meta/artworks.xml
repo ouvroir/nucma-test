@@ -63,14 +63,20 @@
          -->
          <!-- @todo à discuter : traitement des lieux de conservations, numéro d’accession, et des informations matérielles et techniques -->
          <!-- @todo voir renvois -->
-         <listObject>
+         <listObject><!-- Liste de Julie -->
             <object xml:id="duchamp003">
                <objectName>Fontaine</objectName>
                <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1206847</idno>
             </object>
          </listObject>
-         
+         <listObject><!-- Liste de Rosa -->
+            <object>
+               <objectName></objectName>
+               <author></author>
+               <idno></idno>
+            </object>
+         </listObject>
       </body>
    </text>
 </TEI>
