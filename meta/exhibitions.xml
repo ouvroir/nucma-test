@@ -47,7 +47,7 @@
             Toutes les mentions d’expositions doivent être indexées 
             
          -->
-         <listEvent>
+         <listEvent><!-- Liste de Julie -->
             <head xml:lang="fr">Index des expositions</head>
             <head xml:lang="en">Exhibitions index</head>
             <event>
@@ -62,7 +62,21 @@
                <!-- ne pas hésiter à mettre des commentaires avec des sources pour qu’on puisse retravailler la liste -->
             </event>
          </listEvent>
-         
+         <listEvent><!-- Liste de Rosa -->
+            <head xml:lang="fr">Index des expositions</head>
+            <head xml:lang="en">Exhibitions index</head>
+            <event>
+               <eventName></eventName>
+               <place>
+                  <orgName></orgName>
+                  <placeName></placeName>
+                  <country></country>
+               </place>
+               <date></date>
+               <idno></idno>
+               <!-- ne pas hésiter à mettre des commentaires avec des sources pour qu’on puisse retravailler la liste -->
+            </event>
+         </listEvent>
       </body>
    </text>
 </TEI>
