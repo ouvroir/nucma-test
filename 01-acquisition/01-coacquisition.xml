@@ -11,7 +11,8 @@
                         <surname>Drouin-Brisebois</surname>
                     </persName>
                     <affiliation>Musée des beaux-arts du Canada</affiliation>
-                    <idno type="ISNI">https://isni.org/isni/0000000073687692</idno><!--Pourquoi ça me dit que ISNI est une rerreur ?-->
+                    <idno type="ISNI"
+                    >https://isni.org/isni/0000000073687692</idno><!--Pourquoi ça me dit que ISNI est une rerreur ?-->
                 </author>
                 <author ref="minierJessica">
                     <persName>
@@ -33,7 +34,7 @@
                     </licence>
                 </availability>
             </publicationStmt>
-            
+
             <seriesStmt>
                 <title xml:lang="fr" type="main">Acquisition</title>
                 <title xml:lang="fr" type="sub">Encyclopédie des nouveaux usages des collections
@@ -42,7 +43,7 @@
                 <title xml:lang="en" type="sub">Encyclopedia of New Uses of Collections</title>
                 <idno type="URI">http://www.nucma.ca</idno>
             </seriesStmt>
-            
+
             <sourceDesc xml:id="01-coacquisition.xml">
                 <p>Fichier nativement numérique</p>
             </sourceDesc>
@@ -97,9 +98,9 @@
                     la période allant de 1973 à 2010. Malgré cet intérêt grandissant pour la
                     pratique dans le milieu professionnel, l’acquisition conjointe demeure un sujet
                     assez peu exploré dans la littérature académique. La propriété partagée entre
-                    musées est effleurée dans certains ouvrages de référence <bibl>(Matassa, 2010,
-                        2011 ; Tobelem, 2010)</bibl><!-- 2 ref = 1 ou 2 balises bibl #RC--> et a fait
-                    l’objet d’un mémoire de maîtrise en muséologie de l’<orgName>Université
+                    musées est effleurée dans certains ouvrages de référence <bibl>Matassa, 2010,
+                        2011</bibl> ;<bibl>Tobelem, 2010</bibl> et a
+                    fait l’objet d’un mémoire de maîtrise en muséologie de l’<orgName>Université
                         d’Amsterdam</orgName>
                     <bibl>(van Ravenzwaay, 2015)</bibl>. Puisque l’acquisition conjointe n’a pas
                     fait l’objet de recherches approfondies dans le milieu muséal francophone, cette
@@ -123,7 +124,7 @@
                         <bibl>(van Ravenzwaay, 2015)</bibl> au même titre que <q xml:lang="en"
                         >shared ownership</q>
                     <bibl>(Matassa, 2011)</bibl>. Selon <persName>Jules van Ravenzwaay</persName>
-                    <!-- pas trouvé de idno sur le web + j'ai trouvé une "Jule van ..." et non "jules",qui est commissaire https://clay.earth/profile/jule-van-ravenzwaay --> 
+                    <!-- pas trouvé de idno sur le web + j'ai trouvé une "Jule van ..." et non "jules",qui est commissaire - https://clay.earth/profile/jule-van-ravenzwaay #RC-->
                     le terme <q xml:lang="en">joint ownership</q> : <q xml:lang="en">[…] is a
                         construction in which museums are acquiring artworks in shared ownership
                         agreements with peer institutions instead of aiming at private
@@ -132,44 +133,48 @@
                         xml:lang="en">shared ownership</q> qui se produit lorsque deux parties ou
                     plus s’associent pour acquérir un objet <bibl>(Matassa, 2011)</bibl>. Dans la
                     littérature académique francophone, le terme <q>garde négociée</q> est proposé
-                    dans le <bibl><title>Dictionnaire de muséologie</title>
-                        <!--balise orgname ici, ou title? on parle du dico de l'ICOM #RC ? --> (2022)</bibl>. L’entrée indique que
-                    certains musées se regroupent pour faire des acquisitions si l’importance d’une
-                    œuvre ou d’un objet le justifie <bibl>(Bergeron, 2022)</bibl>.</p>
+                    dans le <title>Dictionnaire de muséologie</title>
+                    <bibl>(2022)</bibl>. L’entrée indique que certains musées se regroupent pour
+                    faire des acquisitions si l’importance d’une œuvre ou d’un objet le justifie
+                        <bibl>(Bergeron, 2022)</bibl>.</p>
             </div>
             <div>
                 <head><title>Terminologie et définition de concept</title></head>
-                <p>Le concept de <q>garde négociée</q> n’est pas sans évoquer celui <q>d’acquisition
-                        conjointe</q>, qui est la terminologie francophone proposée de pair avec son
-                        synonyme <q>coacquisition</q>.
-                    <!-- est-ce que je peux mettre des <q ici alors quil ny a pas de ref bibliographique ?-->
-                    D’une part, l’acquisition est la première d’une série d’étapes qui constituent
-                    la vie d’un objet de musée. Elle consiste à la réception ou l’accueil d’un ou de
-                    plusieurs objets dans les collections. Selon la <orgName>Société des musées du
-                        Québec</orgName>, <q> l’acquisition est l’activité par laquelle un objet ou
-                        un groupe d’objets devient légalement la propriété de [l’] institution
-                        muséale et est intégré dans [ses collections].</q> <bibl>(Société des musées
-                        du Québec, 2016)</bibl>. En ajoutant le qualificatif <q>conjointe</q> à
-                    l’acquisition vient cette idée d’union entre plusieurs parties qui
-                        s’accompagne <q>[de] droits et [d’] obligations communs</q>
+                <!-- #RC explication choix des balises <q ou <soCalled : 
+                    <q quand il y a une ref bibliographique après - indique la reprise d'une expression utilisée par un-e auteur-ice / 
+                    <soCalled quand il ny a pas de ref bibliographique directement après-->
+                <p>Le concept de <soCalled>garde négociée</soCalled> n’est pas sans évoquer celui
+                        <soCalled>d’acquisition conjointe</soCalled>, qui est la terminologie
+                    francophone proposée de pair avec son
+                        synonyme <soCalled>coacquisition</soCalled>. D’une part, l’acquisition est
+                    la première d’une série d’étapes qui constituent la vie d’un objet de musée.
+                    Elle consiste à la réception ou l’accueil d’un ou de plusieurs objets dans les
+                    collections. Selon la <orgName>Société des musées du Québec</orgName>,
+                        <q> l’acquisition est l’activité par laquelle un objet ou un groupe d’objets
+                        devient légalement la propriété de [l’] institution muséale et est intégré
+                        dans [ses collections].</q> <bibl>(Société des musées du Québec,
+                        2016)</bibl>. En ajoutant le qualificatif <soCalled>conjointe</soCalled> à l’acquisition
+                    vient cette idée d’union entre plusieurs parties qui s’accompagne <q>[de] droits
+                        et [d’] obligations communs</q>
                     <bibl>(CNRTL – Centre national de ressources textuelles et lexicales,
                         2012)</bibl>. En se basant sur ces deux définitions, l’acquisition conjointe
                     pourrait tout naturellement être définie comme étant un processus collaboratif
                     par lequel une œuvre devient la propriété de deux ou de plusieurs parties,
                     muséales ou non, et est intégrée simultanément dans leurs collections.
-                    Contrairement au terme <q>garde</q>, celui <q>d’acquisition</q> a pour effet
-                    d’ancrer la terminologie dans l’univers muséal en plus d’intégrer l’idée du
-                    transfert de propriété. L’adjectif <q>conjoint</q> vient par la suite introduire
-                    l’idée du commun, du partage et de la collaboration contrairement à
-                        l’adjectif <q>négociée</q>.</p>
+                    Contrairement au terme <soCalled>garde</soCalled>,
+                        celui <soCalled>d’acquisition</soCalled> a pour effet d’ancrer la
+                    terminologie dans l’univers muséal en plus d’intégrer l’idée du transfert de
+                    propriété. L’adjectif <soCalled>conjoint</soCalled> vient par la suite
+                    introduire l’idée du commun, du partage et de la collaboration contrairement à
+                        l’adjectif <soCalled>négociée</soCalled>.</p>
                 <p>En plus de diminuer les frais d’acquisition pour tous les partenaires dans le cas
                     d’un achat conjoint, la coacquisition augmente l’accès à l’œuvre : d’une part,
                     pour les publics qui peuvent la voir présentée dans différents endroits et,
                     d’autre part, pour les copropriétaires qui peuvent chacun la présenter, la
                     documenter et l’étudier <bibl>(Matassa, 2011)</bibl>. Considérant qu’elles
                     s’inscrivent dans plus d’une collection à la fois, les œuvres ont un numéro
-                    d’acquisition dans chacune des institutions (ARCS – Association of Registrars
-                    and Collections Specialists, s.d.). Ces dernières, qui se partagent déjà la
+                    d’acquisition dans chacune des institutions <bibl>(ARCS – Association of Registrars
+                    and Collections Specialists, s.d.)</bibl>. Ces dernières, qui se partagent déjà la
                     propriété, se partagent aussi l’autorité dans les décisions concernant l’œuvre
                     coacquise. Toute acquisition conjointe s’accompagne d’un <q>protocole</q>
                     <bibl>(Bergeron, 2022)</bibl> qui détaille les droits et obligations des
@@ -177,8 +182,8 @@
                     que les modalités d’achat (si applicable), de propriété et de possession, de
                     conservation, de prêt à de tierces parties, de reproduction, de vente,
                     d’assurance et d’indemnisation, de documentation et de recherche, d’entreposage,
-                    d’accès et de transport <bibl>(ARCS – Association of Registrars and Collections
-                        Specialists, s.d.; Musée des beaux-arts du Canada, 2018)</bibl>. Si l’œuvre
+                    d’accès et de transport <bibl>ARCS – Association of Registrars and Collections
+                        Specialists, s.d.</bibl>; <bibl>Musée des beaux-arts du Canada, 2018</bibl>. Si l’œuvre
                     partagée est matérielle, il faut départager le temps d’usage, mais aussi les
                     frais de transport et d’encaissement. À cela s’ajoutent des considérations pour
                     l’entreposage, la conservation et la restauration de l’œuvre. De façon générale,
@@ -351,8 +356,8 @@
                         partager le financement plutôt que se le disputer. C’est-à-dire que
                         l’acquisition conjointe, qui promeut un usage sain des ressources, un
                         partage des coûts et le maintien des œuvres d’art dans le secteur public,
-                        peut accroître la capacité de collecte de fonds des musées <bibl>(Matassa,
-                            2011 ; van Ravenzwaay, 2015)</bibl>. D’un côté, les musées peuvent se
+                        peut accroître la capacité de collecte de fonds des musées <bibl>Matassa,
+                            2011</bibl> ;<bibl>van Ravenzwaay, 2015</bibl>. D’un côté, les musées peuvent se
                         partager leurs donateurs et donatrices : chacun peut faire appel à son
                         réseau respectif, puis l’argent amassé de part et d’autre est utilisé pour
                         l’achat de l’œuvre convoitée. D’un autre côté, les musées qui procèdent à
@@ -489,21 +494,24 @@
                         conjointe d’œuvres d’artistes de la diversité. Or, en prenant conscience des
                         lacunes dans leurs collections et en cherchant à les combler, les musées
                             comme <q>prescripteurs</q>
-                        <bibl>(Moulin, 2009)</bibl> créent une forte demande
-                        pour les œuvres d’artistes autochtones ou issus de la diversité, à la fois
-                        historiques et contemporaines. Considérant l’offre limitée d’œuvres
-                        historiques, et la forte demande pour les œuvres contemporaines,
-                        l’acquisition conjointe est une stratégie utilisée par les musées pour avoir
-                        le pouvoir de diversifier leurs collections compte tenu des budgets
-                        d’acquisition et des opportunités de subvention limités. </p>
+                        <bibl>(Moulin, 2009)</bibl> créent une forte demande pour les œuvres
+                        d’artistes autochtones ou issus de la diversité, à la fois historiques et
+                        contemporaines. Considérant l’offre limitée d’œuvres historiques, et la
+                        forte demande pour les œuvres contemporaines, l’acquisition conjointe est
+                        une stratégie utilisée par les musées pour avoir le pouvoir de diversifier
+                        leurs collections compte tenu des budgets d’acquisition et des opportunités
+                        de subvention limités. </p>
                 </div>
             </div>
             <div>
                 <head>Bibliographie</head>
                 <listBibl>
                     <p>ARCS – Association of Registrars and Collections Specialists (s.d.).
-                        Co-Ownership Agreement. ARCS—Association of Registrars and Collections Specialists. <ref
-                            target="https://www.arcsinfo.org/content/documents/12-co-ownerships-template-co-ownership-agreement.pdf"> https://www.arcsinfo.org/content/documents/12-co-ownerships-template-co-ownership-agreement.pdf</ref>
+                        Co-Ownership Agreement. ARCS—Association of Registrars and Collections
+                        Specialists. <ref
+                            target="https://www.arcsinfo.org/content/documents/12-co-ownerships-template-co-ownership-agreement.pdf"
+                            >
+                            https://www.arcsinfo.org/content/documents/12-co-ownerships-template-co-ownership-agreement.pdf</ref>
                     </p>
                     <p><hi style="font-size:12pt" xml:space="preserve">Bergeron, Yves (2022). </hi><hi
                             rend="italic" style="font-size:12pt">Garde
@@ -698,10 +706,10 @@
             </div>
             <div>
                 <head>Encadrés et compléments numériques :</head>
-                <p>Complément numérique « mini-expo » (multimédia) sur
-                        la vente des Rembrandt au Rijks Museum
-                </p>
-                <p>Complément numérique « mini-expo » (multimédia) : Entrevue sur l’acquisition The Clock de Christian Marclay </p>
+                <p>Complément numérique « mini-expo » (multimédia) sur la vente des Rembrandt au
+                    Rijks Museum </p>
+                <p>Complément numérique « mini-expo » (multimédia) : Entrevue sur l’acquisition The
+                    Clock de Christian Marclay </p>
             </div>
             <div>
                 <head>Références à d’autres entrées de l’Encyclopédie :</head>
