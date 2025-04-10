@@ -63,12 +63,27 @@
             La ville de <placeName ref="#paris">Paris</placeName> constitue une capitale artistique de...
          -->
          <listPlace><!-- liste de Rosa -->
+          <!-- exemple d'Emmanuel-->
             <place xml:id="paris-France">
                <placeName>Paris (France)</placeName>
                <region>[si province ou état : ex: québec, état américain</region>
                <country>France</country>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q90</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb152821567</idno>
+            </place>
+            <place xml:id="etats-Unis">
+               <placeName xml:lang="en">United States</placeName>
+               <placeName xml:lang="fr">États-Unis</placeName>
+               <!-- USA, US -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q30</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12182520r</idno>
+            </place>
+            <place xml:id="royaume-Uni">
+               <placeName xml:lang="en">United Kingdom</placeName>
+               <placeName xml:lang="fr">Royaume-Uni</placeName>
+               <!-- UK -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q145</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15238574p</idno>
             </place>
          </listPlace>
          <listPlace><!-- liste de Julie -->
