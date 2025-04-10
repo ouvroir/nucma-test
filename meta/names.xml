@@ -164,12 +164,14 @@
             <!-- Rosalie -->
             <head xml:lang="fr">Index des noms</head>
             <head xml:lang="en">Names index</head>
-            <person>
-               <persName/>
-               <idno type="isni">https://isni.org/isni/</idno>
-               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/</idno>
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="ulan">http://vocab.getty.edu/page/ulan/</idno>
+            <person xml:id="matassaFreda">
+               <persName>Matassa, Freda (19...)</persName><!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
+               <idno type="isni">https://isni.org/isni/0000000356226714</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb169185618</idno>
+            </person>
+            <person xml:id="juleVanRavenzwaay"><!-- nommée Jules avec un s dans 01-coacquisition - je pense que c est une erreur -->
+               <persName>Jule van Ravenzwaay</persName>
+               <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
             </person>
          </listPerson>
 
@@ -236,54 +238,48 @@
                <orgName xml:lang="en">National Gallery of Canada</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1068063</idno>
             </org>
-            <org xml:id="met">
-               <orgName xml:lang="en">Metropolitan Museum of Art</orgName>
-               <!-- même appellation en français -->
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q160236</idno>
-            </org>
-            <org xml:id="louvre">
-               <orgName xml:lang="fr">Musée du Louvre</orgName>
-               <orgName xml:lang="fr">Louvre</orgName>
-               <!-- est ce que je peux mettre deux versions du nom pour une seule langue -->
-               <orgName xml:lang="en">The Louvre</orgName>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q19675</idno>
-            </org>
-            <org xml:id="universiteDAmsterdam">
-               <orgName xml:lang="fr">Université d’Amsterdam</orgName>
-               <orgName xml:lang="en">University of Amsterdam</orgName>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q214341</idno>
-            </org>
-            <org xml:id="laPresse">
-               <orgName xml:lang="fr">La Presse</orgName>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q3083289</idno>
-            </org>
-            <org xml:id="smq">
-               <orgName xml:lang="fr">Société des musées du Québec</orgName>
-               <!-- aussi appelée société des musées quebecois - SMQ -->
-               <orgName xml:lang="en">Société des musées du Québec</orgName>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q87727913</idno>
-            </org>
-            <org xml:id="heritageLotteryFund">
-               <orgName xml:lang="en">Heritage Lottery Fund</orgName>
-               <!-- aussi Heritage Fund -->
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q5742662</idno>
-            </org>
-            <org>
-               <orgName xml:lang="en">Art Fund</orgName>
-               <!-- aussi le National Art Collections Fund-->
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
-            </org>
          </listOrg>
          
          <listOrg>
             <!-- Rosalie -->
             <head xml:lang="fr">Index des organisations</head>
             <head xml:lang="en">Organisations index</head>
-            <org>
-               <orgName xml:lang="fr"/>
-               <orgName xml:lang="en"/>
-               <idno type="wikidata"/>
-            </org>
+               <org xml:id="met">
+                  <orgName xml:lang="en">Metropolitan Museum of Art</orgName>
+                  <!-- même appellation en français -->
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q160236</idno>
+               </org>
+               <org xml:id="louvre">
+                  <orgName xml:lang="fr">Musée du Louvre</orgName>
+                  <!-- ou juste Louvre -->
+                  <orgName xml:lang="en">The Louvre</orgName>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q19675</idno>
+               </org>
+               <org xml:id="universiteDAmsterdam">
+                  <orgName xml:lang="fr">Université d’Amsterdam</orgName>
+                  <orgName xml:lang="en">University of Amsterdam</orgName>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q214341</idno>
+               </org>
+               <org xml:id="laPresse">
+                  <orgName xml:lang="fr">La Presse</orgName>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q3083289</idno>
+               </org>
+               <org xml:id="smq">
+                  <orgName xml:lang="fr">Société des musées du Québec</orgName>
+                  <!-- aussi Société des musées québécois ou SMQ -->
+                  <orgName xml:lang="en">Société des musées du Québec</orgName>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q87727913</idno>
+               </org>
+               <org xml:id="heritageLotteryFund">
+                  <orgName xml:lang="en">Heritage Lottery Fund</orgName>
+                  <!-- aussi Heritage Fund -->
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q5742662</idno>
+               </org>
+               <org xml:id="artFund">
+                  <orgName xml:lang="en">Art Fund</orgName>
+                  <!-- aussi le National Art Collections Fund-->
+                  <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
+               </org>
          </listOrg>
       </body>
    </text>
