@@ -42,10 +42,10 @@
    </teiHeader>
    <text>
       <body>
-         <listPerson>
+         <listPerson><!-- Liste de Julie -->
             <head xml:lang="fr">Liste des auteurs et des autrices</head>
             <head xml:lang="en">List of authors</head>
-            <person xml:id="ecd">
+            <person xml:id="emmanuelChateauDutier">
                <persName>
                   <forename>Emmanuel</forename>
                   <surname>Château-Dutier</surname>
@@ -88,7 +88,7 @@
                <affiliation>Université de Montréal</affiliation>
                <idno type="orcid">https://orcid.org/0000-0003-4092-4569</idno>
             </person>
-            <person>
+            <person xml:id="bawinJulie">
                <persName>
                   <forename>Julie</forename>
                   <surname>Bawin</surname>
@@ -111,7 +111,7 @@
                   <idno type="orcid">https://orcid.org/0009-0003-5973-042X<!-- @todo --></idno>
                </persName>
             </person>
-            <person>
+            <person xml:id="beaudryEveLyne">
                <persName>
                   <forename>Ève-Lyne</forename>
                   <surname>Beaudry</surname>
@@ -128,7 +128,7 @@
                <affiliation>Musée national des beaux-arts du Québec</affiliation>
                <idno type="orcid">https://orcid.org/0009-0003-5973-042X<!-- @todo --></idno>
             </person>
-            <person>
+            <person xml:id="boucherMelanie">
                <persName>
                   <forename>Mélanie</forename>
                   <surname>Boucher</surname>
@@ -148,8 +148,8 @@
                <affiliation>Université du Québec en Outaouais</affiliation>
                <idno type="orcid">https://orcid.org/0009-0003-5973-042X<!-- @todo --></idno>
             </person>
-            <person>
-               <persName ref="#benichouAnne">
+            <person xml:id="benichouAnne">
+               <persName>
                   <forename>Anne</forename>
                   <surname>Bénichou</surname>
                </persName>
@@ -157,23 +157,23 @@
                <affiliation>Université du Québec à Montréal</affiliation>
                <idno type="ORCID">0000-0003-3761-608X</idno>
             </person>
-            <person>
-               <persName ref="#gagnierRichard">
+            <person xml:id="gagnierRichard">
+               <persName>
                   <forename>Richard</forename>
                   <surname>Gagnier</surname>
                </persName>
                <note xml:lang="fr"><p></p></note>
                <affiliation>Musée des beaux-arts de Montréal</affiliation>
             </person>
-            <person>
-               <persName ref="gagnonAnnMarlene">
+            <person xml:id="gagnonAnnMarlene">
+               <persName>
                   <forename>Ann Marlène</forename>
                   <surname>Gagnon</surname>
                </persName>
                <note xml:lang="fr"><p></p></note>
                <affiliation>Université du Québec à Montréal</affiliation>
             </person>
-            <person>
+            <person xml:id="oBrienMariah">
                <persName>
                   <forename>Mariah</forename>
                   <surname>O’Brien</surname>
@@ -181,7 +181,11 @@
                <note xml:lang="fr"><p></p> </note>
                <affiliation>Université de Montréal</affiliation>
             </person>
-            <person xml:id="drouinBriseboisJosee"><!-- a clarifier - on met xml id ou ref ? -->
+         </listPerson>
+         <listPerson><!--liste de Rosa -->
+            <head xml:lang="fr">Liste des auteurs et des autrices</head>
+            <head xml:lang="en">List of authors</head>
+            <person xml:id="drouinBriseboisJosee">
                <persName>
                   <forename>Josée</forename>
                   <surname>Drouin-Brisebois</surname>
@@ -195,9 +199,16 @@
                   <forename>Jessica</forename>
                   <surname>Minier</surname>
                </persName>
-               <note xml:lang="fr"><p></p></note>
                <affiliation>Université du Québec en Outaouais</affiliation>
                <idno><!-- aucun idno trouvé--></idno>
+            </person>
+            <person>
+               <persName>
+                  <forename></forename>
+                  <surname></surname>
+               </persName>
+               <affiliation></affiliation>
+               <idno></idno>
             </person>
          </listPerson>
       </body>
