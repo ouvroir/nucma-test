@@ -202,13 +202,14 @@
                <affiliation>Université du Québec en Outaouais</affiliation>
                <idno><!-- aucun idno trouvé #RC--></idno>
             </person>
-            <person>
+            <person xml:id="beaupreMarieEve">
                <persName>
-                  <forename></forename>
-                  <surname></surname>
+                  <forename>Marie-Eve</forename>
+                  <surname>Beaupré</surname>
                </persName>
                <affiliation></affiliation>
-               <idno></idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q110413936</idno>
+               <idno type="insi">https://isni.org/isni/0000000072677986</idno>
             </person>
          </listPerson>
       </body>
