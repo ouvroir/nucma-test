@@ -64,12 +64,10 @@
          -->
          <!-- @todo à discuter : traitement des lieux de conservations, numéro d’accession, et des informations matérielles et techniques -->
          <!-- @todo voir renvois -->
-<<<<<<< HEAD
+
+
+         <!-- Liste de Julie -->
          <listObject>
-            <!-- Liste de Julie -->
-=======
-         <listObject><!-- Liste de Julie -->
->>>>>>> refs/remotes/origin/draft
             <object xml:id="duchamp003">
                <objectName>Fontaine</objectName>
                <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
@@ -77,9 +75,8 @@
             </object>
             <object xml:id="">
                <objectName>Variations et Pérennité</objectName>
-               <author ref="#">collectif</author> <!-- a renseigner -->
-               <idno type="wikidata"></idno>
-               <idno type="bnf"></idno>
+               <author ref="#">collectif</author> <!-- comment noter un collectif ?, les ajouter à names aussi ? et comment ?-->
+               <idno></idno><!-- à renseigner -->
             </object>
             <object xml:id="bonaroti001">
                <objectName>Jugement dernier</objectName>
@@ -89,63 +86,55 @@
             </object>
             <object xml:id="rembrandt001">
                <objectName>La Ronde de nuit</objectName>
-               <author ref="#Rembrandt">Rembrandt (1606-1669)</author> <!-- a ajouter à names ? -->
+               <author ref="#rembrandt">Rembrandt (1606-1669)</author> <!-- a ajouter à names ? pas cité dans le texte -->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q219831</idno>
                <idno type="bnf">https://data.bnf.fr/fr/ark:/12148/cb11940484n</idno>
             </object>
             <object xml:id="schwitters001">
                <objectName>Merzbau</objectName>
-               <author ref="#schwittersKurt">Schwitters, Kurt (1887-1948)</author> 
+               <author ref="#schwittersKurt">Schwitters, Kurt (1887-1948)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1922245</idno>
                <idno type="bnf">https://data.bnf.fr/fr/ark:/12148/cb169807693</idno>
             </object>
             <object xml:id="claus001">
                <objectName>Envahisseurs</objectName>
                <author ref="#clausHannah">Claus, Hannah</author>
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="bnf"></idno>
+               <idno></idno> <!-- a renseigner -->
             </object>
             <object xml:id="murphy001">
                <objectName>La forme des jours</objectName>
-               <author ref="#murphySerge">Murphy, Serge (1953-....)</author> 
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="bnf"></idno>
+               <author ref="#murphySerge">Murphy, Serge (1953-....)</author>
+               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=MBAM60899</idno>
             </object>
             <object xml:id="guerrera001">
                <objectName>Darboral</objectName>
                <author ref="#guerreraMassimo">Guerrera, Massimo (1967-....)</author> 
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="bnf"></idno>
+               <idno type="artwork"/><!-- à renseigner, chercher le bon numéro d'inventaire -->
             </object>
             <object xml:id="BFG001">
                <objectName>Plafond suspendu</objectName>
-               <author ref="#BFG">B-F-G (2019)</author> 
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="bnf"></idno>
+               <author ref="#BFG">B-F-G (2019)</author>
+               <idno ></idno> <!-- à renseigner, comment noter les collectifs ? -->
             </object>
             <object xml:id="sterbak001">
                <objectName>Vanitas : robe de chair pour albinos anorexique</objectName>
-               <author ref="#sterbakJana">Sterbak, Jana (1955_....)</author> 
+               <author ref="#sterbakJana">Sterbak, Jana (1955_....)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q7914985</idno>
-               <idno type="bnf"></idno>
             </object>
             <object xml:id="banes001">
                <objectName>Yvonne Rainer. Trio A</objectName>
-               <author ref="#banesSally">Banes, Sally (1950-2020)</author> 
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="bnf"></idno> <!-- video de Yvonne Rainner qui danse -->
+               <author ref="#banesSally">Banes, Sally (1950-2020)</author>
+               <idno/> <!-- vidéo de Yvonne Rainner qui effectue sa chorégraphie -->
             </object>
             <object xml:id="rainer001">
-               <objectName>la chorégraphie - Trio A</objectName> <!-- est écrit "la chorégraphie dans le texte" -->
-               <author ref="#rainerYvonne">Rainer, Yvonne (1934-....)</author> 
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="bnf"></idno>
+               <objectName>Trio A</objectName> <!-- est écrit "la chorégraphie" dans le texte -->
+               <author ref="#rainerYvonne">Rainer, Yvonne (1934-....)</author>
+               <idno></idno> <!-- à renseigner -->
             </object>
             <object xml:id="wall001">
                <objectName>Stéréo</objectName>
-               <author ref="#wallJeff">Wall, Jeff (1946-....)</author> 
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
-               <idno type="bnf"></idno>
+               <author ref="#wallJeff">Wall, Jeff (1946-....)</author>
+               <idno type="artwork">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=NGOC%2228013.1-2</idno>
             </object>
          </listObject>
 
@@ -157,16 +146,6 @@
                <idno/>
             </object>
          </listObject>
-<<<<<<< HEAD
-=======
-         <listObject><!-- Liste de Rosa -->
-            <object>
-               <objectName></objectName>
-               <author></author>
-               <idno></idno>
-            </object>
-         </listObject>
->>>>>>> refs/remotes/origin/draft
       </body>
    </text>
 </TEI>
