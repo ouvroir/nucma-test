@@ -62,9 +62,8 @@
             Exemple : Avec l’xml:id xml:id="paris"
             La ville de <placeName ref="#paris">Paris</placeName> constitue une capitale artistique de...
          -->
-         <listPlace><!-- liste de Rosa -->
-          <!-- exemple d'Emmanuel-->
-            <place xml:id="paris-France">
+         <listPlace><!-- Rosalie -->
+            <place xml:id="paris-France"><!-- exemple d'Emmanuel-->
                <placeName>Paris (France)</placeName>
                <region>[si province ou état : ex: québec, état américain</region>
                <country>France</country>
@@ -85,8 +84,28 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q145</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15238574p</idno>
             </place>
+            <place xml:id="canada">
+               <placeName xml:lang="fr">Canada</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q16</idno>
+               <idno type="loc">http://id.loc.gov/vocabulary/geographicAreas/n-cn</idno>
+            </place>
+            <place xml:id="grenoble">
+               <placeName>Grenoble (France)</placeName>
+               <!-- notice bnf "Grenoble (Isère, France)" / notice Loc "Grenoble (France)"-->
+               <region>Isère, département français</region>
+               <country>France</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1289</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119342062</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79091186</idno>
+            </place>
+            <place xml:id="kyoto">
+               <placeName>Kyoto (Japon)</placeName>
+               <country>Japon</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q34600</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n80024170.html</idno>
+            </place>
          </listPlace>
-         <listPlace><!-- liste de Julie -->
+         <listPlace><!-- Julie -->
             <place></place>
          </listPlace>
       </body>
