@@ -173,7 +173,8 @@
             <person xml:id="matassaFreda">
                <persName>Matassa, Freda (19...)</persName>
                <!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
-               <persName>Matassa, Freda (19...)</persName><!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
+               <persName>Matassa, Freda (19...)</persName>
+               <!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
                <idno type="isni">https://isni.org/isni/0000000356226714</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb169185618</idno>
             </person>
@@ -182,6 +183,7 @@
                <persName>Jule van Ravenzwaay</persName>
                <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
             </person>
+            <person xml:id="vanRavenzwaayJule">
                <persName>van Ravenzwaay, Jule</persName>
                <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
             </person>
@@ -196,6 +198,18 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q6243095</idno>
                <idno type="isni">https://isni.org/isni/000000003206005X</idno>
                <idno type="loc">https://id.loc.gov/authorities/names/n93095026</idno>
+            </person>
+            <person xml:id="dymondAnne">
+               <persName>Dymond, Anne Elizabeth (1966 ....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000074123848</idno>
+               <!-- #RC aucun wikidata-->
+            </person>
+            <person xml:id="warholAndy">
+               <persName>Warhol, Andy (1928-1987)</persName>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500006031</idno>
+               <idno type="isni">https://isni.org/isni/0000000121340483</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5603</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11928892w</idno>
             </person>
          </listPerson>
 
@@ -302,42 +316,7 @@
                <orgName xml:lang="en">Art Fund</orgName>
                <!-- aussi le National Art Collections Fund-->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
-               <org xml:id="met">
-                  <orgName xml:lang="en">Metropolitan Museum of Art</orgName>
-                  <!-- même appellation en français -->
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q160236</idno>
-               </org>
-               <org xml:id="louvre">
-                  <orgName xml:lang="fr">Musée du Louvre</orgName>
-                  <!-- ou juste Louvre -->
-                  <orgName xml:lang="en">The Louvre</orgName>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q19675</idno>
-               </org>
-               <org xml:id="universiteDAmsterdam">
-                  <orgName xml:lang="fr">Université d’Amsterdam</orgName>
-                  <orgName xml:lang="en">University of Amsterdam</orgName>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q214341</idno>
-               </org>
-               <org xml:id="laPresse">
-                  <orgName xml:lang="fr">La Presse</orgName>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q3083289</idno>
-               </org>
-               <org xml:id="smq">
-                  <orgName xml:lang="fr">Société des musées du Québec</orgName>
-                  <!-- aussi Société des musées québécois ou SMQ -->
-                  <orgName xml:lang="en">Société des musées du Québec</orgName>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q87727913</idno>
-               </org>
-               <org xml:id="heritageLotteryFund">
-                  <orgName xml:lang="en">Heritage Lottery Fund</orgName>
-                  <!-- aussi Heritage Fund -->
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q5742662</idno>
-               </org>
-               <org xml:id="artFund">
-                  <orgName xml:lang="en">Art Fund</orgName>
-                  <!-- aussi le National Art Collections Fund-->
-                  <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
-               </org>
+            </org>
             <org xml:id="theArtNewspaper">
                <orgName xml:lang="en">The Art Newspaper</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q2331628</idno>
@@ -361,6 +340,56 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q483592</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12209260c</idno>
                <!-- notice bnf utilise ancien nom : Anacostia neighborhood museum-->
+            </org>
+            <org xml:id="muséeDeLaCivilisation">
+               <orgName xml:lang="fr">Musée de la civilisation</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1705530</idno>
+            </org>
+            <org xml:id="macm">
+               <orgName xml:lang="fr">Musée d'art contemporain de Montréal</orgName>
+               <orgName xml:lang="en">Montreal Museum of Contemporary Art</orgName>
+               <!-- aussi MACM et MAC-->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2235294</idno>
+               <idno type="isni">https://isni.org/isni/0000000121976908</idno>
+               <!-- #RC source pour nom en anglais-->
+            </org>
+            <org xml:id="wag">
+               <!-- #RC choix de l'abréviation en englais puisque l'abréviation n'existe pas en fr (MBAW) 
+               + le site officiel du musée utilise WAG-->
+               <orgName xml:lang="en">Winnipeg Art Gallery</orgName>
+               <orgName xml:lang="fr">Musée des beaux arts de Winnipeg</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3813414</idno>
+            </org>
+            <org xml:id="bma">
+               <orgName xml:lang="en">Baltimore Museum of Art</orgName>
+               <orgName xml:lang="fr">Musée d'art de Baltimore</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q377579</idno>
+            </org>
+            <org xml:id="stedelijkMuseum">
+               <orgName xml:lang="en">Stedelijk Museum Amsterdam</orgName>
+               <!-- #RC "Amsterdam" fait partie du nom : sur wikidata, isni et le site officiel-->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q924335</idno>
+            </org>
+            <org xml:id="ngv">
+               <orgName xml:lang="en">National Gallery of Victoria</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1464509</idno>
+            </org>
+            <org xml:id="mca">
+               <orgName xml:lang="fr">musée d'Art contemporain d'Australie</orgName>
+               <orgName xml:lang="en">Museum of Contemporary Art Australia </orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q690242</idno>
+            </org>
+            <org xml:id="cceebc">
+               <orgName xml:lang="fr">Commission canadienne d'examen des exportations de biens
+                  culturels</orgName>
+               <orgName xml:lang="en">Canadian Cultural Property Export Review Board</orgName>
+               <idno type="isni">https://isni.org/isni/0000000096741647</idno>
+               <!--#RC aucun wikidata -->
+            </org>
+            <org xml:id="courFédérale">
+               <orgName xml:lang="fr">Cour fédérale du Canada</orgName>
+               <orgName xml:lang="en">Federal Court of Canada</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5440167</idno>
             </org>
          </listOrg>
       </body>
