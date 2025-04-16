@@ -130,12 +130,20 @@
                         <orgName>Tate Papers</orgName>, magazine en ligne publié par la Tate, les
                     groupes de recherche, que ce soit <orgName>DOCAM</orgName> mené par la
                         <orgName>Fondation Daniel Langlois</orgName> pour l’art, la science et la
+<<<<<<< HEAD
                     technologie ou <objectName>Variations et Pérennité</objectName>
                     <!--title ?--> dirigé à l’<orgName>Université du Québec à Montréal</orgName>
                     (UQAM) par Francine Couture, ont contribué à produire des modèles de
                     documentation, des glossaires, des guides de conservation encore utilisés
                     aujourd’hui. Les années 2010 sont marquées par d’autres initiatives basées sur
                     des études de cas, notamment <!-- Comment baliser les projets ? Title ? -->
+=======
+                    technologie ou <objectName>Variations et Pérennité</objectName> <!--title ?--> dirigé à
+                        l’<orgName>Université du Québec à Montréal</orgName> (UQAM) par Francine
+                    Couture, ont contribué à produire des modèles de documentation, des glossaires,
+                    des guides de conservation encore utilisés aujourd’hui. Les années 2010 sont
+                    marquées par d’autres initiatives basées sur des études de cas, notamment <!-- Comment baliser les projets ? Title ? -->
+>>>>>>> refs/remotes/origin/draft
                     <title>Inside Installations</title>, <title>VoCA</title>, <title>INCCA</title>
                     et <title>Matters in Media Art</title>. Alors que la théorie traditionnelle de
                     la conservation muséale met l’accent sur la fixité des œuvres dans le temps et
@@ -162,6 +170,7 @@
                         (Cassagnes-Brouquet 2000). Les histoires de l’art rapportent de multiples
                         cas de transformation d’œuvres soumises au goût du jour et aux visées de
                         leurs propriétaires. En 1559, les nus du <objectName>Jugement
+<<<<<<< HEAD
                             dernier</objectName> de <persName ref="#bonarotiMichelAnge"
                             >Michel-Ange</persName> furent <soCalled>habillés</soCalled>  par
                         décret de Paul IV. Dans l’Europe du XVIII <hi rend="sup">e</hi> siècle, on
@@ -171,6 +180,16 @@
                         nouveaux espaces. <objectName>La Ronde de nuit</objectName> fut retaillée
                         en 1715 lors de son transfert à l’Hôtel de Ville
                         d’Amsterdam(Rijksmuseum).</p>
+=======
+                            dernier</objectName> de <persName ref="#bonarotiMichelAnge">Michel-Ange</persName> furent
+                            <soCalled>habillés</soCalled>  par décret de Paul IV. Dans l’Europe du
+                        XVIII <hi rend="sup">e</hi> siècle, on dépose les peintures murales et les
+                        fresques incluant celles de la Couronne, on disloque les ensembles (Étienne
+                        2012). On prélève des parties de tableau, on en modifie les dimensions
+                        initiales afin de les adapter à de nouveaux espaces. <objectName>La Ronde
+                            de nuit</objectName> fut retaillée en 1715 lors de son transfert à
+                        l’Hôtel de Ville d’Amsterdam(Rijksmuseum).</p>
+>>>>>>> refs/remotes/origin/draft
                     <p>Le respect de l’intégrité matérielle des œuvres ne devient impératif qu’avec
                         le siècle des Lumières, alors qu’une conscience nouvelle accorde une place
                         prépondérante au concept d’authenticité et que la conservation prime
@@ -195,6 +214,7 @@
                         élaborée la déontologie de la conservation-restauration des musées.</p>
                     <p>On remarque également au cours de la modernité des pratiques sculpturales aux
                         configurations variables qui annoncent les environnements ou les
+<<<<<<< HEAD
                         installations contemporaines. <persName ref="#brancusiConstantin">Constantin
                             Brancusi</persName> envisageait ses sculptures comme des
                             <soCalled>groupes mobiles</soCalled> (Penders 1995). Dans son atelier,
@@ -210,6 +230,22 @@
                         mobiles mis en mouvement par les turbulences de l’espace environnant. Ces
                         expérimentations introduisent les questions de l’activation des œuvres, de
                         leur adaptation et de leur comportement (Depocas et al. 2003).</p>
+=======
+                        installations contemporaines. <persName ref="#brancusiConstantin">Constantin Brancusi</persName>
+                        envisageait ses sculptures comme des <soCalled>groupes mobiles</soCalled>
+                        (Penders 1995). Dans son atelier, il les mettait en relation les unes avec
+                        les autres, selon des arrangements régulièrement reconfigurés, prenant
+                        valeur d’œuvre en cours. Vers 1923, <persName ref="#schwittersKurt">Kurt Schwitters</persName>
+                        entreprit son <objectName>Merzbau</objectName>, une sculpture faite
+                        d’assemblage de matériaux trouvés, envahissant les pièces et les étages de
+                        son atelier et de sa maison à Hanovre, et jamais achevée. Obligé de s’exiler
+                        en 1937, l’artiste en reprit la construction dans différents lieux, selon
+                        des configurations différentes (Orchard 2007). En 1932, <persName ref="#calderAlexander">Alexander
+                            Calder</persName> expose ses premiers mobiles mis en mouvement par les
+                        turbulences de l’espace environnant. Ces expérimentations introduisent les
+                        questions de l’activation des œuvres, de leur adaptation et de leur
+                        comportement (Depocas et al. 2003).</p>
+>>>>>>> refs/remotes/origin/draft
                     <p>En dépit de ces multiples formes de variation des œuvres prémodernes et
                         modernes, c’est avec l’entrée de l’art conceptuel, des installations et des
                         œuvres médiatiques dans les collections muséales, au début des années 1970,
@@ -236,9 +272,15 @@
                         <graphic url="media/image1.png"/>
                     </figure>
                     <p>Fig. 1 : La dialectique authenticité-intégrité-variabilité. Version modifiée
+<<<<<<< HEAD
                         et augmentée en 2023 du diagramme proposé par <persName
                             ref="#gagnierRichard">Richard Gagnier</persName> en 2009, dans le cadre
                         de <orgName>DOCAM</orgName>.</p>
+=======
+                        et augmentée en 2023 du diagramme proposé par <persName ref="#gagnierRichard">Richard
+                            Gagnier</persName> en 2009, dans le cadre de
+                        <orgName>DOCAM</orgName>.</p>
+>>>>>>> refs/remotes/origin/draft
                     <p>La première privilégie la matérialité d’origine et l’ancrage historique des
                         œuvres collectionnées, selon l’idée qu’une œuvre témoigne d’une période
                         historique et qu’il faut la conserver dans son état matériel d’origine. La
@@ -313,7 +355,11 @@
                         Au moment de l’acquisition, le musée en collaboration avec les artistes
                         anticipent ces questions et éventuellement les réponses qu’ils et qu’elles
                         pourront y apporter. Ce fut le cas de l'acquisition de l'œuvre
+<<<<<<< HEAD
                         <objectName>Envahisseurs</objectName> (2019) de <persName ref="#clausHannah">Hannah Claus</persName> qui se
+=======
+                            <objectName>Envahisseurs</objectName> (2019) de Hannah Claus qui se
+>>>>>>> refs/remotes/origin/draft
                         trouve dans la collection du <orgName>Musée des beaux-arts de
                             Montréal</orgName> (MBAM). </p>
                     <p><emph>L’adaptation</emph> consiste à apporter des modifications à une œuvre
@@ -328,9 +374,14 @@
                         installation sans oblitérer sa signification    ? Quels effets les ajouts
                         d’éléments contextuels doivent-ils produire    ? Ces questions refont
                         surface à chaque exposition d’une œuvre comme <objectName>La forme des
+<<<<<<< HEAD
                             jours</objectName> (2011) de <persName ref="#murphySerge">Serge
                             Murphy</persName> qui se trouve également dans la collection du
                             <orgName>MBAM</orgName>.</p>
+=======
+                            jours</objectName> (2011) de <persName ref="#murphySerge">Serge Murphy</persName> qui se
+                        trouve également dans la collection du <orgName>MBAM</orgName>.</p>
+>>>>>>> refs/remotes/origin/draft
                     <p><emph>L’activation</emph> consiste à mettre en action certains éléments d’une
                         œuvre ou de les impliquer dans des actions ou des événements définis et
                         organisés au préalable. Ces actions peuvent être le fait des artistes, du
@@ -343,10 +394,17 @@
                         activer l’œuvre, prévoir les impacts sur ses composantes matérielles et
                         établir leurs limites afin de ne pas altérer l’authenticité de l’œuvre
                         comprise dans son sens élargi. À titre d’exemple, l’activation est une
+<<<<<<< HEAD
                         modalité indissociable de l’œuvre de <persName ref="#guerreraMassimo"
                             >Massimo Guerrera</persName>, <objectName>Darboral</objectName>
                         (2000-2005), qui fait partie de la collection du <orgName>Musée national des
                             beaux-arts du Québec</orgName> (MNBAQ). </p>
+=======
+                        modalité indissociable de l’œuvre de <persName ref="#guerreraMassimo">Massimo Guerrera</persName>,
+                            <objectName>Darboral</objectName> (2000-2005), qui fait partie de la
+                        collection du <orgName>Musée national des beaux-arts du Québec</orgName>
+                        (MNBAQ). </p>
+>>>>>>> refs/remotes/origin/draft
                     <p>Parce qu’aujourd’hui les publics s’attendent à <soCalled>vivre une
                             expérience</soCalled> au musée, l’activation des œuvres, y compris au
                         sein des collections, est une modalité de variation de plus en plus
@@ -357,8 +415,13 @@
                             suspendu</objectName>
                         <persName>(B-F-G)</persName> (2019), une œuvre collective du <orgName>Musée
                             d'art contemporain des Laurentides</orgName>). </p>
+<<<<<<< HEAD
                     <p><emph>L’actualisation</emph><ref target="#variablesN02"/> implique qu’une
                         partie ou que la totalité de l’œuvre soit rematérialisée à chacune de ses
+=======
+                    <p><emph>L’actualisation</emph><ref target="#variablesN02"/> implique qu’une partie ou
+                        que la totalité de l’œuvre soit rematérialisée à chacune de ses
+>>>>>>> refs/remotes/origin/draft
                         présentations, ce qui nécessite la consignation de procédures, l’acquisition
                         de savoir-faire par le personnel du musée, la désignation de personnes qui
                         prendront en charge les futures itérations. Les œuvres conceptuelles qui
@@ -370,10 +433,17 @@
                         consigner ces apprentissages pour les léguer aux générations successives de
                         personnel. Pensons, par exemple, à l’activation de l’œuvre <!-- 'activation de l'oeuvre "de" Jana Sterbak"' ou 'activation de l'oeuvre 'Vanitas : robe de chair pour albinos
                             anorexique' 'de Jana Sterbak'  -->
+<<<<<<< HEAD
                         <persName ref="#sterbakJana">Jana Sterbak</persName>, <objectName>Vanitas :
                             robe de chair pour albinos anorexique</objectName> (1987) qui se
                         trouvent dans les collections du <orgName>Walker Art Center</orgName>,
                         Minneapolis et du <orgName>MNAM</orgName> – Centre Georges Pompidou.</p>
+=======
+                        <persName ref="#sterbakJana">Jana Sterbak</persName>, <objectName>Vanitas : robe de chair pour
+                            albinos anorexique</objectName> (1987) qui se trouvent dans les
+                        collections du <orgName>Walker Art Center</orgName>, Minneapolis et du
+                            <orgName>MNAM</orgName> – Centre Georges Pompidou.</p>
+>>>>>>> refs/remotes/origin/draft
                     <p>Les œuvres performatives que les musées ont commencé à acquérir au milieu des
                         années 2000 sous des formes vivantes introduisent d’autres complexités   la
                         délégation de l’exécution de l’œuvre à de nouveaux performeurs ; le recours
@@ -382,6 +452,7 @@
                         sont courantes dans les arts vivants, notamment en danse, elles restent
                         encore étrangères à la culture muséale. Les musées d’art recourent à des
                         spécialistes issus d’autres disciplines artistiques, notamment de la danse
+<<<<<<< HEAD
                         et du théâtre (par exemple, le recours au film de <persName
                             ref="#banesSally">Sally Banes</persName>
                         <objectName>Yvonne Rainer. Trio A</objectName>,
@@ -395,6 +466,20 @@
                         collections muséales favorise également l’émergence de formes inédites de
                         fixation des œuvres et de nouveaux types de documents contractuels (McClean
                         2014; Finbow 2021).</p>
+=======
+                        et du théâtre (par exemple, le recours au film de <persName ref="#banesSally">Sally
+                            Banes</persName>
+                        <objectName>Yvonne Rainer. Trio A,</objectName>
+                        <!-- On utilise objectName pour un film ou title ? --> 1978, de la
+                        collection du <orgName>Museum of Modern Art</orgName> pour présenter
+                            <objectName>la chorégraphie</objectName>
+                        <!-- objectName ou title ? --> d’<persName ref="#rainerYvonne">Yvonne Rainer</persName> réalisée
+                        en 1966). Au moment de l’acquisition, il convient d’établir les modalités de
+                        ces collaborations à long terme et le partage des responsabilités. L’entrée
+                        des œuvres performatives dans les collections muséales favorise également
+                        l’émergence de formes inédites de fixation des œuvres et de nouveaux types
+                        de documents contractuels (McClean 2014; Finbow 2021).</p>
+>>>>>>> refs/remotes/origin/draft
                     <p>La décolonisation et l’autochtonisation des musées ont introduit dans les
                         collections des œuvres dont l’actualisation implique des rituels qui sont
                         accomplis par et/ou dans les communautés et qui ne sont pas forcément
@@ -414,8 +499,13 @@
                         création) et de l’adaptation de certains outils et méthodes de gestion des
                         collections (la complexification des systèmes de datation et des numéros
                         d’acquisition. L'œuvre <objectName>Darboral</objectName>
+<<<<<<< HEAD
                         <!-- objectName pour un livre ou title ? --> de <ref ref="#guerreraMassimo"
                             >Massimo Guerrera</ref> fait, encore ici, figure d’exemple.</p>
+=======
+                        <!-- objectName pour un livre ou title ? --> de <ref ref="#guerreraMassimo">Massimo
+                            Guerrera</ref> fait, encore ici, figure d’exemple.</p>
+>>>>>>> refs/remotes/origin/draft
                 </div>
                 <div>
                     <head>Méthodes et outils permettant d’établir la variabilité des œuvres au
@@ -515,10 +605,16 @@
                         sa configuration initiale et cherchent à limiter la diffusion des
                         photographies de son état antérieur. L’établissement de la généalogie des
                         manifestations à partir de laquelle se construit l’intégrité de l’œuvre s’en
+<<<<<<< HEAD
                         trouve partiellement empêché. C’est le cas de l'œuvre de <persName
                             ref="#wallJeff">Jeff Wall</persName>, <objectName>Stéréo</objectName>
                         (1980), qui se trouve dans les collections du <orgName>Musée des beaux-arts
                             du Canada</orgName>.</p>
+=======
+                        trouve partiellement empêché. C’est le cas de l'œuvre de <persName ref="#wallJeff">Jeff
+                            Wall</persName>, <objectName>Stéréo</objectName> (1980), qui se trouve
+                        dans les collections du <orgName>Musée des beaux-arts du Canada</orgName>.</p>
+>>>>>>> refs/remotes/origin/draft
                     <p>Un remaniement effectué par un ou une artiste sur son œuvre après son
                         acquisition peut constituer une réponse heureuse à l’impossibilité du musée
                         de continuer à l’exposer en raison de l’obsolescence, du bris ou de la perte

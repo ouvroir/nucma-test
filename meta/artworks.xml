@@ -64,8 +64,12 @@
          -->
          <!-- @todo à discuter : traitement des lieux de conservations, numéro d’accession, et des informations matérielles et techniques -->
          <!-- @todo voir renvois -->
+<<<<<<< HEAD
          <listObject>
             <!-- Liste de Julie -->
+=======
+         <listObject><!-- Liste de Julie -->
+>>>>>>> refs/remotes/origin/draft
             <object xml:id="duchamp003">
                <objectName>Fontaine</objectName>
                <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
@@ -153,6 +157,16 @@
                <idno/>
             </object>
          </listObject>
+<<<<<<< HEAD
+=======
+         <listObject><!-- Liste de Rosa -->
+            <object>
+               <objectName></objectName>
+               <author></author>
+               <idno></idno>
+            </object>
+         </listObject>
+>>>>>>> refs/remotes/origin/draft
       </body>
    </text>
 </TEI>

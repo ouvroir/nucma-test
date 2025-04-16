@@ -42,7 +42,12 @@
    </teiHeader>
    <text>
       <body>
+<<<<<<< HEAD
          <listPerson><!-- Liste de Julie -->
+=======
+         <listPerson>
+            <!-- Liste de Julie -->
+>>>>>>> refs/remotes/origin/draft
             <head xml:lang="fr">Liste des auteurs et des autrices</head>
             <head xml:lang="en">List of authors</head>
             <person xml:id="emmanuelChateauDutier">
@@ -153,7 +158,11 @@
                   <forename>Anne</forename>
                   <surname>Bénichou</surname>
                </persName>
+<<<<<<< HEAD
                <note xml:lang="fr"><p></p></note>
+=======
+               <note xml:lang="fr"><p/></note>
+>>>>>>> refs/remotes/origin/draft
                <affiliation>Université du Québec à Montréal</affiliation>
                <idno type="ORCID">0000-0003-3761-608X</idno>
             </person>
@@ -162,7 +171,11 @@
                   <forename>Richard</forename>
                   <surname>Gagnier</surname>
                </persName>
+<<<<<<< HEAD
                <note xml:lang="fr"><p></p></note>
+=======
+               <note xml:lang="fr"><p/></note>
+>>>>>>> refs/remotes/origin/draft
                <affiliation>Musée des beaux-arts de Montréal</affiliation>
             </person>
             <person xml:id="gagnonAnnMarlene">
@@ -170,7 +183,11 @@
                   <forename>Ann Marlène</forename>
                   <surname>Gagnon</surname>
                </persName>
+<<<<<<< HEAD
                <note xml:lang="fr"><p></p></note>
+=======
+               <note xml:lang="fr"><p/></note>
+>>>>>>> refs/remotes/origin/draft
                <affiliation>Université du Québec à Montréal</affiliation>
             </person>
             <person xml:id="oBrienMariah">
@@ -178,11 +195,21 @@
                   <forename>Mariah</forename>
                   <surname>O’Brien</surname>
                </persName>
+<<<<<<< HEAD
                <note xml:lang="fr"><p></p> </note>
                <affiliation>Université de Montréal</affiliation>
             </person>
          </listPerson>
          <listPerson><!--liste de Rosa -->
+=======
+               <note xml:lang="fr"><p/>
+               </note>
+               <affiliation>Université de Montréal</affiliation>
+            </person>
+         </listPerson>
+         <listPerson>
+            <!--liste de Rosa -->
+>>>>>>> refs/remotes/origin/draft
             <head xml:lang="fr">Liste des auteurs et des autrices</head>
             <head xml:lang="en">List of authors</head>
             <person xml:id="drouinBriseboisJosee">
@@ -190,7 +217,11 @@
                   <forename>Josée</forename>
                   <surname>Drouin-Brisebois</surname>
                </persName>
+<<<<<<< HEAD
                <note xml:lang="fr"><p></p></note>
+=======
+               <note xml:lang="fr"><p/></note>
+>>>>>>> refs/remotes/origin/draft
                <affiliation>Musée des beaux-arts du Canada</affiliation>
                <idno type="isni">ttps://isni.org/isni/0000000073687692</idno>
             </person>
@@ -202,6 +233,7 @@
                <affiliation>Université du Québec en Outaouais</affiliation>
                <idno><!-- aucun idno trouvé #RC--></idno>
             </person>
+<<<<<<< HEAD
             <person>
                <persName>
                   <forename></forename>
@@ -209,6 +241,31 @@
                </persName>
                <affiliation></affiliation>
                <idno></idno>
+=======
+            <person xml:id="beaupreMarieEve">
+               <persName>
+                  <forename>Marie-Eve</forename>
+                  <surname>Beaupré</surname>
+               </persName>
+               <note xml:lang="fr">
+                  <p><!--#RC très bon texte sur https://fondationguidomolinari.org/a-propos/equipe/--></p>
+               </note>
+               <affiliation>Fondation Guido Molinari</affiliation>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q110413936</idno>
+               <idno type="insi">https://isni.org/isni/0000000072677986</idno>
+            </person>
+            <person xml:id="guzinLukicNada">
+               <persName>
+                  <forename>Nada</forename>
+                  <surname>Guzin Lukic</surname>
+               </persName>
+               <affiliation>Université du Québec en Outaouais</affiliation>
+               <affiliation>Réseau des patrimoines de l’Université du Québec (RÉPUQ)</affiliation>
+               <affiliation>Conseil international des musées (ICOM et ICOFOM)</affiliation>
+               <!-- #RC affiliations fournies sur son profil site de l'UQO--> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q124425775</idno>
+               <idno type="insi">https://isni.org/isni/0000000076333187</idno>
+>>>>>>> refs/remotes/origin/draft
             </person>
          </listPerson>
       </body>
