@@ -115,15 +115,12 @@
                <idno type="wikidata"/>
                <idno type="ulan"/>
             </person>
-<<<<<<< HEAD
             <person xml:id="clausHannah">
                <persName>Claus, Hannah</persName>
                <idno type="isni">https://isni.org/isni/0000000451791965</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q85634865</idno>
                <idno type="ulan">http://vocab.getty.edu/page/ulan/500487452</idno>
             </person>
-=======
->>>>>>> refs/remotes/origin/draft
             <person xml:id="murphySerge">
                <persName>Murphy, Serge (1953-....)</persName>
                <idno type="isni">https://isni.org/isni/000000007885500X</idno>
@@ -174,22 +171,17 @@
             <head xml:lang="fr">Index des noms</head>
             <head xml:lang="en">Names index</head>
             <person xml:id="matassaFreda">
-<<<<<<< HEAD
                <persName>Matassa, Freda (19...)</persName>
                <!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
-=======
                <persName>Matassa, Freda (19...)</persName><!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
->>>>>>> refs/remotes/origin/draft
                <idno type="isni">https://isni.org/isni/0000000356226714</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb169185618</idno>
             </person>
             <person xml:id="juleVanRavenzwaay">
                <!-- nommée Jules avec un s dans 01-coacquisition - je pense que c est une erreur -->
-<<<<<<< HEAD
                <persName>Jule van Ravenzwaay</persName>
                <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
             </person>
-=======
                <persName>van Ravenzwaay, Jule</persName>
                <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
             </person>
@@ -205,7 +197,6 @@
                <idno type="isni">https://isni.org/isni/000000003206005X</idno>
                <idno type="loc">https://id.loc.gov/authorities/names/n93095026</idno>
             </person>
->>>>>>> refs/remotes/origin/draft
          </listPerson>
 
          <listOrg>
@@ -272,16 +263,10 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1068063</idno>
             </org>
          </listOrg>
-<<<<<<< HEAD
-
-=======
-         
->>>>>>> refs/remotes/origin/draft
          <listOrg>
             <!-- Rosalie -->
             <head xml:lang="fr">Index des organisations</head>
             <head xml:lang="en">Organisations index</head>
-<<<<<<< HEAD
             <org xml:id="met">
                <orgName xml:lang="en">Metropolitan Museum of Art</orgName>
                <!-- même appellation en français -->
@@ -317,7 +302,6 @@
                <orgName xml:lang="en">Art Fund</orgName>
                <!-- aussi le National Art Collections Fund-->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
-=======
                <org xml:id="met">
                   <orgName xml:lang="en">Metropolitan Museum of Art</orgName>
                   <!-- même appellation en français -->
@@ -377,7 +361,6 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q483592</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12209260c</idno>
                <!-- notice bnf utilise ancien nom : Anacostia neighborhood museum-->
->>>>>>> refs/remotes/origin/draft
             </org>
          </listOrg>
       </body>
