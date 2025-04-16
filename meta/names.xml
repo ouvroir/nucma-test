@@ -169,9 +169,22 @@
                <idno type="isni">https://isni.org/isni/0000000356226714</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb169185618</idno>
             </person>
-            <person xml:id="juleVanRavenzwaay"><!-- nommée Jules avec un s dans 01-coacquisition - je pense que c est une erreur -->
-               <persName>Jule van Ravenzwaay</persName>
+            <person xml:id="juleVanRavenzwaay">
+               <!-- nommée Jules avec un s dans 01-coacquisition - je pense que c est une erreur -->
+               <persName>van Ravenzwaay, Jule</persName>
                <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
+            </person>
+            <person xml:id="adoteviStanislas">
+               <persName>Adotevi, Stanislas Spero (1934-....)</persName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3496704</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12176392t</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n91036356</idno>
+            </person>
+            <person xml:id="kinardJohn">
+               <persName>Kinard, John (1936-1989)</persName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q6243095</idno>
+               <idno type="isni">https://isni.org/isni/000000003206005X</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n93095026</idno>
             </person>
          </listPerson>
 
@@ -280,6 +293,30 @@
                   <!-- aussi le National Art Collections Fund-->
                   <idno type="wikidata">https://www.wikidata.org/wiki/Q3519818</idno>
                </org>
+            <org xml:id="theArtNewspaper">
+               <orgName xml:lang="en">The Art Newspaper</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2331628</idno>
+            </org>
+            <org xml:id="icom">
+               <orgName xml:lang="en">International Council of Museums</orgName>
+               <orgName xml:lang="fr">Conseil international des musées</orgName>
+               <!-- aussi ICOM -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q653054</idno>
+            </org>
+            <org xml:id="unesco">
+               <orgName xml:lang="fr">UNESCO</orgName>
+               <!-- aussi United Nations Educational, Scientific and Cultural Organization 
+                  et Organisation des Nations unies pour l'éducation, la science et la culture-->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q7809</idno>
+            </org>
+            <org xml:id="anacostiaCommunityMuseum">
+               <orgName xml:lang="en">Anacostia Community Museum</orgName>
+               <!--#RC avant 2006 appelé Anacostia neighborhood museum 
+                  Aussi  Smithsonian’s Anacostia Community Museum-->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q483592</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12209260c</idno>
+               <!-- notice bnf utilise ancien nom : Anacostia neighborhood museum-->
+            </org>
          </listOrg>
       </body>
    </text>
