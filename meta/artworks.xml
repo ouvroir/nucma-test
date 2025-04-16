@@ -12,13 +12,14 @@
             <idno type="doi"><!-- @todo 10.400/nucma/names --></idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution 4.0.</p>
+                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution
+                     4.0.</p>
                </licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title xml:lang="fr" type="main"
-               >Encyclopédie des nouveaux usages des collections dans les musées d’art</title>
+            <title xml:lang="fr" type="main">Encyclopédie des nouveaux usages des collections dans
+               les musées d’art</title>
             <title xml:lang="en" type="main">Encyclopedia of New Uses of Collections</title>
             <idno type="URI">http://www.nucma.ca</idno>
          </seriesStmt>
@@ -63,18 +64,93 @@
          -->
          <!-- @todo à discuter : traitement des lieux de conservations, numéro d’accession, et des informations matérielles et techniques -->
          <!-- @todo voir renvois -->
-         <listObject><!-- Liste de Julie -->
+         <listObject>
+            <!-- Liste de Julie -->
             <object xml:id="duchamp003">
                <objectName>Fontaine</objectName>
                <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1206847</idno>
             </object>
+            <object xml:id="">
+               <objectName>Variations et Pérennité</objectName>
+               <author ref="#">collectif</author> <!-- a renseigner -->
+               <idno type="wikidata"></idno>
+               <idno type="bnf"></idno>
+            </object>
+            <object xml:id="bonaroti001">
+               <objectName>Jugement dernier</objectName>
+               <author ref="#bonarotiMichelAnge">Bonaroti, Michel-Ange (1475-1564)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q567861</idno>
+               <idno type="bnf">https://data.bnf.fr/fr/ark:/12148/cb13184454d</idno>
+            </object>
+            <object xml:id="rembrandt001">
+               <objectName>La Ronde de nuit</objectName>
+               <author ref="#Rembrandt">Rembrandt (1606-1669)</author> <!-- a ajouter à names ? -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q219831</idno>
+               <idno type="bnf">https://data.bnf.fr/fr/ark:/12148/cb11940484n</idno>
+            </object>
+            <object xml:id="schwitters001">
+               <objectName>Merzbau</objectName>
+               <author ref="#schwittersKurt">Schwitters, Kurt (1887-1948)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1922245</idno>
+               <idno type="bnf">https://data.bnf.fr/fr/ark:/12148/cb169807693</idno>
+            </object>
+            <object xml:id="claus001">
+               <objectName>Envahisseurs</objectName>
+               <author ref="#clausHannah">Claus, Hannah</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="bnf"></idno>
+            </object>
+            <object xml:id="murphy001">
+               <objectName>La forme des jours</objectName>
+               <author ref="#murphySerge">Murphy, Serge (1953-....)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="bnf"></idno>
+            </object>
+            <object xml:id="guerrera001">
+               <objectName>Darboral</objectName>
+               <author ref="#guerreraMassimo">Guerrera, Massimo (1967-....)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="bnf"></idno>
+            </object>
+            <object xml:id="BFG001">
+               <objectName>Plafond suspendu</objectName>
+               <author ref="#BFG">B-F-G (2019)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="bnf"></idno>
+            </object>
+            <object xml:id="sterbak001">
+               <objectName>Vanitas : robe de chair pour albinos anorexique</objectName>
+               <author ref="#sterbakJana">Sterbak, Jana (1955_....)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q7914985</idno>
+               <idno type="bnf"></idno>
+            </object>
+            <object xml:id="banes001">
+               <objectName>Yvonne Rainer. Trio A</objectName>
+               <author ref="#banesSally">Banes, Sally (1950-2020)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="bnf"></idno> <!-- video de Yvonne Rainner qui danse -->
+            </object>
+            <object xml:id="rainer001">
+               <objectName>la chorégraphie - Trio A</objectName> <!-- est écrit "la chorégraphie dans le texte" -->
+               <author ref="#rainerYvonne">Rainer, Yvonne (1934-....)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="bnf"></idno>
+            </object>
+            <object xml:id="wall001">
+               <objectName>Stéréo</objectName>
+               <author ref="#wallJeff">Wall, Jeff (1946-....)</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="bnf"></idno>
+            </object>
          </listObject>
-         <listObject><!-- Liste de Rosa -->
+
+         <listObject>
+            <!-- Liste de Rosa -->
             <object>
-               <objectName></objectName>
-               <author></author>
-               <idno></idno>
+               <objectName/>
+               <author/>
+               <idno/>
             </object>
          </listObject>
       </body>
