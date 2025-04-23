@@ -163,7 +163,111 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q550428</idno>
                <idno type="ulan">http://vocab.getty.edu/page/ulan/500101667</idno>
             </person>
-            <!-- pas sure de comment noter "B-F-G", le collectif -->
+            <person xml:id="moholyNagyLaszo">
+               <persName>Moholy Nagy, László (1895-1946)</persName>
+               <idno type="isni">https://isni.org/isni/0000000122773694</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb12282432n</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q160448</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500004274</idno>
+            </person>
+            <person xml:id="cageJohn">
+               <persName>Cage, John (1912-1992)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121022741</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb138920636</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q180727</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500092036</idno>
+            </person>
+            <person xml:id="brechtGeorge">
+               <persName>Brecht, George (1926-2008)</persName>
+               <idno type="isni">https://isni.org/isni/0000000092702018</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb13331109b</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q686321</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500045721</idno>
+            </person>
+            <person xml:id="knowlesAlison">
+               <persName>Knowles, Alison (1933-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000078357035</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb12879846z</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q243078</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500069909</idno> 
+            </person>
+            <person xml:id="onoYoko">
+               <persName>Ono, Yōko (1933-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121478060</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb120405568</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q117012</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500115959</idno> 
+            </person>
+            <person xml:id="flyntHenry">
+               <persName>Flynt, Henry (1940-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000032393516</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb14892201b</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q971582</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500139095</idno> 
+            </person>
+            <person xml:id="kosuthJosef">
+               <persName>Kosuth, Joseph (1945-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000081429343</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb12020183n</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q313113</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500115645</idno> 
+            </person>
+            <person xml:id="woodCatherine">
+               <persName>Wood, Catherine</persName>
+               <idno type="isni">https://isni.org/isni/0000000084002804</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb15118059t</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+            </person>
+            <person xml:id="abramovicMarina">
+               <persName>Abramović, Marina (1946-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000122783921</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb12573764n</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q47496</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500115967</idno> 
+            </person>
+            <person xml:id="tousignantSerge">
+               <persName>Tousignant, Serge</persName>
+               <idno type="isni">https://isni.org/isni/0000000083708493</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb149379064</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q55770459</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500070723</idno> 
+            </person>
+            <person xml:id="alleynEdmund">
+               <persName>Alleyn, Edmund (1931-2004)</persName>
+               <idno type="isni">https://isni.org/isni/0000000078948441</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb17861269h</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3048072</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500101863</idno> 
+            </person>
+            <person xml:id="whittomeIrene">
+               <persName>Whittome, Irene (1942-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000078369220</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb13491362r</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3154327</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500104100</idno> 
+            </person>
+            <person xml:id="dorionPierre">
+               <persName>Dorion, Pierre (1959-....)</persName>
+               <idno type="isni">https://isni.org/isni/000000007411161X</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb148882603</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q55524559</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500333146</idno> 
+            </person>
+            <person xml:id="sullivanFrancoise">
+               <persName>Sullivan, Françoise (1925-....)</persName>
+               <idno type="isni">https://isni.org/isni/000000007818877X</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb15067477g</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1451293</idno>
+               <idno type="ulan"> http://vocab.getty.edu/page/ulan/500061626</idno> 
+            </person>
+            <person xml:id="broinMichel">
+               <persName>Broin, Michel de (1970-....)</persName>
+               <idno type="isni">https://isni.org/isni/000000007370240X</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb146098035</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3311146</idno>
+               <idno type="ulan"> http://vocab.getty.edu/page/ulan/500385604</idno> 
+            </person>
+            <!-- pas sure de comment noter "B-F-G", le collectif, -> orgName comme Fluxus ?" -->
          </listPerson>
 
          <listPerson>
@@ -229,7 +333,6 @@
             </org>
             <org xml:id="docam">
                <orgName xml:lang="fr">DOCAM</orgName>
-               <!--Faut-il mettre le nom complet ou juste l'acronymne ?-->
                <orgName xml:lang="en">DOCAM</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5205840</idno>
             </org>
@@ -252,6 +355,7 @@
             </org>
             <org xml:id="mnbaq">
                <orgName xml:lang="fr">Musée national des beaux-arts du Québec</orgName>
+               <!-- MNBAQ -->
                <orgName xml:lang="en">Musée national des beaux-arts du Québec</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q2338135</idno>
             </org>
@@ -275,6 +379,56 @@
                <orgName xml:lang="fr">Musée des beaux-arts du Canada</orgName>
                <orgName xml:lang="en">National Gallery of Canada</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1068063</idno>
+            </org>
+            <org xml:id="tateModern">
+               <orgName xml:lang="fr">Tate Modern</orgName>
+               <orgName xml:lang="en">Tate Modern</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q193375</idno>
+            </org>
+            <org xml:id="fluxus">
+               <orgName xml:lang="fr">Fluxus</orgName>
+               <orgName xml:lang="en">Fluxus</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+            </org>
+            <org xml:id="nssr">
+               <orgName xml:lang="fr">The New School for Social Research</orgName>
+               <orgName xml:lang="en">The New School for Social Research</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q27988140</idno>
+            </org>
+            <org xml:id="guggenheimMuseum">
+               <orgName xml:lang="fr">Musée Solomon-R.-Guggenheim</orgName>
+               <orgName xml:lang="en">Solomon R. Guggenheim Museum</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q201469</idno>
+            </org>
+            <org xml:id="sbmk">
+               <orgName xml:lang="fr"></orgName>
+               <orgName xml:lang="en">Foundation for the Conservation of Modern Art/Netherlands</orgName> <!-- pas trouvée sur Wikidata -->
+               <idno>https://www.sbmk.nl/en/#:~:text=The%20Foundation%20for%20the%20Conservation,all%20concerned%20with%20the%20art.</idno>
+            </org>
+            <org xml:id="newArtTrust">
+               <orgName xml:lang="fr"></orgName>
+               <orgName xml:lang="en">New Art Trust</orgName> <!-- pas trouvé sur wikidata, semble être fermé définitivement -->
+            </org>
+            <org xml:id="sfmoma">
+               <orgName xml:lang="fr">Musée d'Art moderne de San Francisco</orgName> 
+               <!-- SFMoMA -->
+               <orgName xml:lang="en">San Francisco Museum of Modern Art</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q913672</idno>
+            </org>
+            <org xml:id="v2">
+               <orgName xml:lang="fr">V2 Institute for the Unstable Media</orgName> 
+               <!-- V2_, Lab for the Unstable Media  -->
+               <orgName xml:lang="en">V2 Institute for the Unstable Media</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/QQ4052476</idno>
+            </org>
+            <org xml:id="replicationAdvisoryGroup">
+               <orgName xml:lang="fr">Replication Advisory Group</orgName>
+               <orgName xml:lang="en">Replication Advisory Group</orgName> <!-- pas trouvé sur wikidata -->
+            </org>
+            <org xml:id="cookeSasseville">
+               <orgName xml:lang="fr">Cooke-Sasseville</orgName>
+               <orgName xml:lang="en">Cooke-Sasseville</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2996509</idno>
             </org>
          </listOrg>
          <listOrg>
