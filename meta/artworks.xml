@@ -109,7 +109,7 @@
             <object xml:id="guerrera001">
                <objectName>Darboral</objectName>
                <author ref="#guerreraMassimo">Guerrera, Massimo (1967-....)</author> 
-               <idno type="artwork"/><!-- à renseigner, chercher le bon numéro d'inventaire -->
+               <idno type="artefact"/><!-- à renseigner, chercher le bon numéro d'inventaire -->
             </object>
             <object xml:id="BFG001">
                <objectName>Plafond suspendu</objectName>
@@ -134,16 +134,20 @@
             <object xml:id="wall001">
                <objectName>Stéréo</objectName>
                <author ref="#wallJeff">Wall, Jeff (1946-....)</author>
-               <idno type="artwork">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=NGOC%2228013.1-2</idno>
+               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=NGOC%2228013.1-2</idno>
             </object>
          </listObject>
 
          <listObject>
             <!-- Liste de Rosa -->
-            <object>
-               <objectName/>
-               <author/>
-               <idno/>
+            <object xml:id="warhol001">
+               <objectName>Reigning Queens: Queen Elizabeth II of the United Kingdom</objectName>
+               <!-- titre donné sur le site artefact canada -->
+               <author ref="#warholAndy">Awhol, Andy (1928-1987)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q65069446</idno>
+               <!-- idno wikidata = pour la série Reigning Queens seulement, 
+                  pas de notice pour les prints spécifiques d'Elizabeth II-->
+               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=VAGAV5814</idno>
             </object>
          </listObject>
       </body>
