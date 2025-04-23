@@ -85,11 +85,12 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15238574p</idno>
             </place>
             <place xml:id="canada">
-               <placeName xml:lang="fr">Canada</placeName>
+               <placeName>Canada</placeName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q16</idno>
                <idno type="loc">http://id.loc.gov/vocabulary/geographicAreas/n-cn</idno>
+               <idno type="isni">https://isni.org/isni/0000000122385050</idno>
             </place>
-            <place xml:id="grenoble">
+            <place xml:id="grenoble-France">
                <placeName>Grenoble (France)</placeName>
                <!-- notice bnf "Grenoble (Isère, France)" / notice Loc "Grenoble (France)"-->
                <region>Isère, département français</region>
@@ -98,11 +99,80 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119342062</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n79091186</idno>
             </place>
-            <place xml:id="kyoto">
+            <place xml:id="kyoto-Japon">
                <placeName>Kyoto (Japon)</placeName>
                <country>Japon</country>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q34600</idno>
                <idno type="loc">https://id.loc.gov/authorities/names/n80024170.html</idno>
+               <idno type="isni">https://isni.org/isni/0000000403889925</idno>
+            </place>
+            <place xml:id="santiago-Chili">
+               <placeName>Santiago de Chile</placeName>
+               <country>Chili</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2887</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n79077402</idno>
+               <idno type="isni">https://isni.org/isni/0000000121627820</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb120000849</idno>
+            </place>
+            <place xml:id="chili">
+               <placeName xml:lang="fr">Chili</placeName>
+               <placeName xml:lang="en">Chile</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q298</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n79061242</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15238523s</idno>
+               <idno type="isni">https://isni.org/isni/0000000121695380</idno>
+            </place>
+            <place xml:id="washington-DC"><!-- la capitale - ne pas confondre avec l'état de Washington-->
+               <placeName>Washington D.C.</placeName>
+               <country>États-Unis</country>
+               <!-- pas de balise region parce que ne fait officiellement partie d'aucun état--> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q61</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11881081d</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n79018774</idno>
+               <idno type="isni">https://isni.org/isni/0000000122968205</idno>
+            </place>
+            <place xml:id="prague-RépubliqueTchèque">
+               <placeName>Prague (République tchèque)</placeName>
+               <country>République tchèque</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1085</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15239961p</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n79055764</idno>
+               <idno type="isni">https://isni.org/isni/0000000406102462</idno>
+            </place>
+            <place xml:id="australie">
+               <placeName xml:lang="fr">Australie</placeName>
+               <placeName xml:lang="en">Australia</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q408</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15238526t</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n79021326</idno>
+               <idno type="isni">https://isni.org/isni/0000000120969976</idno>
+            </place>
+            <place xml:id="québec-Province">
+               <!-- j'ai mis province et non canada dans le id pour éviter la confusion avec la ville #RC-->
+               <placeName xml:lang="fr">Québec (Province)</placeName>
+               <placeName xml:lang="en">Quebec (Province)</placeName>
+               <country>Canada</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q176</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119396489</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n80001244</idno>
+               <idno type="isni">https://isni.org/isni/0000000121928834</idno>
+            </place>
+            <place xml:id="montréal-Canada">
+               <placeName xml:lang="fr">Montréal (Canada)</placeName>
+               <placeName xml:lang="en">Montreal (Canada)</placeName>
+               <!-- identifiant Library of Congress = Montréal (Québec) / identifiant bnf = Montréal (Canada)--> 
+               <country>Canada</country>
+               <region>Québec (Province)</region>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q340</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb118804980</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n80132975</idno>
+               <idno type="isni">https://isni.org/isni/0000000121501478</idno>
+            </place>
+            <place xml:id="europe">
+               <placeName>Europe</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q46</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11931301w</idno>
+               <idno type="loc">https://id.loc.gov/authorities/subjects/sh85045631</idno>
             </place>
          </listPlace>
          <listPlace><!-- Julie -->
