@@ -205,6 +205,13 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q971582</idno>
                <idno type="ulan">http://vocab.getty.edu/page/ulan/500139095</idno> 
             </person>
+            <person xml:id="lewittSol">
+               <persName>Lewitt, Sol (1928-2007)</persName>
+               <idno type="isni">https://isni.org/isni/000000011450059X</idno>
+               <idno type="bnf">http://ark.bnf.fr/ ark:/12148/cb12170185j</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q168587</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500115429</idno> 
+            </person>
             <person xml:id="kosuthJosef">
                <persName>Kosuth, Joseph (1945-....)</persName>
                <idno type="isni">https://isni.org/isni/0000000081429343</idno>
@@ -388,7 +395,7 @@
             <org xml:id="fluxus">
                <orgName xml:lang="fr">Fluxus</orgName>
                <orgName xml:lang="en">Fluxus</orgName>
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q108908</idno>
             </org>
             <org xml:id="nssr">
                <orgName xml:lang="fr">The New School for Social Research</orgName>
@@ -401,12 +408,23 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q201469</idno>
             </org>
             <org xml:id="sbmk">
-               <orgName xml:lang="fr"></orgName>
-               <orgName xml:lang="en">Foundation for the Conservation of Modern Art/Netherlands</orgName> <!-- pas trouvée sur Wikidata -->
-               <idno>https://www.sbmk.nl/en/#:~:text=The%20Foundation%20for%20the%20Conservation,all%20concerned%20with%20the%20art.</idno>
+               <orgName xml:lang="fr">Foundation for the Conservation of Modern Art/Netherlands</orgName>
+               <orgName xml:lang="en">Foundation for the Conservation of Modern Art/Netherlands</orgName> 
+               <idno type="website">https://www.sbmk.nl/en/#:~:text=The%20Foundation%20for%20the%20Conservation,all%20concerned%20with%20the%20art.</idno>
+               <!-- pas trouvée sur Wikidata, lien vers leur site web -->
             </org>
+            <org xml:id="vmn">
+               <orgName xml:lang="fr">The Variable Media Network</orgName>
+               <orgName xml:lang="en">The Variable Media Network</orgName> 
+               <idno type="website">https://www.variablemedia.net/e/index.html</idno> <!-- pas trouvée sur Wikidata, lien vers leur site web -->
+            </org>
+            <org xml:id="mma">
+               <orgName xml:lang="fr">Matters in Media Art</orgName>
+               <orgName xml:lang="en">Matters in Media Art</orgName> 
+               <idno type="website">http://mattersinmediaart.org</idno> <!-- pas trouvée sur Wikidata, lien vers leur site web -->
+            </org>            
             <org xml:id="newArtTrust">
-               <orgName xml:lang="fr"></orgName>
+               <orgName xml:lang="fr">New Art Trust</orgName>
                <orgName xml:lang="en">New Art Trust</orgName> <!-- pas trouvé sur wikidata, semble être fermé définitivement -->
             </org>
             <org xml:id="sfmoma">

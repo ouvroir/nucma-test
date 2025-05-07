@@ -68,15 +68,16 @@
 
          <!-- Liste de Julie -->
          <listObject>
-            <object xml:id="duchamp003">
+            <object xml:id="duchamp001">
                <objectName>Fontaine</objectName>
                <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1206847</idno>
             </object>
             <object xml:id="">
                <objectName>Variations et Pérennité</objectName>
-               <author ref="#">collectif</author> <!-- comment noter un collectif ?, les ajouter à names aussi ? et comment ?-->
-               <idno></idno><!-- à renseigner -->
+               <author ref="#">collectif</author>
+               <!-- comment noter un collectif ?, les ajouter à names aussi ? et comment ?-->
+               <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="bonaroti001">
                <objectName>Jugement dernier</objectName>
@@ -86,7 +87,8 @@
             </object>
             <object xml:id="rembrandt001">
                <objectName>La Ronde de nuit</objectName>
-               <author ref="#rembrandt">Rembrandt (1606-1669)</author> <!-- a ajouter à names ? pas cité dans le texte -->
+               <author ref="#rembrandt">Rembrandt (1606-1669)</author>
+               <!-- a ajouter à names ? pas cité dans le texte -->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q219831</idno>
                <idno type="bnf">https://data.bnf.fr/fr/ark:/12148/cb11940484n</idno>
             </object>
@@ -99,22 +101,23 @@
             <object xml:id="claus001">
                <objectName>Envahisseurs</objectName>
                <author ref="#clausHannah">Claus, Hannah</author>
-               <idno></idno> <!-- a renseigner -->
+               <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="murphy001">
                <objectName>La forme des jours</objectName>
                <author ref="#murphySerge">Murphy, Serge (1953-....)</author>
-               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=MBAM60899</idno>
+               <idno type="artefact"
+                  >https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=MBAM60899</idno>
             </object>
             <object xml:id="guerrera001">
                <objectName>Darboral</objectName>
-               <author ref="#guerreraMassimo">Guerrera, Massimo (1967-....)</author> 
-               <idno type="artefact"/><!-- à renseigner, chercher le bon numéro d'inventaire -->
+               <author ref="#guerreraMassimo">Guerrera, Massimo (1967-....)</author>
+               <idno type="artefact"/> <!-- à renseigner, chercher le bon numéro d'inventaire -->
             </object>
             <object xml:id="BFG001">
                <objectName>Plafond suspendu</objectName>
                <author ref="#BFG">B-F-G (2019)</author>
-               <idno ></idno> <!-- à renseigner, comment noter les collectifs ? -->
+               <idno/><!-- pas trouvé, comment noter les collectifs ? -->
             </object>
             <object xml:id="sterbak001">
                <objectName>Vanitas : robe de chair pour albinos anorexique</objectName>
@@ -124,17 +127,137 @@
             <object xml:id="banes001">
                <objectName>Yvonne Rainer. Trio A</objectName>
                <author ref="#banesSally">Banes, Sally (1950-2020)</author>
-               <idno/> <!-- vidéo de Yvonne Rainner qui effectue sa chorégraphie -->
+               <idno/>
+               <!-- vidéo de Yvonne Rainner qui effectue sa chorégraphie -->
             </object>
             <object xml:id="rainer001">
-               <objectName>Trio A</objectName> <!-- est écrit "la chorégraphie" dans le texte -->
+               <objectName>Trio A</objectName>
+               <!-- est écrit "la chorégraphie" dans le texte -->
                <author ref="#rainerYvonne">Rainer, Yvonne (1934-....)</author>
-               <idno></idno> <!-- à renseigner -->
+               <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="wall001">
                <objectName>Stéréo</objectName>
                <author ref="#wallJeff">Wall, Jeff (1946-....)</author>
-               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=NGOC%2228013.1-2</idno>
+               <idno type="artefact"
+                  >https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=NGOC%2228013.1-2</idno>
+            </object>
+            <object xml:id="duchamp002">
+               <objectName>3 Stoppages Étalon</objectName>
+               <author ref="duchampMarcel">Duchamp, Marcel (1887-1968)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q91932345</idno>
+            </object>
+            <!-- "Constructions in Enamel (Telephone Pictures)" dans le texte. 
+               Je n'ai pas trouvé de référence pour l'ensemble des peintures, ni pour la première donc j'ai seulement mis les deuxième et troisième. -->
+            <object xml:id="moholyNagy001">
+               <objectName>Construction in Enamel 2 (Telephone Picture)</objectName>
+               <author ref="moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q19883878</idno>
+            </object>
+            <object xml:id="moholyNagy002">
+               <objectName>Construction in Enamel 3 (Telephone Picture)</objectName>
+               <author ref="moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q19883879</idno>
+            </object>
+            <object xml:id="bretch001">
+               <objectName>Word Event</objectName>
+               <author ref="brechtGeorge">Brecht, George (1926-2008)</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="knowles001">
+               <objectName>Make a Salad</objectName>
+               <author ref="knowlesAlison">Knowles, Alison (1933-....)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q60770165</idno>
+            </object>
+            <object xml:id="ono001">
+               <objectName>Instructions for paintings</objectName>
+               <author ref="onoYoko">Ono, Yōko (1933-....)</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="ono002">
+               <objectName>Grapefruit</objectName>
+               <author ref="onoYoko">Ono, Yōko (1933-....)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5597012</idno>
+            </object>
+            <object xml:id="lewitt001">
+               <objectName>Paragraphs on Conceptual Art</objectName>
+               <author ref="lewittSol">Lewitt, Sol (1928-2007)</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="lewitt002">
+               <objectName>Wall Drawings</objectName>
+               <author ref="lewittSol">Lewitt, Sol (1928-2007)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q47092832</idno>
+            </object>
+            <object xml:id="lewitt003">
+               <objectName>Wall Drawing #146</objectName>
+               <author ref="lewittSol">Lewitt, Sol (1928-2007)</author>
+               <idno type=""></idno>
+            </object> <!-- je ne trouve pas de référence pour cette œuvre en particulier issue de la série -->
+            <object xml:id="kosuth001">
+               <objectName>Une et trois tables</objectName>
+               <author ref="kosuthJosef">Kosuth, Joseph (1945-....)</author>
+               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=NGOC17259.1-3</idno>
+            </object>
+            <object xml:id="">
+               <objectName>Modern Art: Who Care?</objectName><!-- les symposiums comptent-ils comme des œuvres d'art ? -->
+               <author ref=""/>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="v2001">
+               <objectName>Capturing Unstable Media</objectName>
+               <author ref="v2">V2 Institute for the Unstable Media</author> <!-- Est-ce qu'on peut mettre un orgName comme auteur ? -->
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="tateModern001">
+               <objectName>BMW Tate Live</objectName> 
+               <author ref="tateModern">Tate Modern</author> <!-- Est-ce qu'on peut mettre un orgName comme auteur ? -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno> <!-- les références sur wikidata ne correspondent pas à la date mentionnée dans le texte "2012" -->
+            </object>
+            <object xml:id="abramovic001">
+               <objectName>Seven Easy Pieces</objectName>
+               <author ref="abramovicMarina">Abramović, Marina (1946-....)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q7457256</idno>
+            </object>
+            <object xml:id="duchamp003">
+               <objectName>ready-mades</objectName>
+               <author ref="duchampMarcel">Duchamp, Marcel (1887-1968)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q39931516</idno>
+            </object>
+            <object xml:id="whittome001">
+               <objectName>Room 901</objectName>
+               <author ref="whittomeIrene">Whittome, Irene (1942-....)</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="whittome002">
+               <objectName>901 Document Re-enactor / 901 Document réactivateur</objectName>
+               <author ref="whittomeIrene">Whittome, Irene (1942-....)</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="dorion001">
+               <objectName>l’Atelier blanc</objectName>
+               <author ref="dorionPierre"><persName>Dorion, Pierre (1959-....)</persName></author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="tateModern002">
+               <objectName>Reshaping the Collectible</objectName>
+               <author ref="tateModern">Tate Modern</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="sullivan001">
+               <objectName>Portraits de personnes qui se ressemblent</objectName>
+               <author ref="sullivanFrancoise">Sullivan, Françoise (1925-....)</author> 
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="cooke001">
+               <objectName>Le plus beau jour de ma vie</objectName>
+               <author ref="cookeSasseville">Cooke-Sasseville</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="broin001">
+               <objectName>Tortoise (Tunnel)</objectName> <!-- "Les Tortoises" dans le texte -->
+               <author ref="broinMichel">Broin, Michel de (1970-....)</author>
+               <idno/> <!-- pas trouvé -->
             </object>
          </listObject>
 
@@ -147,7 +270,8 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q65069446</idno>
                <!-- idno wikidata = pour la série Reigning Queens seulement, 
                   pas de notice pour les prints spécifiques d'Elizabeth II-->
-               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=VAGAV5814</idno>
+               <idno type="artefact"
+                  >https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=VAGAV5814</idno>
             </object>
          </listObject>
       </body>
