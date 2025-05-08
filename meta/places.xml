@@ -12,13 +12,14 @@
             <idno type="doi"><!-- @todo 10.400/nucma/names --></idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution 4.0.</p>
+                  <p>Ce contenu est mis à disposition sous licence Creative Commons Attribution
+                     4.0.</p>
                </licence>
             </availability>
          </publicationStmt>
          <seriesStmt>
-            <title xml:lang="fr" type="main"
-               >Encyclopédie des nouveaux usages des collections dans les musées d’art</title>
+            <title xml:lang="fr" type="main">Encyclopédie des nouveaux usages des collections dans
+               les musées d’art</title>
             <title xml:lang="en" type="main">Encyclopedia of New Uses of Collections</title>
             <idno type="URI">http://www.nucma.ca</idno>
          </seriesStmt>
@@ -62,8 +63,10 @@
             Exemple : Avec l’xml:id xml:id="paris"
             La ville de <placeName ref="#paris">Paris</placeName> constitue une capitale artistique de...
          -->
-         <listPlace><!-- Rosalie -->
-            <place xml:id="paris-France"><!-- exemple d'Emmanuel-->
+         <listPlace>
+            <!-- Rosalie -->
+            <place xml:id="paris-France">
+               <!-- exemple d'Emmanuel-->
                <placeName>Paris (France)</placeName>
                <region>[si province ou état : ex: québec, état américain</region>
                <country>France</country>
@@ -122,10 +125,11 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15238523s</idno>
                <idno type="isni">https://isni.org/isni/0000000121695380</idno>
             </place>
-            <place xml:id="washington-DC"><!-- la capitale - ne pas confondre avec l'état de Washington-->
+            <place xml:id="washington-DC">
+               <!-- la capitale - ne pas confondre avec l'état de Washington-->
                <placeName>Washington D.C.</placeName>
                <country>États-Unis</country>
-               <!-- pas de balise region parce que ne fait officiellement partie d'aucun état--> 
+               <!-- pas de balise region parce que ne fait officiellement partie d'aucun état-->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q61</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11881081d</idno>
                <idno type="loc">https://id.loc.gov/authorities/names/n79018774</idno>
@@ -160,7 +164,7 @@
             <place xml:id="montréal-Canada">
                <placeName xml:lang="fr">Montréal (Canada)</placeName>
                <placeName xml:lang="en">Montreal (Canada)</placeName>
-               <!-- identifiant Library of Congress = Montréal (Québec) / identifiant bnf = Montréal (Canada)--> 
+               <!-- identifiant Library of Congress = Montréal (Québec) / identifiant bnf = Montréal (Canada)-->
                <country>Canada</country>
                <region>Québec (Province)</region>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q340</idno>
@@ -175,8 +179,77 @@
                <idno type="loc">https://id.loc.gov/authorities/subjects/sh85045631</idno>
             </place>
          </listPlace>
-         <listPlace><!-- Julie -->
-            <place></place>
+         <!-- Julie -->
+         <listPlace>
+            <place xml:id="maghreb">
+               <placeName>Maghreb</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q28227</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15324044c</idno>
+            </place>
+            <place xml:id="moyenOrient">
+               <placeName xml:lang="fr">Moyen-Orient</placeName>
+               <placeName xml:lang="en">Middle East</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q7204</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11941591f</idno>
+               <idno type="loc">http://id.loc.gov/authorities/subjects/sh85090501</idno>
+            </place>
+            <place xml:id="nyc"> <!-- la ville -->
+               <placeName xml:lang="fr">New York (N.Y.)</placeName>
+               <placeName xml:lang="en">New York City</placeName>
+               <country>États-Unis</country>
+               <region>New York</region> <!-- l'état -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q60</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11880105b</idno>
+               <idno type="isni">https://isni.org/isni/0000000121966726</idno>
+            </place>
+            <place xml:id="hk">
+               <placeName xml:lang="fr">Hong Kong (Chine)</placeName>
+               <placeName xml:lang="en">Hong Kong (China)</placeName>
+               <country>Chine</country>
+               <region></region>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q8646</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11940411f</idno>
+               <idno type="loc">http://id.loc.gov/vocabulary/geographicAreas/a-cc-hk</idno>
+               <idno type="isni">https://isni.org/isni/0000000121793140</idno>
+            </place>
+            <place xml:id="sgp">
+               <placeName xml:lang="fr">Singapour</placeName> 
+               <placeName xml:lang="en">Singapore</placeName>
+               <country>Singapour</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q334</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119478504</idno> <!-- la notice est la même pour la ville et l'état -->
+               <idno type="loc">http://id.loc.gov/vocabulary/geographicAreas/a-si</idno>
+               <idno type="isni">https://isni.org/isni/0000000121851814</idno>
+            </place>
+            <place xml:id="mexico">
+               <placeName xml:lang="fr">Mexico (Mexique)</placeName>
+               <placeName xml:lang="en">Mexico City</placeName>
+               <country>Mexique</country>
+               <region></region>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1489</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119335179</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79093328</idno>
+               <idno type="isni">https://isni.org/isni/0000000122985048</idno>
+            </place>
+            <place xml:id="londonUk">
+               <placeName xml:lang="fr">Londres (GB)</placeName>
+               <placeName xml:lang="en">London (GB)</placeName>
+               <country>Angleterre</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q84</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119323045</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79005665</idno>
+               <idno type="isni">https://isni.org/isni/0000000404278528</idno>
+            </place>
+            <place xml:id="milan">
+               <placeName xml:lang="fr">Milan (Italie)</placeName>
+               <placeName xml:lang="en">Milan (Italia)</placeName>
+               <country>Italie</country>
+               <region>Lombardie</region>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q490</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11936471j</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n80060867</idno>
+               <idno type="isni">https://isni.org/isni/0000000417562173</idno>
+            </place>
          </listPlace>
       </body>
    </text>

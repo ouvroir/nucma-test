@@ -87,6 +87,13 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5592</idno>
                <idno type="ulan">http://vocab.getty.edu/page/ulan/500010654</idno>
             </person>
+            <person xml:id="rembrandt">
+               <persName>Rembrandt (1606-1669)</persName>
+               <idno type="isni">http://isni.org/isni/0000000121363802</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11940484n</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5598</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500011051</idno>
+            </person>
             <person xml:id="brancusiConstantin">
                <persName>Brancusi, Constantin (1876-1957)</persName>
                <idno type="isni">https://isni.org/isni/0000000107834751</idno>
@@ -265,14 +272,28 @@
                <idno type="isni">https://isni.org/isni/000000007818877X</idno>
                <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb15067477g</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1451293</idno>
-               <idno type="ulan"> http://vocab.getty.edu/page/ulan/500061626</idno> 
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500061626</idno> 
             </person>
             <person xml:id="broinMichel">
                <persName>Broin, Michel de (1970-....)</persName>
                <idno type="isni">https://isni.org/isni/000000007370240X</idno>
                <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb146098035</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3311146</idno>
-               <idno type="ulan"> http://vocab.getty.edu/page/ulan/500385604</idno> 
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500385604</idno> 
+            </person>
+            <person xml:id="monkmanKent">
+               <persName>Monkman, Kent (1965-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000078871245</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb17825836b</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q6391838</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500637789</idno> 
+            </person>
+            <person xml:id="glissantEdouart">
+               <persName>Glissant, Édouard (1928-2011)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121333793</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb11905179m</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q274319</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500376112</idno> 
             </person>
             <!-- pas sure de comment noter "B-F-G", le collectif, -> orgName comme Fluxus ?" -->
          </listPerson>
@@ -447,6 +468,52 @@
                <orgName xml:lang="fr">Cooke-Sasseville</orgName>
                <orgName xml:lang="en">Cooke-Sasseville</orgName> 
                <idno type="wikidata">https://www.wikidata.org/wiki/Q2996509</idno>
+            </org>
+            <org xml:id="louvreLens">
+               <orgName xml:lang="fr">Louvre-Lens</orgName>
+               <orgName xml:lang="en">Louvre-Lens</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q405543</idno>
+            </org>
+            <org xml:id="museeLudwig">
+               <orgName xml:lang="fr">Musée Ludwig</orgName>
+               <orgName xml:lang="en">Museum Ludwig</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q703640</idno>
+            </org>
+            <org xml:id="mkeo">
+               <orgName xml:lang="fr">Musée Karl Ernest Ostaus</orgName>
+               <orgName xml:lang="en">Osthaus-Museum Hagen</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q314559</idno>
+            </org>
+            <org xml:id="fracNormandieRouen">
+               <orgName xml:lang="fr">Fonds régional d'art contemporain de Normandie-Rouen</orgName> 
+               <!-- Frac Normandie-Rouen dans le texte -->
+               <orgName xml:lang="en">Fonds régional d'art contemporain de Normandie-Rouen</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q36698450</idno>
+            </org>
+            <org xml:id="lacma">
+               <orgName xml:lang="fr">Musée d'Art du Comté de Los Angeles</orgName>
+               <orgName xml:lang="en">Los Angeles County Museum of Art</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1641836</idno>
+            </org>
+            <org xml:id="bm">
+               <orgName xml:lang="fr">British Museum</orgName>
+               <orgName xml:lang="en">British Museum</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q6373</idno>
+            </org>
+            <org xml:id="vag">
+               <orgName xml:lang="fr">Galerie d'art de Vancouver</orgName>
+               <orgName xml:lang="en">Vancouver Art Gallery</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q371960</idno>
+            </org>
+            <org xml:id="ubs">
+               <orgName xml:lang="fr">UBS</orgName>
+               <orgName xml:lang="en">UBS</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q193199</idno>
+            </org>
+            <org xml:id="artBasel">
+               <orgName xml:lang="fr">Art Basel</orgName>
+               <orgName xml:lang="en">Art Basel</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q684443</idno>
             </org>
          </listOrg>
          <listOrg>

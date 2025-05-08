@@ -192,8 +192,8 @@
             <object xml:id="lewitt003">
                <objectName>Wall Drawing #146</objectName>
                <author ref="lewittSol">Lewitt, Sol (1928-2007)</author>
-               <idno type=""></idno>
-            </object> <!-- je ne trouve pas de référence pour cette œuvre en particulier issue de la série -->
+               <idno/> <!-- je ne trouve pas de référence pour cette œuvre en particulier issue de la série -->
+            </object> 
             <object xml:id="kosuth001">
                <objectName>Une et trois tables</objectName>
                <author ref="kosuthJosef">Kosuth, Joseph (1945-....)</author>
@@ -258,6 +258,82 @@
                <objectName>Tortoise (Tunnel)</objectName> <!-- "Les Tortoises" dans le texte -->
                <author ref="broinMichel">Broin, Michel de (1970-....)</author>
                <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="monkmanKent001">
+               <objectName>Les castors du Roi</objectName>
+               <author ref="monkmanKent">Monkman, Kent (1965-....)</author>
+               <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=MBAM61170</idno>
+            </object>
+            <object xml:id="louvreLens001">
+               <objectName>La Galerie du temps</objectName>
+               <author ref="louvreLens">Louvre-Lens</author> <!-- un orgName comme autheur ? -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3094671</idno>
+            </object>
+            <object xml:id="museeLudwig001">
+               <objectName>Here and Now at Museum Ludwig</objectName>
+               <author ref="museeLudwig">Musée Ludwig</author> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno><!-- Il s'agit d'une série d'exposition, il y'a une ref pour chaque exposition. Est-ce que j'en choisis une ? -->
+            </object>
+            <object xml:id="mbac001">
+               <objectName>Surgir de l’ombre</objectName> <!-- Biénale -->
+               <author ref="mbac">Musée des beaux-arts du Canada</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="mbac002">
+               <objectName>Les bâtisseurs</objectName>
+               <author ref="mbac">Musée des beaux-arts du Canada</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="mnam001">
+               <objectName>Histoire(s) d’une collection</objectName>
+               <author ref="mnam">Musée national d’Art moderne</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="mnam002">
+               <objectName>Les Cahiers du Musée national d'art moderne</objectName> <!-- Noté comme "Les cahiers" dans le texte. -->
+               <author ref="mnam">Musée national d’Art moderne</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q59729459</idno>
+            </object>
+            <object xml:id="mkeo001">
+               <objectName>Silence</objectName> 
+               <author ref="mkeo">Musée Karl Ernest Ostaus</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+            </object>
+            <object xml:id="mkeo002">
+               <objectName>Revision</objectName> 
+               <author ref="mkeo">Musée Karl Ernest Ostaus</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+            </object> 
+            <object xml:id="fracNormandieRouen001">
+               <objectName>L’inventaire</objectName> 
+               <author ref="fracNormandieRouen">Fonds régional d'art contemporain de Normandie-Rouen</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="mbam001">
+               <objectName>Les arts du Tout-Monde</objectName> 
+               <author ref="mbam">Musée des beaux-arts de Montréal</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="mnam003">
+               <objectName>elles@centrepompidou</objectName> 
+               <author ref="mnam">Musée national d’Art moderne</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="macm001">
+               <objectName>Collection Lavalin</objectName> 
+               <author ref="macm">Musée d'art contemporain de Montréal</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q115676902</idno>
+            </object>
+            <object xml:id="vag001">
+               <objectName>Collection Brigitte et Henning Freybe</objectName>
+               <author ref="">Vancouver Art Gallery</author>
+               <idno/> <!-- pas trouvé -->
+            </object>
+            <object xml:id="guggenheimMuseumUbs"> <!-- collaboration entre deux Organisations -->
+               <objectName>Guggenheim UBS MAP Global Art Initiative</objectName> <!-- aussi appelé MAP -->
+               <author ref="guggenheimMuseum">Musée Solomon-R.-Guggenheim</author>
+               <author ref="ubs">UBS</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q16975332</idno> 
             </object>
          </listObject>
 
