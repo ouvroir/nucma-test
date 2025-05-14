@@ -305,8 +305,6 @@
             <person xml:id="matassaFreda">
                <persName>Matassa, Freda (19...)</persName>
                <!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
-               <persName>Matassa, Freda (19...)</persName>
-               <!-- simplement 19... indiqué pour sa date de naissance sur bnf-->
                <idno type="isni">https://isni.org/isni/0000000356226714</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb169185618</idno>
             </person>
@@ -342,6 +340,24 @@
                <idno type="isni">https://isni.org/isni/0000000121340483</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5603</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11928892w</idno>
+            </person>
+            <person xml:id="geismarHaidy">
+               <persName>Geismar, Haidy (1976-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000054465461</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q64604486</idno>
+               <idno type="orcid">https://orcid.org/0000-0002-3320-593X</idno>
+            </person>
+            <person xml:id="mallonSean">
+               <persName>Mallon, Sean</persName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q104532379</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/nb99026346</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb144939563</idno>
+            </person>
+            <person xml:id="Calelédgar">
+               <!--confusion sur l'othrographe : wikidata = Édgar, wikipedia = Edgar, et ça change selon les articles et sites-->
+               <!--dans le texte V1, l'auteur a écrit "Edgar"-->
+               <persName>Calel, Édgar</persName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q125696966</idno>
             </person>
          </listPerson>
 
@@ -629,6 +645,11 @@
                <orgName xml:lang="fr">Cour fédérale du Canada</orgName>
                <orgName xml:lang="en">Federal Court of Canada</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5440167</idno>
+            </org>
+            <org xml:id="muséeDeNouvelle-ZélandeTePapaTongarewa">
+               <orgName xml:lang="en">Museum of New Zealand Te Papa Tongarewa</orgName>
+               <orgName xml:lang="fr">Musée de Nouvelle-Zélande Te Papa Tongarewa</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q915603</idno> 
             </org>
          </listOrg>
       </body>
