@@ -261,6 +261,15 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q124425775</idno>
                <idno type="insi">https://isni.org/isni/0000000076333187</idno>
             </person>
+            <person xml:id="uzelJean-Philippe">
+               <persName>
+                  <forename>Jean-Philippe</forename>
+                  <surname>Uzel</surname>
+               </persName>
+               <affiliation>Université du Québec à Montréal</affiliation>
+               <idno type="isni">https://isni.org/isni/0000000075897239</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15080007x</idno>
+            </person>
          </listPerson>
       </body>
    </text>
