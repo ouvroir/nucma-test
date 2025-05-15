@@ -690,6 +690,14 @@
                <orgName xml:lang="fr">Commission de vérité et réconciliation du Canada</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q6021399</idno>
             </org>
+            <org xml:id="cnacgp">
+               <orgName xml:lang="fr">Centre national d'art et de culture Georges Pompidou</orgName>
+               <orgName xml:lang="en">Centre Georges Pompidou</orgName>
+               <!-- aussi C.N.A.C.G.P-->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q178065</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n80126139</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11874536g</idno>
+            </org>
          </listOrg>
       </body>
    </text>

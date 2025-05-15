@@ -76,6 +76,18 @@
                <idno></idno>
                <!-- ne pas hésiter à mettre des commentaires avec des sources pour qu’on puisse retravailler la liste -->
             </event>
+            <event xml:id="cnacgp001">
+               <eventName>NFT : Poétiques de l'immatériel, du certificat à la blockchain</eventName>
+               <place>
+                  <orgName ref="#cnacgp">Centre national d'art et de culture Georges Pompidou</orgName>
+                  <placeName>Paris</placeName>
+                  <country>France</country>
+               </place>
+               <date from="2023-04" to="2024-01">du 6 avril 2023 au 22 janvier 2024</date>
+               <idno><!-- pas trouvé, voir liens ci-dessous--></idno>
+               <!-- https://www.centrepompidou.fr/fr/programme/agenda/evenement/FJTaAmT -->
+               <!-- https://francefineart.com/2023/04/06/3419_nft_centre-pompidou/ --> 
+            </event>
          </listEvent>
       </body>
    </text>
