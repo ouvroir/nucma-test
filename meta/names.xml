@@ -353,7 +353,7 @@
                <idno type="loc">http://id.loc.gov/authorities/names/nb99026346</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb144939563</idno>
             </person>
-            <person xml:id="Calelédgar">
+            <person xml:id="calelÉdgar">
                <!--confusion sur l'othrographe : wikidata = Édgar, wikipedia = Edgar, et ça change selon les articles et sites-->
                <!--dans le texte V1, l'auteur a écrit "Edgar"-->
                <persName>Calel, Édgar</persName>
