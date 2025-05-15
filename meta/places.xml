@@ -217,6 +217,22 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119565957</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n79079425</idno>
             </place>
+            <place xml:id="rotterdam-Pays-Bas">
+               <placeName xml:lang="fr">Rotterdam (Pays-Bas)</placeName>
+               <placeName xml:lang="en">Rotterdam (Netherlands)</placeName>
+               <country>Pays-Bas</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q34370</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79015636</idno> 
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119620984</idno>
+            </place>
+            <place xml:id="amsterdam-Pays-Bas">
+               <placeName xml:lang="fr">Amsterdam (Pays-Bas)</placeName>
+               <placeName xml:lang="en">Amsterdam (Netherlands)</placeName>
+               <country>Pays-Bas</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q727</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n78095634</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119430472</idno>
+            </place>
          </listPlace>
          <!-- Julie -->
          <listPlace>
