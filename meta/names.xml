@@ -377,6 +377,12 @@
                <idno type="loc">http://id.loc.gov/authorities/names/n2005033374</idno>
                <idno type="orcid">https://orcid.org/0000-0001-8532-9515</idno>
             </person>
+            <person xml:id="lundJonas">
+               <persName>Lund, Jonas (1984-....)</persName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q26704214</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/no2016042371</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500722675</idno>
+            </person>
          </listPerson>
 
          <listOrg>
@@ -697,6 +703,19 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q178065</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n80126139</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11874536g</idno>
+            </org>
+            <org xml:id="pietZwartInstitute">
+               <orgName>Piet Zwart Institute</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3387980</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/no2011156331</idno>
+            </org>
+            <org xml:id="gerritRietveldAcademie">
+               <!-- dans V1 du complément "Traces matérielles de l’acquisition numérique.." l'autrice à écrit "academy" avec un y,
+                  mais sur loc, bnf, wikidata etc c'est bien "academie"-->
+               <orgName>Gerrit Rietveld Academie</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1514799</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12411617z </idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n86050324 </idno>
             </org>
          </listOrg>
       </body>

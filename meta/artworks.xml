@@ -361,6 +361,12 @@
                <author ref="#newmanCarey">Carey, Newman (1975-....)</author>
                <!-- aucun idno trouvé mais site officiel de l'œuvre = couverturedestemoins.ca -->
             </object>
+            <object xml:id="lund001">
+               <objectName>Smart Burn Contract #11 — Hoarder</objectName>
+               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <idno>https://www.centrepompidou.fr/fr/ressources/oeuvre/q9KK0FS</idno><!-- sur site collection centre Pompidou-->
+               <!-- num inventaire = AM 2023-999 -->
+            </object>
          </listObject>
       </body>
    </text>
