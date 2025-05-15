@@ -178,6 +178,20 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11931301w</idno>
                <idno type="loc">https://id.loc.gov/authorities/subjects/sh85045631</idno>
             </place>
+            <place xml:id="nouvelle-zélande">
+               <placeName xml:lang="fr">Nouvelle-Zélande</placeName>
+               <placeName xml:lang="en">New Zealand</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q664</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12581707j</idno>
+               <idno type="isni">https://isni.org/isni/000000012156951X</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79021322</idno>
+            </place>
+            <place xml:id="wellington-Nouvelle-Zélande">
+               <placeName>Wellington</placeName>
+               <country>Nouvelle-Zélande</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q23661</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79029791</idno>
+            </place>
          </listPlace>
          <!-- Julie -->
          <listPlace>
