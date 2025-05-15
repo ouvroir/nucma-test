@@ -308,13 +308,9 @@
                <idno type="isni">https://isni.org/isni/0000000356226714</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb169185618</idno>
             </person>
-            <person xml:id="juleVanRavenzwaay">
-               <!-- nommée Jules avec un s dans 01-coacquisition - je pense que c est une erreur -->
-               <persName>Jule van Ravenzwaay</persName>
-               <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
-            </person>
             <person xml:id="vanRavenzwaayJule">
                <persName>van Ravenzwaay, Jule</persName>
+               <!-- nommée Jules avec un s dans 01-coacquisition - je pense que c est une erreur -->
                <idno><!--#RC aucun idno trouvé - seul lien https://clay.earth/profile/jule-van-ravenzwaay--></idno>
             </person>
             <person xml:id="adoteviStanislas">
@@ -374,7 +370,7 @@
                <idno type="loc">http://id.loc.gov/authorities/names/no2019024962</idno>
             </person>
             <person xml:id="marstineJanet">
-               <persName>Marstine, Janet</persName>
+               <persName>Marstine, Janet (1959-...)</persName>
                <idno type="isni">https://isni.org/isni/0000000110609483</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15500661k</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q131909359</idno>

@@ -178,7 +178,7 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11931301w</idno>
                <idno type="loc">https://id.loc.gov/authorities/subjects/sh85045631</idno>
             </place>
-            <place xml:id="nouvelle-zélande">
+            <place xml:id="nouvelle-Zélande">
                <placeName xml:lang="fr">Nouvelle-Zélande</placeName>
                <placeName xml:lang="en">New Zealand</placeName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q664</idno>
@@ -187,10 +187,35 @@
                <idno type="loc">http://id.loc.gov/authorities/names/n79021322</idno>
             </place>
             <place xml:id="wellington-Nouvelle-Zélande">
-               <placeName>Wellington</placeName>
+               <placeName xml:lang="fr">Wellington (Nouvelle-Zélande)</placeName>
+               <placeName xml:lang="en">Wellington (New Zealand)</placeName>
                <country>Nouvelle-Zélande</country>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q23661</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n79029791</idno>
+            </place>
+            <place xml:id="guatemala">
+               <placeName>Guatemala</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q774</idno>
+               <idno type="isni">https://isni.org/isni/0000000122709190</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11880756w</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79054016</idno>
+            </place>
+            <place xml:id="ciudadDeGuatemala">
+               <placeName xml:lang="fr">Ciudad de Guatemala</placeName>
+               <placeName xml:lang="en">Guatemala City</placeName>
+               <country>Guatemala</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1555</idno>
+               <idno type="isni">https://isni.org/isni/0000000122996433</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb137419904</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n81019995</idno>
+            </place>
+            <place xml:id="winnipeg-Canada">
+               <placeName>Winnipeg (Canada)</placeName>
+               <country>Canada</country>
+               <region>Manitoba</region>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2135</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119565957</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79079425</idno>
             </place>
          </listPlace>
          <!-- Julie -->
