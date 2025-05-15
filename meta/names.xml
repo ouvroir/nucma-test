@@ -359,6 +359,28 @@
                <persName>Calel, Édgar</persName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q125696966</idno>
             </person>
+            <person xml:id="Muirgregor">
+               <persName>Muir, Gregor (1964-....)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb14584431k</idno>
+               <idno type="isni">https://isni.org/isni/000000011768091X</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q5606667</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/nr99002701</idno>
+            </person>
+            <person xml:id="newmanCarey">
+               <persName>Newman, Carey (1975-....)</persName>
+               <!-- nom autochtone = Hayalthkin'geme (voir loc et isni) -->
+               <idno type="isni">https://isni.org/isni/0000000500066349</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q130893329</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/no2019024962</idno>
+            </person>
+            <person xml:id="marstineJanet">
+               <persName>Marstine, Janet</persName>
+               <idno type="isni">https://isni.org/isni/0000000110609483</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15500661k</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q131909359</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n2005033374</idno>
+               <idno type="orcid">https://orcid.org/0000-0001-8532-9515</idno>
+            </person>
          </listPerson>
 
          <listOrg>
@@ -606,7 +628,6 @@
                <!-- aussi MACM et MAC-->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q2235294</idno>
                <idno type="isni">https://isni.org/isni/0000000121976908</idno>
-               <!-- #RC source pour nom en anglais-->
             </org>
             <org xml:id="wag">
                <!-- #RC choix de l'abréviation en englais puisque l'abréviation n'existe pas en fr (MBAW) 
@@ -650,6 +671,28 @@
                <orgName xml:lang="en">Museum of New Zealand Te Papa Tongarewa</orgName>
                <orgName xml:lang="fr">Musée de Nouvelle-Zélande Te Papa Tongarewa</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q915603</idno> 
+            </org>
+            <org xml:id="proyectosUltravioleta">
+               <orgName xml:lang="esp">Proyectos Ultravioleta</orgName>
+               <!-- #RC espagnol = esp ou es?-->
+               <!--#RC aucun idno trouvé, voir site web du centre d'artiste : https://uvuvuv.com -->
+            </org>
+            <org xml:id="biennaleDeLiverpool">
+               <orgName xml:lang="fr">Biennale de Liverpool</orgName>
+               <!-- #RC aussi Liverpool Biennal of Contemporary Art (sur loc notamment)--> 
+               <orgName xml:lang="en">Liverpool Biennal</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q6658316</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/no2001007997</idno>
+            </org>
+            <org xml:id="mcdp">
+               <orgName xml:lang="fr">Musée canadien pour les droits de la personne</orgName>
+               <orgName xml:lang="en">Canadian Museum for Human Rights</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q630212</idno>
+            </org>
+            <org xml:id="cvr">
+               <orgName xml:lang="en">Truth and Reconciliation Commission of Canada</orgName>
+               <orgName xml:lang="fr">Commission de vérité et réconciliation du Canada</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q6021399</idno>
             </org>
          </listOrg>
       </body>
