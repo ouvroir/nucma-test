@@ -270,6 +270,14 @@
                <idno type="isni">https://isni.org/isni/0000000075897239</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15080007x</idno>
             </person>
+            <person xml:id="blaisChristine">
+               <persName>
+                  <forename>Christine</forename>
+                  <surname>Blais</surname>
+               </persName>
+               <affiliation>Université de Montréal</affiliation>
+               <idno><!-- #RC aucun idno trouvé--></idno>
+            </person>
          </listPerson>
       </body>
    </text>
