@@ -367,6 +367,39 @@
                <idno>https://www.centrepompidou.fr/fr/ressources/oeuvre/q9KK0FS</idno><!-- sur site collection centre Pompidou-->
                <!-- num inventaire = AM 2023-999 -->
             </object>
+            <object xml:id="klein001">
+               <objectName>Chéquier</objectName>
+               <author ref="#kleinYves">Klein, Yves (1928-1962)</author>
+               <idno>https://www.centrepompidou.fr/fr/ressources/oeuvre/c4r6qB7</idno><!-- sur site collection centre Pompidou-->
+               <!-- num inventaire = AM 1980-40 (R) -->
+            </object>
+            <object xml:id="lund002">
+               <objectName>Strings Attached</objectName>
+               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <idno>https://strings-attached.info/</idno><!-- site officiel de la série, 1 fiche pour chaque 24 itérations mais pas d'identifiant-->
+            </object>
+            <object xml:id="lund003">
+               <objectName>Smart Burn Contract #1 - Philantropist </objectName>
+               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <idno>https://opensea.io/item/ethereum/0x4febe040d13dbddcca8aa675481314264339e857/1</idno><!-- fiche du NFT sur plateforme vente OpenSea-->
+               <idno>https://smart-contracts.host/works/1</idno><!--fiche de l'œuvre sur le site de l'artiste-->
+            </object>
+            <object xml:id="lund004">
+               <objectName>Jonas Lund's Smart Contract #21</objectName>
+               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <!-- œuvre citée dans v2 du complément Smart burn, 
+                  mais ce titre précis créé en 2020 = introuvable sur le web, même sur le site de l'artiste--> 
+            </object>
+            <object xml:id="lund005">
+               <objectName>Smart Burn Contract #18 - Bookworm</objectName>
+               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <!-- seule trace = un discord : https://discord.com/channels/498853995830444032/1075768287859847238 -->
+            </object>
+            <object xml:id="lund006">
+               <objectName>Smart Burn Contract #10 - Speculator</objectName>
+               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <!-- seule trace = un discord : https://discord.com/channels/498853995830444032/1075768287859847238 -->
+            </object>
          </listObject>
       </body>
    </text>

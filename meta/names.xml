@@ -383,6 +383,26 @@
                <idno type="loc">http://id.loc.gov/authorities/names/no2016042371</idno>
                <idno type="ulan">http://vocab.getty.edu/page/ulan/500722675</idno>
             </person>
+            <person xml:id="paulChristiane">
+               <persName>Paul, Christiane</persName>
+               <idno type="isni">https://isni.org/isni/0000000117487976</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb14637504t</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q1082786</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n90601910</idno>
+            </person>
+            <person xml:id="kleinYves">
+               <persName>Klein, Yves (1928–1962)</persName>
+               <idno type="isni">http://isni.org/isni/0000000121021810</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb120471634</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q154335</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n50044185</idno>
+            </person>
+            <person xml:id="bettinelliPhilippe">
+               <persName>Bettinelli, Philippe (1988-....)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb17126109j</idno>
+               <idno type="isni">http://isni.org/isni/0000000460262862</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q47091837</idno>
+            </person>
          </listPerson>
 
          <listOrg>
@@ -710,12 +730,24 @@
                <idno type="loc">http://id.loc.gov/authorities/names/no2011156331</idno>
             </org>
             <org xml:id="gerritRietveldAcademie">
-               <!-- dans V2 du complément "Traces matérielles de l’acquisition numérique.." l'autrice à écrit "academy" avec un y,
-                  mais sur loc, bnf, wikidata etc c'est bien "academie"-->
+               <!-- dans V2 du complément Smart Burn, l'autrice à écrit "academy" avec un y,
+                  mais sur loc, bnf, wikidata etc. c'est "academie"-->
                <orgName>Gerrit Rietveld Academie</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1514799</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12411617z </idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n86050324 </idno>
+            </org>
+            <org xml:id="whitneyMuseum">
+               <orgName>Whitney Museum of American Art</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q639791</idno>
+            </org>
+            <org xml:id="openSea"><!-- cité dans complément Smart Burn, à indexer comme org?-->
+               <objectName>openSea</objectName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q106650129</idno>
+            </org>
+            <org xml:id="discord"><!-- cité dans complément Smart Burn, à indexer comme org?-->
+               <orgName>Discord</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q22907849</idno>
             </org>
          </listOrg>
       </body>
