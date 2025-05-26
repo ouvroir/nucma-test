@@ -403,6 +403,13 @@
                <idno type="isni">http://isni.org/isni/0000000460262862</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q47091837</idno>
             </person>
+            <person xml:id="veblenThorstein">
+               <persName>Veblen, Thorstein (1857–1929)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12278453v</idno>
+               <idno type="isni">https://isni.org/isni/0000000121387871</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q73646</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n79055669</idno>
+            </person>
          </listPerson>
 
          <listOrg>
