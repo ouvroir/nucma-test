@@ -1,0 +1,177 @@
+<?xml-model href="schema/nucma_custom.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Acquisition of Natively Digital Works: The Case of
+                        <soCalled>NFT</soCalled>s</title>
+                <title type="sub"><soCalled>NFT</soCalled></title>
+                <author ref="#CasemajorNathalie"/>
+                <author ref="#HerrmannSophie"/>
+
+            </titleStmt>
+            <publicationStmt>
+                <publisher/>
+                <date when=""/>
+                <idno type="DOI">10.5802/nucma.1121<!-- @todo --></idno>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">
+                        <p>This content is licensed under a Creative Commons Attribution 4.0
+                            License.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+
+            <seriesStmt>
+                <title xml:lang="fr" type="main">Acquisition</title>
+                <title xml:lang="fr" type="sub">Encyclopédie des nouveaux usages des collections
+                    dans les musées d’art</title>
+                <title xml:lang="en" type="main">Acquisition</title>
+                <title xml:lang="en" type="sub">Encyclopedia of New Uses of Collections</title>
+                <idno type="URI">http://www.nucma.ca</idno>
+            </seriesStmt>
+
+            <sourceDesc
+                xml:id="nucma-acquisition-EN_Encadre_Acquisition_Oeuvres_nativement_numeriques_NFT">
+                <p>Natively digital file</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en"/>
+            </langUsage>
+            <textClass>
+                <keywords xml:lang="en">
+                    <term/>
+                    <term/>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2025-05" type="v1">#JC</change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:lang="en">
+        <body>
+            <div>
+                <p>The museum acquisition of natively digital works raises specific issues related
+                    to their materiality, but also to the appropriation of technology by artists.
+                    Digital materiality is characterized by the encoding of information in the form
+                    of bits and its restitution through the execution of computer scripts, opening
+                    the door to automated programming of artistic objects. Works within the realm of
+                    digital art (profiled since the 1960s with computational art), and later net art
+                    (starting in the 1990s), rely on computer protocols: these protocols establish
+                    standards for processing information within complex technological systems
+                    (Galloway, 2004). The advent of <soCalled>blockchain technology</soCalled> in
+                    2008 and its developments towards the creation of the <soCalled>NFT</soCalled>
+                    format paved the way for new protocols in the creation and exchange of art.</p>
+                <p><soCalled>NFT</soCalled>s (Non-Fungible Tokens) are certification files listed on
+                    a blockchain: a shared digital ledger compiles information within successive
+                    blocks that are linked and protected by cryptographic protocols. An
+                        <soCalled>NFT</soCalled> is defined as a document set that includes three
+                    components: content, a certificate of ownership, and a smart contract. 1) The
+                        <soCalled>content</soCalled> of an <soCalled>NFT</soCalled> can be an
+                    artistic object (a work or part of a work) or a reproduction of a work of art.
+                    It is most often presented as a digital file of still or animated images,
+                    videos, or music. These files are usually stored on an external storage system
+                    (off-chain), but in the case of generative works, the computer code that
+                    generates the work can also be stored on the blockchain (on-chain). 2) The
+                        <soCalled>certificate</soCalled> attests to the properties of the content,
+                    such as its unique identifier and the address of the owner's digital wallet.
+                    Non-reproducible and presented as unfalsifiable, it establishes ownership and
+                    keeps track of successive owners. The certificate is not a guarantee of
+                    authenticity (in the sense of a legitimate origin of the work, as many fakes
+                    exist in the <soCalled>NFT</soCalled> market), but rather a mechanism for
+                    identifying provenance and traceability that records the circulation of the work
+                    within the technical network. 3) The <soCalled>smart contract</soCalled> sets
+                    the terms of transfer and sale of the <soCalled>NFT</soCalled> (payment terms,
+                    transfer of ownership, resale rights for the artist). The terms of this contract
+                    self-execute at the time of the transaction.</p>
+                <p>As a new protocol for recording assets, the <soCalled>NFT</soCalled> system opens
+                    up possibilities for documenting, managing reproducibility, and marketing works.
+                    It is used to create scarcity: in the context of the infinite reproducibility of
+                    digital files, certifying unique pieces and limited editions is a major
+                    challenge (Rinehart, 2006), which the blockchain claims to address. The smart
+                    contract is also a way to codify the transfer of ownership of works. In this
+                    regard, the <soCalled>NFT</soCalled> format resonates with concerns raised as
+                    early as the 1970s by figures in conceptual art regarding the economic circuits
+                    of art. For instance, art dealer and curator <persName ref="#siegelaubSeth">Seth
+                        Siegelaub</persName> proposed codifying the legal terms of art acquisition
+                    in the document <objectName ref="#siegelaubSeth001">The Artist’s Reserved Rights
+                        Transfer and Sale Agreement</objectName> (1971); in collaboration with
+                    lawyer <persName ref="#projanskyRobert">Robert Projansky</persName>). The
+                    specificity of the <soCalled>NFT</soCalled> format here is to make transfer
+                    contracts programmable and automatable.</p>
+                <p>Blockchain technology protocols have also become a medium for experimentation in
+                    artistic practices since 2014 (Catlow et al., 2017). Part of the
+                        <soCalled>NFT</soCalled> artistic production can thus be categorized as
+                    protocol-based works. Two main types can be identified. The first is the
+                        <soCalled>contractual</soCalled> protocol work: the piece <objectName>
+                        <ref target="https://smart-contracts.host/works/11">Smart Burn Contract #11
+                            –
+                    Hoarder</ref></objectName><!-- Lien vers le complément numérique de Christine Blais intitulé « Traces
+                            matérielles de l’acquisition numérique : Smart Burn Contract (2022) de
+                            Jonas Lund au Centre Pompidou » (titre raccourcis : NFT Matérialité) -->(2022)
+                    by artist <persName ref="#lundJonas">Jonas Lund</persName> is an example.
+                    Acquired by the Centre Pompidou in 2023, it stipulates that <q>the owner of this
+                            <soCalled>NFT</soCalled> cannot sell any work from their collection</q>,
+                    thereby creating a contractual obligation between the artist and the museum. The
+                    instructions for the work specify that if the contract terms are violated, the
+                        <soCalled>NFT</soCalled> will be destroyed (<soCalled>burned</soCalled>) by
+                    the artist and disappear from the museum's digital wallet.
+                        <soCalled>NFT</soCalled> protocol works update a practice already evident in
+                    conceptual art, which can be seen with <persName ref="kleinYves">Yves
+                        Klein</persName>'s <objectName ref="#kleinYves001"><ref
+                            target="https://www.centrepompidou.fr/en/ressources/oeuvre/cMedK9X"
+                            >Chéquier</ref></objectName> (1959), a work created as transaction
+                    receipts. Jonas Lund's piece echoes this approach by exploiting the
+                    technological functions of controlling the circulation of works offered by
+                    blockchain.</p>
+                <p>A second type of practice is the creation of <soCalled>generative</soCalled>
+                    protocol works: the artist programs a creation system based on algorithms that
+                    automatically generate works through the random combination of preselected
+                    elements. This approach is in line with the experiments of minimalist and
+                    conceptual artists who devised mathematical systems to generate composition
+                    grids (such as <persName ref="#lewittSol">Sol LeWitt</persName>'s <objectName
+                        ref="#lewitt002">Wall Drawings</objectName>), a practice later taken up and
+                    developed in digital art (McCormack et al., 2014). In the case of
+                        <soCalled>NFT</soCalled> works, the script can be encoded directly onto the
+                    blockchain, and the works generated by the code's execution are automatically
+                    recorded there. Canadian artist <persName ref="#cherniakDmitri">Dmitri
+                        Cherniak</persName> thus created a series of works called <objectName
+                        ref="#cherniak001"><ref
+                            target="https://www.artblocks.io/collection/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270-13?attributes=%7B%22Peg+count%22%3A%7B%22type%22%3A%22number%22%2C%22min%22%3A7%2C%22max%22%3A7%2C%22domain%22%3A%5B3%2C55%5D%7D%7D"
+                            >Ringers</ref></objectName> (2021): 1000 <soCalled>NFTs</soCalled> based
+                    on a common geometric vocabulary. They were generated by activating a script at
+                    the moment of each edition's online acquisition. The <orgName>Los Angeles County
+                        Museum of Art (LACMA)</orgName> acquired one of these editions in 2023
+                        (<objectName ref="#cherniak002">Ringers #962</objectName>).</p>
+                <p>As the museumification of <soCalled>NFTs</soCalled> is very recent, there are
+                    still few specific acquisition protocols for this format to govern their
+                    integration into museum collections. While the <orgName>ZKM (Center for Art and
+                        Media Karlsruhe)</orgName> pioneered in acquiring a handful of
+                        <soCalled>NFTs</soCalled> as early as 2018, it wasn't until 2021 that a
+                    significant series of museum acquisitions took place (<orgName>Whitney
+                        Museum</orgName>, <orgName>MAK Museum of Applied Arts Vienna</orgName>,
+                        <orgName>Los Angeles County Museum of Art (LACMA)</orgName>,
+                        <orgName>Institute of Contemporary Art Miami</orgName>, <orgName>San José
+                        Museum of Art</orgName>, <orgName>Francisco Carolinum</orgName>,
+                        <orgName>San Francisco Museum of Modern Art (SFMoMA)</orgName>,
+                        <orgName>Musée Granet</orgName>, <orgName>Centre Pompidou</orgName>). The
+                    shift from the <objectName ref="buterin001">Ethereum</objectName> blockchain to a more
+                    energy-efficient system in 2022 eliminated an irritant for the museum world.
+                    Like other types of natively digital works, the integration of
+                        <soCalled>NFTs</soCalled> into museum collections calls for the
+                    implementation of protocols to prevent technological obsolescence (Lacerte,
+                    2007). <soCalled>NFTs</soCalled> also present a specific challenge in terms of
+                    administrative protocol: purchasing works with cryptocurrency, managing access
+                    to the digital wallet where they are stored, and the movement of works between
+                    wallets create a new challenge for museums. The <orgName>ZKM</orgName> experienced this firsthand:
+                    a migration error between wallet addresses led to the loss of access to two <objectName ref="larvaLabs001"><ref
+                        target="https://www.theartnewspaper.com/2022/01/21/a-german-museum-has-accidentally-lost-access-to-two-highly-valuable-nfts"
+                        >CryptoPunks</ref></objectName> (<orgName>LarvaLabs</orgName>), iconic pieces
+                    of crypto art that are now out of reach (Batycka, 2022).</p>
+            </div>
+        </body>
+    </text>
+</TEI>
