@@ -144,59 +144,59 @@
             </object>
             <object xml:id="duchamp002">
                <objectName>3 Stoppages Étalon</objectName>
-               <author ref="duchampMarcel">Duchamp, Marcel (1887-1968)</author>
+               <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q91932345</idno>
             </object>
             <!-- "Constructions in Enamel (Telephone Pictures)" dans le texte. 
                Je n'ai pas trouvé de référence pour l'ensemble des peintures, ni pour la première donc j'ai seulement mis les deuxième et troisième. -->
             <object xml:id="moholyNagy001">
                <objectName>Construction in Enamel 2 (Telephone Picture)</objectName>
-               <author ref="moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
+               <author ref="#moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q19883878</idno>
             </object>
             <object xml:id="moholyNagy002">
                <objectName>Construction in Enamel 3 (Telephone Picture)</objectName>
-               <author ref="moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
+               <author ref="#moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q19883879</idno>
             </object>
             <object xml:id="bretch001">
                <objectName>Word Event</objectName>
-               <author ref="brechtGeorge">Brecht, George (1926-2008)</author>
+               <author ref="#brechtGeorge">Brecht, George (1926-2008)</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="knowles001">
                <objectName>Make a Salad</objectName>
-               <author ref="knowlesAlison">Knowles, Alison (1933-....)</author>
+               <author ref="#knowlesAlison">Knowles, Alison (1933-....)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q60770165</idno>
             </object>
             <object xml:id="ono001">
                <objectName>Instructions for paintings</objectName>
-               <author ref="onoYoko">Ono, Yōko (1933-....)</author>
+               <author ref="#onoYoko">Ono, Yōko (1933-....)</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="ono002">
                <objectName>Grapefruit</objectName>
-               <author ref="onoYoko">Ono, Yōko (1933-....)</author>
+               <author ref="#onoYoko">Ono, Yōko (1933-....)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5597012</idno>
             </object>
             <object xml:id="lewitt001">
                <objectName>Paragraphs on Conceptual Art</objectName>
-               <author ref="lewittSol">Lewitt, Sol (1928-2007)</author>
+               <author ref="#lewittSol">Lewitt, Sol (1928-2007)</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="lewitt002">
                <objectName>Wall Drawings</objectName>
-               <author ref="lewittSol">Lewitt, Sol (1928-2007)</author>
+               <author ref="#lewittSol">Lewitt, Sol (1928-2007)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q47092832</idno>
             </object>
             <object xml:id="lewitt003">
                <objectName>Wall Drawing #146</objectName>
-               <author ref="lewittSol">Lewitt, Sol (1928-2007)</author>
+               <author ref="#lewittSol">Lewitt, Sol (1928-2007)</author>
                <idno/> <!-- je ne trouve pas de référence pour cette œuvre en particulier issue de la série -->
             </object> 
             <object xml:id="kosuth001">
                <objectName>Une et trois tables</objectName>
-               <author ref="kosuthJosef">Kosuth, Joseph (1945-....)</author>
+               <author ref="#kosuthJosef">Kosuth, Joseph (1945-....)</author>
                <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=NGOC17259.1-3</idno>
             </object>
             <object xml:id="">
@@ -206,134 +206,94 @@
             </object>
             <object xml:id="v2001">
                <objectName>Capturing Unstable Media</objectName>
-               <author ref="v2">V2 Institute for the Unstable Media</author> <!-- Est-ce qu'on peut mettre un orgName comme auteur ? -->
+               <author ref="#v2">V2 Institute for the Unstable Media</author> <!-- Est-ce qu'on peut mettre un orgName comme auteur ? -->
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="tateModern001">
                <objectName>BMW Tate Live</objectName> 
-               <author ref="tateModern">Tate Modern</author> <!-- Est-ce qu'on peut mettre un orgName comme auteur ? -->
+               <author ref="#tateModern">Tate Modern</author> <!-- Est-ce qu'on peut mettre un orgName comme auteur ? -->
                <idno type="wikidata">https://www.wikidata.org/wiki/</idno> <!-- les références sur wikidata ne correspondent pas à la date mentionnée dans le texte "2012" -->
             </object>
             <object xml:id="abramovic001">
                <objectName>Seven Easy Pieces</objectName>
-               <author ref="abramovicMarina">Abramović, Marina (1946-....)</author>
+               <author ref="#abramovicMarina">Abramović, Marina (1946-....)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q7457256</idno>
             </object>
             <object xml:id="duchamp003">
                <objectName>ready-mades</objectName>
-               <author ref="duchampMarcel">Duchamp, Marcel (1887-1968)</author>
+               <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q39931516</idno>
             </object>
             <object xml:id="whittome001">
                <objectName>Room 901</objectName>
-               <author ref="whittomeIrene">Whittome, Irene (1942-....)</author>
+               <author ref="#whittomeIrene">Whittome, Irene (1942-....)</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="whittome002">
                <objectName>901 Document Re-enactor / 901 Document réactivateur</objectName>
-               <author ref="whittomeIrene">Whittome, Irene (1942-....)</author>
+               <author ref="#whittomeIrene">Whittome, Irene (1942-....)</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="dorion001">
                <objectName>l’Atelier blanc</objectName>
-               <author ref="dorionPierre"><persName>Dorion, Pierre (1959-....)</persName></author>
+               <author ref="#dorionPierre"><persName>Dorion, Pierre (1959-....)</persName></author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="tateModern002">
                <objectName>Reshaping the Collectible</objectName>
-               <author ref="tateModern">Tate Modern</author>
+               <author ref="#tateModern">Tate Modern</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="sullivan001">
                <objectName>Portraits de personnes qui se ressemblent</objectName>
-               <author ref="sullivanFrancoise">Sullivan, Françoise (1925-....)</author> 
+               <author ref="#sullivanFrancoise">Sullivan, Françoise (1925-....)</author> 
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="cooke001">
                <objectName>Le plus beau jour de ma vie</objectName>
-               <author ref="cookeSasseville">Cooke-Sasseville</author>
+               <author ref="#cookeSasseville">Cooke-Sasseville</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="broin001">
                <objectName>Tortoise (Tunnel)</objectName> <!-- "Les Tortoises" dans le texte -->
-               <author ref="broinMichel">Broin, Michel de (1970-....)</author>
+               <author ref="#broinMichel">Broin, Michel de (1970-....)</author>
                <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="monkman001">
                <objectName>Les castors du Roi</objectName>
-               <author ref="monkmanKent">Monkman, Kent (1965-....)</author>
+               <author ref="#monkmanKent">Monkman, Kent (1965-....)</author>
                <idno type="artefact">https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=MBAM61170</idno>
-            </object>
-            <object xml:id="louvreLens001">
-               <objectName>La Galerie du temps</objectName>
-               <author ref="louvreLens">Louvre-Lens</author> <!-- un orgName comme autheur ? -->
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q3094671</idno>
-            </object>
-            <object xml:id="museeLudwig001">
-               <objectName>Here and Now at Museum Ludwig</objectName>
-               <author ref="museeLudwig">Musée Ludwig</author> 
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno><!-- Il s'agit d'une série d'exposition, il y'a une ref pour chaque exposition. Est-ce que j'en choisis une ? -->
-            </object>
-            <object xml:id="mbac001">
-               <objectName>Surgir de l’ombre</objectName> <!-- Biénale -->
-               <author ref="mbac">Musée des beaux-arts du Canada</author>
-               <idno/> <!-- pas trouvé -->
-            </object>
-            <object xml:id="mbac002">
-               <objectName>Les bâtisseurs</objectName>
-               <author ref="mbac">Musée des beaux-arts du Canada</author>
-               <idno/> <!-- pas trouvé -->
-            </object>
-            <object xml:id="mnam001">
-               <objectName>Histoire(s) d’une collection</objectName>
-               <author ref="mnam">Musée national d’Art moderne</author>
-               <idno/> <!-- pas trouvé -->
             </object>
             <object xml:id="mnam002">
                <objectName>Les Cahiers du Musée national d'art moderne</objectName> <!-- Noté comme "Les cahiers" dans le texte. -->
-               <author ref="mnam">Musée national d’Art moderne</author>
+               <author ref="#mnam">Musée national d’Art moderne</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q59729459</idno>
             </object>
-            <object xml:id="mkeo001">
-               <objectName>Silence</objectName> 
-               <author ref="mkeo">Musée Karl Ernest Ostaus</author>
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+            <object xml:id="siegelaubSeth001">
+               <objectName>The Artist’s Reserved Rights Transfer and Sale Agreement</objectName> 
+               <author ref="#siegelaubSeth">Siegelaub, Seth (1941-2013)</author>
+               <author ref="#projanskyRobert">Projansky, Robert</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q25083435</idno>
             </object>
-            <object xml:id="mkeo002">
-               <objectName>Revision</objectName> 
-               <author ref="mkeo">Musée Karl Ernest Ostaus</author>
-               <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
+            <object xml:id="cherniakDmitri001">
+               <objectName>Ringers</objectName> 
+               <author ref="#siegelaubSeth">Dmitri, Cherniak (1970-....)</author>
+               <idno type="artBlocks">https://www.artblocks.io/collection/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270-13?attributes=%7B%22Peg+count%22%3A%7B%22type%22%3A%22number%22%2C%22min%22%3A7%2C%22max%22%3A7%2C%22domain%22%3A%5B3%2C55%5D%7D%7D</idno>
             </object> 
-            <object xml:id="fracNormandieRouen001">
-               <objectName>L’inventaire</objectName> 
-               <author ref="fracNormandieRouen">Fonds régional d'art contemporain de Normandie-Rouen</author>
-               <idno/> <!-- pas trouvé -->
+            <object xml:id="cherniakDmitri002">
+               <objectName>Ringers #962</objectName> 
+               <author ref="#siegelaubSeth">Dmitri, Cherniak (1970-....)</author>
+               <idno type="wikidata"/> <!-- pas trouvé -->
             </object>
-            <object xml:id="mbam001">
-               <objectName>Les arts du Tout-Monde</objectName> 
-               <author ref="mbam">Musée des beaux-arts de Montréal</author>
-               <idno/> <!-- pas trouvé -->
+            <object xml:id="buterinVitalik001">
+               <objectName>Ethereum</objectName> 
+               <author ref="#buterinVitalik">Buterin, Vitalik (1994-....)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q16783523</idno> 
             </object>
-            <object xml:id="mnam003">
-               <objectName>elles@centrepompidou</objectName> 
-               <author ref="mnam">Musée national d’Art moderne</author>
-               <idno/> <!-- pas trouvé -->
-            </object>
-            <object xml:id="macm001">
-               <objectName>Collection Lavalin</objectName> 
-               <author ref="macm">Musée d'art contemporain de Montréal</author>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q115676902</idno>
-            </object>
-            <object xml:id="vag001">
-               <objectName>Collection Brigitte et Henning Freybe</objectName>
-               <author ref="">Vancouver Art Gallery</author>
-               <idno/> <!-- pas trouvé -->
-            </object>
-            <object xml:id="guggenheimMuseumUbs"> <!-- collaboration entre deux Organisations -->
-               <objectName>Guggenheim UBS MAP Global Art Initiative</objectName> <!-- aussi appelé MAP -->
-               <author ref="guggenheimMuseum">Musée Solomon-R.-Guggenheim</author>
-               <author ref="ubs">UBS</author>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q16975332</idno> 
+            <object xml:id="larvaLabs001">
+               <objectName>Cryptopunks</objectName> 
+               <author ref="#larvaLabs">LarvaLabs</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q105095182</idno> 
             </object>
          </listObject>
 
@@ -363,7 +323,7 @@
             </object>
             <object xml:id="lund001">
                <objectName>Smart Burn Contract #11 — Hoarder</objectName>
-               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <author ref="#lundJonas">Lund, Jonas (1984-....)</author>
                <idno>https://www.centrepompidou.fr/fr/ressources/oeuvre/q9KK0FS</idno><!-- sur site collection centre Pompidou-->
                <!-- num inventaire = AM 2023-999 -->
             </object>
@@ -375,29 +335,29 @@
             </object>
             <object xml:id="lund002">
                <objectName>Strings Attached</objectName>
-               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <author ref="#lundJonas">Lund, Jonas (1984-....)</author>
                <idno>https://strings-attached.info/</idno><!-- site officiel de la série, 1 fiche pour chaque 24 itérations mais pas d'identifiant-->
             </object>
             <object xml:id="lund003">
                <objectName>Smart Burn Contract #1 - Philantropist </objectName>
-               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <author ref="#lundJonas">Lund, Jonas (1984-....)</author>
                <idno>https://opensea.io/item/ethereum/0x4febe040d13dbddcca8aa675481314264339e857/1</idno><!-- fiche du NFT sur plateforme vente OpenSea-->
                <idno>https://smart-contracts.host/works/1</idno><!--fiche de l'œuvre sur le site de l'artiste-->
             </object>
             <object xml:id="lund004">
                <objectName>Jonas Lund's Smart Contract #21</objectName>
-               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <author ref="#lundJonas">Lund, Jonas (1984-....)</author>
                <!-- œuvre citée dans v2 du complément Smart burn, 
                   mais ce titre précis créé en 2020 = introuvable sur le web, même sur le site de l'artiste--> 
             </object>
             <object xml:id="lund005">
                <objectName>Smart Burn Contract #18 - Bookworm</objectName>
-               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <author ref="#lundJonas">Lund, Jonas (1984-....)</author>
                <!-- seule trace = un discord : https://discord.com/channels/498853995830444032/1075768287859847238 -->
             </object>
             <object xml:id="lund006">
                <objectName>Smart Burn Contract #10 - Speculator</objectName>
-               <author ref="lundJonas">Lund, Jonas (1984-....)</author>
+               <author ref="#lundJonas">Lund, Jonas (1984-....)</author>
                <!-- seule trace = un discord : https://discord.com/channels/498853995830444032/1075768287859847238 -->
             </object>
          </listObject>

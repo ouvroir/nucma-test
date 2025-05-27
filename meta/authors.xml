@@ -215,7 +215,26 @@
                <note xml:lang="fr"/>
                <affiliation>Université du Québec à Montréal</affiliation>
             </person>
+            <person xml:id="CasemajorNathalie">
+               <persName>
+                  <forename>Nathalie</forename>
+                  <surname>Casemajor</surname>
+               </persName>
+               <note xml:lang="fr"/>
+               <affiliation>Institut national de la recherche scientifique</affiliation>
+               <idno type="orcid">https://orcid.org/0000-0001-7901-4859</idno>
+            </person>
+            <person xml:id="HerrmannSophie">
+               <persName>
+                  <forename>Sophie</forename>
+                  <surname>Herrmann</surname>
+               </persName>
+               <note xml:lang="fr"/>
+               <affiliation>Institut national de la recherche scientifique et Université du Québec en Outaouais</affiliation>
+               <idno type="orcid">https://orcid.org/0009-0005-0844-3230</idno>
+            </person>
          </listPerson>
+         
          <!--liste de Rosa -->
          <listPerson>
             <head xml:lang="fr">Liste des auteurs et des autrices</head>

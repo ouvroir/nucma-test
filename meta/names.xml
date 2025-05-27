@@ -295,6 +295,36 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q274319</idno>
                <idno type="ulan">http://vocab.getty.edu/page/ulan/500376112</idno> 
             </person>
+            <person xml:id="siegelaubSeth">
+               <persName>Siegelaub, Seth (1941-2013)</persName>
+               <idno type="isni">https://isni.org/isni/0000000374112411</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb12298609b</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3480661</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500346433</idno> 
+            </person>
+            <person xml:id="projanskyRobert">
+               <persName>Projansky, Robert</persName> <!-- pas de date trouvée -->
+               <idno type="isni">https://isni.org/isni/0000000053019910</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/nr2006009660</idno>
+            </person>
+            <person xml:id="kleinYves">
+               <persName>Klein, Yves (1928-1962)</persName>
+               <idno type="isni">https://isni.org/isni/0000000121021810</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb120471634</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q154335</idno>
+               <idno type="ulan">http://vocab.getty.edu/page/ulan/500005222</idno> 
+            </person>
+            <person xml:id="cherniakDmitri">
+               <persName>Dmitri, Cherniak (1970-....)</persName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q112821885</idno>
+               <idno type="zkm">https://zkm.de/en/person/dmitri-cherniak</idno>
+            </person>
+            <person xml:id="buterinVitalik">
+               <persName>Buterin, Vitalik (1994-....)</persName>
+               <idno type="isni">https://isni.org/isni/0000000464684077</idno>
+               <idno type="bnf">http://ark.bnf.fr/ark:/12148/cb17159490d</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q16197959</idno>
+            </person>
             <!-- pas sure de comment noter "B-F-G", le collectif, -> orgName comme Fluxus ?" -->
          </listPerson>
 
@@ -389,13 +419,6 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb14637504t</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1082786</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n90601910</idno>
-            </person>
-            <person xml:id="kleinYves">
-               <persName>Klein, Yves (1928–1962)</persName>
-               <idno type="isni">http://isni.org/isni/0000000121021810</idno>
-               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb120471634</idno>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q154335</idno>
-               <idno type="loc">http://id.loc.gov/authorities/names/n50044185</idno>
             </person>
             <person xml:id="bettinelliPhilippe">
                <persName>Bettinelli, Philippe (1988-....)</persName>
@@ -581,7 +604,46 @@
                <orgName xml:lang="fr">Art Basel</orgName>
                <orgName xml:lang="en">Art Basel</orgName> 
                <idno type="wikidata">https://www.wikidata.org/wiki/Q684443</idno>
-            </org>
+            </org> 
+            <org xml:id="larvaLabs">
+               <orgName xml:lang="fr">LarvaLabs</orgName>
+               <orgName xml:lang="en">LarvaLabs</orgName> 
+               <idno type="website">https://larvalabs.com/</idno> <!-- pas trouvée sur Wikidata, lien vers leur site web -->
+            </org> 
+            <org xml:id="zkm">
+               <orgName xml:lang="fr">Centre des d’arts et de technologie des médias de Karlsruhe</orgName>
+               <!-- ZKM -->
+               <orgName xml:lang="en">Center for Art and Media Karlsruhe</orgName> 
+               <!-- ZKM Center for Art and Media Karlsruhe -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q191228</idno>
+            </org> 
+            <org xml:id="mak">
+               <orgName xml:lang="fr">MAK – Musée autrichien d’arts appliqués / art contemporain</orgName>
+               <!-- MAK Musée des arts appliqués de Vienne -->
+               <orgName xml:lang="en">MAK – Museum of Applied Arts</orgName>
+               <!-- MAk Museum of Applied Arts Vienna -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q478455</idno>
+            </org> 
+            <org xml:id="icaMiami">
+               <orgName xml:lang="fr">Institute of Contemporary Art (Miami)</orgName>
+               <orgName xml:lang="en">Institute of Contemporary Art (Miami)</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q55614493</idno>
+            </org> 
+            <org xml:id="sjma">
+               <orgName xml:lang="fr">San José Museum of Art</orgName>
+               <orgName xml:lang="en">San José Museum of Art</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q7414466</idno>
+            </org> 
+            <org xml:id="franciscoCarolinum">
+               <orgName xml:lang="fr">Francisco-Carolinum</orgName>
+               <orgName xml:lang="en">Francisco-Carolinum</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q100776179</idno>
+            </org> 
+            <org xml:id="museeGranet">
+               <orgName xml:lang="fr">Musée Granet</orgName>
+               <orgName xml:lang="en">Musée Granet</orgName> 
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q965780</idno>
+            </org> 
          </listOrg>
          <listOrg>
             <!-- Rosalie -->

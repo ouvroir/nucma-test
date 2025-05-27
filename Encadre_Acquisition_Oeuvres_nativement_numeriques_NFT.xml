@@ -170,7 +170,7 @@
                         Contemporary Art Miami</orgName>, <orgName>San José Museum of Art</orgName>,
                         <orgName>Francisco Carolinum</orgName>, <orgName>SFMoMA</orgName>,
                         <orgName>Musée Granet</orgName>, <orgName>Centre Pompidou</orgName>). Le
-                    passage, en 2022, de la chaîne de bloc <objectName ref="buterin001">Ethereum</objectName>
+                    passage, en 2022, de la chaîne de bloc <objectName ref="#buterinVitalik001">Ethereum</objectName>
                     vers un système moins énergivore a supprimé un irritant pour le monde muséal. À
                     l’instar des autres types d’œuvres nativement numériques, l’intégration des
                         <soCalled>NFT</soCalled> dans les collections muséales appelle la mise en
@@ -181,7 +181,7 @@
                     mouvement des œuvres entre portefeuilles soulèvent un nouveau défi pour les
                     musées. Le <orgName>ZKM</orgName> en a fait l’amère expérience : une erreur de
                     migration entre adresses de portefeuilles lui a valu de perdre l’accès à deux
-                        <objectName ref="larvaLabs001"><ref
+                        <objectName ref="#larvaLabs001"><ref
                             target="https://www.theartnewspaper.com/2022/01/21/a-german-museum-has-accidentally-lost-access-to-two-highly-valuable-nfts"
                             >Cryptopunks</ref></objectName> (<orgName>LarvaLabs</orgName>), des
                     pièces iconiques du <foreign xml:lang="en">cryptoart</foreign> aujourd’hui hors

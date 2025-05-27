@@ -222,7 +222,7 @@
                <placeName xml:lang="en">Rotterdam (Netherlands)</placeName>
                <country>Pays-Bas</country>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q34370</idno>
-               <idno type="loc">http://id.loc.gov/authorities/names/n79015636</idno> 
+               <idno type="loc">http://id.loc.gov/authorities/names/n79015636</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119620984</idno>
             </place>
             <place xml:id="amsterdam-Pays-Bas">
@@ -236,6 +236,12 @@
          </listPlace>
          <!-- Julie -->
          <listPlace>
+            <place xml:id="essen">
+               <placeName>Essen</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2066</idno>
+               <idno type="loc">https://id.loc.gov/authorities/names/n80089415.html</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119636772</idno>
+            </place>
             <place xml:id="maghreb">
                <placeName>Maghreb</placeName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q28227</idno>
@@ -248,11 +254,13 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11941591f</idno>
                <idno type="loc">http://id.loc.gov/authorities/subjects/sh85090501</idno>
             </place>
-            <place xml:id="nyc"> <!-- la ville -->
+            <place xml:id="nyc">
+               <!-- la ville -->
                <placeName xml:lang="fr">New York (N.Y.)</placeName>
                <placeName xml:lang="en">New York City</placeName>
                <country>États-Unis</country>
-               <region>New York</region> <!-- l'état -->
+               <region>New York</region>
+               <!-- l'état -->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q60</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11880105b</idno>
                <idno type="isni">https://isni.org/isni/0000000121966726</idno>
@@ -261,18 +269,19 @@
                <placeName xml:lang="fr">Hong Kong (Chine)</placeName>
                <placeName xml:lang="en">Hong Kong (China)</placeName>
                <country>Chine</country>
-               <region></region>
+               <region/>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q8646</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11940411f</idno>
                <idno type="loc">http://id.loc.gov/vocabulary/geographicAreas/a-cc-hk</idno>
                <idno type="isni">https://isni.org/isni/0000000121793140</idno>
             </place>
             <place xml:id="sgp">
-               <placeName xml:lang="fr">Singapour</placeName> 
+               <placeName xml:lang="fr">Singapour</placeName>
                <placeName xml:lang="en">Singapore</placeName>
                <country>Singapour</country>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q334</idno>
-               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119478504</idno> <!-- la notice est la même pour la ville et l'état -->
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119478504</idno>
+               <!-- la notice est la même pour la ville et l'état -->
                <idno type="loc">http://id.loc.gov/vocabulary/geographicAreas/a-si</idno>
                <idno type="isni">https://isni.org/isni/0000000121851814</idno>
             </place>
@@ -280,7 +289,7 @@
                <placeName xml:lang="fr">Mexico (Mexique)</placeName>
                <placeName xml:lang="en">Mexico City</placeName>
                <country>Mexique</country>
-               <region></region>
+               <region/>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1489</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119335179</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n79093328</idno>
