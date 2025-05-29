@@ -294,6 +294,7 @@
                <objectName>Cryptopunks</objectName> 
                <author ref="#larvaLabs">LarvaLabs</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q105095182</idno> 
+               
             </object>
          </listObject>
 
@@ -331,6 +332,7 @@
                <objectName>Chéquier</objectName>
                <author ref="#kleinYves">Klein, Yves (1928-1962)</author>
                <idno>https://www.centrepompidou.fr/fr/ressources/oeuvre/c4r6qB7</idno><!-- sur site collection centre Pompidou-->
+               <idno>https://www.centrepompidou.fr/en/ressources/oeuvre/cMedK9X</idno> <!-- le lien donné dans "acquisition NFT" #JC, "Chèque" -->
                <!-- num inventaire = AM 1980-40 (R) -->
             </object>
             <object xml:id="lund002">
