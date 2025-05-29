@@ -75,31 +75,11 @@
                         performatifs et conceptuels, souvent multifacettes, dans l’espace de la
                         galerie, du musée ou du Web. Son utilisation de la <foreign xml:lang="en"
                             >blockchain</foreign> depuis 2018 s’inscrit dans une volonté d’inverser
-                        la pyramide hiérarchique du pouvoir <note place="foot" xml:id="ftn0" n="1"><!-- #RC besoin de voir comment référencer les notes dans le texte-->
-                            <p>Dans le monde de l’art, les normes de la construction des valeurs
-                                demeurent assez près d’une réinterprétation de ce que l’économiste
-                                    <persName>Thorstein Veblen</persName> propose en 1899 comme le
-                                <!-- quelles ballise ici #RC-->Smart Burn <q>trickle down effect</q>
-                                selon lequel le goût se propage des experts, au sommet de la
-                                pyramide sociale, vers le grand public. Cet effet de la
-                                reconnaissance critique sur le succès populaire demeure, avec
-                                certaines variations, chez plusieurs théoriciens modernes. Dans
-                                l’écosystème théoriquement distribué et décentralisé de la <foreign
-                                    xml:lang="en">blockchain</foreign>, cette idée de <q>retourner
-                                    la pyramide à l’envers</q> est importante. Au cœur même de la
-                                décentralisation technique du système financier de gré à gré qu’est
-                                la <foreign xml:lang="en">blockchain</foreign>, elle endosse l’idée
-                                d’atteindre une économie circulaire grâce à une plus grande
-                                coopération entre les acteurs dont une plus grande agentivité des
-                                publics. </p>
-                        </note>, permettant ainsi un engagement concret du public <note place="foot"
-                            xml:id="ftn1" n="2">
-                            <p>Jonas Lund (2019). Jonas Lund: Modern Solutions Require Modern
-                                Problems. Conférence de l’artiste au Aksioma | Project Space,
-                                Ljubljana, 15 mai 2019, 1m22s-1m23s. [En ligne] <ref
-                                    target="https://www.youtube.com/watch?v=ZljXSiqgVUY"/>
-                            </p>
-                        </note>
+                        la pyramide hiérarchique du pouvoir<ref
+                            target="#Traces_Materielles_Smart_Burn_ContractN01"/>, permettant ainsi
+                        un engagement concret du public <ref target="#Traces_Materielles_Smart_Burn_ContractN0"/>
+                            
+                        
                         <!-- besoin de voir comment on insère et référence les images #RC -->
                         <hi style="color:red; font-size: 14pt; font-weight:bold;" rend="ERROR"
                             /><note place="margin" type="conversion" resp="#docxtotei"><hi
@@ -146,9 +126,12 @@
                     <p>Figure 2 </p>
                     <p>Jonas Lund, Smart Burn Contract #11 – Hoarder (2022) </p>
                     <p>NFT (ERC-721), entente contractuelle, JPEG 1024x1024 px, MP4 6s 67 ms</p>
-                    <p><ref target="https://smart-contracts.host/video/11.mp4"><hi
-                                rend="underline color(0563c1)" style="font-family:Helvetica Neue"
-                                >https://smart-contracts.host/video/11.mp4</hi></ref></p>
+                    <p>
+                        <ref target="https://smart-contracts.host/video/11.mp4">
+                            <hi rend="underline color(0563c1)" style="font-family:Helvetica Neue"
+                                >https://smart-contracts.host/video/11.mp4</hi>
+                        </ref>
+                    </p>
                     <p>Légende</p>
                     <p>Le NFT contient deux fichiers : l’image statique au format JPEG de 1024 x
                         1024 px, et celle animée (MP4) d’une durée de 6s 67ms, sur lesquelles les
@@ -207,21 +190,26 @@
                         entre l’artiste et le <orgName>Centre Pompidou</orgName>
                         <note place="foot" xml:id="ftn4" n="5">
                             <p>Elsa Fortant et Nathalie Casemajor (2023), Ibid.</p>
-                        </note>. 
-                        Le NFT fut ensuite transféré sur le portefeuille (<soCalled xml:lang="en">wallet</soCalled>) du Musée, qui contient, à ce jour, les certificats d’une
-                        douzaine d’œuvres NFT, comme on peut le constater sur la plateforme
-                        marchande <orgName>OpenSea</orgName>.</p>
-                    <p><quote>Pour l’heure, on peut en apercevoir la plupart en ligne, sur les
-                        plateformes qui les ont vu naître. Pour l’exposition, nous allons les
-                        remettre en contexte, notamment en présentant quelques objets qui témoignent
-                        de cette histoire de la dématérialisation de l’œuvre, comme des certificats,
-                        des protocoles, ou des documents qui ont pu accompagner des démarches
-                        immatérielles dans l’art moderne et contemporain depuis la seconde moitié du
-                            20 <!-- balise pour sicles --> siècle – je pense au <title>Chéquier</title> d’<persName>Yves Klein</persName>, par exemple. […] Notre mission reste
-                        d’assurer le transfert des œuvres d’une technologie en voie de disparition
-                        vers une nouvelle. Si le support est nouveau, notre méthodologie reste la
-                        même – beaucoup d’œuvres étant d’ailleurs des images fixes, ou des fichiers
-                        vidéo accompagnés d’un jeton, <foreign xml:lang="en">token</foreign>, sur la <foreign xml:lang="en">blockchain.</foreign></quote></p>
+                        </note>. Le NFT fut ensuite transféré sur le portefeuille (<soCalled
+                            xml:lang="en">wallet</soCalled>) du Musée, qui contient, à ce jour, les
+                        certificats d’une douzaine d’œuvres NFT, comme on peut le constater sur la
+                        plateforme marchande <orgName>OpenSea</orgName>.</p>
+                    <p>
+                        <quote>Pour l’heure, on peut en apercevoir la plupart en ligne, sur les
+                            plateformes qui les ont vu naître. Pour l’exposition, nous allons les
+                            remettre en contexte, notamment en présentant quelques objets qui
+                            témoignent de cette histoire de la dématérialisation de l’œuvre, comme
+                            des certificats, des protocoles, ou des documents qui ont pu accompagner
+                            des démarches immatérielles dans l’art moderne et contemporain depuis la
+                            seconde moitié du 20 <!-- balise pour sicles --> siècle – je pense
+                                au <title>Chéquier</title> d’<persName>Yves Klein</persName>, par
+                            exemple. […] Notre mission reste d’assurer le transfert des œuvres d’une
+                            technologie en voie de disparition vers une nouvelle. Si le support est
+                            nouveau, notre méthodologie reste la même – beaucoup d’œuvres étant
+                            d’ailleurs des images fixes, ou des fichiers vidéo accompagnés d’un
+                            jeton, <foreign xml:lang="en">token</foreign>, sur la <foreign
+                                xml:lang="en">blockchain.</foreign></quote>
+                    </p>
                     <p>Philippe Bettinelli, conservateur, Centre Pompidou<note place="foot"
                             xml:id="ftn5" n="6"
                                     ><p><hi style="font-size:11pt" xml:space="preserve"> Philippe Bettinelli cite dans Séverine Pierron (2023). </hi><hi
@@ -378,18 +366,27 @@
                                         ><hi rend="underline color(1155cc)"
                                         style="font-family:Helvetica Neue;font-size:10pt"
                                         >https://discord.com/channels/498853995830444032/1075768287859847238</hi></ref><seg xml:space="preserve">  </seg></p></note>. </p>
-                    <p><anchor type="commentRangeEnd" n="12"/><note place="comment"
-                            resp="#Josée_Desforges" n="12"><date when="2025-05-05T18:08:28Z"/><hi
-                                rend="normalweight baseline" style="font-size:11pt">Revoir la
-                                formulation</hi></note><anchor type="commentRangeEnd" n="13"/><note
-                            place="comment" resp="#Christine_Blais" n="13"><date
-                                when="2025-05-22T18:56:00Z"/><hi rend="normalweight baseline"
-                                style="font-size:11pt">c'est corrigé.</hi></note><anchor
-                            type="commentRangeEnd" n="14"/><note place="comment"
-                            resp="#Christine_Blais" n="14"><date when="2025-05-22T19:07:29Z"/><hi
-                                rend="normalweight baseline" style="font-size:11pt">Juste une
+                    <p>
+                        <anchor type="commentRangeEnd" n="12"/>
+                        <note place="comment" resp="#Josée_Desforges" n="12">
+                            <date when="2025-05-05T18:08:28Z"/>
+                            <hi rend="normalweight baseline" style="font-size:11pt">Revoir la
+                                formulation</hi>
+                        </note>
+                        <anchor type="commentRangeEnd" n="13"/>
+                        <note place="comment" resp="#Christine_Blais" n="13">
+                            <date when="2025-05-22T18:56:00Z"/>
+                            <hi rend="normalweight baseline" style="font-size:11pt">c'est
+                                corrigé.</hi>
+                        </note>
+                        <anchor type="commentRangeEnd" n="14"/>
+                        <note place="comment" resp="#Christine_Blais" n="14">
+                            <date when="2025-05-22T19:07:29Z"/>
+                            <hi rend="normalweight baseline" style="font-size:11pt">Juste une
                                 précision : ce paragraphe ne fait pas partie de la légende de la
-                                figure 8. Il s'agit d'un paragraphe de texte.</hi></note></p>
+                                figure 8. Il s'agit d'un paragraphe de texte.</hi>
+                        </note>
+                    </p>
                     <figure>
                         <graphic n="10011" width="6.080125cm" height="4.681361111111111cm"
                             url="media/image7.png" rend="inline">
@@ -489,23 +486,31 @@
             </div>
 
             <div type="notes">
-                <note xml:id="smartBurnN01" n="1">
-                    <p>Dans le monde de l’art, les normes de la construction des valeurs demeurent
-                        assez près d’une réinterprétation de ce que l’économiste Thorstein Veblen
-                        propose en 1899 comme le Smart Burn <q>trickle down effect</q> selon lequel
-                        le goût se propage des experts, au sommet de la pyramide sociale, vers le
-                        grand public. Cet effet de la reconnaissance critique sur le succès
-                        populaire demeure, avec certaines variations, chez plusieurs théoriciens
-                        modernes. Dans l’écosystème théoriquement distribué et décentralisé de la
-                        blockchain, cette idée de <q>retourner la pyramide à l’envers</q> est
-                        importante. Au cœur même de la décentralisation technique du système
-                        financier de gré à gré qu’est la blockchain, elle endosse l’idée d’atteindre
-                        une économie circulaire grâce à une plus grande coopération entre les
-                        acteurs dont une plus grande agentivité des publics.</p>
+                <note xml:id="Traces_Materielles_Smart_Burn_ContractN01" n="1">
+                    <p>Dans le monde de l’art, les normes de la construction des valeurs
+                        demeurent assez près d’une réinterprétation de ce que l’économiste
+                        <persName>Thorstein Veblen</persName> propose en 1899 comme le
+                        <!-- quelles ballise ici #RC-->Smart Burn <q>trickle down effect</q>
+                        selon lequel le goût se propage des experts, au sommet de la
+                        pyramide sociale, vers le grand public. Cet effet de la
+                        reconnaissance critique sur le succès populaire demeure, avec
+                        certaines variations, chez plusieurs théoriciens modernes. Dans
+                        l’écosystème théoriquement distribué et décentralisé de la <foreign
+                            xml:lang="en">blockchain</foreign>, cette idée de <q>retourner
+                                la pyramide à l’envers</q> est importante. Au cœur même de la
+                        décentralisation technique du système financier de gré à gré qu’est
+                        la <foreign xml:lang="en">blockchain</foreign>, elle endosse l’idée
+                        d’atteindre une économie circulaire grâce à une plus grande
+                        coopération entre les acteurs dont une plus grande agentivité des
+                        publics.</p>
                 </note>
 
-                <note xml:id="smartBurnN02" n="2">
-                    <p/>
+                <note xml:id="Traces_Materielles_Smart_Burn_ContractN02" n="2">
+                    <p>Jonas Lund (2019). Jonas Lund: Modern Solutions Require Modern
+                        Problems. Conférence de l’artiste au Aksioma | Project Space,
+                        Ljubljana, 15 mai 2019, 1m22s-1m23s. [En ligne] <ref
+                            target="https://www.youtube.com/watch?v=ZljXSiqgVUY"/>
+                    </p>
                 </note>
             </div>
         </body>
