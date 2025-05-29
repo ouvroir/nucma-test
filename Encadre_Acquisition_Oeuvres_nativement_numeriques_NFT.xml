@@ -6,9 +6,19 @@
                 <title type="main">Acquisition d’œuvres nativement numériques : le cas des
                     NFT</title>
                 <title type="sub">NFT</title>
-                <author ref="#CasemajorNathalie"/>
-                <!-- nom prénom, idno dans un persname -->
-                <author ref="#HerrmannSophie"/>
+                <author ref="#CasemajorNathalie">
+                    <persName>
+                        <forename>Nathalie</forename>
+                        <surname>Casemajor</surname>
+                    </persName>
+                    <idno/>
+                </author>
+                <author ref="#HerrmannSophie"><persName>
+                        <forename>Sophie</forename>
+                        <surname>Herrmann</surname>
+                    </persName>
+                    <idno type="orcid">https://orcid.org/0009-0005-0844-3230</idno>
+                </author>
 
             </titleStmt>
             <publicationStmt>
@@ -101,12 +111,12 @@
                     de la reproductibilité et de commercialisation des œuvres. Il est utilisé pour
                     créer de la rareté : dans le contexte de l’infinie reproductibilité des fichiers
                     numériques, la certification des pièces uniques et des éditions limitées est un
-                    défi de taille <bibl ref="https://www.zotero.org/groups/4971115/items/BU6ENA7N">Rinehart, 2006</bibl> auquel la chaîne de bloc
-                    prétend répondre. Le contrat intelligent est aussi un moyen de codifier le
-                    transfert de propriété des œuvres. En ce sens, le format
-                        <soCalled>NFT</soCalled> fait écho aux préoccupations soulevées dès les
-                    années 1970 par des figures de l’art conceptuel au sujet des circuits
-                    économiques de l’art. Le marchand d’art et commissaire <persName
+                    défi de taille<bibl ref="https://www.zotero.org/groups/4971115/items/BU6ENA7N"
+                        >Rinehart, 2006</bibl> auquel la chaîne de bloc prétend répondre. Le contrat
+                    intelligent est aussi un moyen de codifier le transfert de propriété des œuvres.
+                    En ce sens, le format <soCalled>NFT</soCalled> fait écho aux préoccupations
+                    soulevées dès les années 1970 par des figures de l’art conceptuel au sujet des
+                    circuits économiques de l’art. Le marchand d’art et commissaire <persName
                         ref="#siegelaubSeth">Seth Siegelaub</persName> a par exemple proposé de
                     codifier les termes légaux d’acquisition des œuvres dans le document <objectName
                         ref="#siegelaubSeth001">The Artist’s Reserved Rights Transfer and Sale
@@ -116,29 +126,30 @@
                     cession programmables et automatisables. </p>
                 <p>Les protocoles technologiques de la <foreign xml:lang="en">blockchain</foreign>
                     sont aussi devenus un support d’expérimentation pour les pratiques artistiques
-                    dès 2014 <bibl ref="https://www.zotero.org/groups/4971115/items/MXJWPB8F">Catlow et al, 2017</bibl>. Une partie de la production
-                    artistique de <soCalled>NFT</soCalled> peut ainsi être qualifiée d’œuvre à
-                    protocole. On peut en distinguer deux types principaux. Le premier est l’œuvre à
-                    protocole <soCalled>contractuel</soCalled> : la pièce <objectName
-                        ref="#lundJonas001"><ref target="https://smart-contracts.host/works/11"
-                            >Smart Burn Contract #11 – Hoarder</ref></objectName>
+                    dès 2014<bibl ref="https://www.zotero.org/groups/4971115/items/MXJWPB8F">Catlow
+                        et al, 2017</bibl>. Une partie de la production artistique de
+                        <soCalled>NFT</soCalled> peut ainsi être qualifiée d’œuvre à protocole. On
+                    peut en distinguer deux types principaux. Le premier est l’œuvre à protocole
+                        <soCalled>contractuel</soCalled> : la pièce <objectName ref="#lundJonas001"
+                        >Smart Burn Contract #11 – Hoarder</objectName>
                     <!-- Lien vers le complément numérique de Christine Blais intitulé « Traces
                             matérielles de l’acquisition numérique : Smart Burn Contract (2022) de
                             Jonas Lund au Centre Pompidou » (titre raccourcis : NFT Matérialité) -->
                     <!-- @todo --> (2022) de l’artiste <persName ref="#lundJonas">Jonas
-                        Lund</persName> en est un exemple. Acquise par le <orgName ref="cnacgp">Centre Pompidou</orgName> en 2023,
-                    elle stipule que <q>le propriétaire de ce <soCalled>NFT</soCalled> ne peut
-                        vendre aucune œuvre de sa collection</q>, créant ainsi une obligation
-                    contractuelle entre l’artiste et le musée. Les instructions de l’œuvre prévoient
-                    qu’en cas de non-respect des termes du contrat, le <soCalled>NFT</soCalled> sera
-                    détruit (<soCalled>brûlé</soCalled>) par l’artiste et disparaîtra du
-                    portefeuille électronique du musée. Les <soCalled>NFT</soCalled> à protocole
-                    contractuel réactualisent une pratique déjà manifeste dans l’art conceptuel,
-                    qu’on peut percevoir avec le <objectName ref="#kleinYves001">Chéquier</objectName>
-                    (1959) d’<persName ref="kleinYves">Yves Klein</persName>, une œuvre créée sous
-                    la forme de reçus de transaction. La pièce de Jonas Lund rappelle cette démarche
-                    en exploitant les fonctions technologiques de contrôle de la circulation des
-                    œuvres offertes par la chaîne de blocs. </p>
+                        Lund</persName> en est un exemple. Acquise par le <orgName ref="#cnacgp"
+                        >Centre Pompidou</orgName> en 2023, elle stipule que <q>le propriétaire de
+                        ce <soCalled>NFT</soCalled> ne peut vendre aucune œuvre de sa
+                    collection</q>, créant ainsi une obligation contractuelle entre l’artiste et le
+                    musée. Les instructions de l’œuvre prévoient qu’en cas de non-respect des termes
+                    du contrat, le <soCalled>NFT</soCalled> sera détruit
+                    (<soCalled>brûlé</soCalled>) par l’artiste et disparaîtra du portefeuille
+                    électronique du musée. Les <soCalled>NFT</soCalled> à protocole contractuel
+                    réactualisent une pratique déjà manifeste dans l’art conceptuel, qu’on peut
+                    percevoir avec le <objectName ref="#kleinYves001">Chéquier</objectName> (1959)
+                        d’<persName ref="kleinYves">Yves Klein</persName>, une œuvre créée sous la
+                    forme de reçus de transaction. La pièce de Jonas Lund rappelle cette démarche en
+                    exploitant les fonctions technologiques de contrôle de la circulation des œuvres
+                    offertes par la chaîne de blocs. </p>
                 <p>Un deuxième type de pratique à identifier est la création d’œuvres à protocole
                         <soCalled>génératif</soCalled> : l’artiste programme un système de création
                     fondé sur des algorithmes qui génèrent automatiquement des œuvres par la
@@ -147,36 +158,38 @@
                     ont conçu des systèmes mathématiques pour générer des grilles de composition
                     (tels les <objectName ref="#lewitt002">Wall Drawings</objectName> de <persName
                         ref="#lewittSol">Sol LeWitt</persName>), une pratique reprise et développée
-                    dans l’art numérique <bibl ref="">McCormack et al., 2014</bibl>. Dans le cas
-                    d’œuvres en format <soCalled>NFT</soCalled> -, le script peut être encodé à même
-                    la chaîne de blocs et les œuvres générées par l’exécution du code s’y
-                    enregistrent automatiquement. L’artiste canadien <persName ref="#cherniakDmitri"
-                        >Dmitri Cherniak</persName>a ainsi produit une série d’œuvres baptisée
-                        <objectName ref="#cherniak001"><ref
-                            target="https://www.artblocks.io/collection/0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270-13?attributes=%7B%22Peg+count%22%3A%7B%22type%22%3A%22number%22%2C%22min%22%3A7%2C%22max%22%3A7%2C%22domain%22%3A%5B3%2C55%5D%7D%7D"
-                            >Ringers</ref></objectName> (2021) : il s’agit de 1000
-                        <soCalled>NFT</soCalled> composés autour d’un vocabulaire géométrique
-                    commun. Ils ont été générés par l’activation d’un script au moment de
-                    l’acquisition en ligne de chacune des éditions. Le <orgName>Los Angeles County
-                        Museum of Art (LACMA)</orgName> a fait l’acquisition d’une de ces éditions
-                    en 2023 (<objectName ref="#cherniak002">Ringers #962</objectName>). </p>
+                    dans l’art numérique<bibl
+                        ref="https://www.zotero.org/groups/4971115/items/VZG47XY9">McCormack et al.,
+                        2014</bibl>. Dans le cas d’œuvres en format <soCalled>NFT</soCalled> -, le
+                    script peut être encodé à même la chaîne de blocs et les œuvres générées par
+                    l’exécution du code s’y enregistrent automatiquement. L’artiste canadien
+                        <persName ref="#cherniakDmitri">Dmitri Cherniak</persName>a ainsi produit
+                    une série d’œuvres baptisée <objectName ref="#cherniak001">Ringers</objectName>
+                    (2021) : il s’agit de 1000 <soCalled>NFT</soCalled> composés autour d’un
+                    vocabulaire géométrique commun. Ils ont été générés par l’activation d’un script
+                    au moment de l’acquisition en ligne de chacune des éditions. Le <orgName
+                        ref="#lacma">Los Angeles County Museum of Art (LACMA)</orgName> a fait
+                    l’acquisition d’une de ces éditions en 2023 (<objectName ref="#cherniak002"
+                        >Ringers #962</objectName>). </p>
                 <p>La muséalisation des <soCalled>NFT</soCalled> étant très récente, il existe
                     encore peu de protocoles d’acquisition spécifiques à ce format pour encadrer
                     leur intégration dans les collections des musées. Si le <orgName ref="#zkm">ZKM
                         (Centre des d’arts et de technologie des médias de Karlsruhe)</orgName> a
                     fait figure de pionnier en acquérant quelques <soCalled>NFT</soCalled> dès 2018,
                     c’est à partir de 2021 qu’on décèle une première série significative
-                    d’acquisitions muséales (<orgName>Whitney Museum</orgName>, <orgName>MAK Musée
-                        des arts appliqués de Vienne</orgName>, <orgName>LACMA</orgName>,
-                        <orgName>Institute of Contemporary Art Miami</orgName>, <orgName>San José
-                        Museum of Art</orgName>, <orgName>Francisco Carolinum</orgName>,
-                        <orgName>SFMoMA</orgName>, <orgName>Musée Granet</orgName>, <orgName>Centre
+                    d’acquisitions muséales (<orgName ref="#whitneyMuseum">Whitney Museum</orgName>,
+                        <orgName ref="#mak">MAK Musée des arts appliqués de Vienne</orgName>,
+                        <orgName ref="#lacma">LACMA</orgName>, <orgName ref="#icaMiami">Institute of
+                        Contemporary Art Miami</orgName>, <orgName ref="#sjma">San José Museum of
+                        Art</orgName>, <orgName ref="#franciscoCarolinum">Francisco
+                        Carolinum</orgName>, <orgName ref="#sfmoma">SFMoMA</orgName>, <orgName
+                        ref="#museeGranet">Musée Granet</orgName>, <orgName ref="#cnacgp">Centre
                         Pompidou</orgName>). Le passage, en 2022, de la chaîne de bloc <objectName
                         ref="#buterinVitalik001">Ethereum</objectName> vers un système moins
                     énergivore a supprimé un irritant pour le monde muséal. À l’instar des autres
                     types d’œuvres nativement numériques, l’intégration des <soCalled>NFT</soCalled>
                     dans les collections muséales appelle la mise en place de protocoles en
-                    prévention de leur obsolescence technologique <bibl
+                    prévention de leur obsolescence technologique<bibl
                         ref="https://www.zotero.org/groups/4971115/items/7TVWZD2M">Lacerte,
                         2007</bibl>. Les <soCalled>NFT</soCalled> posent en outre un enjeu
                     spécifique en termes de protocole administratif : l’achat des œuvres en
@@ -187,7 +200,7 @@
                     de perdre l’accès à deux <objectName ref="#larvaLabs001"
                         >Cryptopunks</objectName> (<orgName ref="#larvaLabs">LarvaLabs</orgName>),
                     des pièces iconiques du <foreign xml:lang="en">cryptoart</foreign> aujourd’hui
-                    hors de portée <bibl ref="https://www.zotero.org/groups/4971115/items/L3NAUAJF"
+                    hors de portée<bibl ref="https://www.zotero.org/groups/4971115/items/L3NAUAJF"
                         >Batycka, 2022</bibl>.</p>
             </div>
         </body>
@@ -224,7 +237,7 @@
                     </ref> . </p>
                 <p> Mairesse, François (2022). « NFT, Non Fungible Token ». Dans François Mairesse
                     (dir.), <hi rend="italic" style="font-size:12pt">Dictionnaire de muséologie</hi>
-                    (p. 462). Malakoff, Armand Colin. </p>
+                    (p. 462). Malakoff, Armand Colin. </p> <!-- je ne vois pas cette citation dans le texte -->
                 <p> McCormack, Jon, Oliver Bown, Alan Dorin, Jonathan Mccabe, Gordon Monro et
                     Mitchell Whitelaw (2014). Ten Questions Concerning Generative Computer Art. <hi
                         rend="italic" style="font-size:12pt">Leonardo,</hi> 47(2), 135-141. </p>
