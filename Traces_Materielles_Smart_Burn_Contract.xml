@@ -53,7 +53,7 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2025-05-26" type="v1">premiere version par #RC</change>
+            <change when="2025-06-26" type="v1">premiere version par #RC</change>
         </revisionDesc>
     </teiHeader>
     <text xml:lang="fr">
@@ -211,7 +211,7 @@
                     bas de la capture d’écran de <title xml:lang="en">Jonas Lund’s Smart Contract
                         #21</title> (2020) renvoie quant à lui au site Web des NFT <title
                         xml:lang="en">Smart Burn Contracts</title>. Les termes de cette œuvre de
-                    2020 sont, en 2022, empruntés au premier <title xml:lang="en">Smart Burn
+                    2020 sont, en 2022, empruntés au premier <title xml:lang="en" ref="#lund003">Smart Burn
                         Contract – Philanthropist</title>.</p>
                 <p>Les artistes qui expérimentent à l’aide des technologies réseautées, apparaissent
                     cependant avoir trouvé des solutions innovantes afin de traduire un héritage
@@ -225,7 +225,7 @@
                     nulle. En 2024, <persName>Jonas Lund</persName> détourna de la circulation de
                     deux de ses <title xml:lang="en">Smart Burn Contract</title> lorsque les
                     collectionneurs ont échoué à remplir leurs obligations contractuelles : <title
-                        xml:lang="en">#18 – Bookworm</title> (2022) et <title xml:lang="en">#10 –
+                        xml:lang="en" ref="#lund005">#18 – Bookworm</title> (2022) et <title xml:lang="en" ref="#lund006">#10 –
                         Speculator</title> (2022) existent donc désormais en tant qu’archive, mais
                     ne peuvent plus être la propriété de personne<ref
                         target="#Traces_Materielles_Smart_Burn_ContractN07"/>.</p>
@@ -253,7 +253,7 @@
                         l'autrice)" - réponse de Blais : "Oui"-->
                 <p>Ces données liées aux transactions sont visibles si l’on effectue une recherche à
                     l’aide d’un API en indiquant le numéro de jeton. L’artiste et sa communauté
-                    commentent régulièrement sur les réseaux sociaux, tels <orgName>Discord.</orgName></p>
+                    commentent régulièrement sur les réseaux sociaux, tels <orgName ref="#discord">Discord.</orgName></p>
                 <p>On comprendra donc que le paramétrage, grâce aux protocoles sur la <foreign xml:lang="en">blockchain</foreign>, a
                     une valeur émancipatrice importante : si d’un point de vue marchand,
                     l’architecture technique de la <foreign xml:lang="en">blockchain</foreign> facilite l’accessibilité à
@@ -277,8 +277,8 @@
                     <note xml:id="Traces_Materielles_Smart_Burn_ContractN01" n="1">
                         <p>Dans le monde de l’art, les normes de la construction des valeurs
                             demeurent assez près d’une réinterprétation de ce que l’économiste
-                                <persName>Thorstein Veblen</persName> propose en 1899 comme le
-                            <!-- quelles ballise ici #RC-->Smart Burn <q>trickle down effect</q>
+                            <persName ref="#veblenThorstein">Thorstein Veblen</persName> propose en 1899 comme le
+                            Smart Burn <q xml:lang="en">trickle down effect</q>
                             selon lequel le goût se propage des experts, au sommet de la pyramide
                             sociale, vers le grand public. Cet effet de la reconnaissance critique
                             sur le succès populaire demeure, avec certaines variations, chez
