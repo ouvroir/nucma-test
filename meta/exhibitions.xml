@@ -151,7 +151,8 @@
                <eventName>Les arts du Tout-Monde</eventName>
                <place>
                   <orgName ref="mbam">Musée des beaux-arts de Montréal</orgName>
-                  <placeName>Montréal (Québec)</placeName>
+                  <placeName>Montréal</placeName>
+                  <region>Québec (Province)</region>
                   <country>Canada</country>
                </place>
                <date from="2019-11">Depuis le 9 Novembre 2019</date>
@@ -172,7 +173,8 @@
                <eventName>Collection Lavalin</eventName>
                <place>
                   <orgName ref="#macm">Musée d'art contemporain de Montréal</orgName>
-                  <placeName>Montréal (Québec)</placeName>
+                  <placeName>Montréal</placeName>
+                  <region>Québec (Province)</region>
                   <country>Canada</country>
                </place>
                <date>1992</date>
@@ -240,6 +242,17 @@
                <idno><!-- pas trouvé, voir liens ci-dessous--></idno>
                <!-- https://www.centrepompidou.fr/fr/programme/agenda/evenement/FJTaAmT -->
                <!-- https://francefineart.com/2023/04/06/3419_nft_centre-pompidou/ -->
+            </event>
+            <event xml:id="mbam002">
+               <eventName>Deux par deux rassemblés : ajouts récents à la collection du MBAM</eventName>
+               <place>
+                  <orgName ref="#mbam">Musée des beaux-arts de Montréal</orgName>
+                  <placeName>Montréal</placeName>
+                  <region>Québec (Province)</region>
+                  <country>Canada</country>
+               </place>
+               <date from="2024-09" to="2025-10">du 11 septembre 2024 au 5 octobre 2025</date>
+               <idno type="URI">https://www.mbam.qc.ca/fr/expositions/deux-par-deux-rassembles/</idno>
             </event>
          </listEvent>
       </body>
