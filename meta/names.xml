@@ -433,6 +433,35 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q73646</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n79055669</idno>
             </person>
+            <person xml:id="camilleMorineau">
+               <persName>Morineau, Camille (1967-....)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb122264462</idno>
+               <idno type="isni">https://isni.org/isni/0000000116312437</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q47191720</idno>
+            </person>
+            <person xml:id="bernadetteDufrene">
+               <persName>Saou-Dufrêne, Bernadette Nadia (19...)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb13568803v</idno>
+               <idno type="isni">https://isni.org/isni/0000000379040621</idno>
+            </person>
+            <person xml:id="nathalieErnoult">
+               <persName>Ernoult, Nathalie (19...)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15588962b</idno>
+               <idno type="isni">https://isni.org/isni/0000000001891475</idno>
+            </person>
+            <person xml:id="catherineGonnard">
+               <persName>Gonnard, Catherine (1958-....)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15569162z</idno>
+               <idno type="isni">https://isni.org/isni/0000000046175819</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q2941935</idno>
+            </person>
+            <person xml:id="mauraReilly">
+               <persName>Reilly, Maura (19...)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15550172w</idno>
+               <idno type="isni">https://isni.org/isni/0000000116065667</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q28933620</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n2007003234</idno>
+            </person>
          </listPerson>
 
          <listOrg>
