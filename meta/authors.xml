@@ -198,6 +198,7 @@
                </persName>
                <note xml:lang="fr"/>
                <affiliation>Université du Québec à Montréal</affiliation>
+               <idno type="ORCID">https://orcid.org/0009-0008-1924-5143</idno>
             </person>
             <person xml:id="bouralyLisa">
                <persName>
@@ -206,6 +207,7 @@
                </persName>
                <note xml:lang="fr"/>
                <affiliation>Université du Québec à Montréal, Université Paris 8</affiliation>
+               <idno type="isni">https://isni.org/isni/0000000483281505</idno>
             </person>
             <person xml:id="FraserMarie">
                <persName>
@@ -214,6 +216,7 @@
                </persName>
                <note xml:lang="fr"/>
                <affiliation>Université du Québec à Montréal</affiliation>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q99877534</idno>
             </person>
             <person xml:id="CasemajorNathalie">
                <persName>
