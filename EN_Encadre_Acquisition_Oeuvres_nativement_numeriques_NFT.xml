@@ -3,15 +3,14 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title type="main">Acquisition of Natively Digital Works: The Case of
-                        <soCalled>NFT</soCalled>s</title>
-                <title type="sub"><soCalled>NFT</soCalled></title>
+                <title type="main">Acquisition of Natively Digital Works: The Case of NFTs</title>
+                <title type="sub">NFT</title>
                 <author ref="#CasemajorNathalie">
                     <persName>
                         <forename>Nathalie</forename>
                         <surname>Casemajor</surname>
                     </persName>
-                    <idno/>
+                    <idno type="orcid">https://orcid.org/0000-0001-7901-4859</idno>
                 </author>
                 <author ref="#HerrmannSophie"><persName>
                         <forename>Sophie</forename>

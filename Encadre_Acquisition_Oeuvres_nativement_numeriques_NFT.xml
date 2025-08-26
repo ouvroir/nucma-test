@@ -11,7 +11,7 @@
                         <forename>Nathalie</forename>
                         <surname>Casemajor</surname>
                     </persName>
-                    <idno/>
+                    <idno type="orcid">https://orcid.org/0000-0001-7901-4859</idno>
                 </author>
                 <author ref="#HerrmannSophie"><persName>
                         <forename>Sophie</forename>
