@@ -856,6 +856,10 @@
                <orgName>Discord</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q22907849</idno>
             </org>
+            <org xml:id="aksioma">
+               <orgName xml:lang="en">Aksioma - Institute for Contemporary Art, Ljubljana</orgName>
+               <!-- pas d'idno, adresse de leur site web : https://aksioma.org/project-space -->
+            </org>
          </listOrg>
       </body>
    </text>

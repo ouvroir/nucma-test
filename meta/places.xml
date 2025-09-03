@@ -233,11 +233,21 @@
                <idno type="loc">http://id.loc.gov/authorities/names/n78095634</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119430472</idno>
             </place>
+            <place xml:id="ljubljana">
+               <placeName xml:lang="fr">Ljubljana (Slovénie)</placeName>
+               <placeName xml:lang="en">Ljubljana (Slovenia)</placeName>
+               <country>Slovénie</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q437</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n50052801</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb122718867</idno>
+            </place>
          </listPlace>
          <!-- Julie -->
          <listPlace>
-            <place xml:id="essen">
-               <placeName>Essen</placeName>
+            <place xml:id="essen-Allemagne">
+               <placeName xml:lang="fr">Essen (Allemagne)</placeName>
+               <placeName xml:lang="en">Essen (Germany)</placeName>
+               <country>Allemagne</country>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q2066</idno>
                <idno type="loc">https://id.loc.gov/authorities/names/n80089415.html</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119636772</idno>
@@ -285,11 +295,10 @@
                <idno type="loc">http://id.loc.gov/vocabulary/geographicAreas/a-si</idno>
                <idno type="isni">https://isni.org/isni/0000000121851814</idno>
             </place>
-            <place xml:id="mexico">
+            <place xml:id="mexico-Mexique">
                <placeName xml:lang="fr">Mexico (Mexique)</placeName>
                <placeName xml:lang="en">Mexico City</placeName>
                <country>Mexique</country>
-               <region/>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q1489</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119335179</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n79093328</idno>
@@ -304,7 +313,7 @@
                <idno type="loc">http://id.loc.gov/authorities/names/n79005665</idno>
                <idno type="isni">https://isni.org/isni/0000000404278528</idno>
             </place>
-            <place xml:id="milan">
+            <place xml:id="milan-Italie">
                <placeName xml:lang="fr">Milan (Italie)</placeName>
                <placeName xml:lang="en">Milan (Italia)</placeName>
                <country>Italie</country>
