@@ -683,6 +683,15 @@
                <!-- même appellation en français -->
                <idno type="wikidata">https://www.wikidata.org/wiki/Q160236</idno>
             </org>
+            <org xml:id="moma"><!-- ne pas confondre avec le sfmoma -->
+               <orgName xml:lang="en">Museum of Modern Art (New-York)</orgName>
+               <!-- Même appellation en français, aussi MoMa -->
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q188740</idno>
+            </org>
+            <org xml:id="maj">
+               <orgName xml:lang="fr">Musée d'art de Joliette</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3329595</idno>
+            </org>
             <org xml:id="louvre">
                <orgName xml:lang="fr">Musée du Louvre</orgName>
                <!-- ou juste Louvre -->
