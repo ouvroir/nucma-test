@@ -254,6 +254,16 @@
                <date from="2024-09" to="2025-10">du 11 septembre 2024 au 5 octobre 2025</date>
                <idno type="URI">https://www.mbam.qc.ca/fr/expositions/deux-par-deux-rassembles/</idno>
             </event>
+            <event xml:id="moma001">
+               <eventName>Recent Acquisitions : Painting and Sculpture</eventName>
+               <place>
+                  <orgName ref="#moma">Museum of Modern Art</orgName>
+                  <placeName>New-York</placeName>
+                  <country>États-Unis</country>
+               </place>
+               <date from="1965-02" to="1965-04">du 16 février au 25 avril 1965</date>
+               <idno type="URI">https://www.moma.org/calendar/exhibitions/2890</idno>
+            </event>
          </listEvent>
       </body>
    </text>
