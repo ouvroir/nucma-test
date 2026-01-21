@@ -299,6 +299,11 @@
 
          <listObject>
             <!-- Liste de Rosa -->
+            <object xml:id="unknown001"><!-- artefact historique cité dans article coacquisition-->
+               <objectName xml:lang="en">Liturgical Comb Fragment</objectName>
+               <author><!-- unknown #RC, s'agit d'un artefact historique de la collection du MET--></author>
+               <idno type="uri">https://www.metmuseum.org/art/collection/search/471985</idno>
+            </object>
             <object xml:id="warhol001">
                <objectName>Reigning Queens: Queen Elizabeth II of the United Kingdom</objectName>
                <!-- titre donné sur le site artefact canada -->
