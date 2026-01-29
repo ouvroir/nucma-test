@@ -84,7 +84,8 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/</idno>
             </event>
             <event xml:id="mbac001">
-               <eventName>Surgir de l’ombre</eventName>
+               <eventName xml:lang="fr">Surgir de l’ombre</eventName>
+               <eventName xml:lang="en">Shine a Light</eventName>
                <place>
                   <orgName ref="#mbac">Musée des beaux-arts du Canada</orgName>
                   <placeName>Ottawa(Ontario)</placeName>
@@ -96,7 +97,8 @@
                   >https://www.beaux-arts.ca/a-laffiche/expositions-et-salles/surgir-de-lombre-la-biennale-canadienne-2014</idno>
             </event>
             <event xml:id="mbac002">
-               <eventName>Les bâtisseurs</eventName>
+               <eventName xml:lang="fr">Les bâtisseurs</eventName>
+               <eventName xml:lang="en">Builders</eventName>
                <place>
                   <orgName ref="#mbac">Musée des beaux-arts du Canada</orgName>
                   <placeName>Ottawa(Ontario)</placeName>

@@ -208,8 +208,9 @@
                <note xml:lang="fr"/>
                <affiliation>Université du Québec à Montréal, Université Paris 8</affiliation>
                <idno type="isni">https://isni.org/isni/0000000483281505</idno>
+               <idno type="ORCID">https://orcid.org/0009-0007-7747-0077</idno>
             </person>
-            <person xml:id="FraserMarie">
+            <person xml:id="fraserMarie">
                <persName>
                   <forename>Marie</forename>
                   <surname>Fraser</surname>
@@ -217,6 +218,7 @@
                <note xml:lang="fr"/>
                <affiliation>Université du Québec à Montréal</affiliation>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q99877534</idno>
+               <idno type="ORCID">https://orcid.org/0000-0002-5509-6025</idno>
             </person>
             <person xml:id="CasemajorNathalie">
                <persName>

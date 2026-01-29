@@ -241,6 +241,13 @@
                <idno type="loc">http://id.loc.gov/authorities/names/n50052801</idno>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb122718867</idno>
             </place>
+            <place xml:id="cologne">
+               <placeName xml:lang="fr">Cologne (Allemagne)</placeName>
+               <placeName xml:lang="en">Cologne (Germany)</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q365</idno>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11931745m</idno>
+               <idno type="loc">http://id.loc.gov/authorities/names/n80050882</idno>
+            </place>
          </listPlace>
          <!-- Julie -->
          <listPlace>
