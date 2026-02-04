@@ -266,121 +266,178 @@
                     galleries <bibl>Les Cahiers, 2018</bibl>. The Museum simultaneously exposes
                     itself to scrutiny through its acquisition choices over time.</p>
                 <p>Several temporary projects dedicated to the history of collections have been
-                    designed from an acquisition-focused perspective: the two exhibitions <title ref="#mkeo001">Silence</title>
-                    and <title ref="#mkeo002">Revision</title> at the <orgName ref="#mkeo">Karl Ernst Osthaus Museum</orgName> in <placeName ref="#essen-Allemagne">Essen</placeName> in 1988 <!-- à vérifier : le Musée Karl-Ernst-Osthaus est situé à Hogan, le Musée Folkwang fondé par Osthaus est à Essen #RC --> , as well as the
-                    L’Inventaire cycle at the FRAC Normandie-Rouen from 2011 to 2019. These atypical
-                    examples present collections according to the dates of acquisition. Removed one
-                    by one from storage, the works are displayed not according to historical
-                    chronology (by movement and style), but according to their acquisition date, as
-                    indicated by their inventory number (Dulguerova in Fraser and Jim, 2018). In
-                    this way, the moment of acquisition becomes the guiding principle for the entire
+                    designed from an acquisition-focused perspective: the two exhibitions <title
+                        ref="#mkeo001">Silence</title> and <title ref="#mkeo002">Revision</title> at
+                    the <orgName ref="#mkeo">Karl Ernst Osthaus Museum</orgName> in <placeName
+                        ref="#essen-Allemagne">Essen</placeName> in 1988
+                    <!-- à vérifier : le Musée Karl-Ernst-Osthaus est situé à Hogan, le Musée Folkwang fondé par Osthaus est à Essen
+                    s'il y a une erreur dans le texte, il faudra corriger les ref vers exhibitions.xml et names.xml #RC-->,
+                    as well as the <title xml:lang="fr" ref="#fracNormandieRouen001"
+                        >L’Inventaire</title> cycle at the <orgName ref="#fracNormandieRouen">FRAC
+                        Normandie-Rouen</orgName> from 2011 to 2019. These atypical examples present
+                    collections according to the dates of acquisition. Removed one by one from
+                    storage, the works are displayed not according to historical chronology (by
+                    movement and style), but according to their acquisition date, as indicated by
+                    their inventory number <bibl>Dulguerova in Fraser and Jim, 2018</bibl>. In this
+                    way, the moment of acquisition becomes the guiding principle for the entire
                     collection’s display.</p>
-                <p><hi style="font-size:12pt" xml:space="preserve">More recently, curatorial approaches have sought to push the reflexivity of acquisition even further by proposing transformations of the narrative structure of collection exhibitions, interrogating the museum’s social and historical stance. The principles of novelty and enrichment take on a different significance, as museums acquire works with the aim of questioning their past, their own history, or even the Western orientation of their </hi><anchor
-                        type="commentRangeStart" n="3"/><hi style="font-size:12pt"
-                        >collections</hi><anchor type="commentRangeEnd" n="3"/><note place="comment"
-                        resp="#myriam_merette" n="3"><date when="2025-12-08T19:00:02Z"/><hi
-                            rend="normalweight baseline" style="font-size:11pt">Note aux
-                            encodeuses:Please add a link to the entry “Societal Motivations for
-                            Acquisition”</hi></note><hi style="font-size:12pt">. The display of
-                        acquisitions is now framed as an ethical exercise, encouraging museums to
-                        adopt more transparent practices.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">With the intention of revitalising displays of historical or ethnographic collections, some museums have taken the initiative to acquire contemporary works to be exhibited alongside older pieces. This type of juxtaposition, which suggests anachronistic and geocultural tensions, aims to refresh the presentation of historical or ethnographic collections and to legitimize their presence within institutions marked by a colonial legacy. This is the case with the Department of Historical Islamic Art at the Los Angeles County Museum, which has been acquiring contemporary works from the Maghreb and the Middle East since 2006, and the British Museum, which selects contemporary works on paper by artists from these regions based on formal characteristics shared with the objects in its material culture collection. The Montréal Museum of Fine Arts presents a similar initiative with </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">Les arts du Tout-Monde </hi><hi style="font-size:12pt" xml:space="preserve">(translated as </hi><hi
-                        rend="italic" style="font-size:12pt">Arts of One
-                        World</hi><hi style="font-size:12pt" xml:space="preserve">), a concept introduced by the Martinican poet and philosopher Édouard Glissant. More than fifty contemporary works were specially acquired to be displayed in dialogue with ethnographic </hi><anchor
-                        type="commentRangeStart" n="4"/><hi style="font-size:12pt"
-                        >collections</hi><anchor type="commentRangeEnd" n="4"/><note place="comment"
-                        resp="#myriam_merette" n="4"><date when="2025-12-08T19:01:37Z"/><hi
-                            rend="normalweight baseline" style="font-size:11pt">Note aux
-                            encodeuses:Please add a link to the entry “Thematic Display and New
-                            Directions in Acquisitions”</hi></note><hi style="font-size:12pt">. By
-                        placing material culture objects and contemporary art on an equal footing,
-                        this reorganisation seeks to revisit the history of the Museum’s
-                        ethnographic collection and offer a different, updated reading. By combining
-                        historical collections with contemporary acquisitions, these anachronistic
-                        displays reveal both affinities and tensions between historical and
-                        contemporary values, tradition and modernity, Western and non-Western
-                        perspectives. Many museums that employ such anachronistic strategies were
-                        not originally intended to acquire, and even less to exhibit, contemporary
-                        art. Acquiring with the aim of rethinking the display of certain aspects of
-                        encyclopaedic collections and their universalist foundation positions the
-                        museum as an active participant in current political debates concerning the
-                        presence of ethnographic objects in Western collections.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">This dialectic between acquisition and exhibition occurs in a context of not only renewal but also revision of collections. Whereas acquisitions long served to fill gaps in the chronological and canonical representation of art history—constructed around a succession of movements and the celebration of a few masterpieces—they now take on a radically different significance. Enriching the collection can signal a desire to give it a new </hi><anchor
-                        type="commentRangeStart" n="5"/><hi style="font-size:12pt"
-                        >meaning</hi><anchor type="commentRangeEnd" n="5"/><note place="comment"
-                        resp="#myriam_merette" n="5"><date when="2025-12-08T19:02:42Z"/><hi
-                            rend="normalweight baseline" style="font-size:11pt">Note aux
-                            encodeuses: Please add a link to the entry “Societal Motivations for
-                            Acquisition”</hi></note><hi style="font-size:12pt" xml:space="preserve">. Revisions of acquisition and collection management policies increasingly aim to achieve equity, diversity, and inclusion. While the desire to reorient acquisitions responds to both internal and external political pressures faced by museums, it simultaneously triggers changes in narrative paradigms and encourages thematic displays. In this way, an almost natural relationship seems to emerge between acquisition and exhibition. Critical stances are increasingly present within museums, particularly among curatorial teams, who seek to highlight the inadequacy of collections for revisiting history: that is, on the one hand, to take a critical look at the past, and on the other, to tell alternative stories (Esner and Konijn, 2017). The aim is less to conceal the gaps in a collection than to display them as part of the construction and history of the collection itself. The case of </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">elles@centrepompidou </hi><hi style="font-size:12pt" xml:space="preserve">in 2009 is exemplary in this regard. To mount the first exhibition devoted exclusively to women artists, the Musée National d’Art Moderne had to undertake massive acquisitions in the five years preceding the exhibition’s opening. According to various sources, the new acquisitions accounted for between 30% and 40% of the works on display (Dufrêne, 2014; Ernoult and Gonnard, 2009; Reilly, </hi><anchor
-                        type="commentRangeStart" n="6"/><hi style="font-size:12pt">2018</hi><anchor
-                        type="commentRangeEnd" n="6"/><note place="comment" resp="#myriam_merette"
-                        n="6"><date when="2025-12-08T19:03:45Z"/><hi rend="normalweight baseline"
-                            style="font-size:11pt">Note aux encodeuses:Please add a link to the box
-                            “Thematic Display and New Directions in Acquisitions”</hi></note><hi
-                        style="font-size:12pt">). The curatorial team did not seek to hide this
-                        historical bias inherent in one of the most important modern and
-                        contemporary art collections. On the contrary, remarks such as “recently
-                        acquired” or “acquisition in progress” on a large number of labels
-                        highlighted the extensive catch-up work and indicated throughout the
-                        exhibition how its curatorial design had guided acquisitions. The label does
-                        not merely indicate when a work arrived at the museum; here, it serves as a
-                        marker of new approaches to acquisitions that directly influence the
-                        direction of the collections.</hi></p>
-                <p><hi style="font-size:12pt">This shift in perspective is particularly surprising
-                        in the treatment of large-scale acquisitions, where the sheer number of
-                        works is no longer necessarily seen as a burden, but rather as a driver of
-                        transformation. Mass acquisitions have been central to the development of
-                        museums throughout Western history and continue to be a common way of
-                        enhancing collections. Museums are often made up of collections of
-                        collections (Pomian, 2009).</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">While the number of objects that constitutes a large-scale acquisition is not defined and there is no model to follow in this area (Cheff, 1995), the inclusion of a large number of items, sometimes several hundred, very often indicates an emergency situation. Institutions must manage their intake within tight timeframes, spatial constraints in storage, and requirements for display and visibility. Mostly taking the form of pre-existing collections, sometimes even of entire museums that cannot be divided, large-scale acquisitions remain closely tied to their donating entity (Lacroix, 1995). The inscription of the gift goes far beyond a mere mention on the object labels. The new corpus is usually showcased in major exhibitions dedicated to the acquisition or donation, as with the Lavalin Collection at the Musée d’art Contemporain de Montréal in 1992 and the Brigitte and Henning Freybe Collection at the Vancouver Art Gallery in 2025. By contrast, the </hi><hi
-                        rend="italic" style="font-size:12pt">Guggenheim UBS MAP Global Art
-                        Initiative</hi><hi style="font-size:12pt" xml:space="preserve"> (</hi><ref
-                        target="https://www.guggenheim.org/map"><hi
-                            rend="italic underline color(1155cc)"
-                            style="font-family:Helvetica Neue;font-size:12pt">MAP</hi></ref><hi
-                        style="font-size:12pt">), launched in 2012, challenged some common features
-                        of large-scale donations, notably through a process of consultation and
-                        evaluation of contemporary art acquisitions for integration into the
-                        Guggenheim Museum’s collection over a longer timeframe. Moreover, the
-                        acquisition and development process inherent to MAP did not, of course, call
-                        into question the overt relationship between the Museum and its funder, as
-                        reflected in the programme’s full title and its link to a Swiss
-                    bank.</hi></p>
-                <p><hi style="font-size:12pt">Organised jointly by the Solomon R. Guggenheim Museum
-                        in New York and UBS—a major global wealth management firm known for its
-                        involvement in major art fairs, including Art Basel—this initiative spanned
-                        six years until 2018. It offered a broad programme of activities, including
-                        three exhibitions based on acquisitions, with the aim at shedding light on
-                        three geographic regions underrepresented in Western museums: 1) South and
-                        Southeast Asia, 2) Latin America, and 3) the Middle East and North Africa.
-                        Drawing on nearly 40 million US dollars, the Guggenheim UBS MAP Purchase
-                        Fund enabled the acquisition of 126 contemporary artworks for the New York
-                        museum, helping to address certain gaps in its non-Western
-                    collection.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Before launching </hi><hi
-                        rend="italic" style="font-size:12pt">MAP</hi><hi style="font-size:12pt">, a
-                        consultation group was established, bringing together intellectuals and
-                        specialists from around the world to guide its collection development. This
-                        initiative activated a vast global network attuned to postcolonial and
-                        decolonial concerns, combining their perspectives and expertise with those
-                        of the Guggenheim team to generate a recent, globalised, visionary, more
-                        ethical, and exportable art collection.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Beyond enrichment aimed at diversifying the Guggenheim Museum’s collection to make it more international, </hi><hi
-                        rend="italic" style="font-size:12pt"
-                        >MAP</hi><hi style="font-size:12pt" xml:space="preserve"> also involved complex geo-aesthetic considerations (Barriendos, 2009), notably those arising from the circulation of exhibitions. In total, MAP generated eight exhibitions presented across six major cities: Hong Kong, London, Mexico City, Milan, New York, and Singapore. As vehicles of Western soft power, these exhibitions of new acquisitions contributed to validating artists representative of the targeted regions and to introducing them beyond their national and regional boundaries. The main areas of activity covered by </hi><hi
-                        rend="italic" style="font-size:12pt"
-                    >MAP</hi><hi style="font-size:12pt" xml:space="preserve"> were assessed by the Guggenheim Museum.</hi></p>
-                <p><hi style="font-size:12pt">Acquisition is no longer perceived merely as an
-                        addition to an existing ensemble to enhance its coherence but as a resource
-                        to diversify the collection and reposition the museum. This discussion of
-                        the display of acquisitions, from the perspective of new uses, challenges
-                        the traditional view of permanent collections as a fixed and immutable
-                        model. Instead, it highlights the flow of the collection generated by
-                        acquisitions, from arrival to display and, eventually, circulation.</hi></p>
-                <div>
-                    <head><anchor xml:id="heading=h.30j0zll"/><hi rend="bold" style="font-size:12pt"
-                            >Bibliographie</hi></head>
+                <p>More recently, curatorial approaches have sought to push the reflexivity of
+                    acquisition even further by proposing transformations of the narrative structure
+                    of collection exhibitions, interrogating the museum’s social and historical
+                    stance. The principles of novelty and enrichment take on a different
+                    significance, as museums acquire works with the aim of questioning their past,
+                    their own history, or even the Western orientation of their collections
+                    <!-- @todo : add a link to the entry “Societal Motivations for
+                            Acquisition” -->. The display of acquisitions is now
+                    framed as an ethical exercise, encouraging museums to adopt more transparent
+                    practices.</p>
+                <p>With the intention of revitalising displays of historical or ethnographic
+                    collections, some museums have taken the initiative to acquire contemporary
+                    works to be exhibited alongside older pieces. This type of juxtaposition, which
+                    suggests anachronistic and geocultural tensions, aims to refresh the
+                    presentation of historical or ethnographic collections and to legitimize their
+                    presence within institutions marked by a colonial legacy. This is the case with
+                    the <title>Department of Historical Islamic Art</title> at the <orgName
+                        ref="#lacma">Los Angeles County Museum</orgName>, which has been acquiring
+                    contemporary works from the <placeName ref="#maghreb">Maghreb</placeName> and
+                    the <placeName ref="#maghreb">Middle East</placeName> since 2006, and the
+                        <orgName ref="#bm">British Museum</orgName>, which selects contemporary
+                    works on paper by artists from these regions based on formal characteristics
+                    shared with the objects in its material culture collection. The <orgName
+                        ref="#mbam">Montréal Museum of Fine Arts</orgName> presents a similar
+                    initiative with <title xml:lang="fr">Les arts du Tout-Monde</title> (translated
+                    as <title>Arts of One World</title>), a concept introduced by the Martinican
+                    poet and philosopher <persName ref="#glissantEdouart">Édouard
+                        Glissant</persName>. More than fifty contemporary works were specially
+                    acquired to be displayed in dialogue with ethnographic collections
+                    <!-- @todo : add a link to the
+                            entry “Thematic Display and New Directions in
+                        Acquisitions”-->. By placing material culture objects
+                    and contemporary art on an equal footing, this reorganisation seeks to revisit
+                    the history of the Museum’s ethnographic collection and offer a different,
+                    updated reading. By combining historical collections with contemporary
+                    acquisitions, these anachronistic displays reveal both affinities and tensions
+                    between historical and contemporary values, tradition and modernity, Western and
+                    non-Western perspectives. Many museums that employ such anachronistic strategies
+                    were not originally intended to acquire, and even less to exhibit, contemporary
+                    art. Acquiring with the aim of rethinking the display of certain aspects of
+                    encyclopaedic collections and their universalist foundation positions the museum
+                    as an active participant in current political debates concerning the presence of
+                    ethnographic objects in Western collections.</p>
+                <p>This dialectic between acquisition and exhibition occurs in a context of not only
+                    renewal but also revision of collections. Whereas acquisitions long served to
+                    fill gaps in the chronological and canonical representation of art
+                    history—constructed around a succession of movements and the celebration of a
+                    few masterpieces—they now take on a radically different significance. Enriching
+                    the collection can signal a desire to give it a new meaning
+                    <!-- @todo : add a link to the entry “Societal Motivations for Acquisition”-->.
+                    Revisions of acquisition and collection management policies increasingly aim to
+                    achieve equity, diversity, and inclusion. While the desire to reorient
+                    acquisitions responds to both internal and external political pressures faced by
+                    museums, it simultaneously triggers changes in narrative paradigms and
+                    encourages thematic displays. In this way, an almost natural relationship seems
+                    to emerge between acquisition and exhibition. Critical stances are increasingly
+                    present within museums, particularly among curatorial teams, who seek to
+                    highlight the inadequacy of collections for revisiting history: that is, on the
+                    one hand, to take a critical look at the past, and on the other, to tell
+                    alternative stories <bibl>Esner and Konijn, 2017</bibl>. The aim is less to
+                    conceal the gaps in a collection than to display them as part of the
+                    construction and history of the collection itself. The case of <title
+                        ref="#mnam002">elles@centrepompidou</title> in 2009 is exemplary in this
+                    regard. To mount the first exhibition devoted exclusively to women artists, the
+                        <orgName xml:lang="fr" ref="#mnam">Musée National d’Art Moderne</orgName>
+                    had to undertake massive acquisitions in the five years preceding the
+                    exhibition’s opening. According to various sources, the new acquisitions
+                    accounted for between 30% and 40% of the works on display <bibl>Dufrêne,
+                        2014</bibl>; <bibl>Ernoult and Gonnard, 2009</bibl>; <bibl>Reilly,
+                        2018</bibl>
+                    <!-- @todo : add a link to the box “Thematic Display and New Directions
+                    in Acquisitions”-->. The curatorial team did not seek to
+                    hide this historical bias inherent in one of the most important modern and
+                    contemporary art collections. On the contrary, remarks such as <q>recently
+                        acquired</q> or <q>acquisition in progress</q> on a large number of labels
+                    highlighted the extensive catch-up work and indicated throughout the exhibition
+                    how its curatorial design had guided acquisitions. The label does not merely
+                    indicate when a work arrived at the museum; here, it serves as a marker of new
+                    approaches to acquisitions that directly influence the direction of the
+                    collections.</p>
+                <p>This shift in perspective is particularly surprising in the treatment of
+                    large-scale acquisitions, where the sheer number of works is no longer
+                    necessarily seen as a burden, but rather as a driver of transformation. Mass
+                    acquisitions have been central to the development of museums throughout Western
+                    history and continue to be a common way of enhancing collections. Museums are
+                    often made up of collections of collections <bibl>Pomian, 2009</bibl>.</p>
+                <p>While the number of objects that constitutes a large-scale acquisition is not
+                    defined and there is no model to follow in this area <bibl>Cheff, 1995</bibl>,
+                    the inclusion of a large number of items, sometimes several hundred, very often
+                    indicates an emergency situation. Institutions must manage their intake within
+                    tight timeframes, spatial constraints in storage, and requirements for display
+                    and visibility. Mostly taking the form of pre-existing collections, sometimes
+                    even of entire museums that cannot be divided, large-scale acquisitions remain
+                    closely tied to their donating entity <bibl>Lacroix, 1995</bibl>. The
+                    inscription of the gift goes far beyond a mere mention on the object labels. The
+                    new corpus is usually showcased in major exhibitions dedicated to the
+                    acquisition or donation, as with the <title>Lavalin Collection</title> at the
+                        <orgName ref="#macm">Musée d’art Contemporain de Montréal</orgName> in 1992
+                    and the <title>Brigitte and Henning Freybe Collection</title> at the <orgName
+                        ref="#vag">Vancouver Art Gallery</orgName> in 2025. By contrast, the
+                        <orgName ref="#guggenheimUBSMAPGlobalArtInitiative">Guggenheim UBS MAP
+                        Global Art Initiative (<ref target="https://www.guggenheim.org/map"
+                            >MAP</ref>)</orgName>, launched in 2012, challenged some common features
+                    of large-scale donations, notably through a process of consultation and
+                    evaluation of contemporary art acquisitions for integration into the <orgName
+                        ref="#guggenheimMuseum">Guggenheim Museum</orgName>’s collection over a
+                    longer timeframe. Moreover, the acquisition and development process inherent to
+                        <orgName>MAP</orgName> did not, of course, call into question the overt
+                    relationship between the Museum and its funder, as reflected in the programme’s
+                    full title and its link to a Swiss bank.</p>
+                <p>Organised jointly by the <orgName>Solomon R. Guggenheim Museum</orgName> in
+                        <placeName ref="#nyc">New York</placeName> and <orgName ref="ubs"
+                        >UBS</orgName> — a major global wealth management firm known for its
+                    involvement in major art fairs, including <orgName ref="#artBasel">Art
+                        Basel</orgName> — this initiative spanned six years until 2018. It offered a
+                    broad programme of activities, including three exhibitions based on
+                    acquisitions, with the aim at shedding light on three geographic regions
+                    underrepresented in Western museums: 1) <placeName ref="#asieDuSud"
+                        >South</placeName> and <placeName ref="#asieDuSudEst">Southeast
+                        Asia</placeName>, 2) <placeName ref="#ameriqueLatine">Latin
+                        America</placeName>, and 3) the <placeName>Middle East</placeName> and
+                        <placeName ref="#afriqueDuNord">North Africa</placeName>
+                    <!-- balise pour énumération ? #RC-->. Drawing on nearly 40 million US dollars,
+                    the <title>Guggenheim UBS MAP Purchase Fund</title> enabled the acquisition of
+                    126 contemporary artworks for the <placeName>New York</placeName> museum,
+                    helping to address certain gaps in its non-Western collection.</p>
+                <p>Before launching <orgName>MAP</orgName>, a consultation group was established,
+                    bringing together intellectuals and specialists from around the world to guide
+                    its collection development. This initiative activated a vast global network
+                    attuned to postcolonial and decolonial concerns, combining their perspectives
+                    and expertise with those of the <orgName>Guggenheim</orgName> team to generate a
+                    recent, globalised, visionary, more ethical, and exportable art collection.</p>
+                <p>Beyond enrichment aimed at diversifying the <orgName>Guggenheim
+                    Museum</orgName>’s collection to make it more international,
+                        <orgName>MAP</orgName> also involved complex geo-aesthetic considerations
+                        <bibl>Barriendos, 2009</bibl>, notably those arising from the circulation of
+                    exhibitions. In total, <orgName>MAP</orgName> generated eight exhibitions
+                    presented across six major cities: <placeName ref="#hk">Hong Kong</placeName>,
+                        <placeName ref="#londonUk">London</placeName>, <placeName
+                        ref="#mexico-Mexique">Mexico City</placeName>, <placeName
+                        ref="#milan-Italie">Milan</placeName>, <placeName>New York</placeName>, and
+                        <placeName ref="#sgp">Singapore</placeName>. As vehicles of Western soft
+                    power, these exhibitions of new acquisitions contributed to validating artists
+                    representative of the targeted regions and to introducing them beyond their
+                    national and regional boundaries. The main areas of activity covered by
+                        <orgName>MAP</orgName> were assessed by the <orgName>Guggenheim
+                        Museum</orgName>.</p>
+                <p>Acquisition is no longer perceived merely as an addition to an existing ensemble
+                    to enhance its coherence but as a resource to diversify the collection and
+                    reposition the museum. This discussion of the display of acquisitions, from the
+                    perspective of new uses, challenges the traditional view of permanent
+                    collections as a fixed and immutable model. Instead, it highlights the flow of
+                    the collection generated by acquisitions, from arrival to display and,
+                    eventually, circulation.</p>
+
+                <back>
+                    <head>Bibliographie</head>
                     <p><anchor type="commentRangeStart" n="7"
                             /><hi style="font-family:Helvetica Neue;font-size:12pt" xml:space="preserve">Appadurai, A. (dir.). (2020/2013). </hi><hi
                             rend="italic" style="font-family:Helvetica Neue;font-size:12pt">La Vie
@@ -552,66 +609,35 @@
                             resp="#Josée_Desforges" n="9"><date when="2025-11-20T20:23:10Z"/><hi
                                 rend="normalweight baseline" style="font-size:11pt">À supprimer de
                                 la bibliographie</hi></note></p>
-                </div>
-                <div>
-                    <head><anchor xml:id="heading=h.1fob9te"/><hi rend="bold" style="font-size:12pt"
-                            >Encadrés et compléments numériques</hi></head>
-                    <p><hi style="font-family:Helvetica Neue;font-size:12pt">Box : ‘</hi><anchor
-                            type="commentRangeStart" n="10"/><hi style="font-size:12pt">Titling of
-                            Acquisitions on Display: The Creation of a Label</hi><anchor
-                            type="commentRangeEnd" n="10"/><note place="comment"
-                            resp="#myriam_merette" n="10"><date when="2025-12-08T19:07:51Z"/><hi
-                                rend="normalweight baseline" style="font-size:11pt">Traduction déjà
-                                produite et donc validée?</hi></note><hi style="font-size:12pt"
-                            >”</hi></p>
-                    <p><hi style="font-size:12pt" xml:space="preserve">Supplement : </hi><anchor
-                            type="commentRangeStart" n="11"/><hi style="font-size:12pt">Enquête sur
-                            l’usage des acquisitions dans l’exposition des collections : un portrait
-                            statistique</hi><anchor type="commentRangeEnd" n="11"/><note
-                            place="comment" resp="#myriam_merette" n="11"><date
-                                when="2025-12-08T19:13:16Z"/><hi rend="normalweight baseline"
-                                style="font-size:11pt">Traduction à valider auprès des
+                </back>
+
+                <!-- texte ci-dessous = indications sur le google doc -->
+                <p>Encadrés et compléments numériques</p>
+                <p>Box : Titling of Acquisitions on Display: The Creation of a Label Traduction déjà
+                    produite et donc validée?</p>
+                <p>Supplement : enquête sur l’usage des acquisitions dans l’exposition des
+                    collections : un portrait statistique
+                    <!-- @todo Traduction à valider auprès des
                                 autrices: Survey on the Use of Acquisitions in the Exhibition of
-                                Collections: A Statistical Portrait</hi></note>
-                    </p>
-                    <p><hi style="font-size:12pt" xml:space="preserve">Box : </hi><anchor
-                            type="commentRangeStart" n="12"/><hi style="font-size:12pt">Mise à vue
-                            thématique et nouvelles orientations des acquisitions</hi><anchor
-                            type="commentRangeEnd" n="12"/><note place="comment"
-                            resp="#myriam_merette" n="12"><date when="2025-12-08T19:11:03Z"/><hi
-                                rend="normalweight baseline" style="font-size:11pt">Traduction à
-                                valider auprès des autrices: Thematic Display and New Directions in
-                                Acquisitions</hi></note></p>
-                </div>
-                <div>
-                    <head><anchor xml:id="heading=h.3znysh7"/><hi rend="bold" style="font-size:12pt"
-                            >Références à d’autres entrées de l’</hi><hi rend="italic bold"
-                            style="font-size:12pt">Encyclopédie</hi>
-                    </head>
-                    <list rend="bulleted">
-                        <item><hi style="font-size:12pt">« Les potentiels de variation des œuvres
-                                »</hi></item>
-                        <item><anchor type="commentRangeStart" n="13"/><hi style="font-size:12pt"
-                                >« Motivations sociétales de l’acquisition»</hi><anchor
-                                type="commentRangeEnd" n="13"/><note place="comment"
-                                resp="#myriam_merette" n="13"><date when="2025-12-08T19:14:24Z"/><hi
-                                    rend="normalweight baseline" style="font-size:11pt">Traduction à
-                                    valider auprès des autrices: Societal Motivations for
-                                    Acquisition</hi></note></item>
-                        <item><anchor type="commentRangeStart" n="14"/><hi style="font-size:12pt"
-                                >“Acquisition d’œuvres variables”</hi><anchor type="commentRangeEnd"
-                                n="14"/><note place="comment" resp="#myriam_merette" n="14"><date
-                                    when="2025-12-08T19:17:44Z"/><hi rend="normalweight baseline"
-                                    style="font-size:11pt">Traduction à valider: Acquisition of
-                                    Variable Works</hi></note></item>
-                        <item><anchor type="commentRangeStart" n="15"/><hi style="font-size:12pt"
-                                >“La mise à vue des acquisitions”</hi><anchor type="commentRangeEnd"
-                                n="15"/><note place="comment" resp="#myriam_merette" n="15"><date
-                                    when="2025-12-08T19:19:39Z"/><hi rend="normalweight baseline"
-                                    style="font-size:11pt">Traduction déjà produite et validée:
-                                    Display of Acquisitions</hi></note></item>
-                    </list>
-                </div>
+                                Collections: A Statistical Portrait --></p>
+                <p>Box : Mise à vue thématique et nouvelles orientations des acquisitions
+                    <!-- @todo Traduction
+                    à valider auprès des autrices: Thematic Display and New Directions in
+                    Acquisitions--></p>
+                <p>Références à d’autres entrées de l’Encyclopédie</p>
+                <list>
+                   <item>Les potentiels de variation des œuvres</item>
+                        <item>Motivations sociétales de l’acquisition</item> 
+                    <!-- @todo Traduction à
+                                valider auprès des autrices: Societal Motivations for
+                                Acquisition-->
+                    <item>Acquisition d’œuvres variables</item>
+                    <!-- @todo Traduction à valider: Acquisition of Variable
+                                Works -->
+                    <item>La mise à vue des acquisitions</item> 
+                    <!-- Traduction déjà produite et validée: Display
+                                of Acquisitions -->
+                </list>
             </div>
         </body>
     </text>

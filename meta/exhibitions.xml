@@ -146,8 +146,8 @@
                   <placeName>Sotteville-lès-Rouen</placeName>
                   <country>France</country>
                </place>
-               <date>De 2011 à 2019</date>
-               <idno/> <!-- pas trouvé -->
+               <date from="2011" to="2019">exposition annuelle, de 2011 à 2019</date>
+               <idno/> <!-- #RC aucun idno trouvé, voici un lien pertinent : https://www.artpress.com/2019/07/25/le-frac-normandie-rouen-reinvente-linventaire/ -->
             </event>
             <event xml:id="mbam001">
                <eventName>Les arts du Tout-Monde</eventName>

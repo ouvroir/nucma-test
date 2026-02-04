@@ -248,6 +248,30 @@
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb11931745m</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n80050882</idno>
             </place>
+            <place xml:id="asieDuSud">
+               <placeName xml:lang="fr">Asie du Sud</placeName>
+               <placeName xml:lang="en">South Asia</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q771405</idno>
+            </place>
+         <place xml:id="asieDuSudEst">
+            <placeName xml:lang="fr">Asie du Sud-Est</placeName>
+            <placeName xml:lang="en">Southeast Asia</placeName>
+            <idno type="wikidata">https://www.wikidata.org/wiki/Q11708</idno>
+            <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb119528059</idno>
+            <idno type="loc">https://id.loc.gov/authorities/subjects/sh85008627</idno>
+         </place>
+         <place xml:id="ameriqueLatine">
+            <placeName xml:lang="fr">Amérique latine</placeName>
+            <placeName xml:lang="en">Latin America</placeName>
+            <idno type="wikidata">https://www.wikidata.org/wiki/Q12585</idno>
+            <idno type="loc">http://id.loc.gov/authorities/subjects/sh85074879</idno>
+         </place>
+            <place xml:lang="afriqueDuNord">
+               <placeName xml:lang="fr">Afrique du Nord</placeName>
+               <placeName xml:lang="en">North Africa</placeName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q27381</idno>
+               <idno type="loc">http://id.loc.gov/authorities/subjects/sh85001631</idno>
+            </place>
          </listPlace>
          <!-- Julie -->
          <listPlace>

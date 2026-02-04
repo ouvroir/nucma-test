@@ -547,6 +547,12 @@
                <orgName xml:lang="en">Solomon R. Guggenheim Museum</orgName>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q201469</idno>
             </org>
+            <org xml:id="guggenheimUBSMAPGlobalArtInitiative">
+               <orgName xml:lang="en">Guggenheim UBS MAP Global Art Initiative</orgName>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q16975332</idno>
+               <!--#RC entré comme org puisque c'est un mega projet qui créer ses propres expositions
+                  site web: https://www.guggenheim.org/map -->
+            </org>
             <org xml:id="sbmk">
                <orgName xml:lang="fr">Foundation for the Conservation of Modern Art/Netherlands</orgName>
                <orgName xml:lang="en">Foundation for the Conservation of Modern Art/Netherlands</orgName> 
