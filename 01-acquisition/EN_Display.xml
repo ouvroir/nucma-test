@@ -93,12 +93,13 @@
                 the archives, even though it is an essential activity for understanding the dynamics
                 of a collection, its history and its current relevance.</p>
             <p>Exhibition is not necessarily the immediate fate of acquisitions. Only a tiny
-                fraction of the collections are on display <bibl>Mairesse, 2022</bibl>, compared
-                with the ever-growing number of works or objects accumulating in storage. While
-                certain contemporary works from the 1960s onwards need to be exhibited as soon as
-                they arrive at the museum due to their specific nature and the care required for
-                their musealisation, these are exceptions or atypical
-                cases.<!--commentaire sur google doc : add a link to the entry
+                fraction of the collections are on display <bibl
+                    ref="https://www.zotero.org/groups/4971115/items/3DF9CYTB ">Mairesse,
+                    2022</bibl>, compared with the ever-growing number of works or objects
+                accumulating in storage. While certain contemporary works from the 1960s onwards
+                need to be exhibited as soon as they arrive at the museum due to their specific
+                nature and the care required for their musealisation, these are exceptions or
+                atypical cases.<!--commentaire sur google doc : add a link to the entry
                         “Acquisition of Variable Works” @todo --> Living, variable
                 or performative works have indeed forced museums to adapt their standards regarding
                 acquisition, conservation and exhibition. Beyond the intrinsic nature of the works
@@ -237,10 +238,11 @@
                 <p>Are curatorial practices transforming the role of acquisitions, or even changing
                     the dynamic between exhibition and collection? Has the so-called
                         <soCalled>curatorial turn</soCalled>, characterised by critical and
-                    reflexive approaches <bibl>O’Neill, 2012</bibl>, reached collections? Does it
-                    compel the museum to justify its choices and demonstrate transparency? Does it
-                    offer the display of acquisitions new contexts and possibilities for the
-                    exhibition and interpretation of collections?</p>
+                    reflexive approaches <bibl>O’Neill,
+                    2012</bibl><!-- livre paru en 2007, a été corrigé dans zotero #RC -->, reached
+                    collections? Does it compel the museum to justify its choices and demonstrate
+                    transparency? Does it offer the display of acquisitions new contexts and
+                    possibilities for the exhibition and interpretation of collections?</p>
             </div>
             <div>
                 <head>Acquiring to Reinterpret</head>
@@ -626,15 +628,15 @@
                     Acquisitions--></p>
                 <p>Références à d’autres entrées de l’Encyclopédie</p>
                 <list>
-                   <item>Les potentiels de variation des œuvres</item>
-                        <item>Motivations sociétales de l’acquisition</item> 
+                    <item>Les potentiels de variation des œuvres</item>
+                    <item>Motivations sociétales de l’acquisition</item>
                     <!-- @todo Traduction à
                                 valider auprès des autrices: Societal Motivations for
                                 Acquisition-->
                     <item>Acquisition d’œuvres variables</item>
                     <!-- @todo Traduction à valider: Acquisition of Variable
                                 Works -->
-                    <item>La mise à vue des acquisitions</item> 
+                    <item>La mise à vue des acquisitions</item>
                     <!-- Traduction déjà produite et validée: Display
                                 of Acquisitions -->
                 </list>
