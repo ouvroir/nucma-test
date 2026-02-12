@@ -381,6 +381,11 @@
                   <idno type=""><!-- aucun idno trouvé--></idno>
                   <!-- s'agit d'une "expo" sous forme de livre, oeuvre accessible en ligne : https://monoskop.org/images/f/f1/Siegelaub_Seth_ed_Xerox_Book.pdf-->
                </object>
+            <object xml:id="alleyn001">
+               <objectName>Introscaphe</objectName>
+               <author ref="#alleynEdmund">Alleyn, Edmund (1931-2004)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q3153725</idno>
+            </object>
          </listObject>
       </body>
    </text>

@@ -269,18 +269,18 @@
                     protocoles à usage unique, élaborés pour une seule œuvre en fonction de ses
                     besoins spécifiques. D’autre part, les documents modèles, qui prennent la forme
                     de formulaires à compléter et qui présupposent les déterminants, le plus souvent
-                    selon les disciplines – l’art médiatique et l’art in situ posant, par exemple,
-                    des défis distinctifs. L’origine des protocoles à usage unique coïncide avec la
-                    muséalisation de l’art conceptuel. L’acquisition de l’installation <objectName
-                        ref="#kosuth001">Une et trois tables (1965)</objectName> de <persName
-                        ref="#kosuthJosef">Joseph Kosuth</persName> par le <orgName>Musée des
-                        beaux-arts du Canada</orgName> en constitue un cas emblématique : à chaque
-                    présentation, le Musée doit produire une nouvelle photographie de l’installation
-                    et réimprimer la définition tirée du dictionnaire, ce qui impose le respect
-                    d’une procédure précise. Toutefois, ce type d’engagement à la pièce n’a pas
-                    entraîné de modifications profondes des pratiques institutionnelles,
-                    contrairement à ce que permettra, ultérieurement, l’implantation des
-                    formulaires.</p>
+                    selon les disciplines – l’art médiatique et l’art <foreign xml:lang="lat">in
+                        situ</foreign> posant, par exemple, des défis distinctifs. L’origine des
+                    protocoles à usage unique coïncide avec la muséalisation de l’art conceptuel.
+                    L’acquisition de l’installation <objectName ref="#kosuth001">Une et trois tables
+                        (1965)</objectName> de <persName ref="#kosuthJosef">Joseph Kosuth</persName>
+                    par le <orgName>Musée des beaux-arts du Canada</orgName> en constitue un cas
+                    emblématique : à chaque présentation, le Musée doit produire une nouvelle
+                    photographie de l’installation et réimprimer la définition tirée du
+                    dictionnaire, ce qui impose le respect d’une procédure précise. Toutefois, ce
+                    type d’engagement à la pièce n’a pas entraîné de modifications profondes des
+                    pratiques institutionnelles, contrairement à ce que permettra, ultérieurement,
+                    l’implantation des formulaires.</p>
                 <p>Constituant une manifestation tangible de l’ouverture des pratiques de
                     restauration aux principes actuels de la conservation-restauration, les
                     formulaires entraînent des changements structurels dans le travail des équipes.
@@ -292,112 +292,162 @@
                     l’art médiatique. La décennie suivante est marquée par l’essor de la
                     préservation des œuvres médiatiques, domaine dans lequel l’expertise québécoise
                     et canadienne témoigne d’un leadership reconnu. Cette dynamique se manifeste à
-                    travers le symposium <title xml:lang="en" ref="#sbmk001">Modern Art: Who Cares?</title> (1997, <orgName ref="#sbmk">Foundation for the
-                    Conservation of Modern Art</orgName>, <placeName>Pays-Bas</placeName>) ; la création du <orgName>Réseau des médias
-                    variables</orgName> (initié en 2003 par le Guggenheim Museum de New York, en partenariat
-                    avec la Fondation Daniel Langlois pour l’art, la science et la technologie) ; le
-                    projet de recherche Capturing Unstable Media (2003, V2_ Lab for the Unstable
-                    Media, Rotterdam) ; l’Alliance de recherche DOCAM (2005‑2010, Fondation Daniel
-                    Langlois) ; ainsi que le consortium Matters in Media Art, dédié à la
-                    conservation, à la curation, au registrariat et à la gestion technologique des
-                    œuvres médiatiques, réunissant depuis 2015 le New Art Trust, le MoMA, le SFMOMA
-                    et la Tate Modern.</p>
-                <p><hi style="font-size:12pt">Quatre disciplines déterminent la production des
-                        protocoles par les musées : l’art médiatique, la performance, l’installation
-                        et l’</hi><hi rend="italic" style="font-size:12pt">in
-                        situ</hi><hi style="font-size:12pt" xml:space="preserve"> (Boucher, 2025). Tandis que les besoins de l’art médiatique sont avant tout technologiques (technologies et pièces de remplacement), ceux de l’</hi><hi
-                        rend="italic" style="font-size:12pt">in
-                        situ</hi><hi style="font-size:12pt" xml:space="preserve"> sont avant tout liés à l’esprit des lieux. L’accueil dans les collections de l’art médiatique et de l’</hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">in situ </hi><hi
-                        style="font-size:12pt">(Lamoureux, 2001) est par ailleurs synchronique (les
-                        années 1990) et les deux formes d’art entretiennent des liens avec
-                        l’installation (Scholte et Warthon, 2011; Van Saaze, 2013). Ces trois types
-                        d’œuvres obligent à consigner sous forme de protocoles la variabilité
-                        (Couture 2013) des configurations possibles, documentée au préalable pour
-                        les besoins des présentations à venir.</hi></p>
+                    travers le symposium <title xml:lang="en" ref="#sbmk001">Modern Art: Who
+                        Cares?</title> (1997, <orgName ref="#sbmk">Foundation for the Conservation
+                        of Modern Art</orgName>, <placeName>Pays-Bas</placeName>) ; la création du
+                        <orgName ref="#reseauDesMediasVariables">Réseau des médias
+                        variables</orgName> (initié en 2003 par le <orgName>Guggenheim Museum de New
+                        York</orgName>, en partenariat avec la <orgName
+                        ref="#fondationDanielLanglois">Fondation Daniel Langlois pour l’art, la
+                        science et la technologie</orgName>) ; le projet de recherche <title
+                        xml:lang="en">Capturing Unstable Media</title> (2003, <orgName ref="#v2">V2_
+                        Lab for the Unstable Media</orgName>, Rotterdam) ; l’<orgName ref="#docam"
+                        >Alliance de recherche DOCAM</orgName> (2005‑2010, <orgName>Fondation Daniel
+                        Langlois</orgName>) ; ainsi que le consortium <orgName ref="#mma">Matters in
+                        Media Art</orgName>, dédié à la conservation, à la curation, au registrariat
+                    et à la gestion technologique des œuvres médiatiques, réunissant depuis 2015 le
+                        <orgName ref="#newArtTrust">New Art Trust</orgName>, le
+                        <orgName>MoMA</orgName>, le <orgName ref="#sfmoma">SFMOMA</orgName> et la
+                        <orgName>Tate Modern</orgName>.</p>
+                <p>Quatre disciplines déterminent la production des protocoles par les musées :
+                    l’art médiatique, la performance, l’installation et l’<foreign xml:lang="lat">in
+                        situ</foreign>
+                    <bibl>Boucher, 2025</bibl>. Tandis que les besoins de l’art médiatique sont
+                    avant tout technologiques (technologies et pièces de remplacement), ceux de
+                        l’<foreign xml:lang="lat">in situ</foreign> sont avant tout liés à l’esprit
+                    des lieux. L’accueil dans les collections de l’art médiatique et de l’<foreign
+                        xml:lang="lat">in situ</foreign>
+                    <bibl ref="https://www.zotero.org/groups/4971115/items/97GIEBLD">Lamoureux,
+                        2001</bibl> est par ailleurs synchronique (les années 1990) et les deux
+                    formes d’art entretiennent des liens avec l’installation <bibl
+                        ref="https://www.zotero.org/groups/4971115/items/SVLRYGPH ">Scholte et
+                        Wharton, 2011</bibl>; <bibl
+                        ref="https://www.zotero.org/groups/4971115/items/3CT5K8U4 ">Van Saaze,
+                        2013</bibl>. Ces trois types d’œuvres obligent à consigner sous forme de
+                    protocoles la variabilité <bibl
+                        ref="https://www.zotero.org/groups/4971115/items/GYXN77VG">Couture
+                        2013</bibl>
+                    <!-- source dans le texte mais pas dans la bilbio à la fin #RC -->des
+                    configurations possibles, documentée au préalable pour les besoins des
+                    présentations à venir.</p>
             </div>
             <div>
                 <head>Les protocoles de performances : l’activation et la valeur immatérielle</head>
-                <p><hi style="font-size:12pt" xml:space="preserve">Les besoins de la performance, qu’accueillent les collections avec le nouveau millénaire, sont surtout rattachés à ceux plus larges des arts vivants, et de la danse tout particulièrement (Franko et Lepecki, 2014). Plusieurs facteurs favorisent l’inclusion de la performance aux collections : des changements intrinsèques à cette discipline du </hi><hi
-                        rend="italic" style="font-size:12pt">hic et
-                        nunc</hi><hi style="font-size:12pt" xml:space="preserve"> qui s’ouvre alors à d’autres principes; l’intérêt mutualisé de la performance, de la danse et du musée à revisiter les termes spatiaux et temporels des présentations; et l’appétence du musée pour l’offre événementielle à laquelle contribue la programmation d’art vivant. L’usage par le musée du terme </hi><hi
-                        rend="italic" style="font-size:12pt">time based
-                        media</hi><hi style="font-size:12pt" xml:space="preserve"> qui se répand à cette période, témoigne de l’intérêt institutionnel se développant pour les arts de la durée. Parallèlement, la création de postes et de départements modifie concrètement l’écologie du musée d’art moderne et contemporain, influençant en conséquence la place accordée aux protocoles, ainsi qu'à leur production et leurs usages. En 2000, la Tate Modern de Londres crée un premier poste de conservation de la performance, qu’occupe Catherine Wood, spécialiste l’art conceptuel des années 1970 et devenue, en 2022, directrice des programmes de l’institution.  En outre, entre 2012 et 2020, le programme </hi><hi
-                        rend="italic" style="font-size:12pt">BMW Tate
-                        Live</hi><hi style="font-size:12pt" xml:space="preserve">, dédié à la conservation de la performance, est présenté. En 2006, le MoMA implante, pour sa part, le </hi><hi
-                        rend="italic" style="font-size:12pt">Department of Media and
-                        Performance</hi><hi style="font-size:12pt">, qui s’engage dans d’importants
-                        chantiers d’acquisition, notamment d’œuvres d’Yvonne Rainer. La production
-                        de protocoles pour les besoins de la performance concorde dans le temps avec
-                        la production des protocoles pour les besoins de l’installation. Les uns
-                        sont surtout à usage unique, tandis que les autres sont avant tout des
-                        formulaires à compléter pour retracer les choix variés qui seront adoptés à
-                        chaque montage, afin de mesurer les variables de l’installation. La fonction
-                        prescriptive, ainsi basée sur l’expérience passée, s’exerce pendant
-                        l’acquisition et avec chacune des présentations.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">S’il est admis que l’œuvre à protocole devient, dès les années 1970-1980, un objet d’acquisition muséale, ce n’est qu’au tournant des années 2000 que cette pratique se répand, sous l’impulsion d’un débat critique international, en particulier sur la muséalisation de la performance et, plus largement, des pratiques dites « performatives ». La performance déléguée (Bishop, 2012), le </hi><hi
-                        rend="italic" style="font-size:12pt"
-                        >reenactment</hi><hi style="font-size:12pt" xml:space="preserve"> et le tableau vivant (Boucher, 2017) constituent de nouveaux genres de performance en art contemporain présentant des caractéristiques favorables à leur muséalisation et à leur présentation en contexte d’exposition. </hi><hi
-                        rend="italic" style="font-size:12pt">Seven Easy
-                    Pieces</hi><hi style="font-size:12pt" xml:space="preserve"> (2005) de Marina Abramović au Guggenheim constitue un repère emblématique de ce phénomène. Plus encore que l’art conceptuel ou l’art médiatique, la performance, en tant que pratique de l’instant, du geste et de l’immédiateté, porte en elle l’idée d’une obsolescence de l’objet d’art. Comment dès lors en assurer la transmission et l’intégrer aux collections, si ce n’est par l’acquisition d’une documentation permettant de l’activer ou de l’exposer à travers ses composantes matérielles, ses traces et ses objets? Dans cette documentation, les protocoles occupent une place centrale: ils sont devenus essentiels à la pérennisation de la performance et indissociables de la démarche et de la pratique artistiques (Hölling, Feldman et Magnin, 2023 et 2024, Acocella, Bawin et Minuto 2025).</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Les protocoles produits par les musées pour accueillir une performance (déléguée, </hi><hi
-                        rend="italic" style="font-size:12pt">reenactment</hi><hi
-                        style="font-size:12pt">, tableau vivant ou autre) au sein des collections
-                        résultent généralement d’une collaboration étroite avec l’artiste. Ils
-                        obligent les institutions qui sont habituées à la conservation d’objets
-                        matériels à définir, en concertation avec l’artiste, les déterminants
-                        spatiaux et temporels, ainsi que les profils des personnes habilitées à
-                        exécuter la performance. De plus, ils formulent les modalités de
-                        transmission à exercer, lesquelles sont garantes de la préservation. Le
-                        protocole à usage unique, rédigé pour l’acquisition, puis pour la
-                        représentation de la performance, a pour principale originalité de
-                        constituer une certification. Si le contrat scelle l’entente des parties et
-                        octroie au musée la légitimité de la production, le protocole qui est
-                        réalisé lors de l’acquisition scelle, quant à lui, le statut de la
-                        performance qui pourra être montrée et les paramètres de sa production. Sauf
-                        en de rares exceptions, le musée qui fait l’acquisition d’une performance
-                        reçoit en vérité un protocole, avec le droit de l’appliquer. Ainsi, la
-                        distinction majeure entre l’acquisition d’une œuvre par protocole et celle
-                        de documents témoins d’une performance passée ne réside pas tant dans le
-                        type de documents que dans leur statut et leurs usages. La détention pas un
-                        musée d’une archive exhaustive d’une performance ne permet pas, à elle
-                        seule, de reconstituer l’œuvre. Les protocoles muséaux conçus pour la
-                        performance ont donc pour fonction première la muséalisation de
-                        l’immatérialité en art contemporain, tandis que ceux qui sont élaborés pour
-                        l’installation visent avant tout la muséalisation de la
-                    variabilité.</hi></p>
+                <p>Les besoins de la performance, qu’accueillent les collections avec le nouveau
+                    millénaire, sont surtout rattachés à ceux plus larges des arts vivants, et de la
+                    danse tout particulièrement <bibl
+                        ref="https://www.zotero.org/groups/4971115/items/FDLHP2XF">Franko et
+                        Lepecki, 2014</bibl>. Plusieurs facteurs favorisent l’inclusion de la
+                    performance aux collections : des changements intrinsèques à cette discipline du
+                        <foreign xml:lang="lat">hic et nunc</foreign> qui s’ouvre alors à d’autres
+                    principes; l’intérêt mutualisé de la performance, de la danse et du musée à
+                    revisiter les termes spatiaux et temporels des présentations; et l’appétence du
+                    musée pour l’offre événementielle à laquelle contribue la programmation d’art
+                    vivant. L’usage par le musée du terme <soCalled xml:lang="en">time based
+                        media</soCalled> qui se répand à cette période, témoigne de l’intérêt
+                    institutionnel se développant pour les arts de la durée. Parallèlement, la
+                    création de postes et de départements modifie concrètement l’écologie du musée
+                    d’art moderne et contemporain, influençant en conséquence la place accordée aux
+                    protocoles, ainsi qu'à leur production et leurs usages. En 2000, la
+                        <orgName>Tate Modern</orgName> de <placeName>Londres</placeName> crée un
+                    premier poste de conservation de la performance, qu’occupe <persName
+                        ref="#woodCatherine">Catherine Wood</persName>, spécialiste l’art conceptuel
+                    des années 1970 et devenue, en 2022, directrice des programmes de l’institution.
+                    En outre, entre 2012 et 2020, le programme <title xml:lang="en">BMW Tate
+                        Live</title>, dédié à la conservation de la performance, est présenté. En
+                    2006, le <orgName>MoMA</orgName> implante, pour sa part, le <title xml:lang="en"
+                        >Department of Media and Performance</title>, qui s’engage dans d’importants
+                    chantiers d’acquisition, notamment d’œuvres d’<persName ref="#rainerYvonne"
+                        >Yvonne Rainer</persName>. La production de protocoles pour les besoins de
+                    la performance concorde dans le temps avec la production des protocoles pour les
+                    besoins de l’installation. Les uns sont surtout à usage unique, tandis que les
+                    autres sont avant tout des formulaires à compléter pour retracer les choix
+                    variés qui seront adoptés à chaque montage, afin de mesurer les variables de
+                    l’installation. La fonction prescriptive, ainsi basée sur l’expérience passée,
+                    s’exerce pendant l’acquisition et avec chacune des présentations.</p>
+                <p>S’il est admis que l’œuvre à protocole devient, dès les années 1970-1980, un
+                    objet d’acquisition muséale, ce n’est qu’au tournant des années 2000 que cette
+                    pratique se répand, sous l’impulsion d’un débat critique international, en
+                    particulier sur la muséalisation de la performance et, plus largement, des
+                    pratiques dites <soCalled>performatives</soCalled>. La performance déléguée
+                        <bibl>Bishop, 2012</bibl>, le <foreign xml:lang="en">reenactment</foreign>
+                    et le tableau vivant <bibl
+                        ref="https://www.zotero.org/groups/4971115/items/E2CPNQRX">Boucher,
+                        2017</bibl> constituent de nouveaux genres de performance en art
+                    contemporain présentant des caractéristiques favorables à leur muséalisation et
+                    à leur présentation en contexte d’exposition. <objectName ref="#abramovic001"
+                        >Seven Easy Pieces (2005)</objectName> de <persName ref="#abramovicMarina"
+                        >Marina Abramović</persName> au <orgName>Guggenheim</orgName> constitue un
+                    repère emblématique de ce phénomène. Plus encore que l’art conceptuel ou l’art
+                    médiatique, la performance, en tant que pratique de l’instant, du geste et de
+                    l’immédiateté, porte en elle l’idée d’une obsolescence de l’objet d’art. Comment
+                    dès lors en assurer la transmission et l’intégrer aux collections, si ce n’est
+                    par l’acquisition d’une documentation permettant de l’activer ou de l’exposer à
+                    travers ses composantes matérielles, ses traces et ses objets? Dans cette
+                    documentation, les protocoles occupent une place centrale: ils sont devenus
+                    essentiels à la pérennisation de la performance et indissociables de la démarche
+                    et de la pratique artistiques <bibl
+                        ref="#https://www.zotero.org/groups/4971115/items/EJM5KHJX">Hölling, Feldman
+                        et Magnin, 2023 et 2024</bibl>, <bibl>Acocella, Bawin et Minuto
+                    2025</bibl>.</p>
+                <p>Les protocoles produits par les musées pour accueillir une performance (déléguée,
+                        <foreign xml:lang="en">reenactment</foreign>, tableau vivant ou autre) au
+                    sein des collections résultent généralement d’une collaboration étroite avec
+                    l’artiste. Ils obligent les institutions qui sont habituées à la conservation
+                    d’objets matériels à définir, en concertation avec l’artiste, les déterminants
+                    spatiaux et temporels, ainsi que les profils des personnes habilitées à exécuter
+                    la performance. De plus, ils formulent les modalités de transmission à exercer,
+                    lesquelles sont garantes de la préservation. Le protocole à usage unique, rédigé
+                    pour l’acquisition, puis pour la représentation de la performance, a pour
+                    principale originalité de constituer une certification. Si le contrat scelle
+                    l’entente des parties et octroie au musée la légitimité de la production, le
+                    protocole qui est réalisé lors de l’acquisition scelle, quant à lui, le statut
+                    de la performance qui pourra être montrée et les paramètres de sa production.
+                    Sauf en de rares exceptions, le musée qui fait l’acquisition d’une performance
+                    reçoit en vérité un protocole, avec le droit de l’appliquer. Ainsi, la
+                    distinction majeure entre l’acquisition d’une œuvre par protocole et celle de
+                    documents témoins d’une performance passée ne réside pas tant dans le type de
+                    documents que dans leur statut et leurs usages. La détention pas un musée d’une
+                    archive exhaustive d’une performance ne permet pas, à elle seule, de
+                    reconstituer l’œuvre. Les protocoles muséaux conçus pour la performance ont donc
+                    pour fonction première la muséalisation de l’immatérialité en art contemporain,
+                    tandis que ceux qui sont élaborés pour l’installation visent avant tout la
+                    muséalisation de la variabilité.</p>
             </div>
             <div>
                 <head>La normalisation d’une pratique : le protocole muséal sous l’œil du
                     développement durable</head>
-                <p><hi style="font-size:12pt" xml:space="preserve">La production de protocoles pour l’acquisition de composantes très fragmentaires d’œuvres </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">in situ </hi><hi
-                        style="font-size:12pt">constitue un développement récent, répondant aux
-                        besoins de préservation des réalisations initialement intégrées à un site,
-                        lequel constitue un élément essentiel de l’intention de l’artiste. L’absence
-                        de certaines composantes spatiales et matérielles conduit à recomposer
-                        l’œuvre à partir de celles qui subsistent. Ces réarrangements d’œuvres
-                        s’inscrivent dans l’histoire de la reconstitution en art contemporain et
-                        dans celle de l’exposition (Greenberg, 2001), tout en s’en distinguant à
-                        plusieurs égards. Le processus de réaménagement de l’œuvre, auquel le musée
-                        s’engage avec l’artiste, n’a ni pour objectif une reproduction fidèle, ni
-                        pour but la formulation d’une réponse réflexive ou critique à un original.
-                        Cette recomposition vise à déterminer ce qui, de l’</hi>
-                    <hi rend="italic" style="font-size:12pt">in situ</hi><hi style="font-size:12pt"
-                        >, peut et doit être conservé afin de maintenir une intégrité idéelle
-                        faisant écho à l’intention originelle. Cette démarche relève autant des
-                        nouvelles éditions d’œuvres perdues, comme les ready-mades de Duchamp, ou
-                        détériorées, comme l’</hi>
-                    <hi rend="italic" style="font-size:12pt"
-                        >Introscaphe</hi><hi style="font-size:12pt" xml:space="preserve"> d’Edmund Alleyn, que du remake, de la reconstitution et de son pendant performatif, le </hi><hi
-                        rend="italic" style="font-size:12pt"
-                        >reenactment</hi><hi style="font-size:12pt" xml:space="preserve">. Le terme « reconstitution », dans sa capacité à désigner une version adaptée d’une proposition originale, est approprié pour qualifier cet </hi><hi
-                        rend="italic" style="font-size:12pt">in situ</hi><hi style="font-size:12pt" xml:space="preserve"> recomposé et documenté par la production d’un protocole. Le </hi>
-                    <hi rend="italic" style="font-size:12pt">Replication Advisory
-                        Group</hi><hi style="font-size:12pt" xml:space="preserve"> de la Tate Modern désigne par « réplique » les œuvres de la collection (plus de 200 œuvres répertoriées à la Tate Modern, </hi><hi
-                        rend="italic" style="font-size:12pt">Symposium Reshaping the
-                        Collectible</hi><hi style="font-size:12pt">, 2022) qui nécessitent, en tout
-                        ou en partie, le remplacement de certaines composantes pour leur entretien.
-                        L'exercice de la réplique peut alors amener l’artiste à repenser son
-                        œuvre.</hi></p>
+                <p>La production de protocoles pour l’acquisition de composantes très fragmentaires
+                    d’œuvres in situ constitue un développement récent, répondant aux besoins de
+                    préservation des réalisations initialement intégrées à un site, lequel constitue
+                    un élément essentiel de l’intention de l’artiste. L’absence de certaines
+                    composantes spatiales et matérielles conduit à recomposer l’œuvre à partir de
+                    celles qui subsistent. Ces réarrangements d’œuvres s’inscrivent dans l’histoire
+                    de la reconstitution en art contemporain et dans celle de l’exposition <bibl
+                        ref="https://www.zotero.org/groups/4971115/items/AG5K2X5D">Greenberg,
+                        2001</bibl>
+                    <!-- #RC Dans la bliblio du texte c'est marqué 2009, pas trouvé de Greenberg 2001 dans zotero on plus-->,
+                    tout en s’en distinguant à plusieurs égards. Le processus de réaménagement de
+                    l’œuvre, auquel le musée s’engage avec l’artiste, n’a ni pour objectif une
+                    reproduction fidèle, ni pour but la formulation d’une réponse réflexive ou
+                    critique à un original. Cette recomposition vise à déterminer ce qui, de
+                        l’<foreign xml:lang="lat">in situ</foreign>, peut et doit être conservé afin
+                    de maintenir une intégrité idéelle faisant écho à l’intention originelle. Cette
+                    démarche relève autant des nouvelles éditions d’œuvres perdues, comme les
+                        <objectName ref="#duchamp003">ready-mades</objectName> de
+                        <persName>Duchamp</persName>, ou détériorées, comme
+                    l’<objectName ref="#alleyn001">Introscaphe</objectName> d’<persName ref="#alleynEdmund"
+                        >Edmund Alleyn</persName>, que du <foreign xml:lang="en">remake</foreign>,
+                    de la reconstitution et de son pendant performatif, le <foreign xml:lang="en"
+                        >reenactment</foreign>. Le terme <soCalled>reconstitution</soCalled>, dans
+                    sa capacité à désigner une version adaptée d’une proposition originale, est
+                    approprié pour qualifier cet <foreign xml:lang="lat">in situ</foreign> recomposé
+                    et documenté par la production d’un protocole. Le <orgName>Replication Advisory
+                        Group</orgName> de la Tate Modern désigne par « réplique » les œuvres de la
+                    collection (plus de 200 œuvres répertoriées à la Tate Modern, Symposium
+                    Reshaping the Collectible, 2022) qui nécessitent, en tout ou en partie, le
+                    remplacement de certaines composantes pour leur entretien. L'exercice de la
+                    réplique peut alors amener l’artiste à repenser son œuvre.</p>
                 <p><hi style="font-size:12pt">Avec les besoins démultipliés de l’art contemporain
                         collectionné, le musée a développé une expertise dans la production
                         documentaire, capable de répondre à des défis pointus et nombreux liés à

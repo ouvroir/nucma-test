@@ -496,8 +496,9 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q5205840</idno>
             </org>
             <org xml:id="fondationDanielLanglois">
-               <orgName xml:lang="fr">Fondation Daniel Langlois</orgName>
-               <orgName xml:lang="en">Daniel Langlois Foundation</orgName>
+               <orgName xml:lang="fr">Fondation Daniel Langlois pour l'art, la science et la technologie</orgName>
+               <orgName xml:lang="en">Daniel Langlois Foundation for Art, Science and Technology</orgName>
+               <idno type="loc">http://id.loc.gov/authorities/names/no2002013179</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q3075427</idno>
             </org>
             <org xml:id="uqam">
@@ -877,6 +878,11 @@
             <org xml:id="aksioma">
                <orgName xml:lang="en">Aksioma - Institute for Contemporary Art, Ljubljana</orgName>
                <!-- pas d'idno, adresse de leur site web : https://aksioma.org/project-space -->
+            </org>
+            <org xml:id="reseauDesMediasVariables">
+               <orgName xml:lang="fr">Réseau des médias variables</orgName>
+               <orgName xml:lang="en">Variable Media Network </orgName>
+               <idno><!-- aucuun trouvé , site web = https://www.variablemedia.net/f/introduction/index.html--></idno>
             </org>
          </listOrg>
       </body>
