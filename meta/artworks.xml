@@ -147,17 +147,24 @@
                <author ref="#duchampMarcel">Duchamp, Marcel (1887-1968)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q91932345</idno>
             </object>
-            <!-- "Constructions in Enamel (Telephone Pictures)" dans le texte. 
-               Je n'ai pas trouvé de référence pour l'ensemble des peintures, ni pour la première donc j'ai seulement mis les deuxième et troisième. -->
+            <!-- "Constructions in Enamel (Telephone Pictures)" dans Protocole.xml  
+               J'ai indexé les 3 itérations, mais seulement référencé la 1e dans le texte #RC -->
             <object xml:id="moholyNagy001">
-               <objectName>Construction in Enamel 2 (Telephone Picture)</objectName>
+               <objectName>EM 1 (Telephone Picture)</objectName>
                <author ref="#moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
-               <idno type="wikidata">https://www.wikidata.org/wiki/Q19883878</idno>
+               <idno type="URI">https://www.moma.org/collection/works/147626</idno>
             </object>
             <object xml:id="moholyNagy002">
-               <objectName>Construction in Enamel 3 (Telephone Picture)</objectName>
+               <objectName>EM 2 (Telephone Picture)</objectName>
+               <author ref="#moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q19883878</idno>
+               <idno type="URI">https://www.moma.org/collection/works/78747</idno>
+            </object>
+            <object xml:id="moholyNagy003">
+               <objectName>EM 3 (Telephone Picture)</objectName>
                <author ref="#moholyNagyLaszo">Moholy Nagy, László (1895-1946)</author>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q19883879</idno>
+               <idno type="URI">https://www.moma.org/collection/works/78749</idno>
             </object>
             <object xml:id="bretch001">
                <objectName>Word Event</objectName>
@@ -368,6 +375,12 @@
                <author ref="#lundJonas">Lund, Jonas (1984-....)</author>
                <!-- seule trace = un discord : https://discord.com/channels/498853995830444032/1075768287859847238 -->
             </object>
+               <object xml:id="siegelaub001">
+                  <objectName>Xerox Book</objectName>
+                  <author>Siegelaub, Seth (1941-2013)</author>
+                  <idno type=""><!-- aucun idno trouvé--></idno>
+                  <!-- s'agit d'une "expo" sous forme de livre, oeuvre accessible en ligne : https://monoskop.org/images/f/f1/Siegelaub_Seth_ed_Xerox_Book.pdf-->
+               </object>
          </listObject>
       </body>
    </text>

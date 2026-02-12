@@ -29,7 +29,8 @@
                     <affiliation>Université du Québec en Outaouais</affiliation>
                     <idno type="ORCID">https://orcid.org/0009-0009-0089-2292</idno>
                 </author>
-                <!-- assistante recherche = Isabelle Lamothe, étudiante à la maîtrise, Université du Québec en Outaouais-->
+                <!-- assistante recherche = Isabelle Lamothe, étudiante à la maîtrise, Université du Québec en Outaouais
+                est-ce qu'on met dans authors? #RC-->
             </titleStmt>
             <publisher/>
             <publicationStmt>
@@ -69,144 +70,238 @@
     </teiHeader>
     <text>
         <body>
-            <p>Dans sa définition du dictionnaire, le terme protocole désigne une <q>instruction
-                précise et détaillée mentionnant toutes les opérations à effectuer dans un certain
-                ordre ainsi que les principes fondamentaux à respecter pour exécuter une opération,
-                réaliser une expérience</q> <bibl>TLF</bibl>. Ce mot, dont l’usage est répandu dans le champ des
-                sciences exactes, mais aussi dans le domaine du droit, de la diplomatie et même de
-                la psychologie, a été investi dans (et par) le monde de l’art et des institutions
-                muséales à compter des années 1960, sans pour autant faire l’objet d’une définition
-                propre. D’autres termes lui sont d’ailleurs substitués, en français comme en
-                anglais, tels que « partition » (score), « script », « énoncé performatif », «
-                déclaration » (statement) ou, plus simplement, « consigne », « notation » ou «
-                instruction ». Ce à quoi s’ajoute depuis le présent millénaire un certain nombre de
-                déclinaisons terminologiques relatives à la « reconstitution », telles que proposées
-                par la Tate Modern de Londres (Curtis, 2007) et qui sont liées à de nouvelles
-                pratiques d’acquisition des protocoles : « copie », « édition », « substitut »
-                (substitute), « réalisation », « présentation ou installation » (displays or
-                installations), « version augmentée » (improved versions). Si les œuvres à protocole
-                de l’art contemporain entrent dans les collections dès les années 1960, ce n’est que
-                depuis le début du présent millénaire que les musées produisent eux-mêmes des
-                protocoles en vue de l’acquisition d’œuvres. Ceux-ci deviennent notamment
-                nécessaires pour représenter des acquisitions d’œuvres installatives, médiatiques et
-                performatives.</p>
+            <p><!-- balise <q> lorsque le terme est relié à une source bibl, une auteur ou un organisme, balise <soCalled> lorsqu'il n'y a aucune référence associée #RC -->
+                Dans sa définition du dictionnaire, le terme protocole désigne une <q>instruction
+                    précise et détaillée mentionnant toutes les opérations à effectuer dans un
+                    certain ordre ainsi que les principes fondamentaux à respecter pour exécuter une
+                    opération, réaliser une expérience</q>
+                <bibl ref="https://www.zotero.org/groups/4971115/items/P3X4XGRY ">TLF</bibl>. Ce
+                mot, dont l’usage est répandu dans le champ des sciences exactes, mais aussi dans le
+                domaine du droit, de la diplomatie et même de la psychologie, a été investi dans (et
+                par) le monde de l’art et des institutions muséales à compter des années 1960, sans
+                pour autant faire l’objet d’une définition propre. D’autres termes lui sont
+                d’ailleurs substitués, en français comme en anglais, tels que
+                    <soCalled>partition</soCalled> (<foreign xml:lang="en">score</foreign>),
+                    <soCalled>script</soCalled>, <soCalled>énoncé performatif</soCalled>,
+                    <soCalled>déclaration</soCalled> (<foreign xml:lang="en">statement</foreign>)
+                ou, plus simplement, <soCalled>consigne</soCalled>, <soCalled>notation</soCalled> ou
+                    <soCalled>instruction</soCalled>. Ce à quoi s’ajoute depuis le présent
+                millénaire un certain nombre de déclinaisons terminologiques relatives à la
+                    <q>reconstitution</q>, telles que proposées par la <orgName ref="#tateModern"
+                    >Tate Modern</orgName> de Londres <bibl
+                    ref="https://www.zotero.org/groups/4971115/items/KPGXWTJ8 ">Curtis, 2007</bibl>
+                et qui sont liées à de nouvelles pratiques d’acquisition des protocoles :
+                    <q>copie</q>, <q>édition</q>, <q>substitut</q> (<foreign xml:lang="en"
+                    >substitute</foreign>), <q>réalisation</q>, <q>présentation ou installation</q>
+                    (<foreign xml:lang="en">displays or installations</foreign>), <q>version
+                    augmentée</q> (<foreign xml:lang="en">improved versions</foreign>). Si les
+                œuvres à protocole de l’art contemporain entrent dans les collections dès les années
+                1960, ce n’est que depuis le début du présent millénaire que les musées produisent
+                eux-mêmes des protocoles en vue de l’acquisition d’œuvres. Ceux-ci deviennent
+                notamment nécessaires pour représenter des acquisitions d’œuvres installatives,
+                médiatiques et performatives.</p>
             <p>Malgré les lacunes rencontrées sur les plans épistémologique et terminologique, il
-                est possible, sur la base des essais définitoires du « script » fournis par Didier
-                Semin (2001), puis par Francine Couture et Richard Gagnier (2010), de considérer
-                qu’un protocole désigne les instructions produites soit par un·e artiste, soit par
-                une institution, soit conjointement par l’un·e et l’autre, afin de déterminer la
-                version autorisée de l’œuvre, tel qu’elle sera réalisée, exposée ou activée auprès
-                du public. Ces instructions, qui peuvent aller d'un simple schéma à une
-                documentation plus élaborée (comprenant des croquis, des notes, des photographies ou
-                des captations vidéo), ne constituent pas un ensemble homogène. Le protocole peut en
-                effet prendre des formes matérielles très variées et être doté de statuts distincts,
-                à tout le moins. Dans certains cas, il fait plutôt office d’« objet secondaire »,
-                destiné essentiellement à faciliter la réalisation, la reprise ou la réactivation
-                d’une œuvre, tandis que dans d’autres, il est considéré comme une œuvre d’art à part
-                entière. Pour bien poser la question complexe du statut conféré au protocole et
-                cerner les principaux seuils de nouveauté qu’il révèle, en particulier dans le
-                domaine de l’acquisition muséale, il est important de revenir sur les généalogies
-                qui structurent son histoire ainsi que sur les significations et les formes variées
-                qu’il revêt.</p>
+                est possible, sur la base des essais définitoires du <q>script</q> fournis par
+                    <persName ref="#seminDidier">Didier Semin</persName>
+                <bibl ref="https://www.zotero.org/groups/4971115/items/D7S2UBAJ ">2001</bibl>, puis
+                par <persName ref="#coutureFrancine">Francine Couture</persName> et <persName
+                    ref="#gagnierRichard">Richard Gagnier</persName>
+                <bibl ref="https://www.zotero.org/groups/4971115/items/HFV3RNQV">2010</bibl>, de
+                considérer qu’un protocole désigne les instructions produites soit par un·e artiste,
+                soit par une institution, soit conjointement par l’un·e et l’autre, afin de
+                déterminer la version autorisée de l’œuvre, tel qu’elle sera réalisée, exposée ou
+                activée auprès du public. Ces instructions, qui peuvent aller d'un simple schéma à
+                une documentation plus élaborée (comprenant des croquis, des notes, des
+                photographies ou des captations vidéo), ne constituent pas un ensemble homogène. Le
+                protocole peut en effet prendre des formes matérielles très variées et être doté de
+                statuts distincts, à tout le moins. Dans certains cas, il fait plutôt office
+                    d’<soCalled>objet secondaire</soCalled>, destiné essentiellement à faciliter la
+                réalisation, la reprise ou la réactivation d’une œuvre, tandis que dans d’autres, il
+                est considéré comme une œuvre d’art à part entière. Pour bien poser la question
+                complexe du statut conféré au protocole et cerner les principaux seuils de nouveauté
+                qu’il révèle, en particulier dans le domaine de l’acquisition muséale, il est
+                important de revenir sur les généalogies qui structurent son histoire ainsi que sur
+                les significations et les formes variées qu’il revêt.</p>
             <div>
-                <head>L’essor des œuvres à protocole : la figure de Sol LeWitt</head>
-                <p><hi style="font-size:12pt" xml:space="preserve">Les œuvres à protocole ont émergé dans un contexte précis de diversification des matériaux sémiotiques de l’art contemporain, et c’est d’ailleurs aux artistes eux-mêmes que l’on doit l’apparition de réalisations sous forme d’instructions. Parmi les plus anciens exemples connus d’un art fondé sur l’élaboration d’un protocole, on mentionnera le protocole expérimental mis au point par Marcel Duchamp pour l’exécution, en 1913-1914, des </hi><hi
-                        rend="italic" style="font-size:12pt">Trois
-                        stoppages-étalons</hi><hi style="font-size:12pt" xml:space="preserve"> ainsi que les instructions téléphoniques données par László Moholy-Nagy pour la conception, dès 1922, de ses </hi><hi
-                        rend="italic" style="font-size:12pt">Constructions in
-                        Enamel</hi><hi style="font-size:12pt" xml:space="preserve"> (</hi><hi
-                        rend="italic" style="font-size:12pt">Telephone Pictures</hi><hi
-                        style="font-size:12pt">). Par-delà la singularité de leur démarche, ces deux
-                        pionniers des avant-gardes historiques remettaient déjà en cause les notions
-                        d’authenticité et d’auctorialité, démontrant avec force le rôle que
-                        l’artiste pouvait jouer en tant que producteur de concepts. Si Duchamp et
-                        Mohaly-Nagy figurent ainsi parmi les premiers à avoir expérimenté la forme
-                        protocolaire dans leur art, c’est néanmoins dans le champ de la musique
-                        expérimentale nord-américaine que l’on situe les origines du recours à la
-                        partition verbale et graphique comme invitation à réaliser une action. John
-                        Cage joua un rôle central à cet égard, contribuant à faire migrer la notion
-                        même de partition (</hi><hi rend="italic" style="font-size:12pt"
-                        >score</hi><hi style="font-size:12pt" xml:space="preserve">) vers des champs aussi divers que la danse, le théâtre et les arts plastiques. C’est d’ailleurs avec les artistes Fluxus, dont certains avaient été élèves de Cage à la New School for Social Research à New York, que l’essor des œuvres à protocole s’est véritablement affirmé. Au début des années 1960, le principe d’« un art comme idée » et d’« un art comme action » (Chandler et Lippard, 1968) s’impose auprès de plusieurs créateurs et créatrices, en particulier parmi les artistes de la constellation Fluxus, qui développent alors l’idée d’« </hi><hi
-                        rend="italic" style="font-size:12pt">event
-                        scores</hi><hi style="font-size:12pt" xml:space="preserve"> », c’est-à-dire de partitions stipulant à un ou une interprète les paramètres d’une action à réaliser. Qu’il s’agisse de George Brecht (</hi><hi
-                        rend="italic" style="font-size:12pt">Word Event</hi><hi
-                        style="font-size:12pt">, 1961), d’Alison Knowles (</hi><hi rend="italic"
-                        style="font-size:12pt">Proposition #2: Make a
-                        Salad</hi><hi style="font-size:12pt" xml:space="preserve">, 1962) ou encore de Yoko Ono – avec ses </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">Instructions for paintings </hi><hi style="font-size:12pt" xml:space="preserve">(1962) ou son livre </hi><hi
-                        rend="italic" style="font-size:12pt"
-                        >Grapefruit</hi><hi style="font-size:12pt" xml:space="preserve"> (1964) –, ces artistes produisaient des protocoles qui, au même titre que les gestes d’exécution qu’ils décrivaient ou rendaient possibles, avaient une valeur artistique intrinsèque. Il s’agissait donc de matérialiser, par des données textuelles et graphiques, une création tout entière fondée sur le geste et l’action (création en soi immatérielle et éphémère), mais de conserver également les instructions et les traces de ce qui s’était produit (le récit). Tenue pour du</hi><hi rend="italic" style="font-size:12pt" xml:space="preserve"> concept art, </hi><hi style="font-size:12pt" xml:space="preserve">notamment par Henry Flynt en 1963, l’attitude des artistes Fluxus fera bientôt écho à celle de créateurs et créatrices, tel que l’Américain Sol LeWitt, qui s’ingénieront à définir plus précisément le statut donné à ce nouveau genre d’écrits d’artistes que constituaient partitions, instructions ou scripts (Bénichou, 2010). En 1967, Sol LeWitt rédige et publie ses célèbres </hi><hi
-                        rend="italic" style="font-size:12pt">Paragraphs on Conceptual Art</hi><hi style="font-size:12pt" xml:space="preserve">, mais surtout, il produit, dès la fin de la décennie, des œuvres se fondant sur des prescriptions se limitant, à l’origine, à un certificat accompagné d’un diagramme. Il ne sera pas le seul de sa génération à ouvrir le champ artistique à ces nouveaux matériaux sémiotiques; le </hi>
-                    <hi rend="italic" style="font-size:12pt">Xerox
-                    Book</hi><hi style="font-size:12pt" xml:space="preserve"> (1968) de Seth Siegelaub serait d’ailleurs la première œuvre à protocole en art conceptuel. Sol LeWitt a néanmoins joué un rôle déterminant dans la reconnaissance du protocole comme œuvre ; sa production constitue à ce titre un jalon historique incontournable, marquant un premier seuil majeur de nouveauté qu’il importe d’examiner.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Considérant que le processus de réflexion de l’artiste est plus intéressant que le produit fini, Sol LeWitt comparera très tôt sa méthode à celle d’un compositeur qui écrit une partition à destination d’un musicien qui l’exécute. Il accordera de ce fait une importance particulière à la « procédure », laquelle doit être déterminée au préalable et communiquée ensuite à des personnes exécutantes sous la forme de descriptions et d’instructions (Gross, 2012). Loin de constituer un script visant à l’application fidèle des directives originales, le protocole, selon Sol LeWitt se présentera sous la forme de consignes très simples, laissant à l’exécution une marge d’interprétation presque infinie (Semin, 2001). L’artiste déclarera d’ailleurs : « Si les plans ont été bien suivis, l’artiste est satisfait. L’aspect général importe peu pour l’artiste. S’il y a des erreurs d’exécution, elles sont laissées et font partie de l’œuvre » (LeWitt, 1970). Ainsi, bien que le protocole vise à faire respecter un certain nombre de prérogatives quant aux modalités de production et de diffusion de l’œuvre (Bénichou, 2010), il permet surtout à l’artiste d’affirmer </hi><anchor
-                        type="commentRangeStart" n="0"/><hi style="font-size:12pt">sa responsabilité
-                        créative</hi><anchor type="commentRangeEnd" n="0"/><note place="comment"
-                        resp="#myriam_merette" n="0"><date when="2025-12-17T16:07:29Z"/><hi
-                            rend="normalweight baseline" style="font-size:11pt">"Responsabilité
-                            créative" est une alternative plus neutre (absence de genre) à
-                            "paternité".</hi></note><hi style="font-size:12pt" xml:space="preserve">, l’apparence étant secondaire à l’idée. Dès le début des années 1970, une époque charnière dans la reconnaissance institutionnelle d’œuvres fondées sur le geste et sur le processus, Sol LeWitt sera invité à créer ses premiers </hi><hi
-                        rend="italic" style="font-size:12pt">Wall
-                        Drawings</hi><hi style="font-size:12pt" xml:space="preserve"> dans des musées. Ce sera le cas du </hi><hi
-                        rend="italic" style="font-size:12pt">Wall Drawing #146</hi><hi
-                        style="font-size:12pt">, réalisé sur un mur du Guggenheim Museum de New York
-                        en 1972, mais dont le protocole, et donc l’œuvre, ne sera acquis que vingt
-                        ans plus tard. C’est en réalité à la fin des années 1970, et plus encore
-                        dans les années 1980, que des musées d’art vont progressivement se faire
-                        l’acquéreur d’œuvres à protocole. Sol LeWitt, à l’instar d’autres figures
-                        majeures de l’art minimal et conceptuel, se verra en effet représenter dans
-                        les collections du MoMA à New York, du Musée national d’Art moderne — Centre
-                        Georges Pompidou à Paris, de la Tate Modern à Londres ou encore du Musée des
-                        beaux-arts du Canada. Au fur et à mesure que les institutions intégreront à
-                        leur collection des protocoles, ils deviendront de plus en plus précis et
-                        élaborés. Ceux produits par Sol LeWitt, par exemple, évolueront vers de
-                        véritables ensembles documentaires incluant des photographies, des
-                        certificats d’authentification, des diagrammes ainsi que des instructions et
-                        des notes détaillées (Semin, 2001). Ainsi, les protocoles d’artistes, dont
-                        la proposition linguistique était à l’origine volontairement brève et
-                        minimale, deviendront progressivement une méthode de travail, tant pour
-                        l’artiste que pour l’institution muséale, en vue d’assurer le passage vers
-                        la réalisation et/ou la réactivation de l’œuvre.</hi></p>
+                <head>L’essor des œuvres à protocole : la figure de <persName ref="#lewittSol">Sol
+                        LeWitt</persName></head>
+                <p>Les œuvres à protocole ont émergé dans un contexte précis de diversification des
+                    matériaux sémiotiques de l’art contemporain, et c’est d’ailleurs aux artistes
+                    eux-mêmes que l’on doit l’apparition de réalisations sous forme d’instructions.
+                    Parmi les plus anciens exemples connus d’un art fondé sur l’élaboration d’un
+                    protocole, on mentionnera le protocole expérimental mis au point par <persName
+                        ref="#duchampMarcel">Marcel Duchamp</persName> pour l’exécution, en
+                    1913-1914, des <objectName>Trois stoppages-étalons</objectName> ainsi que les
+                    instructions téléphoniques données par <persName>László Moholy-Nagy</persName>
+                    pour la conception, dès 1922, de ses <objectName ref="#moholyNagy001"
+                        >Constructions in Enamel (<foreign xml:lang="en">Telephone
+                            Pictures</foreign>)</objectName>.
+                    <!-- série de 3 oeuvres, seulement la 1e référencée ici, mais les 3 sont indexées dans artworks.xml #RC-->
+                    Par-delà la singularité de leur démarche, ces deux pionniers des avant-gardes
+                    historiques remettaient déjà en cause les notions d’authenticité et
+                    d’auctorialité, démontrant avec force le rôle que l’artiste pouvait jouer en
+                    tant que producteur de concepts. Si <persName>Duchamp</persName> et
+                        <persName>Mohaly-Nagy</persName> figurent ainsi parmi les premiers à avoir
+                    expérimenté la forme protocolaire dans leur art, c’est néanmoins dans le champ
+                    de la musique expérimentale nord-américaine que l’on situe les origines du
+                    recours à la partition verbale et graphique comme invitation à réaliser une
+                    action. <persName ref="#cageJohn">John Cage</persName> joua un rôle central à
+                    cet égard, contribuant à faire migrer la notion même de partition (<foreign
+                        xml:lang="en">score</foreign>) vers des champs aussi divers que la danse, le
+                    théâtre et les arts plastiques. C’est d’ailleurs avec les artistes <orgName
+                        ref="#fluxus">Fluxus</orgName>, dont certains avaient été élèves de
+                        <persName>Cage</persName> à la <orgName ref="#nssr">New School for Social
+                        Research</orgName> à <placeName ref="#nyc">New York</placeName>, que l’essor
+                    des œuvres à protocole s’est véritablement affirmé. Au début des années 1960, le
+                    principe d’<q>un art comme idée</q> et d’<q>un art comme action</q>
+                    <bibl ref="https://www.zotero.org/groups/4971115/items/DNGHF7U3 ">Chandler et
+                        Lippard, 1968</bibl>
+                    <!-- vérifier date -  "Conceptual Art: A Critical Anthology" a été publi en 1999, la bonne date est indiqué dans la biblio du texte et dans biblio zotero #RC -->s’impose
+                    auprès de plusieurs créateurs et créatrices, en particulier parmi les artistes
+                    de la constellation <orgName>Fluxus</orgName>, qui développent alors l’idée d’<q
+                        xml:lang="en">event scores</q>, c’est-à-dire de partitions stipulant à un ou
+                    une interprète les paramètres d’une action à réaliser. Qu’il s’agisse de
+                        <persName ref="#brechtGeorge">George Brecht</persName> (<objectName
+                        ref="#bretch001">Word Event, 1961</objectName>), d’<persName
+                        ref="#knowlesAlison">Alison Knowles</persName> (<objectName
+                        ref="#knowles001">Proposition #2: Make a Salad, 1962</objectName>) ou encore
+                    de <persName ref="#onoYoko">Yoko Ono</persName> – avec ses <objectName
+                        ref="#ono001">Instructions for paintings (1962)</objectName> ou son livre
+                        <objectName ref="#ono002">Grapefruit (1964)</objectName> –, ces artistes
+                    produisaient des protocoles qui, au même titre que les gestes d’exécution qu’ils
+                    décrivaient ou rendaient possibles, avaient une valeur artistique intrinsèque.
+                    Il s’agissait donc de matérialiser, par des données textuelles et graphiques,
+                    une création tout entière fondée sur le geste et l’action (création en soi
+                    immatérielle et éphémère), mais de conserver également les instructions et les
+                    traces de ce qui s’était produit (le récit). Tenue pour du concept art,
+                    notamment par <persName ref="#flyntHenry">Henry Flynt</persName> en 1963,
+                    l’attitude des artistes <orgName>Fluxus</orgName> fera bientôt écho à celle de
+                    créateurs et créatrices, tel que l’américain <persName>Sol LeWitt</persName>,
+                    qui s’ingénieront à définir plus précisément le statut donné à ce nouveau genre
+                    d’écrits d’artistes que constituaient partitions, instructions ou scripts <bibl
+                        ref="https://www.zotero.org/groups/4971115/items/6GHI7342">Bénichou,
+                        2010</bibl>. En 1967, <persName>Sol LeWitt</persName> rédige et publie ses
+                    célèbres <objectName ref="#lewitt001">Paragraphs on Conceptual Art</objectName>,
+                    mais surtout, il produit, dès la fin de la décennie, des œuvres se fondant sur
+                    des prescriptions se limitant, à l’origine, à un certificat accompagné d’un
+                    diagramme. Il ne sera pas le seul de sa génération à ouvrir le champ artistique
+                    à ces nouveaux matériaux sémiotiques; le <objectName ref="#siegelaub001">Xerox
+                        Book (1968)</objectName> de <persName ref="#siegelaubSeth">Seth
+                        Siegelaub</persName> serait d’ailleurs la première œuvre à protocole en art
+                    conceptuel. <persName>Sol LeWitt</persName> a néanmoins joué un rôle déterminant
+                    dans la reconnaissance du protocole comme œuvre ; sa production constitue à ce
+                    titre un jalon historique incontournable, marquant un premier seuil majeur de
+                    nouveauté qu’il importe d’examiner.</p>
+                <p>Considérant que le processus de réflexion de l’artiste est plus intéressant que
+                    le produit fini, <persName>Sol LeWitt</persName> comparera très tôt sa méthode à
+                    celle d’un compositeur qui écrit une partition à destination d’un musicien qui
+                    l’exécute. Il accordera de ce fait une importance particulière à la «
+                        <q>procédure</q> », laquelle doit être déterminée au préalable et
+                    communiquée ensuite à des personnes exécutantes sous la forme de descriptions et
+                    d’instructions <bibl ref="https://www.zotero.org/groups/4971115/items/3FURJUUH"
+                        >Gross, 2012</bibl>. Loin de constituer un script visant à l’application
+                    fidèle des directives originales, le protocole, selon <persName>Sol
+                        LeWitt</persName> se présentera sous la forme de consignes très simples,
+                    laissant à l’exécution une marge d’interprétation presque infinie <bibl>Semin,
+                        2001</bibl>. L’artiste déclarera d’ailleurs : <q>Si les plans ont été bien
+                        suivis, l’artiste est satisfait. L’aspect général importe peu pour
+                        l’artiste. S’il y a des erreurs d’exécution, elles sont laissées et font
+                        partie de l’œuvre</q>
+                    <bibl>LeWitt,
+                    1970</bibl><!-- #RC aucune ref correspondant à cette citation dans la bilbio du texte ou zotero -->.
+                    Ainsi, bien que le protocole vise à faire respecter un certain nombre de
+                    prérogatives quant aux modalités de production et de diffusion de l’œuvre
+                        <bibl>Bénichou, 2010</bibl>, il permet surtout à l’artiste d’affirmer sa
+                    responsabilité créative, l’apparence étant secondaire à l’idée. Dès le début des
+                    années 1970, une époque charnière dans la reconnaissance institutionnelle
+                    d’œuvres fondées sur le geste et sur le processus, <persName>Sol
+                        LeWitt</persName> sera invité à créer ses premiers <objectName
+                        ref="#lewitt002">Wall Drawings</objectName> dans des musées. Ce sera le cas
+                    du <objectName ref="#lewitt003">Wall Drawing #146</objectName>, réalisé sur un
+                    mur du <orgName ref="#guggenheimMuseum">Guggenheim Museum de New York</orgName>
+                    en 1972, mais dont le protocole, et donc l’œuvre, ne sera acquis que vingt ans
+                    plus tard. C’est en réalité à la fin des années 1970, et plus encore dans les
+                    années 1980, que des musées d’art vont progressivement se faire l’acquéreur
+                    d’œuvres à protocole. <persName>Sol LeWitt</persName>, à l’instar d’autres
+                    figures majeures de l’art minimal et conceptuel, se verra en effet représenter
+                    dans les collections du <orgName ref="#moma">MoMA</orgName> à <placeName>New
+                        York</placeName>, du <orgName ref="#cnacgp">Musée national d’Art moderne —
+                        Centre Georges Pompidou</orgName> à <placeName ref="#paris-France"
+                        >Paris</placeName>, de la <orgName>Tate Modern</orgName> à <placeName
+                        ref="#londonUk">Londres</placeName> ou encore du <orgName ref="#mbac">Musée
+                        des beaux-arts du Canada</orgName>. Au fur et à mesure que les institutions
+                    intégreront à leur collection des protocoles, ils deviendront de plus en plus
+                    précis et élaborés. Ceux produits par <persName>Sol LeWitt</persName>, par
+                    exemple, évolueront vers de véritables ensembles documentaires incluant des
+                    photographies, des certificats d’authentification, des diagrammes ainsi que des
+                    instructions et des notes détaillées <bibl>Semin, 2001</bibl>. Ainsi, les
+                    protocoles d’artistes, dont la proposition linguistique était à l’origine
+                    volontairement brève et minimale, deviendront progressivement une méthode de
+                    travail, tant pour l’artiste que pour l’institution muséale, en vue d’assurer le
+                    passage vers la réalisation et/ou la réactivation de l’œuvre.</p>
             </div>
             <div>
                 <head>Les protocoles des musées : produire pour présenter les œuvres</head>
-                <p><hi style="font-size:12pt">Au cours des années 1970, les musées entreprennent, au
-                        sein de leurs démarches, la production d’une documentation ayant pour but de
-                        récolter et de mettre en forme les informations nécessaires à la
-                        conservation d’un art contemporain posant des défis singuliers de
-                        préservation et de mise à vue. La collaboration avec l’artiste afin
-                        d’identifier les déterminants de l’œuvre —qu’ils soient conceptuels,
-                        processuels ou matériels — s'effectue sous forme de questionnaires, soumis
-                        par les musées en quête de réponses aux questions posées par l’acquisition
-                        de certaines œuvres. Le questionnaire segmente par catégories les enjeux,
-                        les possibilités et les requis, ce qui a pour effet d’offrir une conception
-                        renouvelée des œuvres, décomposées et recomposées par les réponses qu’en
-                        donne l’artiste en vue de leur intégration au musée. Le questionnaire est au
-                        début des protocoles que produisent les musées pour accueillir les
-                        réalisations qui ne sont pas issues des disciplines traditionnelles ou qui
-                        problématisent la disciplinarité et qui repoussent dans un même temps les
-                        limites des pratiques de la conservation. Ces protocoles muséaux, de formes
-                        et de contenus variés, se distinguent des plans de montages n'ayant pas pour
-                        principale ou seule fonction de déterminer les étapes et actions à
-                        entreprendre pour l’obtention d’un résultat. S’ils partagent avec les
-                        contrats l’entente (ici établie entre l’artiste et le musée), les protocoles
-                        des musées servent avant tout la traçabilité du passé tout en prescrivant
-                        l’avenir des acquisitions. L’objectif de maintenir l’intégrité artistique,
-                        qui n’est plus seulement matérielle et qui peut être uniquement idéelle, est
-                        rattaché aux futures présentations dans les salles que viennent cadrer et
-                        valider les protocoles.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Deux grands types de protocoles sont produits par l’institution. D’une part, les protocoles à usage unique, élaborés pour une seule œuvre en fonction de ses besoins spécifiques. D’autre part, les documents modèles, qui prennent la forme de formulaires à compléter et qui présupposent les déterminants, le plus souvent selon les disciplines – l’art médiatique et l’art </hi><hi rend="italic" style="font-size:12pt" xml:space="preserve">in situ </hi><hi style="font-size:12pt" xml:space="preserve">posant, par exemple, des défis distinctifs. L’origine des protocoles à usage unique coïncide avec la muséalisation de l’art conceptuel. L’acquisition de l’installation </hi><hi
-                        rend="italic" style="font-size:12pt">Une et trois
-                    tables</hi><hi style="font-size:12pt" xml:space="preserve"> (1965) de Joseph Kosuth par le Musée des beaux-arts du Canada en constitue un cas emblématique : à chaque présentation, le Musée doit produire une nouvelle photographie de l’installation et réimprimer la définition tirée du dictionnaire, ce qui impose le respect d’une procédure précise. Toutefois, ce type d’engagement à la pièce n’a pas entraîné de modifications profondes des pratiques institutionnelles, contrairement à ce que permettra, ultérieurement, l’implantation des formulaires.</hi></p>
-                <p><hi style="font-size:12pt" xml:space="preserve">Constituant une manifestation tangible de l’ouverture des pratiques de restauration aux principes actuels de la conservation-restauration, les formulaires entraînent des changements structurels dans le travail des équipes. Ils obligent à se prononcer et à développer des expertises sur des questions inédites, ainsi qu’à intervenir dans les nouveaux séquencements du travail ainsi mis en place. À l’origine, l’implantation des formulaires avait une fonction préventive: elle servait à contrer l’obsolescence technologique. Elle concorde, dans la deuxième moitié des années 1990, avec l’entrée dans les collections de l’art médiatique. La décennie suivante est marquée par l’essor de la préservation des œuvres médiatiques, domaine dans lequel l’expertise québécoise et canadienne témoigne d’un leadership reconnu. Cette dynamique se manifeste à travers le symposium </hi><hi
-                        rend="italic" style="font-size:12pt">Modern Art: Who
-                        Cares?</hi><hi style="font-size:12pt" xml:space="preserve"> (1997, Foundation for the Conservation of Modern Art, Pays-Bas) ; la création du Réseau des médias variables (initié en 2003 par le Guggenheim Museum de New York, en partenariat avec la Fondation Daniel Langlois pour l’art, la science et la technologie) ; le projet de recherche </hi><hi
-                        rend="italic" style="font-size:12pt">Capturing Unstable
-                        Media</hi><hi style="font-size:12pt" xml:space="preserve"> (2003, V2_ Lab for the Unstable Media, Rotterdam) ; l’Alliance de recherche DOCAM (2005‑2010, Fondation Daniel Langlois) ; ainsi que le consortium </hi><hi
-                        rend="italic" style="font-size:12pt">Matters in Media Art</hi><hi
-                        style="font-size:12pt">, dédié à la conservation, à la curation, au
-                        registrariat et à la gestion technologique des œuvres médiatiques,
-                        réunissant depuis 2015 le New Art Trust, le MoMA, le SFMOMA et la Tate
-                        Modern.</hi></p>
+                <p>Au cours des années 1970, les musées entreprennent, au sein de leurs démarches,
+                    la production d’une documentation ayant pour but de récolter et de mettre en
+                    forme les informations nécessaires à la conservation d’un art contemporain
+                    posant des défis singuliers de préservation et de mise à vue. La collaboration
+                    avec l’artiste afin d’identifier les déterminants de l’œuvre —qu’ils soient
+                    conceptuels, processuels ou matériels — s'effectue sous forme de questionnaires,
+                    soumis par les musées en quête de réponses aux questions posées par
+                    l’acquisition de certaines œuvres. Le questionnaire segmente par catégories les
+                    enjeux, les possibilités et les requis, ce qui a pour effet d’offrir une
+                    conception renouvelée des œuvres, décomposées et recomposées par les réponses
+                    qu’en donne l’artiste en vue de leur intégration au musée. Le questionnaire est
+                    au début des protocoles que produisent les musées pour accueillir les
+                    réalisations qui ne sont pas issues des disciplines traditionnelles ou qui
+                    problématisent la disciplinarité et qui repoussent dans un même temps les
+                    limites des pratiques de la conservation. Ces protocoles muséaux, de formes et
+                    de contenus variés, se distinguent des plans de montages n'ayant pas pour
+                    principale ou seule fonction de déterminer les étapes et actions à entreprendre
+                    pour l’obtention d’un résultat. S’ils partagent avec les contrats l’entente (ici
+                    établie entre l’artiste et le musée), les protocoles des musées servent avant
+                    tout la traçabilité du passé tout en prescrivant l’avenir des acquisitions.
+                    L’objectif de maintenir l’intégrité artistique, qui n’est plus seulement
+                    matérielle et qui peut être uniquement idéelle, est rattaché aux futures
+                    présentations dans les salles que viennent cadrer et valider les protocoles.</p>
+                <p>Deux grands types de protocoles sont produits par l’institution. D’une part, les
+                    protocoles à usage unique, élaborés pour une seule œuvre en fonction de ses
+                    besoins spécifiques. D’autre part, les documents modèles, qui prennent la forme
+                    de formulaires à compléter et qui présupposent les déterminants, le plus souvent
+                    selon les disciplines – l’art médiatique et l’art in situ posant, par exemple,
+                    des défis distinctifs. L’origine des protocoles à usage unique coïncide avec la
+                    muséalisation de l’art conceptuel. L’acquisition de l’installation <objectName
+                        ref="#kosuth001">Une et trois tables (1965)</objectName> de <persName
+                        ref="#kosuthJosef">Joseph Kosuth</persName> par le <orgName>Musée des
+                        beaux-arts du Canada</orgName> en constitue un cas emblématique : à chaque
+                    présentation, le Musée doit produire une nouvelle photographie de l’installation
+                    et réimprimer la définition tirée du dictionnaire, ce qui impose le respect
+                    d’une procédure précise. Toutefois, ce type d’engagement à la pièce n’a pas
+                    entraîné de modifications profondes des pratiques institutionnelles,
+                    contrairement à ce que permettra, ultérieurement, l’implantation des
+                    formulaires.</p>
+                <p>Constituant une manifestation tangible de l’ouverture des pratiques de
+                    restauration aux principes actuels de la conservation-restauration, les
+                    formulaires entraînent des changements structurels dans le travail des équipes.
+                    Ils obligent à se prononcer et à développer des expertises sur des questions
+                    inédites, ainsi qu’à intervenir dans les nouveaux séquencements du travail ainsi
+                    mis en place. À l’origine, l’implantation des formulaires avait une fonction
+                    préventive: elle servait à contrer l’obsolescence technologique. Elle concorde,
+                    dans la deuxième moitié des années 1990, avec l’entrée dans les collections de
+                    l’art médiatique. La décennie suivante est marquée par l’essor de la
+                    préservation des œuvres médiatiques, domaine dans lequel l’expertise québécoise
+                    et canadienne témoigne d’un leadership reconnu. Cette dynamique se manifeste à
+                    travers le symposium <title xml:lang="en" ref="#sbmk001">Modern Art: Who Cares?</title> (1997, <orgName ref="#sbmk">Foundation for the
+                    Conservation of Modern Art</orgName>, <placeName>Pays-Bas</placeName>) ; la création du <orgName>Réseau des médias
+                    variables</orgName> (initié en 2003 par le Guggenheim Museum de New York, en partenariat
+                    avec la Fondation Daniel Langlois pour l’art, la science et la technologie) ; le
+                    projet de recherche Capturing Unstable Media (2003, V2_ Lab for the Unstable
+                    Media, Rotterdam) ; l’Alliance de recherche DOCAM (2005‑2010, Fondation Daniel
+                    Langlois) ; ainsi que le consortium Matters in Media Art, dédié à la
+                    conservation, à la curation, au registrariat et à la gestion technologique des
+                    œuvres médiatiques, réunissant depuis 2015 le New Art Trust, le MoMA, le SFMOMA
+                    et la Tate Modern.</p>
                 <p><hi style="font-size:12pt">Quatre disciplines déterminent la production des
                         protocoles par les musées : l’art médiatique, la performance, l’installation
                         et l’</hi><hi rend="italic" style="font-size:12pt">in

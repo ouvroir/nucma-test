@@ -433,34 +433,46 @@
                <idno type="wikidata">https://www.wikidata.org/wiki/Q73646</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n79055669</idno>
             </person>
-            <person xml:id="camilleMorineau">
+            <person xml:id="MorineauCamille">
                <persName>Morineau, Camille (1967-....)</persName>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb122264462</idno>
                <idno type="isni">https://isni.org/isni/0000000116312437</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q47191720</idno>
             </person>
-            <person xml:id="bernadetteDufrene">
+            <person xml:id="dufreneBernadette">
                <persName>Saou-Dufrêne, Bernadette Nadia (19...)</persName>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb13568803v</idno>
                <idno type="isni">https://isni.org/isni/0000000379040621</idno>
             </person>
-            <person xml:id="nathalieErnoult">
+            <person xml:id="ernoultNathalie">
                <persName>Ernoult, Nathalie (19...)</persName>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15588962b</idno>
                <idno type="isni">https://isni.org/isni/0000000001891475</idno>
             </person>
-            <person xml:id="catherineGonnard">
+            <person xml:id="gonnardCatherine">
                <persName>Gonnard, Catherine (1958-....)</persName>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15569162z</idno>
                <idno type="isni">https://isni.org/isni/0000000046175819</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q2941935</idno>
             </person>
-            <person xml:id="mauraReilly">
+            <person xml:id="reillyMaura">
                <persName>Reilly, Maura (19...)</persName>
                <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb15550172w</idno>
                <idno type="isni">https://isni.org/isni/0000000116065667</idno>
                <idno type="wikidata">https://www.wikidata.org/wiki/Q28933620</idno>
                <idno type="loc">http://id.loc.gov/authorities/names/n2007003234</idno>
+            </person>
+            <person xml:id="seminDidier">
+               <persName>Swmin, Didier (1954-....)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb12147488g</idno>
+               <idno type="isni">https://isni.org/isni/0000000121002900</idno>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q47088310</idno>
+            </person>
+            <person xml:id="coutureFrancine">
+               <persName>Couture, Francine (1946-....)</persName>
+               <idno type="bnf">https://catalogue.bnf.fr/ark:/12148/cb13521461d</idno>
+               <idno type="isni">https://isni.org/isni/0000000073665987</idno>
+               <idno xml:id="wikidata">https://www.wikidata.org/wiki/Q3081199</idno>
             </person>
          </listPerson>
 
@@ -556,7 +568,7 @@
             <org xml:id="sbmk">
                <orgName xml:lang="fr">Foundation for the Conservation of Modern Art/Netherlands</orgName>
                <orgName xml:lang="en">Foundation for the Conservation of Modern Art/Netherlands</orgName> 
-               <idno type="website">https://www.sbmk.nl/en/#:~:text=The%20Foundation%20for%20the%20Conservation,all%20concerned%20with%20the%20art.</idno>
+               <idno type="website">https://www.sbmk.nl/en/#:~:text=The%20Foundation%20for%20the%20Conservation,all%20concerned%20with%20the%20art</idno>
                <!-- pas trouvée sur Wikidata, lien vers leur site web -->
             </org>
             <org xml:id="vmn">

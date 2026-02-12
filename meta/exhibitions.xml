@@ -266,6 +266,15 @@
                <date from="1965-02" to="1965-04">du 16 février au 25 avril 1965</date>
                <idno type="URI">https://www.moma.org/calendar/exhibitions/2890</idno>
             </event>
+            <event xml:id="sbmk001">
+               <eventName xml:lang="en">Modern Art : Who Cares?</eventName>
+               <place>
+                  <orgName>Foundation for the Conservation of Modern Art/Netherlands</orgName>
+                  <country>Pays-Bas</country>
+               </place>
+               <date from="1997-09-08" to="1997-09-10">du 8 au 10 septembre 1997</date>
+               <idno type="URI">https://www.sbhk.nl/en/activities/Modern_Art_Who_Cares</idno>
+            </event>
          </listEvent>
       </body>
    </text>
